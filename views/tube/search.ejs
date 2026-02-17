@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= query %> - 検索</title>
+    <link rel="stylesheet" href="/css/page.css" />
+    <script src="/js/tailwindcss.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="/js/tube.js"></script>
+    <style>
+      .result-item {
+        position: relative;
+      }
+      .searchbox {
+        padding-right: 30px;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-900 text-white">
+    <header class="bg-gray-800 flex p-4 justify-between items-center">
+      <input
+        type="text"
+        placeholder="Welcome"
+        class="w-full p-2 rounded bg-gray-700 text-white"
+      />
+      <nav class="space-x-4">
+        <p class="text-gray-300 hover:text-white">とんかtube</p>
+      </nav>
+    </header>
+    <header
+      class="bg-gray-800 p-4 flex justify-between items-center fixed top-0 left-0 w-full z-10"
+    >
+      <form action="/tkt/s" method="get" class="w-1/2 relative" id="searchForm">
+        <input
+          type="text"
+          name="q"
+          id="searchbox"
+          placeholder="検索"
+          value="<%= query %>"
+          class="searchbox w-full p-2 pr-10 rounded bg-gray-700 text-white"
+        />
+        <button
+          type="button"
+          id="clearBtn"
+          class="absolute right-2 top-1/2 -translate-y-1/2 flex items-center justify-center h-6 w-6 rounded-full hover:bg-gray-400 text-white text-lg leading-none hidden"
+        >
+          ×
+        </button>
+      </form>
+      <nav class="space-x-4">
+        <a href="/tkt" class="text-gray-300 hover:text-white">ホーム</a>
+        <a href="/tkt/trend" class="text-gray-300 hover:text-white">トレンド</a>
+        <a href="/tkt/cl/history" class="text-gray-300 hover:text-white"
+          >履歴</a
+        >
+      </nav>
+    </header>
+
+    <div class="container mx-auto p-4">
+      <h2 class="text-xl font-bold mb-4">
+        <% if (query.startsWith("「") || query.startsWith("｢")) { %>
+          "<%= query %>"
+        <% } else { %>
+          ｢<%= query %>｣
+        <% } %>
+        の検索結果 (<%= page %>ページ目)
+      </h2>
+
+        <div class="flex justify-center mt-10 mb-6">
+          <% if (page > 1) { %>
+          <a
+            class="px-6 py-3 bg-blue-600 text-white text-lg font-semibold rounded-full shadow-md hover:bg-blue-700 transition"
+            style="margin-right: 15px;"
+            href="/tkt/s?q=<%= query %>&p=<%- page-1 %>"
+          >
+            前のページ
+          </a>
+          <% } %>
+          <a
+          class="px-6 py-3 bg-blue-600 text-white text-lg font-semibold rounded-full shadow-md hover:bg-blue-700 transition"
+          href="/tkt/s?q=<%= query %>&p=<%- page+1 %>"
+        >
+          次のページ
+        </a>
+        </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <% res.results.forEach(video => { %> <% if
+        (video.type.endsWith("Video")) { %>
+        <div class="result-item w-auto h-auto bg-gray-800 p-4 rounded">
+          <a href="/tkt/watch/<%= video.id %>" class="thumbnail w-full h-auto">
+            <img
+              loading="lazy"
+              src="/tkt/back/vi/<%= video.id %>/mqdefault.jpg"
+              alt="<%= video.title %>"
+              class="w-full h-auto rounded"
+            />
+            <span class="video-duration"><%= video.duration.text %></span>
+          </a>
+          <div class="mt-2 flex items-center">
+            <a href="/tkt/c/<%= video.author?.id || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || '' %>" class="flex items-center">
+              <img
+                src="/tkt/back/yt3<%- (new URL(video.author.thumbnails[0].url)).pathname %>"
+                alt="<%= video.author.name || video.metadata.metadata.metadata_rows[0].metadata_parts[0].text.text || 'チャンネル' %>"
+                class="w-8 h-8 rounded-full mr-2"
+              />
+              <p class="text-sm text-gray-400"><%= video.author.name %></p>
+            </a>
+          </div>
+          <p class="text-lg font-bold"><%= video.title %></p>
+          <p class="text-xs text-gray-500">
+            <%= video.view_count ? video.view_count : (video.short_view_count ?
+            video.short_view_count : 0) %> - <%= video.published ?
+            video.published : "" %>
+          </p>
+        </div>
+        <% } else if (video.type.endsWith("Playlist") || video.content_type == "PLAYLIST") { %>
+        <div class="result-item w-auto h-auto bg-gray-800 p-4 rounded">
+          <a
+            href="/tkt/p/<%= video.id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>"
+            class="thumbnail">
+            <img
+              src="<%= video.content_image?.primary_thumbnail?.image?.[0]?.url || 'error' %>"
+              alt="<%= video.title %>"
+              class="w-full h-auto rounded"
+            />
+          </a>
+          <div class="mt-2 flex items-center">
+            <a href="/tkt/c/<%= video.author?.id || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>" class="flex items-center">
+              <img
+                src="/tkt/back/c/<%= video.author?.id || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>"
+                alt="<%= video.author?.name || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || 'チャンネル' %>"
+                class="w-8 h-8 rounded-full mr-2"
+              />
+              <p class="text-sm text-gray-400">
+                <%= video.author?.name || video.metadata.metadata.metadata_rows[0].metadata_parts[0].text.text %>
+              </p>
+            </a>
+          </div>
+          <p class="text-lg font-bold"><%= video.metadata?.title?.text || "不明なプレイリスト" %></p>
+          <p class="text-xs text-gray-500">
+            <%= video.content_image?.primary_thumbnail?.overlays[0]?.badges[0].text || "error" %>
+          </p>
+        </div>
+        <% } else if (video.type.endsWith("Channel")) { %>
+        <div class="result-item bg-gray-600 p-4 rounded">
+          <a href="/tkt/c/<%= video.id %>">
+            <img
+              src="<%= (video.author) ? video.author.thumbnails[0].url : '/default-avatar.png' %>"
+              alt="<%= video.author.name || 'チャンネル' %>"
+              class="w-full h-auto rounded"
+            />
+          </a>
+          <div class="mt-2">
+            <p class="text-lg font-bold">
+              <%= video.author.name || '' %>
+            </p>
+            <p class="text-sm text-gray-400">
+              <% if (video.description_snippet && video.description_snippet != "N/A") { %>
+                <%= video.description_snippet || '' %>
+              <% } %>
+            </p>
+            <p class="text-xs text-gray-500">
+              <%= video.subscriber_count || 0 %> • <%= video.videos ||
+              video.video_count || 0 %>
+            </p>
+          </div>
+        </div>
+        <% } %> <% }); %>
+      </div>
+      <div class="flex justify-center mt-10 mb-6">
+        <% if (page > 1) { %>
+        <a
+          class="px-6 py-3 bg-blue-600 text-white text-lg font-semibold rounded-full shadow-md hover:bg-blue-700 transition"
+          style="margin-right: 15px;"
+          href="/tkt/s?q=<%= query %>&p=<%- page-1 %>"
+        >
+          前のページ
+        </a>
+        <% } %>
+        <a
+        class="px-6 py-3 bg-blue-600 text-white text-lg font-semibold rounded-full shadow-md hover:bg-blue-700 transition"
+        href="/tkt/s?q=<%= query %>&p=<%- page+1 %>"
+      >
+        次のページ
+      </a>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", function () {
+        const query = "<%= query %>";
+        if (query) {
+          updateSearchHistory(query);
+        }
+      });
+
+      const searchBox = document.getElementById("searchbox");
+      const clearBtn = document.getElementById("clearBtn");
+      function toggleClearButton() {
+        clearBtn.style.display = searchBox.value ? "block" : "none";
+      }
+      searchBox.addEventListener("input", toggleClearButton);
+      clearBtn.addEventListener("click", () => {
+        searchBox.value = "";
+        searchBox.focus();
+        toggleClearButton();
+      });
+      toggleClearButton();
+
+      function updateSearchHistory(query) {
+        let history = JSON.parse(localStorage.getItem("searchHistory")) || [];
+        history = history.filter((item) => item !== query);
+        history.unshift(query);
+        if (history.length > 16) {
+          history = history.slice(0, 16);
+        }
+        localStorage.setItem("searchHistory", JSON.stringify(history));
+      }
+    </script>
+  </body>
+</html>

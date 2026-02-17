@@ -1,0 +1,51 @@
+<% cm.contents.contents.forEach(thread => { 
+  const comment = Array.isArray(thread.comment) 
+    ? thread.comment[0] 
+    : thread.comment;
+  if (!comment || !comment.author) return;
+%>
+<div class="flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
+  <img  
+    loading="lazy"
+    src="<%= comment.author.thumbnails?.[0]?.url || '/default_avatar.png' %>"
+    class="w-10 h-10 rounded-full"
+  />
+  <div class="ml-3 w-full">
+    <p class="text-lg font-semibold">
+      <a
+        href="/tkt/c/<%= comment.author.id %>"
+        target="_blank"
+        class="text-blue-400 hover:underline"
+      >
+        <%= comment.author.name %>
+      </a>
+      <span style="font-weight: normal;">
+         <%= comment.published_time %>
+      </span>
+    </p>
+
+    <p class="text-gray-300 text-lg mt-1">
+      <% comment.content.runs.forEach(run => { %>
+        <% if (run.text && !run.emoji) { %>
+          <%- run.text.replace(/\n/g, "<br />") %>
+          <% } else if (run.emoji) { %>
+            <%
+              if (run.text.startsWith(":_emoji")) {
+                const emojiData = cm.contents.header.custom_emojis.find(e => e.shortcuts.includes(run.text));
+                let url;
+                if (emojiData && emojiData.image.length > 0) {
+                  url = emojiData.image.find(img => img.width === 48)?.url || emojiData.image[0].url;
+                } %>
+                <img src="<%= url %>" alt="<%= emojiData %>" class="inline-block w-6 h-6 align-text-bottom" />
+              <% } else { %>
+                <span><%= run.text %></span>
+              <% } %>
+          <% } %>
+        <% }) %>
+    </p>
+    <br>
+    <p><%= comment.like_count_a11y %></p>
+
+  </div>
+</div>
+<% }); %>

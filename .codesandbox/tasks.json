@@ -1,0 +1,40 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "install",
+      "command": "npm install"
+    },
+    {
+      "name": "push",
+      "command": "git add . || true && git commit -m 'update' || true && git push"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "run": {
+      "name": "push and start",
+      "command": "git add . || true && git commit -m 'update' || true && git push && npm start",
+      "preview": {
+        "port": 3000
+      }
+    },
+    "install": {
+      "name": "install",
+      "command": "rm -rf node_modules package-lock.json || true && npm install"
+    },
+    "push": {
+      "name": "push",
+      "command": "git add . || true && git commit -m 'update' || true && git push"
+    },
+    "hard push": {
+      "name": "hard push",
+      "command": "git add . || true && git commit -m 'update' || true && git push -f"
+    },
+    "start": {
+      "name": "start",
+      "command": "npm start"
+    }
+  }
+}

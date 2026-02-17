@@ -1,0 +1,35 @@
+{
+  "name": "tonkatube",
+  "version": "1.1.6",
+  "main": "server.js",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "compression": "^1.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.2",
+    "fs": "^0.0.1-security",
+    "googleapis": "^159.0.0",
+    "miniget": "^4.2.3",
+    "soundcloud-scraper": "latest",
+    "undici": "latest",
+    "youtubei.js": "16.0.1"
+  },
+  "description": "wakame",
+  "engines": {
+    "node": "22.9.0"
+  },
+  "author": "wakame02, _tonkatsu_",
+  "bugs": {
+    "email": "23h11008@gmail.com"
+  },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "build": "echo 'This express app is build not required'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module"
+}
