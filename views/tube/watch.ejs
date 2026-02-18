@@ -1120,8 +1120,8 @@
         if (localStorage.getItem("autoPlay") === "true") playNextVideo();
       });
       function playNextVideo() {
-        let nextVideoName = "<%= videoInfo.watch_next_feed[0].metadata?.title?.text || videoInfo.watch_next_feed[0].title?.text || '(動画名読み込みエラー)' %>";
-        if ("<%= videoInfo.watch_next_feed[0]._source %>" == "playlist") {
+        let nextVideoName = "<%= videoInfo.watch_next_feed?.[0]?.metadata?.title?.text || videoInfo.watch_next_feed?.[0]?.title?.text || '(動画名読み込みエラー)' %>";
+        if ("<%= videoInfo.watch_next_feed?.[0]?._source %>" == "playlist") {
           if (nextVideoName.length > maxNameLength - 20) {
             nextVideoName = nextVideoName.slice(0, maxNameLength - 21) + "…";
           };
