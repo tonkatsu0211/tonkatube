@@ -1125,7 +1125,7 @@
           if (nextVideoName.length > maxNameLength - 20) {
             nextVideoName = nextVideoName.slice(0, maxNameLength - 21) + "…";
           };
-          let playlistName = "<%= videoInfo.watch_next_feed[0].playlistName %>";
+          let playlistName = "<%= videoInfo.watch_next_feed?.[0]?.playlistName %>";
           if (playlistName > maxNameLength - 30) {
             playlistName  = playName.slice(0, maxNameLength - 31) + "…";
           }
@@ -1137,10 +1137,10 @@
           showMessage(`次の動画｢${nextVideoName}｣を再生します`);
         }
         setTimeout( () => {
-          if ("<%= videoInfo.watch_next_feed[0]._source %>" == "playlist") {
-            location.href = "/tkt/watch/<%= videoInfo.watch_next_feed[0].content_id || videoInfo.watch_next_feed[0].id %>?playlist=<%= videoInfo.watch_next_feed[0].playlistId %>";
+          if ("<%= videoInfo.watch_next_feed?.[0]?._source %>" == "playlist") {
+            location.href = "/tkt/watch/<%= videoInfo.watch_next_feed?.[0]?.content_id || videoInfo.watch_next_feed?.[0]?.id %>?playlist=<%= videoInfo.watch_next_feed?.[0]?.playlistId || 'error' %>";
           } else {
-            location.href = "/tkt/watch/<%= videoInfo.watch_next_feed[0].content_id || videoInfo.watch_next_feed[0].id %>";
+            location.href = "/tkt/watch/<%= videoInfo.watch_next_feed?.[0]?.content_id || videoInfo.watch_next_feed?.[0]?.id %>";
           }
         }, 100);
       };
