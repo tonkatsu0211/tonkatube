@@ -86,7 +86,7 @@ router.get("/:id", async (req, res) => {
       description: Info.secondary_info.description.runs || "",
       watch_next_feed: watchNext || "",
     };
-    fs.writeFileSync(JPath, JSON.stringify(watchNext, null, 2));
+    fs.writeFileSync(JPath, JSON.stringify(Info.watch_next_feed, null, 2));
     const pl = playlistId != null ? true: false;
     res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
   } catch (error) {
