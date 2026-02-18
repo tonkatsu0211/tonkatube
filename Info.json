@@ -1,12 +1,109 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "sec3FI5iyIWA2hHdFFxzW6JKiNo",
-  "nextPageToken": "EAAaH1BUOkNNZ0JJaEEzTlVNME5qUTRRMEk0T1VORVF6TkQ",
-  "prevPageToken": "EAEaH1BUOkNKWUJJaEEzT1RFNFJUTkRNa0k0UkRJd01qQkU",
+  "etag": "4W6ABlaq_oscVnULBd-pFWUTsy0",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJFTlVSRFFqQkJNRGM1TUVFek5qTkc",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEEzTmtFMVFqRTFNRUkwTmpjd016RkI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "tfa5v8ZWXeMtiiYLTnKIenKJHSw",
+      "etag": "rORhWGQRTKGq1e0knBnVrgQoZb8",
+      "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnVxNWNKTkRfUjc4",
+      "snippet": {
+        "publishedAt": "2025-10-18T14:00:42Z",
+        "channelId": "UCEHYJuAhZA3krpO9o1eiHtw",
+        "title": "くそ",
+        "description": "くそ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uq5cJND_R78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uq5cJND_R78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uq5cJND_R78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uq5cJND_R78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "teamPGX",
+        "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
+        "position": 150,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uq5cJND_R78"
+        },
+        "videoOwnerChannelTitle": "teamPGX",
+        "videoOwnerChannelId": "UCEHYJuAhZA3krpO9o1eiHtw"
+      },
+      "contentDetails": {
+        "videoId": "uq5cJND_R78",
+        "videoPublishedAt": "2025-10-18T14:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mwsaOkUzztR5_drczYY-S647Xxg",
+      "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkhaTW9UOEFHdjZJ",
+      "snippet": {
+        "publishedAt": "2025-10-18T10:19:05Z",
+        "channelId": "UCEHYJuAhZA3krpO9o1eiHtw",
+        "title": "ひいらぎ2025達人合格",
+        "description": "Player:ひいらぎ\n撮影&実況:いなやん@るね@なすび\n金:ひいらぎ\n\n僕らの期待を裏切りませんね\n金返せ\n\nメルカリにてバチ販売もしています。気になる方はこちらから！\nhttps://www.mercari.com/jp/u/930637671/\n\nよければスポンサーシップ登録よろしくお願いします\nhttps://gaming.youtube.com/channel/UCEHYJuAhZA3krpO9o1eiHtw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZMoT8AGv6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZMoT8AGv6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZMoT8AGv6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HZMoT8AGv6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HZMoT8AGv6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "teamPGX",
+        "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
+        "position": 151,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HZMoT8AGv6I"
+        },
+        "videoOwnerChannelTitle": "teamPGX",
+        "videoOwnerChannelId": "UCEHYJuAhZA3krpO9o1eiHtw"
+      },
+      "contentDetails": {
+        "videoId": "HZMoT8AGv6I",
+        "videoPublishedAt": "2025-10-18T10:19:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7wT0eBSCFVEkA2ZjZrCIrUrZENc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmNROWFvZFU2MGxZ",
       "snippet": {
         "publishedAt": "2025-10-18T05:27:30Z",
@@ -42,7 +139,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 150,
+        "position": 152,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cQ9aodU60lY"
@@ -57,7 +154,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J0bsrezZfAZ9KIQo7aOhMRQ-8nw",
+      "etag": "ZKc08mdw6FfRO3kZ62jUQdfBrl4",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjEwMVpXN2xJcHNF",
       "snippet": {
         "publishedAt": "2025-10-18T02:59:23Z",
@@ -88,7 +185,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 151,
+        "position": 153,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "101ZW7lIpsE"
@@ -103,7 +200,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tmwHm_uV41v-vE_gBekigk5CKlc",
+      "etag": "CgKNuGvkyUMHzANJqBV2Q-MKeVQ",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlM3Y2FJTHNYYTNV",
       "snippet": {
         "publishedAt": "2025-10-18T00:41:42Z",
@@ -139,7 +236,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 152,
+        "position": 154,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "S7caILsXa3U"
@@ -154,7 +251,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JkogPkOc44JBhKU0yMjCEC895fQ",
+      "etag": "SEz_PwNrLXe5_6d39BNI0mdcNmo",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmFVaDU4Nl85RmRz",
       "snippet": {
         "publishedAt": "2025-10-17T03:15:39Z",
@@ -190,7 +287,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 153,
+        "position": 155,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aUh586_9Fds"
@@ -205,7 +302,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "W_0ulsCXhUKID9FqM8Tn8ZWmNR4",
+      "etag": "Mqla3BF0spB80IwFivQ9J1r3i_E",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LllYZzFPYmVzX3FJ",
       "snippet": {
         "publishedAt": "2025-10-16T06:23:02Z",
@@ -241,7 +338,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 154,
+        "position": 156,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YXg1Obes_qI"
@@ -256,7 +353,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rv8AAN9wLI2msAdeKSePQNK0X9s",
+      "etag": "u_Oma_SPwXMFLEbRnDd0YTV6sSc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjFYY0FXTVM3UUVB",
       "snippet": {
         "publishedAt": "2025-10-16T00:54:50Z",
@@ -292,7 +389,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 155,
+        "position": 157,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1XcAWMS7QEA"
@@ -307,7 +404,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q95n0a_zuMQHhxMQ3AR717quKWY",
+      "etag": "dl7K1KZ22q9eR4wyD9qxDtUz9cg",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlVkeW1GZEpxa1ln",
       "snippet": {
         "publishedAt": "2025-10-12T11:24:09Z",
@@ -343,7 +440,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 156,
+        "position": 158,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UdymFdJqkYg"
@@ -358,7 +455,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "150yJ0vM0i5A6EUIntAU1tOWemI",
+      "etag": "PmG4CAUh6sIUhW7KbyZ3vhZqRUA",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmxhYlZqVG1zSWlZ",
       "snippet": {
         "publishedAt": "2025-10-11T10:48:15Z",
@@ -394,7 +491,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 157,
+        "position": 159,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "labVjTmsIiY"
@@ -409,7 +506,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LoVu7dEjVQ3OygVv80qzq8q9VIc",
+      "etag": "9A5HrQEI8EvHL-8vq5OcGPVFLO0",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlZMZ0pYd1RDLTdZ",
       "snippet": {
         "publishedAt": "2025-10-09T12:26:12Z",
@@ -445,7 +542,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 158,
+        "position": 160,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VLgJXwTC-7Y"
@@ -460,7 +557,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CiKIBxGs8DLtEBYqH23Cr6hEBdM",
+      "etag": "llx3Dzn-xujFcBnZ1eT39cu_pIA",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnQtaXU4TXY4OGxv",
       "snippet": {
         "publishedAt": "2025-10-09T11:00:28Z",
@@ -496,7 +593,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 159,
+        "position": 161,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "t-iu8Mv88lo"
@@ -511,7 +608,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "y5hgU_4Lk6H5F02D81bom8R_DV0",
+      "etag": "Nqx4OCn4SQ0Sv2LTvenro4JZMM8",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkdFQzFIdGU3azhr",
       "snippet": {
         "publishedAt": "2025-10-08T10:19:00Z",
@@ -547,7 +644,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 160,
+        "position": 162,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GEC1Hte7k8k"
@@ -562,7 +659,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "agIAhetBAroxbQN-wPc6ymfO2w8",
+      "etag": "Dbz3p6w4bcSnGkVebrAkrn3GZf0",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjFjMVBROGZ3UDJn",
       "snippet": {
         "publishedAt": "2025-10-07T11:03:08Z",
@@ -598,7 +695,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 161,
+        "position": 163,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1c1PQ8fwP2g"
@@ -613,7 +710,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a_xxdcU1O1VisaIa68SDIRu84NA",
+      "etag": "fg0y8fvP2AgPDre3O3mVbVWU6KU",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnBtamxJZ0Z2XzlJ",
       "snippet": {
         "publishedAt": "2025-10-06T10:19:00Z",
@@ -649,7 +746,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 162,
+        "position": 164,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pmjlIgFv_9I"
@@ -664,7 +761,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ckfMlPSE9rehvKTRa_l3gYzsCnU",
+      "etag": "u4k9FwyFzzWTcUHYlHonoTmd_lk",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkJjZVdyWjhhRi1v",
       "snippet": {
         "publishedAt": "2025-10-02T10:19:00Z",
@@ -700,7 +797,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 163,
+        "position": 165,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BceWrZ8aF-o"
@@ -715,7 +812,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h6ZJzJyvgz5uZJFcy6_1qH0x-N0",
+      "etag": "C6uky-2crfA4suOjp8yf4hEvHSY",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3Llh3blBVdFJWV3E4",
       "snippet": {
         "publishedAt": "2025-10-01T08:06:11Z",
@@ -751,7 +848,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 164,
+        "position": 166,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XwnPUtRVWq8"
@@ -766,7 +863,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nWYdoxAk2giuFgR3Um89HPCAo2k",
+      "etag": "uZoSXS62mnB3AdA9jyqiO9f8ICA",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmRhQnJsNHBXcW9v",
       "snippet": {
         "publishedAt": "2025-09-30T21:04:04Z",
@@ -802,7 +899,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 165,
+        "position": 167,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "daBrl4pWqoo"
@@ -817,7 +914,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-hBuW37-sA4nQIhUgSbcqYEn8bw",
+      "etag": "HN616Y_YpSjo96sPoSeJHaMkVDI",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkowMi1QMlVGbkhB",
       "snippet": {
         "publishedAt": "2025-09-28T20:35:17Z",
@@ -853,7 +950,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 166,
+        "position": 168,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "J02-P2UFnHA"
@@ -868,7 +965,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F_BA_VQqaCzpig2jZODn1t9ayS0",
+      "etag": "BvmmProcWMCljZVXFf1TeW3LDyk",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkhZVUdka1dyaTVN",
       "snippet": {
         "publishedAt": "2025-09-28T10:19:01Z",
@@ -904,7 +1001,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 167,
+        "position": 169,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HYUGdkWri5M"
@@ -919,7 +1016,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "azVl3YnxzbQSvKrMhdTkvhNl6zQ",
+      "etag": "ZI7mQXCipRgEMEwO9ttLmg9lGuc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlJETF9TbWFXaXdZ",
       "snippet": {
         "publishedAt": "2025-09-27T20:02:11Z",
@@ -955,7 +1052,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 168,
+        "position": 170,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RDL_SmaWiwY"
@@ -970,7 +1067,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fgPgMo-3Ph0Wj8CuT36EaatwII0",
+      "etag": "yZRmPsj0WYTj-nrnZkyozJ7mFeM",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3Ll9CMms4Zi1VdmJz",
       "snippet": {
         "publishedAt": "2025-09-27T18:43:45Z",
@@ -1006,7 +1103,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 169,
+        "position": 171,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_B2k8f-Uvbs"
@@ -1021,7 +1118,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nJh5c_SzReairQ-ogne4FvBAZys",
+      "etag": "fX8RvGdcBl3po4q3s83MmtF-RmI",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3Ljl4M3czQ0lqRlAw",
       "snippet": {
         "publishedAt": "2025-09-27T10:19:01Z",
@@ -1057,7 +1154,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 170,
+        "position": 172,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9x3w3CIjFP0"
@@ -1072,7 +1169,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "deYDmtHS8vgAdKxTsxnEy0jiD4c",
+      "etag": "tdrl_mBsd9keZiw8mQwLaH6dV5I",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlBITVFtUXRJTHRr",
       "snippet": {
         "publishedAt": "2025-09-26T22:03:01Z",
@@ -1108,7 +1205,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 171,
+        "position": 173,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PHMQmQtILtk"
@@ -1123,7 +1220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h-GS_S-tWVUnuvlIxh4x_EmlY1I",
+      "etag": "VIoLiQnRWSVeUXJdXuH3IMSMLIQ",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlpTUDdweUtsS0ww",
       "snippet": {
         "publishedAt": "2025-09-25T01:32:17Z",
@@ -1159,7 +1256,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 172,
+        "position": 174,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZSP7pyKlKL0"
@@ -1174,7 +1271,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Bll38WVCVzMz4DXJR0lmbqvSITE",
+      "etag": "v14z3oMX7P9ySQ3v9t60uPgkxgc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmlOZlRkNnRtV3Zv",
       "snippet": {
         "publishedAt": "2025-09-25T00:40:34Z",
@@ -1210,7 +1307,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 173,
+        "position": 175,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iNfTd6tmWvo"
@@ -1225,7 +1322,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c_JEaVBVGW9EEdZH-VZzNtHCtmc",
+      "etag": "CqUVj0u5cDg9l9Dx1z9GZgEUf8c",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmZwMTJfUlBjelAw",
       "snippet": {
         "publishedAt": "2025-09-25T00:39:35Z",
@@ -1261,7 +1358,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 174,
+        "position": 176,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fp12_RPczP0"
@@ -1276,7 +1373,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tcQCfnEIMjFfZ95rZb2NVas6760",
+      "etag": "yuS9uEryhnjw9OW1YeK3uML4fWc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmJHbXRtcFlIOUVN",
       "snippet": {
         "publishedAt": "2025-09-23T10:19:00Z",
@@ -1307,7 +1404,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 175,
+        "position": 177,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bGmtmpYH9EM"
@@ -1322,7 +1419,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V1oTg6k08iNZ4zpyeXspngkEALY",
+      "etag": "R4RsaX8_W18tmyD8aNsJ1Tgo3Ek",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlRHRF9Qc3hvdG1J",
       "snippet": {
         "publishedAt": "2025-09-20T10:19:01Z",
@@ -1353,7 +1450,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 176,
+        "position": 178,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TGD_PsxotmI"
@@ -1368,7 +1465,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DHoZvedhpN5df1PDqjDxvLWm5LQ",
+      "etag": "HiOX12t-zMw9UonzF5fM-X8StN0",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkRHZzNYMk5WU1BR",
       "snippet": {
         "publishedAt": "2025-09-19T16:27:42Z",
@@ -1399,7 +1496,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 177,
+        "position": 179,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DGg3X2NVSPQ"
@@ -1414,7 +1511,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "udDgGcDIG88mEnfmhin4Z6kMpio",
+      "etag": "Dk3mcOFItH5TAqtGH3MF13S225A",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlIwanRXS2pERUow",
       "snippet": {
         "publishedAt": "2025-09-19T10:33:37Z",
@@ -1445,7 +1542,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 178,
+        "position": 180,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "R0jtWKjDEJ0"
@@ -1460,7 +1557,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eurLi51MHQb6vGTFiBWiqKZto0U",
+      "etag": "faQzO2ceyQ8dBvGuzT5vT2tlXh8",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlBOby1sTmRUejh3",
       "snippet": {
         "publishedAt": "2025-09-19T10:31:52Z",
@@ -1496,7 +1593,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 179,
+        "position": 181,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PNo-lNdTz8w"
@@ -1511,7 +1608,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pFSwgUaK5PlthgZCSMZQnamr9W0",
+      "etag": "vZTCTxxdHFpjXGsuf0ITyd9GTAw",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkVEamZ6MnBHb1E4",
       "snippet": {
         "publishedAt": "2025-09-18T10:19:00Z",
@@ -1547,7 +1644,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 180,
+        "position": 182,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EDjfz2pGoQ8"
@@ -1562,7 +1659,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xdG48-Kp4bwJ1vpIrKohCoYzmRg",
+      "etag": "AxtpYq0ug7up3OKA9JGmHOr0uMI",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmhUbFJDRGxQOWF3",
       "snippet": {
         "publishedAt": "2025-09-18T04:35:28Z",
@@ -1598,7 +1695,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 181,
+        "position": 183,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hTlRCDlP9aw"
@@ -1613,7 +1710,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Sx4hIPeOwdS4mhiN_B_7yjHdE6M",
+      "etag": "1QPH5UeegbOaZ_90FaG1jMkOmlc",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkdydHpYTS11Q2Rv",
       "snippet": {
         "publishedAt": "2025-09-17T10:19:00Z",
@@ -1644,7 +1741,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 182,
+        "position": 184,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GrtzXM-uCdo"
@@ -1659,7 +1756,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9sKrJkvybMGdelVXRefGPEMXrH4",
+      "etag": "IIx2wlau35GKe2CiyYVg82zZVQ4",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjJTT2dzUWl2emJj",
       "snippet": {
         "publishedAt": "2025-09-16T10:19:00Z",
@@ -1695,7 +1792,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 183,
+        "position": 185,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2SOgsQivzbc"
@@ -1710,7 +1807,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "avN9oL66hl_cPiAwfMGHQSIJ_J8",
+      "etag": "Hv3AsLhmlRawdwrGimm3iCUgTrU",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmxXa29neU8wWTRR",
       "snippet": {
         "publishedAt": "2025-09-16T03:00:51Z",
@@ -1746,7 +1843,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 184,
+        "position": 186,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lWkogyO0Y4Q"
@@ -1761,7 +1858,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IguWWJJqeCEZU8YzvYeUk5PThzs",
+      "etag": "wNqfxciyfQRzwiNvqQf0N6vIFeM",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjNDVzhWUHlWdmpR",
       "snippet": {
         "publishedAt": "2025-09-15T22:56:33Z",
@@ -1797,7 +1894,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 185,
+        "position": 187,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3CW8VPyVvjQ"
@@ -1812,7 +1909,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KmLRq1XT-phHKkYr23fOahiDyaA",
+      "etag": "xKsJDA7IqHmFS7omU4eX7wsQi7c",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmFVeVVLRDVwRHNB",
       "snippet": {
         "publishedAt": "2025-09-15T10:19:00Z",
@@ -1843,7 +1940,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 186,
+        "position": 188,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aUyUKD5pDsA"
@@ -1858,7 +1955,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LNpBEHeScWJ3SpWMFvm4ftyXJgc",
+      "etag": "JPpPTMQ85QJpI_4OQuLH_YGlwhE",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3Lmh4cUZMRmxOeDdF",
       "snippet": {
         "publishedAt": "2025-09-15T02:36:10Z",
@@ -1894,7 +1991,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 187,
+        "position": 189,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hxqFLFlNx7E"
@@ -1909,7 +2006,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pPd6FtfDYcw9XX_zeHKB9523nkw",
+      "etag": "UThuySx9smTlfGL-VlFDqz3oJnA",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LkE4LWhrM0J3SE9z",
       "snippet": {
         "publishedAt": "2025-09-14T15:08:44Z",
@@ -1940,7 +2037,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 188,
+        "position": 190,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "A8-hk3BwHOs"
@@ -1955,7 +2052,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XPZBEsy2et9PSXOPOWa-MVuN5MM",
+      "etag": "szMrsjCTyFrsFhQOy20taegKsnw",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjlVR3ZUU0doQzhV",
       "snippet": {
         "publishedAt": "2025-09-14T13:16:22Z",
@@ -1991,7 +2088,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 189,
+        "position": 191,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9UGvTSGhC8U"
@@ -2006,7 +2103,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PAr1VJAa5kaYCPlmzUZZhjK3rUY",
+      "etag": "k6dYOZksEXOVJ07Wov-Ru-JZbbk",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LmNkWUtUZVlTT2d3",
       "snippet": {
         "publishedAt": "2025-09-14T10:19:00Z",
@@ -2042,7 +2139,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 190,
+        "position": 192,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cdYKTeYSOgw"
@@ -2057,7 +2154,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o0iIw6cjnsty4KD9fcz_gvEoPZY",
+      "etag": "BH6yeqiK0KCUhjzbPG1FoixyH3I",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnlYajVCVWluLUZV",
       "snippet": {
         "publishedAt": "2025-09-14T08:44:53Z",
@@ -2093,7 +2190,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 191,
+        "position": 193,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yXj5BUin-FU"
@@ -2108,7 +2205,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9mnDD5nhtfhkjbBeFY7Pk7o6ERg",
+      "etag": "26xovepCXYRJRJXkGNvXdUzyWHI",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjJjWkQ5aFhKVHNz",
       "snippet": {
         "publishedAt": "2025-09-13T15:23:52Z",
@@ -2144,7 +2241,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 192,
+        "position": 194,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2cZD9hXJTss"
@@ -2159,7 +2256,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zH7jMnQNCjivw8XmGUqgkMOgbp4",
+      "etag": "eRTLdNbLtIteFcO7dFZkEP0-jaE",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnZWelFkZ1Vyb2JF",
       "snippet": {
         "publishedAt": "2025-09-13T14:58:32Z",
@@ -2195,7 +2292,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 193,
+        "position": 195,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "vVzQdgUrobE"
@@ -2210,7 +2307,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tiLudnIeu-66BoK4KNWdCECl6VY",
+      "etag": "SCh4c1y5ivfRQR-lBaJ3WuACZJ4",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LnZmeXNsMGtKTTNF",
       "snippet": {
         "publishedAt": "2025-09-13T14:34:31Z",
@@ -2246,7 +2343,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 194,
+        "position": 196,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "vfysl0kJM3E"
@@ -2261,7 +2358,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qfyfXtw3xUhepFamxmwSqBHCVIo",
+      "etag": "eq3WEsBCsv3e_K-oPje-yzfSQo4",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjlLcGtTVUs1T1o4",
       "snippet": {
         "publishedAt": "2025-09-13T07:00:04Z",
@@ -2297,7 +2394,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 195,
+        "position": 197,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9KpkSUK5OZ8"
@@ -2312,7 +2409,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jaP4gm0OOA5Y1vbRmaFH_m5dDrA",
+      "etag": "GXjusOjbP8wZXBfR_YWfUTWdKkk",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjBQaUpRbzZ4WXg0",
       "snippet": {
         "publishedAt": "2025-09-13T06:58:57Z",
@@ -2348,7 +2445,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 196,
+        "position": 198,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0PiJQo6xYx4"
@@ -2363,7 +2460,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YMydzjE3-GgkerMKs_uxmIUsH-k",
+      "etag": "_UXzwRnKJzHZqGMrW6kSkcb0K40",
       "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LjZMTXFTOEFwcVpZ",
       "snippet": {
         "publishedAt": "2025-09-13T06:06:39Z",
@@ -2399,7 +2496,7 @@
         },
         "channelTitle": "teamPGX",
         "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 197,
+        "position": 199,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "6LMqS8ApqZY"
@@ -2411,112 +2508,10 @@
         "videoId": "6LMqS8ApqZY",
         "videoPublishedAt": "2025-09-13T06:06:39Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ig6kwqXObC__d6Jr8xRsRAH5WxU",
-      "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3LlFERGVNYUhnVHRF",
-      "snippet": {
-        "publishedAt": "2025-09-13T05:50:14Z",
-        "channelId": "UCEHYJuAhZA3krpO9o1eiHtw",
-        "title": "【太鼓の達人ニジイロver.】段位道場2025「名人」全良/虹枠金合格",
-        "description": "Player:Fe",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QDDeMaHgTtE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QDDeMaHgTtE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QDDeMaHgTtE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QDDeMaHgTtE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QDDeMaHgTtE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "teamPGX",
-        "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 198,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QDDeMaHgTtE"
-        },
-        "videoOwnerChannelTitle": "teamPGX",
-        "videoOwnerChannelId": "UCEHYJuAhZA3krpO9o1eiHtw"
-      },
-      "contentDetails": {
-        "videoId": "QDDeMaHgTtE",
-        "videoPublishedAt": "2025-09-13T05:50:14Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "-YNeKD59kLlXMBvOj80Rf_xLz50",
-      "id": "VVVFSFlKdUFoWkEza3JwTzlvMWVpSHR3Lkd6Y0hpemdCOU93",
-      "snippet": {
-        "publishedAt": "2025-09-13T05:40:34Z",
-        "channelId": "UCEHYJuAhZA3krpO9o1eiHtw",
-        "title": "【3曲目の後半から】赤達人合格‼️",
-        "description": "Player:もくりゅう\n\nメルカリ→ https://jp.mercari.com/user/profile/728096800?utm_source=ios&utm_medium=share",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GzcHizgB9Ow/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GzcHizgB9Ow/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GzcHizgB9Ow/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GzcHizgB9Ow/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GzcHizgB9Ow/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "teamPGX",
-        "playlistId": "UUEHYJuAhZA3krpO9o1eiHtw",
-        "position": 199,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "GzcHizgB9Ow"
-        },
-        "videoOwnerChannelTitle": "teamPGX",
-        "videoOwnerChannelId": "UCEHYJuAhZA3krpO9o1eiHtw"
-      },
-      "contentDetails": {
-        "videoId": "GzcHizgB9Ow",
-        "videoPublishedAt": "2025-09-13T05:40:34Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 7010,
+    "totalResults": 7012,
     "resultsPerPage": 50
   }
 }
