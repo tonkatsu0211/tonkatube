@@ -33,6 +33,7 @@ router.get("/streams/:id", async (req, res) => {
 });
 
 router.get("/:id", async (req, res) => {
+  console.time("total");
   const videoId = req.params.id;
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
@@ -47,7 +48,13 @@ router.get("/:id", async (req, res) => {
     return res.status(400).send("videoIDが正しくありません");
   }
   try {
-    const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
+    //const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
+    console.time("getYoutube");
+    const videoData = await getYouTube(videoId);
+    console.timeEnd("getYoutube");
+    console.time("infoGet");
+    const Info = await infoGet(videoId);
+    console.timeEnd("infoGet");
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
     const playlistId = req.query.playlist || null;
 
@@ -64,7 +71,9 @@ router.get("/:id", async (req, res) => {
     }
 
     const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
+    console.time("getChannel");
     const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
+    console.timeEnd("getChannel");
     //fs.promises.write(JPath, JSON.stringify(channelData, null, 2));
     const videoInfo = {
       title: Info.primary_info.title.text || "",
@@ -88,7 +97,10 @@ router.get("/:id", async (req, res) => {
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
     //fs.promises.write(JPath, JSON.stringify(Info, null, 2));
     const pl = playlistId != null ? true: false;
+    console.time("render");
     res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
+    console.timeEnd("render");
+    console.timeEnd("total");
   } catch (error) {
     console.log(error);
     const shufServerUrls = shuffleArray([...serverUrls]);
