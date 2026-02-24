@@ -46,7 +46,34 @@ router.get("/:id", async (req, res) => {
   if (!/^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
     return res.status(400).send("videoIDが正しくありません");
   }
-  try {
+  try{
+    res.write(`
+    <!DOCTYPE html>
+    <html lang="ja">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>読み込み中…</title>
+        <link rel="stylesheet" href="/css/page.css" />
+        <script src="/js/tailwindcss.js"></script>
+        <link
+          rel="stylesheet"
+          href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+        />
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="/js/tube.js"></script>
+        <script src="/js/watch.js"></script>
+        <link
+          rel="apple-touch-icon"
+          href="/tkt/back/vi/<%= videoId %>/maxresdefault.jpg"
+        />
+      </head>
+      <body>
+        <div class="bg-gray-900 text-white" style="display: none;">
+          <p class="text-base text-gray-300 mt-1">読み込み中…</p>
+        </div>
+    `);
     const [videoData, Info] = Promise.all([getYouTube(videoId), infoGet(videoId)]);
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
     const playlistId = req.query.playlist || null;
@@ -86,9 +113,32 @@ router.get("/:id", async (req, res) => {
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
-    fs.writeFileSync(JPath, JSON.stringify(Info, null, 2));
+    //await fs.promises.writeFile(JPath, JSON.stringify(Info, null, 2));
     const pl = playlistId != null ? true: false;
-    res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
+    const html = await new Promise((resolve, reject) => {
+      req.app.render("tube/watch.ejs", {
+        videoData,
+        Info,
+        videoId: req.params.id
+      }, (err, rendered) => {
+        if (err) reject(err);
+        else resolve(rendered);
+      });
+    });
+  
+    res.write(`
+      <script>
+        document.open();
+        document.write(${JSON.stringify(html)});
+        document.close();
+      </script>
+    `);
+  
+    res.end(`
+        </body>
+      </html>
+    `);
+    //res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
   } catch (error) {
     console.log(error);
     const shufServerUrls = shuffleArray([...serverUrls]);
