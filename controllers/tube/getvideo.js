@@ -47,8 +47,7 @@ router.get("/:id", async (req, res) => {
     return res.status(400).send("videoIDが正しくありません");
   }
   try {
-    const videoData = await getYouTube(videoId);
-    const Info = await infoGet(videoId);
+    const [videoData, Info] = Promise.all([getYouTube(videoId), infoGet(videoId)]);
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
     const playlistId = req.query.playlist || null;
 
