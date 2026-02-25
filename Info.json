@@ -1,2016 +1,2562 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "KRpDCE8bmgpyshM4M7rWrVpHCj8",
-  "prevPageToken": "EAEaHlBUOkNHUWlFRFZETmtNM1FqZEZNVEk1TkVFNFFrTQ",
+  "etag": "VCNFi8r_4Oo72c8UOGzqj-8zguw",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEEwUkROR05EQTVSRU5EUVVJd1FqWkY",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEEzUVVFelJVSkNPRE5EUmpJeE1rWTM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "E0BrNDJ3kkIRclEYu8gW1-LImsE",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjh1djBPMkpINHdJ",
+      "etag": "45oLySPO-seHZJbVhXFYgTnQNPc",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkNuU1h1SFJMcjNz",
       "snippet": {
-        "publishedAt": "2020-05-19T08:00:02Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Saosin - 3rd Measurement In C【弾き直し】",
-        "description": "果たして上手くなっているのかどうか。\n\nhttps://youtu.be/WeDDLDTQad0 の弾き直し。\n\nTwitter : https://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-03-27T08:00:10Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】外伝 Cuvism DAN 解説をしてみたかった【ゆっくり解説？】",
+        "description": "参考になればめっちゃ嬉しいです。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8uv0O2JH4wI/default.jpg",
+            "url": "https://i.ytimg.com/vi/CnSXuHRLr3s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8uv0O2JH4wI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnSXuHRLr3s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8uv0O2JH4wI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnSXuHRLr3s/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8uv0O2JH4wI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnSXuHRLr3s/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8uv0O2JH4wI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnSXuHRLr3s/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 100,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 150,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8uv0O2JH4wI"
+          "videoId": "CnSXuHRLr3s"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "8uv0O2JH4wI",
-        "videoPublishedAt": "2020-05-19T08:00:02Z"
+        "videoId": "CnSXuHRLr3s",
+        "videoPublishedAt": "2023-03-27T08:00:10Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PoGU3gV_aAMH0xaZvnHgzko1IKM",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjJ2UlQzV3dkelA0",
+      "etag": "zGj7n6QeallOR2sDyucElJjdYhA",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkdobVpLYmEzTE00",
       "snippet": {
-        "publishedAt": "2020-05-15T16:18:51Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Saosin - Seven Years 【弾き直し】",
-        "description": "前の動画があまりにも下手くそで恥ずかしくなってきたので弾き直し。\n少しは成長したのかな…\n\n本動画は下記の動画のリメイク版になります。\nhttps://www.youtube.com/watch?v=-XERwDenu4E\n\n撮影前にギター掃除し忘れたのは内緒。",
+        "publishedAt": "2023-03-20T11:00:12Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】どこかで見たことあるような気がするスライド   Sephirah×ClusteR (RVG)【ゆっくり実況】",
+        "description": "今回の動画全てにおいてギリギリを攻めているので怒られそう。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Sephirah×ClusteR\nArtist:Link\"0(@AngeLink_0)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2vRT3WwdzP4/default.jpg",
+            "url": "https://i.ytimg.com/vi/GhmZKba3LM4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2vRT3WwdzP4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GhmZKba3LM4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2vRT3WwdzP4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GhmZKba3LM4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2vRT3WwdzP4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GhmZKba3LM4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2vRT3WwdzP4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GhmZKba3LM4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 101,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 151,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "2vRT3WwdzP4"
+          "videoId": "GhmZKba3LM4"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "2vRT3WwdzP4",
-        "videoPublishedAt": "2020-05-15T16:18:51Z"
+        "videoId": "GhmZKba3LM4",
+        "videoPublishedAt": "2023-03-20T11:00:12Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_GpNAcfMsLUWCPcKB5MKWndcM7w",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmFqWTZuR0IwVXFR",
+      "etag": "eYDqRpIbsE7o7aIKbkc06ApUyNE",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnVQcWhkTEZDVTRj",
       "snippet": {
-        "publishedAt": "2020-05-10T08:30:02Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】新型「マンタレイ級強襲揚陸艦」紹介動画【ゆっくり実況】",
-        "description": "みなさんどうも、チビすけです。\n今回は結構本気出しました。\n\nよろしければTwitterのほうもフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE\n\n\n冒頭で使用されている音楽を下記のURLにて配布します。\n特に商用利用する予定はございませんので、\nご自由にお使いください。\nhttps://drive.google.com/file/d/10bp-b9M3DnvyH4W6QvvU1h4Hc81Ektgc/view?usp=sharing\n\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.90 fps、\nサンプリングレートは 44,100 Hz、\n音声コーデックは AAC 192 kbps で作成しました。\n\nエンコード時間は6時間くらいを見積もっていたのですが\nまさかの3時間半で終わるといううれしい誤算。\n\n#Minecraft #Minecraft軍事部",
+        "publishedAt": "2023-03-13T03:19:09Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "音ゲーあるある？ \\ﾃｰﾝ/(GOOD) #Shorts",
+        "description": "似たような経験ある人も多いのでは？\n\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\n\nMusic:Eltaw\nArtist:Fl00t(@F_100_t)\n\n\nTwitter→https://twitter.com/minnonmpp5\n\n\n--使用させていただいた音源--\n\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n\nゆ実でShorts作る奴\n#Phigros\n#Shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ajY6nGB0UqQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/uPqhdLFCU4c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ajY6nGB0UqQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uPqhdLFCU4c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ajY6nGB0UqQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uPqhdLFCU4c/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ajY6nGB0UqQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uPqhdLFCU4c/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ajY6nGB0UqQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uPqhdLFCU4c/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 102,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 152,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ajY6nGB0UqQ"
+          "videoId": "uPqhdLFCU4c"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "ajY6nGB0UqQ",
-        "videoPublishedAt": "2020-05-10T08:30:02Z"
+        "videoId": "uPqhdLFCU4c",
+        "videoPublishedAt": "2023-03-13T03:19:09Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ngFlZ_x0a9Ulsat7Cd_geAEr75Q",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjVmSmFnMlhiYXJZ",
+      "etag": "FkSv4F2P8crLYp6HXWRQdAzTGik",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkFDVk5tMHJvdFdZ",
       "snippet": {
-        "publishedAt": "2020-05-07T08:00:01Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "ハードコア風 Coffin Dance【Astronomia】",
-        "description": "ネタ動画です。\n\nTwitter : https://twitter.com/tibi241_TYFE\n\n#CoffinDance #Astronomia",
+        "publishedAt": "2023-03-09T10:00:12Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】文字通り誰も救えやしない インフェルノシティ【ゆっくり実況】",
+        "description": "Phigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:インフェルノシティ\nArtist:Ponchi♪ feat.はぁち(@ponchi_pop)(@haxchi)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5fJag2XbarY/default.jpg",
+            "url": "https://i.ytimg.com/vi/ACVNm0rotWY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5fJag2XbarY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ACVNm0rotWY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5fJag2XbarY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ACVNm0rotWY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/5fJag2XbarY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ACVNm0rotWY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/5fJag2XbarY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ACVNm0rotWY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 103,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 153,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "5fJag2XbarY"
+          "videoId": "ACVNm0rotWY"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "5fJag2XbarY",
-        "videoPublishedAt": "2020-05-07T08:00:01Z"
+        "videoId": "ACVNm0rotWY",
+        "videoPublishedAt": "2023-03-09T10:00:12Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T4yvYfrlOLtmIIh49B_yfFHOsSA",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjlBaHVPSlkwTC1z",
+      "etag": "kJLzs2KMla-xsdCzwOJ5wpZm_a4",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmszeDFBV0Y1OFdj",
       "snippet": {
-        "publishedAt": "2020-02-14T14:31:26Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事茶番】タイビィ連邦軍 バレンタイン殲滅作戦【バレンタインデー特別企画】",
-        "description": "リア充は爆発だ。\n\nどうも。チビすけです。\n三日間クッソ頑張りました。\nそのせいか後半がすこし駆け足になってしまっていますが、\nそこは目を瞑っていただけると幸いです。\n\nTwitterのほうもよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE\n\nHappy Valentine's Day!\n\n\n#Minecraft\n#Minecraft軍事部\n#バレンタイン殲滅作戦inMinecraft軍事部",
+        "publishedAt": "2023-03-04T12:57:10Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】なんだこの見たことないノーツ！？ キユビック【ゆっくり実況】",
+        "description": "ハコーン。\nちなみに結局まだAJしてないです、Genesisマジでむずい\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:キユビック\nArtist:LisicA\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9AhuOJY0L-s/default.jpg",
+            "url": "https://i.ytimg.com/vi/k3x1AWF58Wc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9AhuOJY0L-s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k3x1AWF58Wc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9AhuOJY0L-s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k3x1AWF58Wc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/9AhuOJY0L-s/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/k3x1AWF58Wc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/9AhuOJY0L-s/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k3x1AWF58Wc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 104,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 154,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "9AhuOJY0L-s"
+          "videoId": "k3x1AWF58Wc"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "9AhuOJY0L-s",
-        "videoPublishedAt": "2020-02-14T14:31:26Z"
+        "videoId": "k3x1AWF58Wc",
+        "videoPublishedAt": "2023-03-04T12:57:10Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PicOu36Cw10UYxi6ZBqIUpgJ3NE",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLllKWDZXNjJjVThN",
+      "etag": "az3MLUjgIMu0mGoP5Mlb5PjuWds",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmlxU2tuZkdYa3pn",
       "snippet": {
-        "publishedAt": "2020-02-12T10:00:11Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【特報】バレンタインデー特別企画 予告動画",
-        "description": "バレンタインデーの特別企画です。\n3日間で果たしてどこまで作れるのか。\n\nTwitterで最新情報をチェック\nhttps://twitter.com/tibi241_TYFE\n\n追記：2/14、本編を公開しました。\nhttps://www.youtube.com/watch?v=9AhuOJY0L-s",
+        "publishedAt": "2023-03-03T10:00:27Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】Dance Dance ノーツもDance Upshift【ゆっくり実況】",
+        "description": "ガチめに今回の追加曲で一番難しいと思ってます、音ゲー力でどうにかなるインフェルノ、やること自体はそんなに難しくないパンドラに対してこいつは配置もむずいしギミックも厳しい...\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Upshift\nArtist:Iriss-Frantzz(@Iriss_frantzz)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YJX6W62cU8M/default.jpg",
+            "url": "https://i.ytimg.com/vi/iqSknfGXkzg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YJX6W62cU8M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iqSknfGXkzg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YJX6W62cU8M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iqSknfGXkzg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YJX6W62cU8M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/iqSknfGXkzg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YJX6W62cU8M/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iqSknfGXkzg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 105,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 155,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "YJX6W62cU8M"
+          "videoId": "iqSknfGXkzg"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "YJX6W62cU8M",
-        "videoPublishedAt": "2020-02-12T10:00:11Z"
+        "videoId": "iqSknfGXkzg",
+        "videoPublishedAt": "2023-03-03T10:00:27Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G7og2BxiT61MrEhM1OP_h6nHSkA",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkpfRnNEV3hVTDRJ",
+      "etag": "w4lf__QO6L5s-2vMIxEHVpx1UEs",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmVCLXh2UjI2aGNN",
       "snippet": {
-        "publishedAt": "2020-01-28T22:30:00Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Saosin - Sleepers",
-        "description": "どうもチビすけです。\nギター動画って小一時間あれば作れちゃうから\nいっぱい上げたくなるよね。\nSaosinは神。僕が知ってるバンドの中で一番好き。\n\nTwitterのほうもよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE\n\nGuitar : Ibanez GiO GRX70QA\nTuning : D, G, C, F, A, d (Low to high, D Standard)\nEffector : ZOOM G1Xon",
+        "publishedAt": "2023-02-28T10:00:24Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】LisicAパック行きマスヨー！ タマモッチ【ゆっくり実況】",
+        "description": "ゴシュジンサマ！！\n\n称号変え忘れてたのでもう信用しないでください。なんならキユビックの動画もそのままです。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:タマモッチ\nArtist:LisicA\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/J_FsDWxUL4I/default.jpg",
+            "url": "https://i.ytimg.com/vi/eB-xvR26hcM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/J_FsDWxUL4I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eB-xvR26hcM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/J_FsDWxUL4I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eB-xvR26hcM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/J_FsDWxUL4I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/eB-xvR26hcM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/J_FsDWxUL4I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eB-xvR26hcM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 106,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 156,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "J_FsDWxUL4I"
+          "videoId": "eB-xvR26hcM"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "J_FsDWxUL4I",
-        "videoPublishedAt": "2020-01-28T22:30:00Z"
+        "videoId": "eB-xvR26hcM",
+        "videoPublishedAt": "2023-02-28T10:00:24Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fDLyGKUyJT0LRRSCp2RL5shWk48",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmtaNlVNbTNRY3o4",
+      "etag": "Qzrh8B_XGNPP9Tebp-II0Z2Vewk",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmlobDVkMDlVejdZ",
       "snippet": {
-        "publishedAt": "2019-12-16T07:30:02Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Atreyu - Right Side Of The Bed",
-        "description": "どうも。またギターカバー動画撮りました。\n今回は照明をちょっと弄ってみた。\n\nGuitar : Ibanez GiO GRX70QA\nTuning : C, G, C, F, A, d (Drop C, low to high)\n\nTwitterのほうもよろしければフォローしてやってください\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-02-26T01:00:28Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】ビックリギミック依存症 Poison AND÷OR Affection【ゆっくり実況】",
+        "description": "パンドラって読みます。ポイズンアンドオアアフェクションではないです。\nAP狙いは未だに死ぬほど沼ってて全然出てないです。死にそう。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Poison AND÷OR Affection\nArtist:LeaF(@7eaF)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kZ6UMm3Qcz8/default.jpg",
+            "url": "https://i.ytimg.com/vi/ihl5d09Uz7Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kZ6UMm3Qcz8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ihl5d09Uz7Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kZ6UMm3Qcz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 107,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "kZ6UMm3Qcz8"
-        },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
-      },
-      "contentDetails": {
-        "videoId": "kZ6UMm3Qcz8",
-        "videoPublishedAt": "2019-12-16T07:30:02Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "4ep6A1q70NOKZYcG5qJT2YDP0Uk",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmpnNXpZZDRvcDdv",
-      "snippet": {
-        "publishedAt": "2019-12-14T07:48:44Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】紹介していなかった物を紹介する動画【ゆっくり実況】",
-        "description": "どうも、チビすけです。\nエンコードに6時間32分ってヤバすぎるだろ。\n\n今回は何気に久しぶりのおまけあり。\n今回は例によってクッソ長い動画となりました。\nおそらく過去最長。\nそしていつものサムネ詐欺。\nこれでも前よりかはマシになりましたけどね。\n\n\n動画内で使用されている\n「デフォルメ銃器イラスト素材パック」はこちら\nhttps://www.youtube.com/watch?v=_-7jAKteH4Y&t=1s\n\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.90 fps、\n音声コーデックは AAC 192 Kbps、\nサンプリングレートは 48000 Hz で作成しました。\n\n\nよろしければTwitterのほうもフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE\n\n#Minecraft #マインクラフト #マイクラ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jg5zYd4op7o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jg5zYd4op7o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jg5zYd4op7o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ihl5d09Uz7Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jg5zYd4op7o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ihl5d09Uz7Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/jg5zYd4op7o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ihl5d09Uz7Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 108,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 157,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jg5zYd4op7o"
+          "videoId": "ihl5d09Uz7Y"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "jg5zYd4op7o",
-        "videoPublishedAt": "2019-12-14T07:48:44Z"
+        "videoId": "ihl5d09Uz7Y",
+        "videoPublishedAt": "2023-02-26T01:00:28Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pE4RDK9RinNrVcGyoF0NfcLOSVM",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjRrd0ZyOXpZWEFz",
+      "etag": "jEjwzNI0jdXZugc0AZWkpMJZqbE",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnQ3cEE1TEpMa25v",
       "snippet": {
-        "publishedAt": "2019-10-16T14:52:32Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "新チャンネル紹介動画【令和版】",
-        "description": "初めまして、チビすけと申します。\nYouTubeにてゆっくり実況やFPS、ギターなんかをやっております。\nこの動画は初めてこのチャンネルをご覧になる方向けの動画です。\nもちろん既にご登録頂いている方も楽しめる内容となっております。\n\nTwitterのほうもよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE\n\n\n-↓ここから登録者向けトーク↓-\n\nどうも、最近マイクラができなくて困ってるので初投稿です。\n今回の動画は新しいModのテストも兼ねて製作しました。\nやっぱりもっとマイクラの動画上げた方がいいっすよね、うん。\nというわけで今後はマイクラ動画の割合を増やしていこうかなと思ってます。思ってるだけ。\n\n解像度 : 1,280 x 720 (ハーフHD)\nフレームレート : 59.90 fps\nサンプリングレート : 44,100 Hz\n音声コーデック : AAC (192 kbps)",
+        "publishedAt": "2023-02-24T13:41:39Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】おふざけ譜面の溜まり場【ゆっくり実況】",
+        "description": "たのしい！！！！！！！！！！\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4kwFr9zYXAs/default.jpg",
+            "url": "https://i.ytimg.com/vi/t7pA5LJLkno/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4kwFr9zYXAs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7pA5LJLkno/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4kwFr9zYXAs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7pA5LJLkno/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4kwFr9zYXAs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7pA5LJLkno/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/4kwFr9zYXAs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7pA5LJLkno/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 109,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 158,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "4kwFr9zYXAs"
+          "videoId": "t7pA5LJLkno"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "4kwFr9zYXAs",
-        "videoPublishedAt": "2019-10-16T14:52:32Z"
+        "videoId": "t7pA5LJLkno",
+        "videoPublishedAt": "2023-02-24T13:41:39Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q7Pl4uvadQ8CaTNqHZr4zlIe4Jk",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkdnb0RvMDFTNW9z",
+      "etag": "wlySXPPzwanYcBPXv5FoZSG2a-w",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLk44VHR1OW0xbVpv",
       "snippet": {
-        "publishedAt": "2019-07-28T11:57:47Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【特報】茶番 予告編",
-        "description": "茶番動画の予告編です。\n製作途中のため、本編と大きく異なる場合があります。",
+        "publishedAt": "2023-02-03T09:09:38Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】連打、連打、そして連打... Feast远东之宴【ゆっくり実況】",
+        "description": "こいつ連打しか言ってねぇな\nちゃんとAPしました。あと投稿遅れてごめんなさい。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Feast远东之宴\nArtist:茶鸣拾贰律\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GgoDo01S5os/default.jpg",
+            "url": "https://i.ytimg.com/vi/N8Ttu9m1mZo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GgoDo01S5os/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8Ttu9m1mZo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GgoDo01S5os/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8Ttu9m1mZo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/GgoDo01S5os/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8Ttu9m1mZo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/GgoDo01S5os/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8Ttu9m1mZo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 110,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 159,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "GgoDo01S5os"
+          "videoId": "N8Ttu9m1mZo"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "GgoDo01S5os",
-        "videoPublishedAt": "2019-07-28T11:57:47Z"
+        "videoId": "N8Ttu9m1mZo",
+        "videoPublishedAt": "2023-02-03T09:09:38Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Oelm-zKypWAaKeiiEgE2-zcHp7I",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjhvR2xxWE9aVDIw",
+      "etag": "AQ-ShtYbf0PL2sTt3OT54aFI0PM",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnZYWk1NcDc1TFIw",
       "snippet": {
-        "publishedAt": "2019-07-07T13:55:09Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Jimmy Eat World - Just Tonight...",
-        "description": "どうも、チビです。\n今日は七夕ですが、私の願い事は沢山ありすぎて書ききれません。\n\nGuitar : Ibanez GiO GRX70QA\nTuning : Drop C# [C#, G#, C#, F#, A#, D#]\nEffector : Zoom G1Xon (Multi-Effects Processor)\n\nTwitterのほうもよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-01-25T08:00:32Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】超ゴリゴリ6鍵盤！？ VEZZELiX【ゆっくり実況】",
+        "description": "超個人差...6kできるなら簡単でしょうか。私は15+にしては大分弱く感じましたね。ちなみにヴェゼルナインです、間違えたら作曲者に怒られる可能性があります。\n\n称号変えるの忘れてたので称号紹介はなしです。これ本当に続く？\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:VEZZELiX\nArtist:Reku Mochizuki(@RekuMczk)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8oGlqXOZT20/default.jpg",
+            "url": "https://i.ytimg.com/vi/vXZMMp75LR0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8oGlqXOZT20/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vXZMMp75LR0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8oGlqXOZT20/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vXZMMp75LR0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8oGlqXOZT20/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vXZMMp75LR0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8oGlqXOZT20/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vXZMMp75LR0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 111,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 160,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8oGlqXOZT20"
+          "videoId": "vXZMMp75LR0"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "8oGlqXOZT20",
-        "videoPublishedAt": "2019-07-07T13:55:09Z"
+        "videoId": "vXZMMp75LR0",
+        "videoPublishedAt": "2023-01-25T08:00:32Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gnSqJTE0tPRecfWqZIGYU6TGTHg",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLldlRERMRFRRYWQw",
+      "etag": "eRRAvIJ-ERd-O8y3Io4cus6Z344",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLlNOWEFFbG5pdWlR",
       "snippet": {
-        "publishedAt": "2019-05-18T18:40:32Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Saosin - 3rd Measurement In C",
-        "description": "あまり解析されてない曲なので\n楽譜を探す & 耳コピするのが大変でした。\n前に弾いたSeven Years と同じアルバム「Translating The Name」に収録されている曲です。\n今回はだいぶガバりました。\n\nTwitterもよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-01-21T09:00:23Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】発狂が終わったらどうなるか、発狂が始まる 青丘【ゆっくり実況】",
+        "description": "これマジで苦手です...一生できない気がする\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:青丘\nArtist:BLACK 0\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WeDDLDTQad0/default.jpg",
+            "url": "https://i.ytimg.com/vi/SNXAElniuiQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WeDDLDTQad0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SNXAElniuiQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WeDDLDTQad0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SNXAElniuiQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/WeDDLDTQad0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/SNXAElniuiQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/WeDDLDTQad0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SNXAElniuiQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 112,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 161,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "WeDDLDTQad0"
+          "videoId": "SNXAElniuiQ"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "WeDDLDTQad0",
-        "videoPublishedAt": "2019-05-18T18:40:32Z"
+        "videoId": "SNXAElniuiQ",
+        "videoPublishedAt": "2023-01-21T09:00:23Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j0279lWhO5TUigNC-hSP5LN5Als",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLnU2LU1GRVhWUGo0",
+      "etag": "flY1ABFOdv79J3tnHQ45bSJj_mo",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnJWTmFMUVJseW1z",
       "snippet": {
-        "publishedAt": "2019-05-10T16:41:41Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】The Used - Maybe Memories",
-        "description": "どうもチビすけです。眠いです。\nエスコン実況の編集しなきゃ…（使命感）\n\nTwitter始めました。\nよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-01-19T10:00:26Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】目に見えていても触れることは能わない Finixtahv【ゆっくり実況】",
+        "description": "火力が高すぎる。\n途中、ここ最高にArtcoreしてるとか言ってるけど言いたいのはArtcoreしてるってよりFeryquitousみすごいって感じです。\n\nFinixtahvが解禁できるイベントは1/30まで。投稿遅れてしまって申し訳ないですが解禁したい人は早めに～\n\n追記: 1:30 LuminescenceじゃなくてLuminescentでした...ごめんなさい。\n\n～称号紹介～\nせっかく追加されたので毎回やります。\n\n＼テーン／GOOD / Eltaw MASTERであることをする\nまぁここの視聴者ならお察しでしょう。あれです。\n\n～～～～～\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Finixtahv\nArtist:Link\"0(@AngeLink_0)\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/u6-MFEXVPj4/default.jpg",
+            "url": "https://i.ytimg.com/vi/rVNaLQRlyms/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/u6-MFEXVPj4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rVNaLQRlyms/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/u6-MFEXVPj4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rVNaLQRlyms/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/u6-MFEXVPj4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/rVNaLQRlyms/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/u6-MFEXVPj4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rVNaLQRlyms/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 113,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 162,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "u6-MFEXVPj4"
+          "videoId": "rVNaLQRlyms"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "u6-MFEXVPj4",
-        "videoPublishedAt": "2019-05-10T16:41:41Z"
+        "videoId": "rVNaLQRlyms",
+        "videoPublishedAt": "2023-01-19T10:00:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4_UebH-U5ZMe6j7fVBlSV_djjKY",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkNWdXBfZ2NVVjRZ",
+      "etag": "8ohVPtUgzEn0-7AkljcxvREuto8",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLk1tMGNpU0lpbmQ0",
       "snippet": {
-        "publishedAt": "2019-05-06T12:53:45Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Amber Pacific - Always You",
-        "description": "どうも。チビです。\n春例大祭、楽しかったです。\n\nTwitter始めました。\nよかったらフォローしてやってください。\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2023-01-05T07:45:28Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】新ノーツスキン集",
+        "description": "組み合わせ可能なので好きなスキンを選ぼう\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nTwitter→https://twitter.com/minnonmpp5\n\n～使用させていただいた音源～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CVup_gcUV4Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/Mm0ciSIind4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CVup_gcUV4Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mm0ciSIind4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CVup_gcUV4Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mm0ciSIind4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/CVup_gcUV4Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mm0ciSIind4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/CVup_gcUV4Y/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mm0ciSIind4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 114,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 163,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "CVup_gcUV4Y"
+          "videoId": "Mm0ciSIind4"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "CVup_gcUV4Y",
-        "videoPublishedAt": "2019-05-06T12:53:45Z"
+        "videoId": "Mm0ciSIind4",
+        "videoPublishedAt": "2023-01-05T07:45:28Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-kf5s11-4dHII2KjDBDfw1JsKRA",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLm9GQ0hseDRsa2Jn",
+      "etag": "O5wT-8wXGCgfwdpiGAwj1JaDZDI",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmpwYjF6eGJnX1lJ",
       "snippet": {
-        "publishedAt": "2019-05-03T02:40:01Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】空母紹介 +α【ゆっくり実況】",
-        "description": "みなさんこんにちは。チビです。\n今回は久しぶりのマイクラの動画です。\nエスコン7実況しろって？ ｸｩｰﾝ…\n\n\nWikiの仲間を大募集しています。\nよろしければご参加ください。\nhttps://seesaawiki.jp/mcmilitary/\n\nTwitterもよかったらフォローしてやってください\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-12-31T08:00:17Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】思い出の架橋は儚く... Pont des souvenirs【ゆっくり実況】",
+        "description": "曲が良い...\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Pont des souvenirs\nArtist:VeetaCrush(@VeetaCrush) vs. [itsu(feat.itsu)]\n\nTwitter→https://twitter.com/minnonmpp5\n\n～～使用させていただいた音源～～\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oFCHlx4lkbg/default.jpg",
+            "url": "https://i.ytimg.com/vi/jpb1zxbg_YI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oFCHlx4lkbg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jpb1zxbg_YI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oFCHlx4lkbg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jpb1zxbg_YI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oFCHlx4lkbg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/jpb1zxbg_YI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/oFCHlx4lkbg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jpb1zxbg_YI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 115,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 164,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "oFCHlx4lkbg"
+          "videoId": "jpb1zxbg_YI"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "oFCHlx4lkbg",
-        "videoPublishedAt": "2019-05-03T02:40:01Z"
+        "videoId": "jpb1zxbg_YI",
+        "videoPublishedAt": "2022-12-31T08:00:17Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-Vw511ReE_Rb9n72HMsgWMMwqHo",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlYzX3JYU043Unlz",
+      "etag": "0bI_IvSJphE6VgCWSvmwwQxb1HQ",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmlweWJKY1oxY2Rv",
       "snippet": {
-        "publishedAt": "2019-03-06T20:03:59Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Sugarcult - Memory",
-        "description": "どうも。おそらくオーストラリア渡航前の最後の動画になります。\nお納めください。\n\nTwitter始めました。\nよろしければフォローしてやってください\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-12-18T04:00:13Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI3】CytusⅡ初代ボス、ここに再誕。Floor of Lava (TAKUMI³ Edit)【ゆっくり実況】",
+        "description": "これはとんでもないです...\nFloor of Lava、やっぱすごい曲。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Floor of Lava (TAKUMI³ Edit)\nArtist:Ice feat.Kero(@ice_loki)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/V3_rXSN7Rys/default.jpg",
+            "url": "https://i.ytimg.com/vi/ipybJcZ1cdo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/V3_rXSN7Rys/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipybJcZ1cdo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/V3_rXSN7Rys/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipybJcZ1cdo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/V3_rXSN7Rys/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipybJcZ1cdo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/V3_rXSN7Rys/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipybJcZ1cdo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 116,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 165,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "V3_rXSN7Rys"
+          "videoId": "ipybJcZ1cdo"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "V3_rXSN7Rys",
-        "videoPublishedAt": "2019-03-06T20:03:59Z"
+        "videoId": "ipybJcZ1cdo",
+        "videoPublishedAt": "2022-12-18T04:00:13Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MxVvEUiKTpo23sM8XNfQcHc03l0",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLi1YRVJ3RGVudTRF",
+      "etag": "MBFbphKuaBWjTK-VdZtYx2Ljyag",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkc3N19GbFM5dWhv",
       "snippet": {
-        "publishedAt": "2019-03-03T18:14:13Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】Saosin - Seven Years",
-        "description": "およそ1日ぶりですね。チビすけです。\nでは今からおねんねします。\nおやすみなさい。\n\nTwitter始めました。\nもしよろしければフォローしてやってください\nhttp://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-11-26T10:00:07Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】動体視力を鍛える音ゲートレーニング【ゆっくり実況】",
+        "description": "なんですかコレ？？？？？？？？？？？？？？\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Break Over\nArtist:K-forest(@Kforest34)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-XERwDenu4E/default.jpg",
+            "url": "https://i.ytimg.com/vi/G77_FlS9uho/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-XERwDenu4E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/G77_FlS9uho/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-XERwDenu4E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/G77_FlS9uho/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-XERwDenu4E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/G77_FlS9uho/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-XERwDenu4E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/G77_FlS9uho/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 117,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 166,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-XERwDenu4E"
+          "videoId": "G77_FlS9uho"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "-XERwDenu4E",
-        "videoPublishedAt": "2019-03-03T18:14:13Z"
+        "videoId": "G77_FlS9uho",
+        "videoPublishedAt": "2022-11-26T10:00:07Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xgJ1p4IkORMHPJBSk5cnd9W3Iz4",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkxMYks0djdZV2JN",
+      "etag": "F8jvgJV1cfbWFcAWrJncP4sxY8I",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkxPQzZVSGVwNFVn",
       "snippet": {
-        "publishedAt": "2019-03-02T20:18:23Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】The Red Jumpsuit Apparatus - Face Down",
-        "description": "どうもです。\n実況動画よりギター動画のほうが\n上がるのが早いとかいう実況者の屑\n\n前回と服が同じなのは撮影日が同じだからです。\n\nTwitter始めました\nもしよろしければフォローしてやってください\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-11-23T04:00:08Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】低難易度枠だと思った？強化されちゃった Couleur【ゆっくり実況】",
+        "description": "むずいわねぇ...\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Couleur\nArtist:あんふぃに(@anfinity8765)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LLbK4v7YWbM/default.jpg",
+            "url": "https://i.ytimg.com/vi/LOC6UHep4Ug/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LLbK4v7YWbM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LOC6UHep4Ug/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LLbK4v7YWbM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LOC6UHep4Ug/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/LLbK4v7YWbM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/LOC6UHep4Ug/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/LLbK4v7YWbM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LOC6UHep4Ug/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 118,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 167,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "LLbK4v7YWbM"
+          "videoId": "LOC6UHep4Ug"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "LLbK4v7YWbM",
-        "videoPublishedAt": "2019-03-02T20:18:23Z"
+        "videoId": "LOC6UHep4Ug",
+        "videoPublishedAt": "2022-11-23T04:00:08Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EC0-XyvRUaHlqBAvN_HCxdJOaK8",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLm5DZ21PaW5PbHUw",
+      "etag": "TZCYuxAVmwKN4FxpQ0PBciQPFJg",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnVHdTBuaE9hWUlJ",
       "snippet": {
-        "publishedAt": "2019-03-01T23:24:43Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【弾いてみた】No Motiv - Independence Day",
-        "description": "どうも、チビすけです。\n（ギター弾くけど陽キャじゃ）ないです\n\n3月8日にオーストラリアへ短期留学に行くので\nいつもの実況の撮影を躊躇した結果、\nこんな動画を上げました。\n\nTwitter始めました。\nもしよろしければフォローしてやってください\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-11-06T10:00:36Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】改訂版 Phigros 平均密度ランキング TOP30(2022.10)",
+        "description": "2022.10時点のPhigros全譜面の平均密度を計測してランキングにしました。例によって間違いがある可能性があります。\n\n前回から計測方法を変え、多くの方々の協力をいただいて全譜面の手動計測を行いました。協力していただいた皆様、ありがとうございます。\n制作時期の関係でAbyss Idolsコラボの2曲(Eternal Snow、Rainy Season)は対象外です。一応どちらもランク外です。\n\n[訂正箇所]\n14:27 AT 16.7→AT 16.4\n----------------------------------------------------------\n動画制作\nminnon\n\n動画の参考にさせて頂いた方\nyoshiwa448 様\nTNR SPADE / SPADE Music Creaters 様\nはるねこ 様\nsharPexc928 様\n\n計測に協力していただいた方(敬称略)\nとらん\nM4ry\nbaka\nMC:Harmony\nt3k0\nはるねこ\nスウ\nW2TZMS\n\n編集ソフト\nAviUtl\n\n参考サイト\nPhigros Wiki*\nhttps://wikiwiki.jp/phigros/\n----------------------------------------------------------\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nTwitter→https://twitter.com/minnonmpp5\n\n#Phigros",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nCgmOinOlu0/default.jpg",
+            "url": "https://i.ytimg.com/vi/uGu0nhOaYII/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nCgmOinOlu0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uGu0nhOaYII/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nCgmOinOlu0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uGu0nhOaYII/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/nCgmOinOlu0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uGu0nhOaYII/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/nCgmOinOlu0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uGu0nhOaYII/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 119,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 168,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "nCgmOinOlu0"
+          "videoId": "uGu0nhOaYII"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "nCgmOinOlu0",
-        "videoPublishedAt": "2019-03-01T23:24:43Z"
+        "videoId": "uGu0nhOaYII",
+        "videoPublishedAt": "2022-11-06T10:00:36Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bGexIhCw7E7jD3mB0ZBrOmGgA88",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlI5czUyUGJIdVl3",
+      "etag": "tg3bhtl-XJN865YQEijcY252JpA",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkkteW05aW5GRzVz",
       "snippet": {
-        "publishedAt": "2019-01-10T07:48:00Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【ゆっくり実況】新年ごあいさつ【R6S】",
-        "description": "（明けまして）おめでと↑ございまｽｩｩ…\n\nあくまで投稿の空きスペースの埋め合わせなので\nクオリティはクッソ低いです。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps、\n音声コーデックは AAC 192kbps で作成しました。\n\nどうしてこんな中途半端な終わり方なんですかね（半ギレ）",
+        "publishedAt": "2022-11-03T04:00:06Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】曲名は初見時のプレイヤーの感情を表しています OMG【ゆっくり実況】",
+        "description": "Oh my god...\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:OMG\nArtist:Dopam!ne vs zEnsEn(@DTM_dopamine,@akisame9_nsx)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/R9s52PbHuYw/default.jpg",
+            "url": "https://i.ytimg.com/vi/I-ym9inFG5s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/R9s52PbHuYw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-ym9inFG5s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/R9s52PbHuYw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-ym9inFG5s/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/R9s52PbHuYw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-ym9inFG5s/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/R9s52PbHuYw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-ym9inFG5s/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 120,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 169,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "R9s52PbHuYw"
+          "videoId": "I-ym9inFG5s"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "R9s52PbHuYw",
-        "videoPublishedAt": "2019-01-10T07:48:00Z"
+        "videoId": "I-ym9inFG5s",
+        "videoPublishedAt": "2022-11-03T04:00:06Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wf1nNHeWd4d7WlHj7IuwdjolFy4",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjNvRmJhOUJwLXpR",
+      "etag": "jZpKuyhGHgTNifZVo3W2fHvF2bg",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLllFS09YaWhPakw4",
       "snippet": {
-        "publishedAt": "2018-12-26T23:00:46Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【ゆっくり実況】2018年 生存報告.r6s",
-        "description": "お久しぶりで～す…本物で～す…\n\nPS4を隠していた理由？\n知らないな。\n\n\nﾋwitter : @tibi241_TYFE\n\nGoogle+いきろ",
+        "publishedAt": "2022-10-03T10:00:30Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】あれこれなくしてこれなし、技術は必要不可欠らしい c.s.q.n.【ゆっくり実況】",
+        "description": "最近の譜面全部刺さってる気がする\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:c.s.q.n.\nArtist:Aoi(@BLUEnoup)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3oFba9Bp-zQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/YEKOXihOjL8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3oFba9Bp-zQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YEKOXihOjL8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3oFba9Bp-zQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YEKOXihOjL8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3oFba9Bp-zQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/YEKOXihOjL8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/3oFba9Bp-zQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YEKOXihOjL8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 121,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 170,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3oFba9Bp-zQ"
+          "videoId": "YEKOXihOjL8"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "3oFba9Bp-zQ",
-        "videoPublishedAt": "2018-12-26T23:00:46Z"
+        "videoId": "YEKOXihOjL8",
+        "videoPublishedAt": "2022-10-03T10:00:30Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dtjqfoLtoAn98zUyyspYlBzxYn4",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlh5SC1NQzd1SXNj",
+      "etag": "EGSRukJpEDuEWrPlD5MYmJsuIY8",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLjdRUkowcVZxWTZB",
       "snippet": {
-        "publishedAt": "2018-08-22T19:27:13Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】海軍紹介：第4艦隊【ゆっくり実況】",
-        "description": "うーい、チビすけです（適当）\n今回は珍しくまともな動画です（迫真）\nフレームレートの低下は許し亭ゆるして\n\n動画の解像度は 1280 x 720 ハーフHD、\nフレームレートは 30fps、\n音声コーデックは AAC 192kbps、\nサンプリングレートは44100Hzで作成しました。\n\n\nTwitter始めました。\n\nhttps://twitter.com/tibi241_TYFE\n\n軍事部、又は個人的なツイートの他に\n色々リツイートしたりいいねしたり\nしているのでご了承ください（何様）",
+        "publishedAt": "2022-09-19T13:36:18Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】iOS16って結局音ゲーどうなんすか？【ゆっくり実況】",
+        "description": "貴重な新曲初見動画をこんなネタ動画で消化してしまったことをお詫びしたいと思います。\n\nマジで気を付けてください。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Outrage\nArtist:Dopam!ne(@DTM_dopamine)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況\n#ios16",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XyH-MC7uIsc/default.jpg",
+            "url": "https://i.ytimg.com/vi/7QRJ0qVqY6A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XyH-MC7uIsc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7QRJ0qVqY6A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XyH-MC7uIsc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7QRJ0qVqY6A/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/XyH-MC7uIsc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/7QRJ0qVqY6A/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/XyH-MC7uIsc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7QRJ0qVqY6A/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 122,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 171,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "XyH-MC7uIsc"
+          "videoId": "7QRJ0qVqY6A"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "XyH-MC7uIsc",
-        "videoPublishedAt": "2018-08-22T19:27:13Z"
+        "videoId": "7QRJ0qVqY6A",
+        "videoPublishedAt": "2022-09-19T13:36:18Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-67Ni5cnHSgJnn9wbcbBFqIK8KY",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjBTa1ZoNUZpcVUw",
+      "etag": "Znlq0uLlKPFLmhPlsy-0MaOzhgA",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLlY3ZnBzbVBBS3Vj",
       "snippet": {
-        "publishedAt": "2018-06-16T15:15:30Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【海上自衛隊】護衛艦に乗ってきました！【横浜港】",
-        "description": "どうも、チビです。\n今回はおホモダチ（グリーンランド小澤）と一緒に\nいずも型護衛艦 1番艦「いずも」\nのイベントに行ってきました。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps、\nサンプリングレートは 44100Hz、\n音声コーデックはAAC 192kbps\nで作成しました。\n\n最近、絵を描くのにハマってしまった。",
+        "publishedAt": "2022-09-15T12:56:40Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】譜面闇鍋パーティ Shadow【ゆっくり実況】",
+        "description": "ちなみに10回ほどやってますが、Sすら出ません。16.9。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Shadow\nArtist:姜米條&SumaiLight\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0SkVh5FiqU0/default.jpg",
+            "url": "https://i.ytimg.com/vi/V7fpsmPAKuc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0SkVh5FiqU0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/V7fpsmPAKuc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0SkVh5FiqU0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/V7fpsmPAKuc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0SkVh5FiqU0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/V7fpsmPAKuc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0SkVh5FiqU0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/V7fpsmPAKuc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 123,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 172,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0SkVh5FiqU0"
+          "videoId": "V7fpsmPAKuc"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "0SkVh5FiqU0",
-        "videoPublishedAt": "2018-06-16T15:15:30Z"
+        "videoId": "V7fpsmPAKuc",
+        "videoPublishedAt": "2022-09-15T12:56:40Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "A02yOrzyX-666QS8ICGznlicS5o",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmVPYU5lbkRmSjhZ",
+      "etag": "0jr2xG3YED09QbdNZScQi066q_U",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLk81eDBxWHRXV2N3",
       "snippet": {
-        "publishedAt": "2018-05-04T15:45:51Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】潜水艦を紹介します【ゆっくり実況】",
-        "description": "※今回はコメント拾いやります※\n※720p60での視聴をお勧めします※\n\nドウモ　シチョウシャノミナ=サン、\nチビすけ=デス。\n今回の動画はどうしようか悩んだので\nとりあえず潜水艦を紹介しました。\n\nそれでは博麗神社例大祭で\nお会いしましょう。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps、\n音声コーデックは AAC 192kbps、\nサンプリングレートは 44100Hzで\n作成しました。\n\nうp主の霊圧が･･･消えた？\n\n\n\n↓ここから短気な人向け\n\n01:40 本編開始\n\n09:40 コメント拾い",
+        "publishedAt": "2022-09-09T10:00:15Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】演出の癖が強い Espace naige【ゆっくり実況】",
+        "description": "Fl00tさんはいいぞ。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Espace naige\nArtist:Fl00t(@F_100_t)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eOaNenDfJ8Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/O5x0qXtWWcw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eOaNenDfJ8Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O5x0qXtWWcw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eOaNenDfJ8Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O5x0qXtWWcw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eOaNenDfJ8Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 124,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "eOaNenDfJ8Y"
-        },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
-      },
-      "contentDetails": {
-        "videoId": "eOaNenDfJ8Y",
-        "videoPublishedAt": "2018-05-04T15:45:51Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "imgrRUMTmYd6hqTrTuDJBa0-5Qk",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLnVnbnBpY2FZMC1B",
-      "snippet": {
-        "publishedAt": "2018-04-02T06:28:17Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft】汎用小型ヘリの作り方【ゆっくり実況】",
-        "description": "※720p60の画質設定での視聴をお勧めします。\n\nどうも、チビすけです。\n今回はリトルバードというか\nカイユースっぽい小型ヘリです。\nあと伏線あり？\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94 fps、\nサンプリングレートは 44100Hz、\n音声コーデックは AAC 128 kbps で\n作成しました。\n\n（今回は残念ながらコメント拾いは）ないです。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ugnpicaY0-A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ugnpicaY0-A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ugnpicaY0-A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ugnpicaY0-A/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/O5x0qXtWWcw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ugnpicaY0-A/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O5x0qXtWWcw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 125,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 173,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ugnpicaY0-A"
+          "videoId": "O5x0qXtWWcw"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "ugnpicaY0-A",
-        "videoPublishedAt": "2018-04-02T06:28:17Z"
+        "videoId": "O5x0qXtWWcw",
+        "videoPublishedAt": "2022-09-09T10:00:15Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J6rOd52cLDYIXyFSv4CSVnfwKbU",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmZXT1IwaFp1bzNz",
+      "etag": "z_fgHdOqMU0pSfByGJquYTTHoqU",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnhwNkJmTFd1UHlB",
       "snippet": {
-        "publishedAt": "2018-03-07T19:14:10Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "BF4撮影中の楽しかった所抜粋.mp114514",
-        "description": "短刀世界6位のクソザコナメクジなので初投稿です。\nAviUtlの動作テストのため若干臭い要素が\n入ってるけど、多少はね？\n\nPS3版は読み込み遅いし動作重いし\nまったくもって頭に来ますよ～（半ギレ）\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps、\nサンプリングレートは 44100Hz、\n音声コーデックは AAC 128kbps です。\n\n東方が大好きなので俺はノンケ。\nQ.E.D.\nF.C.O.H.\n\nBF5は現代戦であってほしい･･･ ほしくない？\n\n\n\n\n\n※注意※\nこの動画は一部の方にとって不快、\nまたは不適切なネタを含んでいるかもしれません。\nご視聴の際は、あくまでも自己責任で\nお願い申し上げます。\nお覚悟を。",
+        "publishedAt": "2022-09-02T13:28:58Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】!!!!!!DataErr0r!!!!!!【ゆっくり実況】",
+        "description": "ちなみに死ぬほど沼ってます。\nDataErr0r、完全に予想外だった。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:DataErr0r\nArtist:Cosmograph(@cosmograph0)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fWOR0hZuo3s/default.jpg",
+            "url": "https://i.ytimg.com/vi/xp6BfLWuPyA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fWOR0hZuo3s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xp6BfLWuPyA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fWOR0hZuo3s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 126,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fWOR0hZuo3s"
-        },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
-      },
-      "contentDetails": {
-        "videoId": "fWOR0hZuo3s",
-        "videoPublishedAt": "2018-03-07T19:14:10Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "em6p5Oj_6k02IW-UpaEvJ9AQSxI",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjBaNHhSYmFmTDhr",
-      "snippet": {
-        "publishedAt": "2018-03-06T07:01:34Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3】Minecraft 戦車紹介 & コメント拾い【ゆっくり実況】",
-        "description": "※720p60の画質設定での視聴をお勧めします。\n\nどうも、チビすけです。\n今回は今まで動画に映ってはいたけど\n紹介はしてなかった戦車たちの紹介･･･\nという名目ですが、主目的はコメント拾いです。\n\nアップデートによる度重なる仕様変更の影響で\n現在PS3版にて使用可能なカートキャノンは\n存在しないので、残念ながら射撃などは\n行っておりません。あしからず。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps、\nサンプリングレートは 44100Hz、\n音声コーデックは AAC 128kbps\nで作成しました。\n\n今回はBGMがちょっと臭い（確信）",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0Z4xRbafL8k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0Z4xRbafL8k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0Z4xRbafL8k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xp6BfLWuPyA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0Z4xRbafL8k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xp6BfLWuPyA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0Z4xRbafL8k/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xp6BfLWuPyA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 127,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 174,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0Z4xRbafL8k"
+          "videoId": "xp6BfLWuPyA"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "0Z4xRbafL8k",
-        "videoPublishedAt": "2018-03-06T07:01:34Z"
+        "videoId": "xp6BfLWuPyA",
+        "videoPublishedAt": "2022-09-02T13:28:58Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "K9nfeUA2tcEjzYaoY9BA2RYYDLY",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjcwSFBWRjlFUFNz",
+      "etag": "xhmUXNg32lijaG2IjavUCjxMHNs",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLm10bnN0bC1XSXpZ",
       "snippet": {
-        "publishedAt": "2018-03-03T07:05:47Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft】軍用トラックの作り方【ゆっくり実況】",
-        "description": "※今回はおまけが本編です\n\n720p60の画質設定での視聴をお勧めします。\n\nどうも、花粉症に悩まされるチビすけです。\n今回は比較的簡単に作れる軍用トラックです。\nおまけまで動画飛ばすんじゃねぇぞ･･･\n\n今回の実況チームはちょっと\nキャラ作り失敗したかもしれません。\nすいません許してください、何でもしますから。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは59.94fps、\nサンプリングレートは44100Hz、\n音声コーデックはAAC 128kbps で作成しました。",
+        "publishedAt": "2022-08-29T12:00:26Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】チャンネル登録者1000人記念！好きな譜面を語ってみようの回",
+        "description": "TAKUMI³で譜面制作をさせてもらっているのですが、今まで譜面制作者っぽい動画を上げていなかったのでたまにはメインで実況してるPhigrosの好きな譜面を語ってみようかなと思って作成しました。\n\n改めてチャンネル登録者数1000人ありがとうございます！これからもよろしくお願いします！\n\n(敬称略)\n動画参考：秘密\n\n添削協力：秘密\n　　　　　ふりーだむ\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/70HPVF9EPSs/default.jpg",
+            "url": "https://i.ytimg.com/vi/mtnstl-WIzY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/70HPVF9EPSs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mtnstl-WIzY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/70HPVF9EPSs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mtnstl-WIzY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/70HPVF9EPSs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mtnstl-WIzY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/70HPVF9EPSs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mtnstl-WIzY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 128,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 175,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "70HPVF9EPSs"
+          "videoId": "mtnstl-WIzY"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "70HPVF9EPSs",
-        "videoPublishedAt": "2018-03-03T07:05:47Z"
+        "videoId": "mtnstl-WIzY",
+        "videoPublishedAt": "2022-08-29T12:00:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QC_LcaGnvjGFd0NYpNAdKNrhFmk",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkQ3RkJlZ3Y5OTVJ",
+      "etag": "xD9oxESGqzS4Lnts9iclLJDAGIY",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLndsQXd1azdnUFNZ",
       "snippet": {
-        "publishedAt": "2018-02-22T07:07:46Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【BF4】チーターと戦ってきました【ゆっくり実況】",
-        "description": "どうも、チビすけです。\n今回はPS3版BF4にチーターが\n現れたので、撮影して適当に編集して\nうpしました。\nゆっくり実況っていうか\nゆっくり淫夢実況？\n\nチート行為は運営、開発元、\nプレイヤー、などの関係者全員にとって\n迷惑となる行為です。\nオンラインでチートを使用するのは\n絶対にやめましょう。",
+        "publishedAt": "2022-08-15T09:00:22Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】‽常識外れのギミック‽ !nterroban(?,【ゆっくり実況】",
+        "description": "この曲が遊べる音ゲーがあるってマジですか‽\n\n追記\nコミュニティもですが動画内の字幕とか含めて曲名全部間違えてました。正しくは\"!nterroban(?,\"です、カンマなかった。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:!nterroban(?,\nArtist:Aoi(@BLUEnoup)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/D7FBegv995I/default.jpg",
+            "url": "https://i.ytimg.com/vi/wlAwuk7gPSY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/D7FBegv995I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wlAwuk7gPSY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/D7FBegv995I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wlAwuk7gPSY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/D7FBegv995I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/wlAwuk7gPSY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/D7FBegv995I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wlAwuk7gPSY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 129,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 176,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "D7FBegv995I"
+          "videoId": "wlAwuk7gPSY"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "D7FBegv995I",
-        "videoPublishedAt": "2018-02-22T07:07:46Z"
+        "videoId": "wlAwuk7gPSY",
+        "videoPublishedAt": "2022-08-15T09:00:22Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wc9oyVlkH991OTXoasbna_5CsMU",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLm95Y2J0Y0JIZlNF",
+      "etag": "noLPHSSKbX1T1YzhGJdhz9Mgj98",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLjBRV3RFZDVqejZj",
       "snippet": {
-        "publishedAt": "2018-01-21T04:00:07Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft】Su-27っぽい航空機の作り方【ゆっくり実況】",
-        "description": "どうもどうも。チビすけです。\n今回はいつもの動画シリーズです。\nSu-27 フランカー ...っぽい航空機の\n作り方をご紹介します。\n今回の兵器はPCとCS両対応なので\n動画にPS3のタグは付けてません。\n今回は一番動画作成に手間取りましたが\n一番時間がかかってないという謎。\nこれもうわかんねぇな。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは59.94fpsで作成しました。\n\nSu-27について知りたい人はこ↑こ↓\nhttps://ja.wikipedia.org/wiki/Su-27",
+        "publishedAt": "2022-08-07T12:41:22Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】ボカロとロックの波に乗って行け！！ 解脱【ゆっくり実況】",
+        "description": "ギターソロえぐすぎる。やはりボカロ曲が遊べるのはいいですね...\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:解脱\nArtist:蓮実えれな(@elena_hasumi)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oycbtcBHfSE/default.jpg",
+            "url": "https://i.ytimg.com/vi/0QWtEd5jz6c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oycbtcBHfSE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0QWtEd5jz6c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oycbtcBHfSE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0QWtEd5jz6c/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oycbtcBHfSE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0QWtEd5jz6c/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/oycbtcBHfSE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0QWtEd5jz6c/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 130,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 177,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "oycbtcBHfSE"
+          "videoId": "0QWtEd5jz6c"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "oycbtcBHfSE",
-        "videoPublishedAt": "2018-01-21T04:00:07Z"
+        "videoId": "0QWtEd5jz6c",
+        "videoPublishedAt": "2022-08-07T12:41:22Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UtFuHH88whbyPfbUCmdJXRY_ztw",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlF4YjE1MHNzRXJV",
+      "etag": "zjRZMfYuOcOzVjXGCBrHPiRwmxE",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLndyTzU2NUtjbDFn",
       "snippet": {
-        "publishedAt": "2018-01-18T01:59:12Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【ゆっくり実況】新年特別編！ BF4を楽しく実況【BF4 / PS3版】",
-        "description": "あけましておめでとうございます。\nチビすけです。\n今回は新年ということで番外編となってます。\nほんへは1:20からだゾ\n\n動画の解像度は1280x720 ハーフHD 、\nフレームレートは59.94fpsで作成しました。\nって言ってもPS3版のBF4は40fpsくらいなので\n59.94fpsにする必要はあんまり無い希ガス。",
+        "publishedAt": "2022-07-30T04:00:32Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】和風×初見殺し譜面 月下缭乱【ゆっくり実況】",
+        "description": "結局AP1時間ほどかかりました。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:月下缭乱\nArtist:月見静華 vs. LUNARiUM\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Qxb150ssErU/default.jpg",
+            "url": "https://i.ytimg.com/vi/wrO565Kcl1g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Qxb150ssErU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wrO565Kcl1g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Qxb150ssErU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wrO565Kcl1g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Qxb150ssErU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/wrO565Kcl1g/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Qxb150ssErU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wrO565Kcl1g/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 131,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 178,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Qxb150ssErU"
+          "videoId": "wrO565Kcl1g"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "Qxb150ssErU",
-        "videoPublishedAt": "2018-01-18T01:59:12Z"
+        "videoId": "wrO565Kcl1g",
+        "videoPublishedAt": "2022-07-30T04:00:32Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c_zaTs_HRbNejnDnwdXMIAjqBBc",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmUtbzY3aFB6UVkw",
+      "etag": "AdolbaZt4xqh6h9N1gs9fG2SW3A",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLm9NVXFCZlgtd2hN",
       "snippet": {
-        "publishedAt": "2017-12-26T02:15:12Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【Minecraft軍事部】タイビィ連邦国 海軍紹介【ゆっくり実況】",
-        "description": "※HD画質での視聴をオススメします。\n\nみなさんどうも、チビすけです。\n色塗りは得意だけど絵は上手くないので初投稿です（大嘘）\n\n今回はやっと海軍の紹介動画を作りました。\nあとコメント拾いもやってます。\n今回はスペシャルゲストが居たり居なかったり。\n\n解像度は1280x720 ハーフHD、\nフレームレートは59.94fpsで作成しました。\n\nエンコードの時に何らかの問題でごく一部\n動画がおかしいですが、エンコードを何回も\nやり直すのは辛いのでお慈悲＾～\n\nそれではみなさん、よいお年を。\n\nあとなんとなくTwitter始めました\nhttps://twitter.com/tibi241_TYFE",
+        "publishedAt": "2022-07-20T12:00:26Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【概要欄を読んでください】Phigros 平均密度ランキング TOP30(2022.07)【Phigros】",
+        "description": "2022.07時点のPhigros全譜面の平均密度を計測してランキングにしました。例によって間違いがある可能性があります。\n\n[重要]\n下に書いてある通りなんですが、超致命的なミスがあったので間違いがあるどころか間違いだらけです。2/3は間違えてます。\nなので修正版の動画を作ろうと思います、最低でも9月中には出します。\n\n[訂正]\n一番最初の2022/07/18→2020/07/20(まぁ間にアプデないのでどっちでもいいんですが...)\n28位 誤 Keberos → 正 Kerberos\n22位 You Are The Miserable ノーツ数 1334→1344 平均密度 8.20notes/sec\n↑Wikiの方にミスがありました...。確認不足。これによって順位も入れ替わります。22位 狂喜乱舞 AT 21位 You Are  The Miserable ATが正しい順位です。申し訳ございません。\n\n25位 Igallta 演奏時間 2:20→2:02\n↑これもWikiが間違えてました、これで順位入れ替わりまくります。\nIgallta AT 9.13notes/sec 25位→10位\nまた、ランク外でしたがIgallta IN 8.34notes/sec 36位→21位\nということなので入れ替わるとかそういう話じゃなくなってきます、この2つが致命的すぎたので後々改訂版作ります...。\n\nPhigros Wiki*\nhttps://wikiwiki.jp/phigros/\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nTwitter→https://twitter.com/minnonmpp5\n\n#Phigros",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/e-o67hPzQY0/default.jpg",
+            "url": "https://i.ytimg.com/vi/oMUqBfX-whM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/e-o67hPzQY0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oMUqBfX-whM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/e-o67hPzQY0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oMUqBfX-whM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/e-o67hPzQY0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oMUqBfX-whM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/e-o67hPzQY0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oMUqBfX-whM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 132,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 179,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "e-o67hPzQY0"
+          "videoId": "oMUqBfX-whM"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "e-o67hPzQY0",
-        "videoPublishedAt": "2017-12-26T02:15:12Z"
+        "videoId": "oMUqBfX-whM",
+        "videoPublishedAt": "2022-07-20T12:00:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kxpezlXAzPk4Z3K5xVbCSm19RoA",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlJkbzlwRV95blVz",
+      "etag": "nuIA5f9vkmr7P039FjXbrK2rlpc",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLk9IZE5yajhNME04",
       "snippet": {
-        "publishedAt": "2017-11-29T05:37:52Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft 艦船用の小物の作り方【ゆっくり実況】",
-        "description": "※今回はコメ拾い、ありますあります。\n\nどうも、最近暇なチビすけです。\n今回は艦船（主にイージス艦）に乗せる\n小物を色々作っていきます。\n(CIWS、レーダー、速射砲 etc.)\n一部、すごくしょぼい物もありますが、\nその辺は各位改造して、どうぞ。\n\n解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fpsで作成しました。",
+        "publishedAt": "2022-07-18T11:00:13Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】見た目で攻める音ゲー譜面 Unshakable【ゆっくり実況】",
+        "description": "ノーツ数の増え方があまりにも狂ってる、そしてただただ面白い笑いしか出ない。最高の譜面でした。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Unshakable\nArtist:RiraN(@riranofficial)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Rdo9pE_ynUs/default.jpg",
+            "url": "https://i.ytimg.com/vi/OHdNrj8M0M8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Rdo9pE_ynUs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OHdNrj8M0M8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Rdo9pE_ynUs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OHdNrj8M0M8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Rdo9pE_ynUs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/OHdNrj8M0M8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Rdo9pE_ynUs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OHdNrj8M0M8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 133,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 180,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Rdo9pE_ynUs"
+          "videoId": "OHdNrj8M0M8"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "Rdo9pE_ynUs",
-        "videoPublishedAt": "2017-11-29T05:37:52Z"
+        "videoId": "OHdNrj8M0M8",
+        "videoPublishedAt": "2022-07-18T11:00:13Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cDqoSTCsPh9Z4cAdnYQmaOpil9w",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLlVRQndpbXdiejBJ",
+      "etag": "7mK_rgsKra3iRzWdlV19nny03eU",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLndGVXdXT0RKcW5N",
       "snippet": {
-        "publishedAt": "2017-11-27T14:00:20Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft ヘリコプターの作り方 ～UH-1Y～【ゆっくり実況】",
-        "description": "※今回はおまけ有り\n\nどうも、チビすけです。\n今回はまたまたヘリの作り方です。\n更新ペースを上げた結果、\n動画がgdgdになったよ！！\n\n椛の耳ピクピクかわいい…\nかわいくない？\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは59.94fpsで\n作成しました。\n\nおまけで使用されていた画像は\nこ↑こ↓からDL出来るゾ～\nhttps://drive.google.com/open?id=1GtCVBFDnYDVnOvkaKmtE9XqIB2MIX4Gd\n\nUH-1Yについて知りたい人はこ↑こ↓\nhttps://ja.wikipedia.org/wiki/UH-1Y_%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%A0",
+        "publishedAt": "2022-07-10T14:00:35Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】RiraN参戦！片手同時押しの極み Daydream【ゆっくり実況】",
+        "description": "実はこれクッソむずいです。片手3点混フレマジでむずい\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Daydream\nArtist:RiraN(@riranofficial)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UQBwimwbz0I/default.jpg",
+            "url": "https://i.ytimg.com/vi/wFUwWODJqnM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UQBwimwbz0I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wFUwWODJqnM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UQBwimwbz0I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wFUwWODJqnM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UQBwimwbz0I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/wFUwWODJqnM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UQBwimwbz0I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wFUwWODJqnM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 134,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 181,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "UQBwimwbz0I"
+          "videoId": "wFUwWODJqnM"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "UQBwimwbz0I",
-        "videoPublishedAt": "2017-11-27T14:00:20Z"
+        "videoId": "wFUwWODJqnM",
+        "videoPublishedAt": "2022-07-10T14:00:35Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "apG8WWdiC1mOFYbZBCoA-HdLaPM",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLmxOX21wNGpuQUlr",
+      "etag": "5qHFhmBddkQ_UfKq4ZYSuuhVTe0",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLm9DXzFWeHVfZ0tR",
       "snippet": {
-        "publishedAt": "2017-11-15T22:44:01Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "チャンネルの紹介と今後あれこれ【ゆっくりトーク】",
-        "description": "どうも、チビすけでございます。\nというか、おそらく現在この動画をご覧になっている\nほとんどの方は初めてだと思うので、初めまして。\n\n今回はチャンネルの紹介と今後の方針などについて\nうちのゆっくり達が喋るだけの動画です。\n\n動画の解像度は 1280x720 ハーフHD、\nフレームレートは 59.94fps で作成しました。",
+        "publishedAt": "2022-07-04T14:12:06Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】ついにやってきたLv15+、理想郷は何処へ... a truth seeker -Communication with Utopia will be lost-【ゆっくり実況】",
+        "description": "FCはできたのでヨシです。バカむずいけどいい譜面。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:a truth seeker -Communication with Utopia will be lost-\nArtist:kuro(@taikokuro96)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lN_mp4jnAIk/default.jpg",
+            "url": "https://i.ytimg.com/vi/oC_1Vxu_gKQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lN_mp4jnAIk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oC_1Vxu_gKQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lN_mp4jnAIk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 135,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "lN_mp4jnAIk"
-        },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
-      },
-      "contentDetails": {
-        "videoId": "lN_mp4jnAIk",
-        "videoPublishedAt": "2017-11-15T22:44:01Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZK_GVl1Hi-i1YjBVR4-q7va72yo",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLi0xamZHM0plZkRV",
-      "snippet": {
-        "publishedAt": "2017-11-05T08:11:23Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft ヘリコプターの作り方 ～UH-60～【ゆっくり実況】",
-        "description": "どうも、チビすけです。\n今回はブラックホークの作り方です。\n（特筆すべき事は特に）ないです。\n\nって言うのは嘘。嘘つきはホモ。\n今回はBGMの雰囲気をガラッと変えました。\n気に入って頂ければ幸いです。\n\n動画の解像度は 1920x1080 フルHD、\nフレームレートは 48fps で作成しました。\n\nUH-60について知りたい人はこ↑こ↓\nhttps://ja.wikipedia.org/wiki/UH-60_%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF\n\n今回の実況メンバーのテーマは風神録です。\nず　　　り　　　あ　　　や",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-1jfG3JefDU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-1jfG3JefDU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-1jfG3JefDU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oC_1Vxu_gKQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-1jfG3JefDU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oC_1Vxu_gKQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-1jfG3JefDU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oC_1Vxu_gKQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 136,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 182,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-1jfG3JefDU"
+          "videoId": "oC_1Vxu_gKQ"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "-1jfG3JefDU",
-        "videoPublishedAt": "2017-11-05T08:11:23Z"
+        "videoId": "oC_1Vxu_gKQ",
+        "videoPublishedAt": "2022-07-04T14:12:06Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k0rGniyNkGmvB6brJ77e-Fj4evA",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLjg0SHRWMlQya28w",
+      "etag": "k0U_E5cKkqG0EV7HPc_B7HJmhk8",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLlFaLXd5QWZRcHJZ",
       "snippet": {
-        "publishedAt": "2017-09-12T16:05:56Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft 歩兵機動車の作り方【ゆっくり実況】",
-        "description": "720p以上の画質で視聴することをお勧めします。\n\n※ここから本文※\nウィィィィィィィ↑ッス\nどうも～ チビすけで～す。\n今日は...　え、なに？怒られるからやめとけって？\n\nようやく軍事部らしい兵器をお見せすることができました。\n今回は、我が軍の軽装甲車両「ЛБВМ《Граза》」の\n作り方を紹介します。\n\n今回の動画はガンダム要素がちょっと多いです。\n前半はネタづくしで、後半はつまんない話ばっかです。\nこれはもうわかんねぇな。\n\nそれと、東方の曲初登場とか言ってますが\n実は2回目でした。センセンシャル！\n\nもしかしたら、あと2ヶ月くらい投稿できないかもです。\nすいません、許してください、何でもしますから。\n\n今回のテーマ：東方花映塚",
+        "publishedAt": "2022-06-25T04:00:07Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】Lanotaコラボラスボス！！もはやなんでもありである Stasis(AT)【ゆっくり実況】",
+        "description": "Lanotaコラボこれにて終了です！！大変だったけど楽しかった～\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Stasis\nArtist:Maozon(@maozon)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/84HtV2T2ko0/default.jpg",
+            "url": "https://i.ytimg.com/vi/QZ-wyAfQprY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/84HtV2T2ko0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ-wyAfQprY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/84HtV2T2ko0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ-wyAfQprY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/84HtV2T2ko0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ-wyAfQprY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/84HtV2T2ko0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ-wyAfQprY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 137,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 183,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "84HtV2T2ko0"
+          "videoId": "QZ-wyAfQprY"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "84HtV2T2ko0",
-        "videoPublishedAt": "2017-09-12T16:05:56Z"
+        "videoId": "QZ-wyAfQprY",
+        "videoPublishedAt": "2022-06-25T04:00:07Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G69rT0IbzsbmDhL6mswwJ2H5_VI",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLnRMOWRqNUZ1b1Uw",
+      "etag": "dWah3M6EtM3XR7XbhZ65DLDRwJA",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkpza3hZaU5kOUQw",
       "snippet": {
-        "publishedAt": "2017-08-06T13:57:20Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft 戦車の作り方 ～MT-72～【ゆっくり実況】",
-        "description": "どうも、ようやく本領発揮のチビすけです。\nやっと本編の動画が作れましたね。はい。\n\n今回は、輸出用のMBTの作り方を紹介しました。\n今回の実況チームのテーマは妖々夢です。\nエンコードが4回失敗したので、\n出来上がった時にはマジで泣きそうになった。\n\n動画は、1280x720 ハーフHD、48fpsで作成しました。\n画質を落とすと字幕などその他もろもろ見えないかもです。",
+        "publishedAt": "2022-06-20T12:00:38Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】激重同時押し + 見えない You are the Miserable(AT)【ゆっくり実況】",
+        "description": "ちなみにAP結局40分くらいかかりました(\nLanotaコラボも残り1譜面...\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:You are the Miserable\nArtist:t+pazolite(@tpazolite)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tL9dj5FuoU0/default.jpg",
+            "url": "https://i.ytimg.com/vi/JskxYiNd9D0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tL9dj5FuoU0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JskxYiNd9D0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tL9dj5FuoU0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JskxYiNd9D0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/tL9dj5FuoU0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/JskxYiNd9D0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/tL9dj5FuoU0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JskxYiNd9D0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 138,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 184,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "tL9dj5FuoU0"
+          "videoId": "JskxYiNd9D0"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "tL9dj5FuoU0",
-        "videoPublishedAt": "2017-08-06T13:57:20Z"
+        "videoId": "JskxYiNd9D0",
+        "videoPublishedAt": "2022-06-20T12:00:38Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6WdC2Od1kISIjKGsZLe-n5Vh_UE",
-      "id": "VVVWQ0l3eTlDOW5aQ1NnTUJhbmJpY09RLkl5MnBRdllvMjdJ",
+      "etag": "Te4NC1pKX_UlLMS1zIfvKoYMeIg",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLk1XaW1NU05qVkZZ",
       "snippet": {
-        "publishedAt": "2015-09-11T18:01:05Z",
-        "channelId": "UCVCIwy9C9nZCSgMBanbicOQ",
-        "title": "【PS3/Xbox】Minecraft 戦闘機の作り方～F-35編～【ゆっくり解説】",
-        "description": "どうも、編集おわってクタクタなチビです。\n今回は、｢紹介｣ではなく｢作り方｣です。\nうちのゆっくりたちが何とか動いてくれましたw\n｢tibi241｣フレンド募集中です。\n(Vitaからの依頼は受け付けません)\n撮影機器:Qriom AMC-100",
+        "publishedAt": "2022-06-17T14:00:28Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】Lanotaからの刺客、前哨戦 Stasis(IN)【ゆっくり実況】",
+        "description": "Q.LanotaのStasisはどうなんですか？\n\nA.無理(900000ギリくらい)\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Stasis\nArtist:Maozon(@maozon)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Iy2pQvYo27I/default.jpg",
+            "url": "https://i.ytimg.com/vi/MWimMSNjVFY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Iy2pQvYo27I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MWimMSNjVFY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Iy2pQvYo27I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MWimMSNjVFY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Iy2pQvYo27I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/MWimMSNjVFY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Iy2pQvYo27I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MWimMSNjVFY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "チビすけ",
-        "playlistId": "UUVCIwy9C9nZCSgMBanbicOQ",
-        "position": 139,
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 185,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Iy2pQvYo27I"
+          "videoId": "MWimMSNjVFY"
         },
-        "videoOwnerChannelTitle": "チビすけ",
-        "videoOwnerChannelId": "UCVCIwy9C9nZCSgMBanbicOQ"
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
       },
       "contentDetails": {
-        "videoId": "Iy2pQvYo27I",
-        "videoPublishedAt": "2015-09-11T18:01:05Z"
+        "videoId": "MWimMSNjVFY",
+        "videoPublishedAt": "2022-06-17T14:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CjyE0fNtrtltrpXJJZjK3IukGCo",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLkRkNXVMQkN5NzBr",
+      "snippet": {
+        "publishedAt": "2022-06-15T14:00:35Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】再現と個性 You are the Miserable(IN)【ゆっくり実況】",
+        "description": "ちなみにこの後AP結構沼りました。\nATはまたそのうち出ます。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:You are the Miserable\nArtist:t+pazolite(@tpazolite)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dd5uLBCy70k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dd5uLBCy70k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dd5uLBCy70k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dd5uLBCy70k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dd5uLBCy70k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 186,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dd5uLBCy70k"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "Dd5uLBCy70k",
+        "videoPublishedAt": "2022-06-15T14:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j9tCiIgxqgmXiGaxnJU8r3kJRXo",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLjlna29SMkNuUHB3",
+      "snippet": {
+        "publishedAt": "2022-06-13T11:00:28Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】本当の敵は脳トレ Horizon Blue【ゆっくり実況】",
+        "description": "Protoflickerよりはまだ楽でした。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Horizon Blue\nArtist:Nothing But Requiem feat. Aikapin ＆Chiyoko(@NBRdesign,@aikapin,@_okp)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9gkoR2CnPpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9gkoR2CnPpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9gkoR2CnPpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9gkoR2CnPpw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9gkoR2CnPpw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 187,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9gkoR2CnPpw"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "9gkoR2CnPpw",
+        "videoPublishedAt": "2022-06-13T11:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ymq64B8UHEXpJdj9LCr3PVh_o50",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLjl6UmoydUFhNEU0",
+      "snippet": {
+        "publishedAt": "2022-06-11T12:30:42Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】Lanotaコラボ開幕！！でも流石に飛ばしすぎ Protoflicker【ゆっくり実況】",
+        "description": "Lanotaコラボ想像よりやばすぎて笑ってます。\n15.2は絶対ないです。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Protofilcker\nArtist:Silentroom(@plcube)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9zRj2uAa4E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9zRj2uAa4E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9zRj2uAa4E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9zRj2uAa4E4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9zRj2uAa4E4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 188,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9zRj2uAa4E4"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "9zRj2uAa4E4",
+        "videoPublishedAt": "2022-06-11T12:30:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MjDwEZZDfkaMtr7GkVLBk4VQ9Wk",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnIzRUstblJFS1dR",
+      "snippet": {
+        "publishedAt": "2022-06-09T14:07:27Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】流石神終了のお知らせ GOODWORLD【ゆっくり実況】",
+        "description": "TAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:GOODWORLD\nArtist:EBIMAYO(@ebimayo3150)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3EK-nREKWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3EK-nREKWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3EK-nREKWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3EK-nREKWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3EK-nREKWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 189,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r3EK-nREKWQ"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "r3EK-nREKWQ",
+        "videoPublishedAt": "2022-06-09T14:07:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QLlUgh2u5Q_7UrdVc1XXm81YVYo",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLm9aZ3IzemFPRjVJ",
+      "snippet": {
+        "publishedAt": "2022-06-06T11:02:34Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】再戦 Wütender Postbote【ゆっくり実況】",
+        "description": "RAVAGE、やばい。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Wütender Postbote\nArtist:Now Filed(@_4dcn)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oZgr3zaOF5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oZgr3zaOF5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZgr3zaOF5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oZgr3zaOF5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oZgr3zaOF5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 190,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oZgr3zaOF5I"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "oZgr3zaOF5I",
+        "videoPublishedAt": "2022-06-06T11:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PlZZzxed3vq4Bh9-4yBtX7UIVUI",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLlpLYXVoQy1tMXVZ",
+      "snippet": {
+        "publishedAt": "2022-06-02T14:31:59Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】異常密度、パックボス枠 INFiNiTE ENERZY -Overdoze-【ゆっくり実況】",
+        "description": "大変な曲だぁ...\nちなみにこの後AJしました、マジで嬉しかった\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:INFiNiTE ENERZY -Overdoze-\nArtist:Reku Mochizuki(@rekumczk)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZKauhC-m1uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZKauhC-m1uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZKauhC-m1uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZKauhC-m1uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZKauhC-m1uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 191,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZKauhC-m1uY"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "ZKauhC-m1uY",
+        "videoPublishedAt": "2022-06-02T14:31:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X_uYgZOCUImWw1noc7x-7nnzsDs",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLjFCekhxY2NNOXQw",
+      "snippet": {
+        "publishedAt": "2022-05-28T23:15:23Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】【単発】？？？？？？？？？？？？？【ゆっくり実況】",
+        "description": "ノルマ達成。\n編集時間、なんと20分()\n\n(致命的なミスがあったので再公開しました)\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Eltaw\nArtist:Fl00t(@F_100_t)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BzHqccM9t0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BzHqccM9t0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BzHqccM9t0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1BzHqccM9t0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1BzHqccM9t0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 192,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1BzHqccM9t0"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "1BzHqccM9t0",
+        "videoPublishedAt": "2022-05-28T23:15:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jOeuj4b7cXSDND5yNUSC9U1wybA",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLllIMDYzcFpJTmc0",
+      "snippet": {
+        "publishedAt": "2022-05-28T13:44:26Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】最近話題の\"アノ人\"がやってきたぞ！！ KiNG FORM -XIII-【ゆっくり実況】",
+        "description": "めっちゃいい曲だしめっちゃ楽しい譜面、むずいけど。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:KiNG FORM -XIII-\nArtist:Reku Mochizuki(@rekumczk)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YH063pZINg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YH063pZINg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YH063pZINg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YH063pZINg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YH063pZINg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 193,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YH063pZINg4"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "YH063pZINg4",
+        "videoPublishedAt": "2022-05-28T13:44:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TZ4wGqQrav3v_nxcS5lyTc98HfE",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnNacnNFcTVVVUo0",
+      "snippet": {
+        "publishedAt": "2022-05-23T11:07:49Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】全てを超えてくる音ゲー opia【ゆっくり実況】",
+        "description": "？\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:opia\nArtist:rN(@rn_dtm)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZrsEq5UUJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZrsEq5UUJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZrsEq5UUJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZrsEq5UUJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZrsEq5UUJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 194,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZrsEq5UUJ4"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "sZrsEq5UUJ4",
+        "videoPublishedAt": "2022-05-23T11:07:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hp9OOKy7tn7TXbatoyN8WYICzqs",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnJIcVQxbjkweFhz",
+      "snippet": {
+        "publishedAt": "2022-05-22T06:25:22Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】超絶技巧+かつてないギミック INFiNiTE ENERZY -Overdoze-【ゆっくり実況】",
+        "description": "完全に乗り遅れましたがこれにてSide Chapter2完結！とても面白い譜面が多かったです。そのうちAP詰めもしたい...！\n次回はopiaになります。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:INFiNiTE ENERZY -Overdoze-\nArtist:Reku Mochizuki(@RekuMczk)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHqT1n90xXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHqT1n90xXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHqT1n90xXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rHqT1n90xXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rHqT1n90xXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 195,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rHqT1n90xXs"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "rHqT1n90xXs",
+        "videoPublishedAt": "2022-05-22T06:25:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hgNqMB-f7rVuvQUwH7F2ObcJT18",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLm1XSFBGUmJZVThJ",
+      "snippet": {
+        "publishedAt": "2022-05-20T11:59:38Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】横へ上へどこまでも After Dawn【ゆっくり実況】",
+        "description": "もう既に新曲が公開されましたが、After Dawnです。大変でした。\n\nPhigros DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:After Dawn\nArtist:S9ryne(@s9ryne1)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWHPFRbYU8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWHPFRbYU8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWHPFRbYU8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mWHPFRbYU8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mWHPFRbYU8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 196,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mWHPFRbYU8I"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "mWHPFRbYU8I",
+        "videoPublishedAt": "2022-05-20T11:59:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nXxj8_bUQv_olT2MQNWJCkVClbk",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLmVNa01XZzNYZ04w",
+      "snippet": {
+        "publishedAt": "2022-05-14T12:45:09Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】BPM222.22、RAVAGEの殺意。 Valmung【ゆっくり実況】",
+        "description": "これは酷い、初見でやるもんじゃねぇ！\n次回からはPhigrosの動画を上げます、Side Chapter2を終わらせに行くぞ～\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Valmung\nArtist:！すでのな(@nanodesu_DTM)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMkMWg3XgN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMkMWg3XgN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMkMWg3XgN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eMkMWg3XgN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eMkMWg3XgN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 197,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eMkMWg3XgN0"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "eMkMWg3XgN0",
+        "videoPublishedAt": "2022-05-14T12:45:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lGGcvnxlRqatvMCKEJAUqPmg3-4",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnkxTUpGdnNfYkJB",
+      "snippet": {
+        "publishedAt": "2022-05-11T13:00:00Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【TAKUMI³】これが\"RAVAGE\"の世界... Marionette Lady【ゆっくり実況】",
+        "description": "初見マジで大変でした...Valmungはもう録画してあるので近いうちに上げれるように頑張ります。\n\nTAKUMI³ DL↓\nAndroid: https://play.google.com/store/apps/details?id=com.thiqxis.takumicubic&hl=ja&gl=US\niOS: https://apps.apple.com/us/app/takumi-%E3%82%BF%E3%82%AF%E3%83%9F%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF/id1491836718\n\nMusic:Marionette Lady\nArtist:Dimer.(@Dimier_Lisb1126)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#TAKUMI³\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y1MJFvs_bBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y1MJFvs_bBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y1MJFvs_bBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y1MJFvs_bBA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y1MJFvs_bBA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 198,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y1MJFvs_bBA"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "y1MJFvs_bBA",
+        "videoPublishedAt": "2022-05-11T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wPRWXMMEBBDVA4ZHrP5es-S-zSQ",
+      "id": "VVVUS1pLZWdfdnBUMWdudUZMc3VrWEJRLnUyVUVvRG1JeWRn",
+      "snippet": {
+        "publishedAt": "2022-05-08T14:02:22Z",
+        "channelId": "UCTKZKeg_vpT1gnuFLsukXBQ",
+        "title": "【Phigros】Side Chaptor2始動！新たなLv14\"詐称\"枠 Ark【ゆっくり実況】",
+        "description": "なおAPできてません。\nこの後のAfter DawnとINFiNITE ENERGYは投稿時点では未プレイです。楽しみ～\n\nPhigros DL↓\nAndroid: https://re.wikiwiki.jp/?https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros\niOS: https://re.wikiwiki.jp/?https://apps.apple.com/jp/app/phigros/id1454809109\n\nMusic:Ark\nArtist:kanoryo(@_kanopop_)\n\nTwitter→https://twitter.com/minnonmpp5\n\n--使用させていただいた音源--\n\nDOVA-SYNDROME:https://dova-s.jp/\n効果音ラボ:https://soundeffect-lab.info/\n魔王魂:https://maou.audio/\n\n#Phigros\n#ゆっくり実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2UEoDmIydg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2UEoDmIydg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2UEoDmIydg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u2UEoDmIydg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u2UEoDmIydg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "minnon",
+        "playlistId": "UUTKZKeg_vpT1gnuFLsukXBQ",
+        "position": 199,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u2UEoDmIydg"
+        },
+        "videoOwnerChannelTitle": "minnon",
+        "videoOwnerChannelId": "UCTKZKeg_vpT1gnuFLsukXBQ"
+      },
+      "contentDetails": {
+        "videoId": "u2UEoDmIydg",
+        "videoPublishedAt": "2022-05-08T14:02:22Z"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 140,
+    "totalResults": 265,
     "resultsPerPage": 50
   }
 }
