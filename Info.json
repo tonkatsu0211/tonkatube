@@ -1,12 +1,63 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "cdpd_2c5gvOLhAQJkTgPMK-VqcE",
-  "nextPageToken": "EAAaH1BUOkNNZ0JJaEEzTjBFeU56ZzBRMEV6TkRBME5FUTU",
-  "prevPageToken": "EAEaH1BUOkNKWUJJaEE1TTBVM09UaEZRa0kwUlRoQk9FUkY",
+  "etag": "lNtHZaTvr6eFVvROU3tbjv863Gg",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEF6UXpFeVFUVTJOakV3UmpWRE1qWTU",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEJHUkRJMlJFVTNPVEJFTkRZM1F6QTI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "SlZOkXRICjJVGk5RP9nYDRsnTY0",
+      "etag": "JZCXYfKeZiKKjrDElTxReogWE7g",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlBGWngtZDlqRUhN",
+      "snippet": {
+        "publishedAt": "2025-05-01T06:11:04Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】...おや？ ソファーの様子が...！！！ 913/2800 Season2 30日目",
+        "description": "🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n本日(4/28)まで語録アパレルのスタンダード半Tと長Tが700円OFF！ この機会をお見逃しなく！ \n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 150,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PFZx-d9jEHM"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "PFZx-d9jEHM",
+        "videoPublishedAt": "2025-05-01T06:11:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rv2hGIGaz5IYb1CJt4G5sJCkEn0",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlVKSDRFTy1DWVlz",
       "snippet": {
         "publishedAt": "2025-04-30T15:23:04Z",
@@ -42,7 +93,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 150,
+        "position": 151,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UJH4EO-CYYs"
@@ -57,7 +108,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RiVinLq2aMBQ6edRFqEsMdM4oPo",
+      "etag": "h8SmJfl2HDvgZIX9w8JA7GwVREs",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmJOTnpiYWFUVndj",
       "snippet": {
         "publishedAt": "2025-04-30T12:25:27Z",
@@ -93,7 +144,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 151,
+        "position": 152,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bNNzbaaTVwc"
@@ -108,7 +159,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0ZBKJfPHokuqK9dPhlcgNf6aNXE",
+      "etag": "h3UkUvP_7whA8T5E-Io4ZcoHOVM",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLklWdDBLY0h5SlBN",
       "snippet": {
         "publishedAt": "2025-04-30T09:50:20Z",
@@ -144,7 +195,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 152,
+        "position": 153,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "IVt0KcHyJPM"
@@ -159,7 +210,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R-A7rgLpvcBZGCH-2bltdWFTt7I",
+      "etag": "WeEBFkZrBqCSlDiYL72UmLutPJQ",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmNDa2NwTHRjTnRz",
       "snippet": {
         "publishedAt": "2025-04-29T16:19:52Z",
@@ -195,7 +246,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 153,
+        "position": 154,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cCkcpLtcNts"
@@ -210,7 +261,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tcOX9iTX6QMwZaayQF4TensyI9s",
+      "etag": "_QhftwhUaSEiVH1th_miZCEPVWM",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnhCU0dtYTMxdWJr",
       "snippet": {
         "publishedAt": "2025-04-29T14:09:54Z",
@@ -246,7 +297,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 154,
+        "position": 155,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xBSGma31ubk"
@@ -261,7 +312,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YSZdPK-bn-VTt1gOefrE_zECrmY",
+      "etag": "qDjAUEovJXI9zYZfmFs4IVtvdmU",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFPOEdrTjJJMkNr",
       "snippet": {
         "publishedAt": "2025-04-29T13:50:33Z",
@@ -297,7 +348,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 155,
+        "position": 156,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "AO8GkN2I2Ck"
@@ -312,7 +363,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0UAFIQjLIIp3jfoiOQxZTDxVjbw",
+      "etag": "2KMEuzmKh5vYR8j5_kRmaZyajPs",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnRXUnNtRzVPSXlJ",
       "snippet": {
         "publishedAt": "2025-04-29T10:38:01Z",
@@ -348,7 +399,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 156,
+        "position": 157,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "tWRsmG5OIyI"
@@ -363,7 +414,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HyEfUTLuniMn5jrvJsdFrqY90ko",
+      "etag": "Gjj__p2_y_K7p7AK_cu7M2mgaEI",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmZCZmpVZGlQQjhN",
       "snippet": {
         "publishedAt": "2025-04-28T10:54:13Z",
@@ -399,7 +450,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 157,
+        "position": 158,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fBfjUdiPB8M"
@@ -414,7 +465,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Y0XMLifj9Qrvucq0fyRQa2P7Cj0",
+      "etag": "vss6NKtVa-n8hgUA-oP85SwevB0",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnB2R0doUWZJclJZ",
       "snippet": {
         "publishedAt": "2025-04-24T15:14:42Z",
@@ -450,7 +501,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 158,
+        "position": 159,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pvGGhQfIrRY"
@@ -465,7 +516,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gP-lP-juUQpJN1jY17Xm4ckBcIk",
+      "etag": "KSawyT1OyOOoinSz1QZO68MhYUs",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkVJNkt5VHhxUnNj",
       "snippet": {
         "publishedAt": "2025-04-23T15:25:25Z",
@@ -501,7 +552,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 159,
+        "position": 160,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EI6KyTxqRsc"
@@ -516,7 +567,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LETBLw1jXvEI0udT2wWeY-Dg6lA",
+      "etag": "HG2-0hetcJLDq0C2QRwT2fcB8LE",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRKNFliTGxFRnJZ",
       "snippet": {
         "publishedAt": "2025-04-23T10:47:18Z",
@@ -552,7 +603,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 160,
+        "position": 161,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dJ4YbLlEFrY"
@@ -567,7 +618,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EZhzxG77sPd0SkTvxVmEeEjKHIs",
+      "etag": "0bvuLqOZkx1GRHZfTClvfxX_40s",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk84dS1Icl82VWRF",
       "snippet": {
         "publishedAt": "2025-04-21T16:01:42Z",
@@ -603,7 +654,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 161,
+        "position": 162,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "O8u-Hr_6UdE"
@@ -618,7 +669,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xj1DST5JzW8YfZODllq5uwSvu1M",
+      "etag": "LZicMQl8CKSaqt9HJQyG5YSwkkE",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnlVU3hJYlpkQzR3",
       "snippet": {
         "publishedAt": "2025-04-21T08:01:08Z",
@@ -654,7 +705,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 162,
+        "position": 163,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yUSxIbZdC4w"
@@ -669,7 +720,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4C4lv19SPN_FOCEb-41dH1LOMHk",
+      "etag": "AgFZEz5qJ01crlKX8WDYeYGNyAg",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFOZzhYYzFCM0Vj",
       "snippet": {
         "publishedAt": "2025-04-18T16:16:53Z",
@@ -705,7 +756,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 163,
+        "position": 164,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ANg8Xc1B3Ec"
@@ -720,7 +771,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OywQ0tdqjDQvAl6YQQMcltMZ_dg",
+      "etag": "7hEQzUpz-217hpgz9QJ5MFHALxA",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlFoYWpBMmRnaUlz",
       "snippet": {
         "publishedAt": "2025-04-18T10:08:23Z",
@@ -756,7 +807,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 164,
+        "position": 165,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QhajA2dgiIs"
@@ -771,7 +822,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LXN5kkQAW8jzo8AXxePzojnwTPo",
+      "etag": "w9UvJViJww4OicpwiZZ1s11IGcU",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnR0S0JJT2k1b0NF",
       "snippet": {
         "publishedAt": "2025-04-17T16:24:09Z",
@@ -807,7 +858,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 165,
+        "position": 166,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ttKBIOi5oCE"
@@ -822,7 +873,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0Nv8XkvwDeLV28P2bigQ4b-Awg4",
+      "etag": "v2711yz8nW31kFcMuSYPgzKEOAE",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkNrcUtRYllvbzlV",
       "snippet": {
         "publishedAt": "2025-04-16T16:05:02Z",
@@ -858,7 +909,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 166,
+        "position": 167,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CkqKQbYoo9U"
@@ -873,7 +924,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hNrU-7u9WwrP_GEh5nE0nyeJzvk",
+      "etag": "0CBcBeYw6CwPWzpNnNOFFm7Gfz4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnZMcEFQZFVHNXNj",
       "snippet": {
         "publishedAt": "2025-04-16T11:00:06Z",
@@ -909,7 +960,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 167,
+        "position": 168,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "vLpAPdUG5sc"
@@ -924,7 +975,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UjivY208ZAMaCuooSA5atDIq-Qs",
+      "etag": "UcfMIiQt_CRRmT5URBsClsVTnkM",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkpmSzRhNV9WdGVr",
       "snippet": {
         "publishedAt": "2025-04-15T11:01:51Z",
@@ -960,7 +1011,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 168,
+        "position": 169,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "JfK4a5_Vtek"
@@ -975,7 +1026,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mmC_91wJ0oROxQEixNqm-ISKGZE",
+      "etag": "kyvk_Q3OoDTzJyZidp1vqO1qnL4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlFyNXBPX3B1OWZN",
       "snippet": {
         "publishedAt": "2025-04-14T16:24:55Z",
@@ -1011,7 +1062,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 169,
+        "position": 170,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Qr5pO_pu9fM"
@@ -1026,7 +1077,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6IP209k3AaNwdSGl5saW0H-JIl0",
+      "etag": "qKALS0YsNa2RxGd8zYA4IKfI6vc",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnE5N25WdWlyOVZj",
       "snippet": {
         "publishedAt": "2025-04-14T10:10:18Z",
@@ -1062,7 +1113,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 170,
+        "position": 171,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q97nVuir9Vc"
@@ -1077,7 +1128,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UsuCvBMtxE2WQwiLtI8MSY2bLTE",
+      "etag": "92a4i5nLM4P53XPq1q_XESjWuPc",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmtWdkNaT0drT19N",
       "snippet": {
         "publishedAt": "2025-04-11T16:35:38Z",
@@ -1113,7 +1164,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 171,
+        "position": 172,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kVvCZOGkO_M"
@@ -1128,7 +1179,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s2O2SceXPXgeAP38-WZxtAhy_lY",
+      "etag": "VWHIQ7uUCmk0kuUoPdEkkckND_Y",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkZHQ2Y4dlFTZ25V",
       "snippet": {
         "publishedAt": "2025-04-11T11:43:41Z",
@@ -1164,7 +1215,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 172,
+        "position": 173,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FGCf8vQSgnU"
@@ -1179,7 +1230,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9vQOaz34Y41ueUMkHY6gqs-AblU",
+      "etag": "XTRFx5qTzuMZIPAA7VsIGVWWwvo",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjRyVXlwRFh4UExv",
       "snippet": {
         "publishedAt": "2025-04-10T16:46:40Z",
@@ -1215,7 +1266,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 173,
+        "position": 174,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4rUypDXxPLo"
@@ -1230,7 +1281,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sxYjLoeWi8e59r7_4UpDk_eOGm4",
+      "etag": "ySJpfn6fSlhcATqM4eldUsTt2zQ",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLktUalNhYjZnQVk0",
       "snippet": {
         "publishedAt": "2025-04-09T16:02:48Z",
@@ -1266,7 +1317,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 174,
+        "position": 175,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KTjSab6gAY4"
@@ -1281,7 +1332,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BdnVCTL8MoDUHkzr-jGDdWzP9Rw",
+      "etag": "72E576SaO6Z5sbnSC_4wGXBZOP4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlRhSUd6aTQ4MVk4",
       "snippet": {
         "publishedAt": "2025-04-09T09:22:17Z",
@@ -1317,7 +1368,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 175,
+        "position": 176,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TaIGzi481Y8"
@@ -1332,7 +1383,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mssI7-848alAXbj4IZazbpc4Uew",
+      "etag": "jYEOEcswRykgDWAxcYuAdB1-sCA",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmYxaVljRjExNkpR",
       "snippet": {
         "publishedAt": "2025-04-04T18:05:02Z",
@@ -1368,7 +1419,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 176,
+        "position": 177,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "f1iYcF116JQ"
@@ -1383,7 +1434,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LXgVJnPQDu0fI3LipCvIw2NJEik",
+      "etag": "_q8GbH9HTPkElSXK1jsTBhir0d4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjdVNEV6ZEVscXd3",
       "snippet": {
         "publishedAt": "2025-04-04T15:24:47Z",
@@ -1419,7 +1470,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 177,
+        "position": 178,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7U4EzdElqww"
@@ -1434,7 +1485,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8_PlntTLqUaDWtvpsXsaK6HDLgc",
+      "etag": "XhDUc6OCKsnefVrXTFGi_meJyaA",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnBWdHJtS09OVk5V",
       "snippet": {
         "publishedAt": "2025-04-03T03:53:38Z",
@@ -1470,7 +1521,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 178,
+        "position": 179,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pVtrmKONVNU"
@@ -1485,7 +1536,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k-X82YfiHNWdp5Oo6zeIpwxzQVE",
+      "etag": "1kDKLf4cLUEhJXVZDt9YjroAhQ0",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlRTXzFrTGlsZUVZ",
       "snippet": {
         "publishedAt": "2025-04-02T15:47:13Z",
@@ -1521,7 +1572,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 179,
+        "position": 180,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TS_1kLileEY"
@@ -1536,7 +1587,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IISmYzxAFT1qjdHgXoUhyC1Y9cQ",
+      "etag": "SfTCoxyvgxBcknrzrhX7sQxnbw4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlNWTmxPSG9TRXkw",
       "snippet": {
         "publishedAt": "2025-04-01T15:58:19Z",
@@ -1572,7 +1623,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 180,
+        "position": 181,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SVNlOHoSEy0"
@@ -1587,7 +1638,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AFPIIQB7qL2KHmwZ51VSToVLeuM",
+      "etag": "MjLsMB2iGNFkh7HBpkVAlSmQvfs",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmtXZFNJNDRrZ0Uw",
       "snippet": {
         "publishedAt": "2025-03-31T16:47:09Z",
@@ -1623,7 +1674,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 181,
+        "position": 182,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kWdSI44kgE0"
@@ -1638,7 +1689,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Kn1MznEKjLAFVFTy5gRFdInc3nk",
+      "etag": "1MVVBBOkoeijF_7hwnn4dvtty0Q",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRwNmN1cU1RbkVV",
       "snippet": {
         "publishedAt": "2025-03-29T12:31:58Z",
@@ -1674,7 +1725,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 182,
+        "position": 183,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dp6cuqMQnEU"
@@ -1689,7 +1740,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CFg4Q__KTWlUmNxDIRmG3FxGRtQ",
+      "etag": "YK2FPmwS4Ld0doD6MhMJiRXrZx4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkJPTTQ2TEVYX29R",
       "snippet": {
         "publishedAt": "2025-03-29T08:00:02Z",
@@ -1725,7 +1776,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 183,
+        "position": 184,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BOM46LEX_oQ"
@@ -1740,7 +1791,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VKUxYhR0KbPNxTPL-X-5hDk_4xQ",
+      "etag": "yktVEZrx4QVemOzAfijF5xWO1Kw",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlQ4LTVObGtTMUxz",
       "snippet": {
         "publishedAt": "2025-03-28T16:17:25Z",
@@ -1776,7 +1827,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 184,
+        "position": 185,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "T8-5NlkS1Ls"
@@ -1791,7 +1842,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MERz1GHpwbuOUCxefDtluC48fjs",
+      "etag": "abRwhHp5rzER6nyuHi70qfbudC4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmZ0VVJYWlpoN1o0",
       "snippet": {
         "publishedAt": "2025-03-28T09:30:33Z",
@@ -1827,7 +1878,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 185,
+        "position": 186,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ftURXZZh7Z4"
@@ -1842,7 +1893,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9kuL540B03nb2Wcnh4pOCvp99FU",
+      "etag": "uQ_uHj3P_zo85n9gpUTZMblt63w",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnQwVE42Z2UzNHVJ",
       "snippet": {
         "publishedAt": "2025-03-27T15:57:36Z",
@@ -1878,7 +1929,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 186,
+        "position": 187,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "t0TN6ge34uI"
@@ -1893,7 +1944,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5hJetTIbUas1xByZ_WR0SXuMJu8",
+      "etag": "8u5xfF9uSj7XAWhbvn1iZp30wWE",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLm9Ic2c0UEw3b3Rr",
       "snippet": {
         "publishedAt": "2025-03-26T15:34:11Z",
@@ -1929,7 +1980,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 187,
+        "position": 188,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oHsg4PL7otk"
@@ -1944,7 +1995,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "urzakpvCQM3tF0QHtBBylYh7HfY",
+      "etag": "FIozDev9zxkGAy632W6mLa4OIwE",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlBlUjB4ZkZoY1hj",
       "snippet": {
         "publishedAt": "2025-03-25T17:17:06Z",
@@ -1980,7 +2031,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 188,
+        "position": 189,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PeR0xfFhcXc"
@@ -1995,7 +2046,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "POyGdUJFrshMmilAoD2MSinCZ08",
+      "etag": "c4oqiF8gQGUhm9bseWm_CKbDWEI",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk4wWGJKTGYyNkZ3",
       "snippet": {
         "publishedAt": "2025-03-22T10:57:03Z",
@@ -2031,7 +2082,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 189,
+        "position": 190,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "N0XbJLf26Fw"
@@ -2046,7 +2097,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FGnpTcjoTUaorIiwxGHkErunw4U",
+      "etag": "XijWgxtJobsyf6GR4QGKf_rPAX4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmt2OUF6UzBKd0NR",
       "snippet": {
         "publishedAt": "2025-03-22T08:00:44Z",
@@ -2082,7 +2133,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 190,
+        "position": 191,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kv9AzS0JwCQ"
@@ -2097,7 +2148,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "71abNMbty3-v2zb05eTG4ZzM-f0",
+      "etag": "_qepw3NUXIdkbI3Gq_YCuvfQN1w",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkpLRjlQUHV0VzZN",
       "snippet": {
         "publishedAt": "2025-03-21T17:24:12Z",
@@ -2133,7 +2184,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 191,
+        "position": 192,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "JKF9PPutW6M"
@@ -2148,7 +2199,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ObQVJPeEEijBt56ybnHOpXPCza8",
+      "etag": "1wjSlhKbSi8SQWQZdlc0jmG1mBU",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlI5Z0hTV1VtakVn",
       "snippet": {
         "publishedAt": "2025-03-21T14:07:58Z",
@@ -2184,7 +2235,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 192,
+        "position": 193,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "R9gHSWUmjEg"
@@ -2199,7 +2250,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vRot6JjvHbDoSNAsXGACkO72AN0",
+      "etag": "jGEcEMI1uWcQ07Y_-kyV5zVU9lo",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk9FOGFBZkhGblJj",
       "snippet": {
         "publishedAt": "2025-03-21T08:41:45Z",
@@ -2235,7 +2286,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 193,
+        "position": 194,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OE8aAfHFnRc"
@@ -2250,7 +2301,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-o5sXyRh9fAHfd2hwbNWL3Hym-E",
+      "etag": "MG--iPQc6wFlozMpL42XXxKx9OQ",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFqbmhuLXNaVWNv",
       "snippet": {
         "publishedAt": "2025-03-20T16:08:17Z",
@@ -2286,7 +2337,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 194,
+        "position": 195,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ajnhn-sZUco"
@@ -2301,7 +2352,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kgFj8i4Ygtak55GEdBKPl-Cpqlk",
+      "etag": "astFoE_d7Fxso9W0cDYo301JzoI",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmJWZFdrVkpfMlFv",
       "snippet": {
         "publishedAt": "2025-03-19T15:37:10Z",
@@ -2337,7 +2388,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 195,
+        "position": 196,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bVdWkVJ_2Qo"
@@ -2352,7 +2403,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Uuguc4AWteHcLygJyqgUJHMyuBU",
+      "etag": "cGwyw0Rovjd6jvm210m7MmHdef8",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRHanJOQ3k4TWlv",
       "snippet": {
         "publishedAt": "2025-03-17T16:48:50Z",
@@ -2388,7 +2439,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 196,
+        "position": 197,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dGjrNCy8Mio"
@@ -2403,7 +2454,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yzTykHweGm5PVVz9ObNPoJXE0CM",
+      "etag": "n_6kJmfqSjoKASGJ4qRY-P1JoW4",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjl0aDNCNFFiS2s0",
       "snippet": {
         "publishedAt": "2025-03-17T09:16:41Z",
@@ -2439,7 +2490,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 197,
+        "position": 198,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9th3B4QbKk4"
@@ -2454,7 +2505,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jWB4JtkMLJwbcQJpKqLaOgI6mSQ",
+      "etag": "pTI3vG3Ku1q0fkjI_hVclooP7Rs",
       "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLm9OY2tPYzFDSEln",
       "snippet": {
         "publishedAt": "2025-03-16T12:21:45Z",
@@ -2490,7 +2541,7 @@
         },
         "channelTitle": "何屋未来 / なにやみらい",
         "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 198,
+        "position": 199,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oNckOc1CHIg"
@@ -2502,61 +2553,10 @@
         "videoId": "oNckOc1CHIg",
         "videoPublishedAt": "2025-03-16T12:21:45Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "QxQZTyUZtZNix0_mWekhEuOFmrg",
-      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjRsTWVha1dBN1o4",
-      "snippet": {
-        "publishedAt": "2025-03-14T18:35:34Z",
-        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
-        "title": "🔴華金だし5日ぶりに飲むか。【パトネットリゾート2】",
-        "description": "🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n新商品刺しゅうフリースジャケットが登場！なんと1,000円OFF中！🔥\n更にアパレルも対象商品が600円OFF！\n更に更に！沢山の方にご要望頂いたチャンネルアイコンのグッズの販売を開始しました！\nクリアケース、ステッカー、アクリルキーホルダーなどアイコン限定のデザイン盛り沢山！\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n-------------------------------------------------------------------------------------------\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n配信時間\n～2:20頃\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #パトネットリゾート2  #メダルゲーム  #メダル  #配信 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4lMeakWA7Z8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4lMeakWA7Z8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4lMeakWA7Z8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4lMeakWA7Z8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4lMeakWA7Z8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "何屋未来 / なにやみらい",
-        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
-        "position": 199,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4lMeakWA7Z8"
-        },
-        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
-        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
-      },
-      "contentDetails": {
-        "videoId": "4lMeakWA7Z8",
-        "videoPublishedAt": "2025-03-14T18:35:34Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 2230,
+    "totalResults": 2231,
     "resultsPerPage": 50
   }
 }
