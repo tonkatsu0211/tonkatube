@@ -1,571 +1,2562 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "rSRfSSLyRMM4SSWZHFifwJlh-KU",
+  "etag": "IKvZNZSyl4cFmskTth0N7XlS-Ps",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJCUmtFek1ESXpNVEkyTURoRFFURTM",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEEyTUVWQk1FVXdOVUUzUWtWRFF6VTQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "qQuM1S_OFawkdZXEDN6dfRoN_q8",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLnBqcmVsNWJRQmNr",
+      "etag": "JOYDIhgGaCM9TERKqwT7s94kRdM",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnh1XzUxcWhPMU53",
       "snippet": {
-        "publishedAt": "2026-02-19T12:01:32Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "時間を操るメンヘラの告白を振ったら、幼少期にタイムリープさせられた【漫画】",
-        "description": "時間操作能力を持つメンヘラ女子の告白を振った結果。強制的に幼少期へタイムリープさせられ…「ふふ…これでまた18歳まで一緒だね♡」と\"出会い\"\nからやり直させられる恐怖\n\nよろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:waata\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-02-10T09:44:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "2ターンで最高ダメージを叩き出せる『ミノマダム』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。またまたヤバそうなカードを見つけてしまいました。このカードを見つけた瞬間に動画を撮りはじめていましたね。こういう無限の火力出せるカードもっといっぱい出して欲しいっす！！\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pjrel5bQBck/default.jpg",
+            "url": "https://i.ytimg.com/vi/xu_51qhO1Nw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pjrel5bQBck/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xu_51qhO1Nw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pjrel5bQBck/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xu_51qhO1Nw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pjrel5bQBck/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xu_51qhO1Nw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pjrel5bQBck/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xu_51qhO1Nw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 0,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 150,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "pjrel5bQBck"
+          "videoId": "xu_51qhO1Nw"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "pjrel5bQBck",
-        "videoPublishedAt": "2026-02-19T12:01:32Z"
+        "videoId": "xu_51qhO1Nw",
+        "videoPublishedAt": "2025-02-10T09:44:00Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wGbh7e3OLooZNcI-2DmB4OQS8u8",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLlBWRzFMMWdYeXlN",
+      "etag": "MhUhCFTa5YnFzylPt5njd8N6aSM",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlVoaFJpWDFYRFRj",
       "snippet": {
-        "publishedAt": "2026-02-07T10:00:29Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "魔王を討伐し世界に平和をもたらした俺。女王「あなたはもう用済みよ、消えて」【異世界漫画】",
-        "description": "単独で魔王討伐し、世界に平和をもたらした俺。女王の元へ行くと「ありがとう。あなたのおかげで世界は平和になった」→「だからもうあなたは用済み。消えて良いわよ」\n\nよろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\n線画:山岩ヤシロ（@yamaiwa_neko）\n塗り:愛ツバメ（＠aitubame_05）\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-02-08T14:23:46Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【2人実況】『マリオパーティ9』で絶対に奇跡を起こす生放送",
+        "description": "我々がやるからには何か起こります。絶対に。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PVG1L1gXyyM/default.jpg",
+            "url": "https://i.ytimg.com/vi/UhhRiX1XDTc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PVG1L1gXyyM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhhRiX1XDTc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PVG1L1gXyyM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhhRiX1XDTc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/PVG1L1gXyyM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhhRiX1XDTc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/PVG1L1gXyyM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhhRiX1XDTc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 1,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 151,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "PVG1L1gXyyM"
+          "videoId": "UhhRiX1XDTc"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "PVG1L1gXyyM",
-        "videoPublishedAt": "2026-02-07T10:00:29Z"
+        "videoId": "UhhRiX1XDTc",
+        "videoPublishedAt": "2025-02-08T14:23:46Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "stcg8BJoUU2akbiU2mHkUFwLpz0",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLlBfb2l3QXZaeWxv",
+      "etag": "khjppG9XZ6otqff9Zh3TLyWGKbQ",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlpZWjRPZy1XUXpz",
       "snippet": {
-        "publishedAt": "2026-01-08T09:00:39Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "「勇者いらない」と王様に追放された勇者。田舎に行くと魔王が畑を耕していた件【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:ひかる(@hikaru3saki)\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-02-08T11:59:39Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "死んだら即データ削除の『マリオWii』生放送 Part4",
+        "description": "今回はガチで決めます。まじで。\n\nどっちかが死んだら、その時点でデータ削除します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P_oiwAvZylo/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZYZ4Og-WQzs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P_oiwAvZylo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZYZ4Og-WQzs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P_oiwAvZylo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZYZ4Og-WQzs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P_oiwAvZylo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZYZ4Og-WQzs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/P_oiwAvZylo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZYZ4Og-WQzs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 2,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 152,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "P_oiwAvZylo"
+          "videoId": "ZYZ4Og-WQzs"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "P_oiwAvZylo",
-        "videoPublishedAt": "2026-01-08T09:00:39Z"
+        "videoId": "ZYZ4Og-WQzs",
+        "videoPublishedAt": "2025-02-08T11:59:39Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3KXfFvGDECNhwQ8LfImJzXbJKCM",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLmU0dnJ0Y2FiWmFZ",
+      "etag": "lCTIPohGER4Fv3b1ULjBq043wlE",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjdTd2R5WEN3VG8w",
       "snippet": {
-        "publishedAt": "2025-12-28T09:00:59Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "「ここから立ち去れ…」事故物件の地縛霊が俺を追い出そうとするが、無視して同居した結果→職場までついてきて「（残業やめて）ここから立ち去れ…」と心配してくるように…【漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:緋田\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-02-07T09:00:07Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【衝撃】オンラインで20秒停止してから1位を取れる最強カスタムがコレです。【マリオカート8DX】",
+        "description": "20秒待つのは舐めプではなく、礼儀です。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/e4vrtcabZaY/default.jpg",
+            "url": "https://i.ytimg.com/vi/7SwdyXCwTo0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/e4vrtcabZaY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7SwdyXCwTo0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/e4vrtcabZaY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7SwdyXCwTo0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/e4vrtcabZaY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/7SwdyXCwTo0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/e4vrtcabZaY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7SwdyXCwTo0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 3,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 153,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "e4vrtcabZaY"
+          "videoId": "7SwdyXCwTo0"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "e4vrtcabZaY",
-        "videoPublishedAt": "2025-12-28T09:00:59Z"
+        "videoId": "7SwdyXCwTo0",
+        "videoPublishedAt": "2025-02-07T09:00:07Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sDaGu6s7dE1zPqy_ph-Pw-ctX18",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLkxjMzBHaHVMQmww",
+      "etag": "b9Rk2q920yVOlXunWVq69S2iWgQ",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjBUUDJiQXZIenpN",
       "snippet": {
-        "publishedAt": "2025-12-12T09:00:46Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "異世界転生して魔王討伐へ。ついに追い詰めた魔王の正体は、俺に未練タラタラの元カノで「…女連れでずいぶん楽しそうね？」【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:おゆち（＠oyucha_illust）\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-02-01T14:46:50Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "死んだら即データ削除の『マリオWii』生放送 Part3",
+        "description": "今回はガチで決めます\n\nどっちかが死んだら、その時点でデータ削除します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Lc30GhuLBl0/default.jpg",
+            "url": "https://i.ytimg.com/vi/0TP2bAvHzzM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Lc30GhuLBl0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TP2bAvHzzM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Lc30GhuLBl0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TP2bAvHzzM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Lc30GhuLBl0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TP2bAvHzzM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Lc30GhuLBl0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TP2bAvHzzM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 4,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 154,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Lc30GhuLBl0"
+          "videoId": "0TP2bAvHzzM"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "Lc30GhuLBl0",
-        "videoPublishedAt": "2025-12-12T09:00:46Z"
+        "videoId": "0TP2bAvHzzM",
+        "videoPublishedAt": "2025-02-01T14:46:50Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yhraaHfB8UmioThKSnu_Wa7sZrg",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLkQxdFBKLS1vLV9N",
+      "etag": "8Z_tf-qRSBtE85JwbxzgmAikvv4",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk5DYS1RdjRWMzNF",
       "snippet": {
-        "publishedAt": "2025-12-01T12:00:24Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "300年眠っていた俺が目覚めると..アンドロイドに子作りを迫られた【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:猫原しぐれ(@shigure_073)\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-31T11:12:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "歴代最高ダメージを簡単に叩き出せる『ベロベルトex』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。一番待ってたカードだし、一番強いかも。でもなんでお前がディアルガと相性いいの？\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/D1tPJ--o-_M/default.jpg",
+            "url": "https://i.ytimg.com/vi/NCa-Qv4V33E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/D1tPJ--o-_M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NCa-Qv4V33E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/D1tPJ--o-_M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NCa-Qv4V33E/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/D1tPJ--o-_M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/NCa-Qv4V33E/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/D1tPJ--o-_M/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NCa-Qv4V33E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 5,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 155,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "D1tPJ--o-_M"
+          "videoId": "NCa-Qv4V33E"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "D1tPJ--o-_M",
-        "videoPublishedAt": "2025-12-01T12:00:24Z"
+        "videoId": "NCa-Qv4V33E",
+        "videoPublishedAt": "2025-01-31T11:12:00Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LYYyXagybyxgLAnM35hXiPelDSc",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLnBVLTZWUmQzVTNR",
+      "etag": "_j_YUVCFvPsYaFm7c-8vDe2hDb0",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnpaaW1WalhSNWZZ",
       "snippet": {
-        "publishedAt": "2025-11-20T10:30:39Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "魔王に挑み続けてる勇者→挑みに行けなくなると魔王がメンヘラった【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:まっきーに(@sarubedo_D)\nイラスト山岩ヤシロ（@yamaiwa_neko）\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-29T09:01:09Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【衝撃】カートを禁止してマリオカートをやる天才が現れました。",
+        "description": "参考動画：https://youtu.be/Dg7mzhy-YzE?si=UvPfSYObabQYbZjf\n\nhttps://youtu.be/uUQ4Q0Vyw2g?si=HUqFzh6IrGev_5Fx\n\nhttps://youtu.be/mbLdyHkjm10?si=vtV4C2TTRJrK0_l_\n\nhttps://youtu.be/YXbuKUo3PfM?si=jdvgLR_2T6SYbzoW\n\nもうアクセルを踏まない時代まで来ましたか。マリオカートの可能性は無限大だなぁ。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pU-6VRd3U3Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/zZimVjXR5fY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pU-6VRd3U3Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zZimVjXR5fY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pU-6VRd3U3Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zZimVjXR5fY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pU-6VRd3U3Q/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zZimVjXR5fY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pU-6VRd3U3Q/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zZimVjXR5fY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 6,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 156,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "pU-6VRd3U3Q"
+          "videoId": "zZimVjXR5fY"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "pU-6VRd3U3Q",
-        "videoPublishedAt": "2025-11-20T10:30:39Z"
+        "videoId": "zZimVjXR5fY",
+        "videoPublishedAt": "2025-01-29T09:01:09Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DpVLQfRBF6BAthwH7jDEBpuBzEc",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLjY3WTFXTDZPTW8w",
+      "etag": "BC-hII-09jjNokRQLi6fyp5vSjc",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmU2aHJHaGlKN3FV",
       "snippet": {
-        "publishedAt": "2025-11-06T11:00:11Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "俺にいつも厳しい上司。だが、上司の\"神推し\"のヒーローが実は俺だと知らない【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:ごも（@gomomo_gomoku）\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-27T09:45:02Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "1ターンで安定して勝利できる『ナッシー』が強すぎて5連勝余裕すぎた。【ポケポケ】",
+        "description": "今回は、ポケポケです。ナッシーが強すぎて、文句のつけようがナッシーですね。とてもおもしろいですね。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/67Y1WL6OMo0/default.jpg",
+            "url": "https://i.ytimg.com/vi/e6hrGhiJ7qU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/67Y1WL6OMo0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e6hrGhiJ7qU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/67Y1WL6OMo0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e6hrGhiJ7qU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/67Y1WL6OMo0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/e6hrGhiJ7qU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/67Y1WL6OMo0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e6hrGhiJ7qU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 7,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 157,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "67Y1WL6OMo0"
+          "videoId": "e6hrGhiJ7qU"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "67Y1WL6OMo0",
-        "videoPublishedAt": "2025-11-06T11:00:11Z"
+        "videoId": "e6hrGhiJ7qU",
+        "videoPublishedAt": "2025-01-27T09:45:02Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8gC4DBX6wsrAEI1KbXE_z25s2pI",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLkp3UTc4Q1dMVFNz",
+      "etag": "UjNz_9C28AuRU0w_eUsWD1bqFTU",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkJrcllGaE5UZDdz",
       "snippet": {
-        "publishedAt": "2025-09-20T09:00:28Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "魔王の俺が気まぐれで育てた幼女が、勇者になってしまった件【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:まっきーに\nイラスト:NARI\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-25T14:35:28Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "「みんなでバトル」初心者がSランクを目指す生放送【マリメ2】",
+        "description": "センスがなさ過ぎて表舞台では一回もやったことない「みんなでバトル」をやってみる。温かい目以外はいらないです。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JwQ78CWLTSs/default.jpg",
+            "url": "https://i.ytimg.com/vi/BkrYFhNTd7s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JwQ78CWLTSs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BkrYFhNTd7s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JwQ78CWLTSs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BkrYFhNTd7s/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JwQ78CWLTSs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/BkrYFhNTd7s/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JwQ78CWLTSs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BkrYFhNTd7s/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 8,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 158,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "JwQ78CWLTSs"
+          "videoId": "BkrYFhNTd7s"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "JwQ78CWLTSs",
-        "videoPublishedAt": "2025-09-20T09:00:28Z"
+        "videoId": "BkrYFhNTd7s",
+        "videoPublishedAt": "2025-01-25T14:35:28Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Asi3ZNVc5sAlOdPNbf1GF1SUyI0",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLmNOV0RLRk5ZaFJv",
+      "etag": "zeOpVVprH7_1Y8dHDpKp5s5Q5WM",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkF1YjNlcGdvc2lV",
       "snippet": {
-        "publishedAt": "2025-08-17T02:30:35Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "傲慢でプライドが高い最強吸血鬼は人類（俺）の短命さを知ると絶望し態度が急変【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト山岩ヤシロ（@yamaiwa_neko）\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-24T10:00:10Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "世界1強いカスタムなら12レースですべての順位を取れる説【マリオカート8DX】",
+        "description": "やってしまった！をやってしまわれた！と謎に敬語にするのにはまっているスウィです。今回は、マリオカートです。12レースですべての順位を取れるかの検証企画です。めちゃくちゃ盛り上がったし、まさかこんなにうまくいくとも思ってませんでした。まだまだプロ目指せそうかな。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cNWDKFNYhRo/default.jpg",
+            "url": "https://i.ytimg.com/vi/Aub3epgosiU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cNWDKFNYhRo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aub3epgosiU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cNWDKFNYhRo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aub3epgosiU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cNWDKFNYhRo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aub3epgosiU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cNWDKFNYhRo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aub3epgosiU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 9,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 159,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cNWDKFNYhRo"
+          "videoId": "Aub3epgosiU"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "cNWDKFNYhRo",
-        "videoPublishedAt": "2025-08-17T02:30:35Z"
+        "videoId": "Aub3epgosiU",
+        "videoPublishedAt": "2025-01-24T10:00:10Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GKA2tJYjDisFXnJMjtgioYtLa8w",
-      "id": "VVVaUkQ1YmJ1bi1EZ3hqMkFHMlBLYmpnLndtZU1zVWhtWUU0",
+      "etag": "h5thqi9EWikSara4dny9SnX8MRY",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmgyb3JCdVFRV0tr",
       "snippet": {
-        "publishedAt": "2025-08-03T09:01:14Z",
-        "channelId": "UCZRD5bbun-Dgxj2AG2PKbjg",
-        "title": "勇者パーティを追放された盗賊の俺に勇者から愛されていた最強賢者の王女がついてきた【異世界漫画】",
-        "description": "よろしければチャンネル登録お願いします。\n   / https://www.youtube.com/@サルベド漫画ファンタジー\n\n企画（仮）:サルベド漫画fantasy（https://www.youtube.com/@サルベド漫画ファンタジー）\n脚本:青春詭弁(@oneday_8013)\nイラスト:ひかる(@hikaru3saki)\n編集:\nナレーション:いちこ\n @user-ll6uf9vn6p  \n\n~サルベド漫画の本~\nサルベド漫画第一弾kindle\nhttps://amzn.to/3ZUhbam\n~LINEスタンプ~\nサルベド漫画第一弾LINEスタンプ\nhttps://store.line.me/stickershop/pro...\n~音楽~\n魔王魂\nhttps://maoudamashii.jokersounds.com/\nポケットサウンド\nhttp://pocket-se.info/\nOtoLogic\nhttps://otologic.jp\n\n※ご覧頂きありがとうございました。\nサルベド漫画Fantasyはオリジナルコンテンツで著作権法上保護されてます。\n\nここまで読んでくださりありがとうございます。\n\n#漫画　＃恋愛　#異世界漫画",
+        "publishedAt": "2025-01-21T09:00:47Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【衝撃】『はじめてのWii』ガチ勢が本気を出した結果...",
+        "description": "みんなの青春「タンク」をやる問題児2人。ただし、最弱。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wmeMsUhmYE4/default.jpg",
+            "url": "https://i.ytimg.com/vi/h2orBuQQWKk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wmeMsUhmYE4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2orBuQQWKk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wmeMsUhmYE4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2orBuQQWKk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/wmeMsUhmYE4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2orBuQQWKk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/wmeMsUhmYE4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2orBuQQWKk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "サルベド漫画Fantasy",
-        "playlistId": "UUZRD5bbun-Dgxj2AG2PKbjg",
-        "position": 10,
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 160,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "wmeMsUhmYE4"
+          "videoId": "h2orBuQQWKk"
         },
-        "videoOwnerChannelTitle": "サルベド漫画Fantasy",
-        "videoOwnerChannelId": "UCZRD5bbun-Dgxj2AG2PKbjg"
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
       },
       "contentDetails": {
-        "videoId": "wmeMsUhmYE4",
-        "videoPublishedAt": "2025-08-03T09:01:14Z"
+        "videoId": "h2orBuQQWKk",
+        "videoPublishedAt": "2025-01-21T09:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sdSXKOscemNfzMk-oB6nhOvw2fg",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlpxMFR4QTc5ajQw",
+      "snippet": {
+        "publishedAt": "2025-01-18T16:57:11Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "死んだら即データ削除の『マリオWii』生放送 Part2",
+        "description": "今回は決めます\n\nどっちかが死んだら、その時点でデータ削除します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zq0TxA79j40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zq0TxA79j40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zq0TxA79j40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zq0TxA79j40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zq0TxA79j40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 161,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zq0TxA79j40"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "Zq0TxA79j40",
+        "videoPublishedAt": "2025-01-18T16:57:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "16p7agd203Thby2C_ZbMUnouOD8",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjVNQU1YYmlNRXlz",
+      "snippet": {
+        "publishedAt": "2025-01-17T08:28:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【衝撃】マリオパーティで世界1位の記録を出した天才がコイツです。",
+        "description": "今回は、なんだかんだ久々に普通マリオパーティをやってみました。いろんな奇跡が起きました。ぜひ奇跡を見たい人は、その奇跡の軌跡をご覧ください。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5MAMXbiMEys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5MAMXbiMEys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MAMXbiMEys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5MAMXbiMEys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5MAMXbiMEys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 162,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5MAMXbiMEys"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "5MAMXbiMEys",
+        "videoPublishedAt": "2025-01-17T08:28:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y_USuVbXwcyfggHzNaLzPUzhj-U",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjBDSTZHdE96ajZB",
+      "snippet": {
+        "publishedAt": "2025-01-14T08:30:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "進化した瞬間に勝利が確定する『ギャラドス』がガチで強すぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。ギャラドスドスドスドース！！！！\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0CI6GtOzj6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0CI6GtOzj6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0CI6GtOzj6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0CI6GtOzj6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0CI6GtOzj6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 163,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0CI6GtOzj6A"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "0CI6GtOzj6A",
+        "videoPublishedAt": "2025-01-14T08:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pcOSYlhTmc-c6lF4ApkvUzqteY4",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlRPdjA1S2xPTFNF",
+      "snippet": {
+        "publishedAt": "2025-01-11T13:31:27Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "死んだら即データ削除の『マリオWii』生放送 Part1",
+        "description": "どっちかが死んだら、その時点でデータ削除します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOv05KlOLSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOv05KlOLSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOv05KlOLSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TOv05KlOLSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TOv05KlOLSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 164,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TOv05KlOLSE"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "TOv05KlOLSE",
+        "videoPublishedAt": "2025-01-11T13:31:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4-C-QcM8sYi-1FaNfNcuSEdUw2o",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmxzVk9PX2xjQTRV",
+      "snippet": {
+        "publishedAt": "2025-01-10T11:09:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【神回】『負けたら勝ちマリオパーティ』で過去1の大事故が起きました。",
+        "description": "今回は、マリオパーティジャンボリーを負けたら勝ちルールでやるという実況です。前回よりも高レベル(ある意味低レベル)な戦いを繰り広げていることは間違いないでしょう。コンピューターも明らかに前回よりも強い(ある意味弱い)です。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsVOO_lcA4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsVOO_lcA4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsVOO_lcA4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lsVOO_lcA4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lsVOO_lcA4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 165,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lsVOO_lcA4U"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "lsVOO_lcA4U",
+        "videoPublishedAt": "2025-01-10T11:09:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ORMzEmEizevEhI9ksX5zNKhyOGI",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjYyZy1XNDVINnNr",
+      "snippet": {
+        "publishedAt": "2025-01-07T13:40:23Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "新年の『Wii Party』リベンジ生放送スペシャル in 2025",
+        "description": "今年最初の大勝負。タイローンを倒すのは誰だ。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/62g-W45H6sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/62g-W45H6sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/62g-W45H6sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/62g-W45H6sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/62g-W45H6sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 166,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "62g-W45H6sk"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "62g-W45H6sk",
+        "videoPublishedAt": "2025-01-07T13:40:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CUFwXBK2BwZMmUU4XTyAkyMze9k",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlB4dU5JbHM5OEZZ",
+      "snippet": {
+        "publishedAt": "2025-01-04T08:00:20Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "永遠にダメージを無効化する『ウッウ』があまりにも強すぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。ウッウです。ひろしです。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PxuNIls98FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PxuNIls98FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PxuNIls98FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PxuNIls98FY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PxuNIls98FY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 167,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PxuNIls98FY"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "PxuNIls98FY",
+        "videoPublishedAt": "2025-01-04T08:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "psTPEsNjURiKVHr8ETWETDsvjLo",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmY1dzFzOVVLalVR",
+      "snippet": {
+        "publishedAt": "2025-01-02T09:14:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【衝撃】『マリオカート8DX』のコースを『マリオカートDS』でやってみた。",
+        "description": "新年明けましておめでとうございます。\n\n今回は、マリオカートです。マリオカートDSをなんとかして面白く企画にできないかなと考えた結果、最新作と戦わせることにしました。こんなことをしている方は2025年には存在していないことでしょう。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5w1s9UKjUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5w1s9UKjUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5w1s9UKjUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5w1s9UKjUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5w1s9UKjUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 168,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f5w1s9UKjUQ"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "f5w1s9UKjUQ",
+        "videoPublishedAt": "2025-01-02T09:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O3ojsr2BlzTE7_AWQAoZwIUuvTk",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlBBbU1hYjNqRVJj",
+      "snippet": {
+        "publishedAt": "2024-12-30T14:06:33Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 最終回part3",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAmMab3jERc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAmMab3jERc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAmMab3jERc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAmMab3jERc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAmMab3jERc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 169,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PAmMab3jERc"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "PAmMab3jERc",
+        "videoPublishedAt": "2024-12-30T14:06:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "--S9PlSacCGO6B5y9B6sQD9KkIM",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkNQWVI4ZElYaXM0",
+      "snippet": {
+        "publishedAt": "2024-12-30T12:18:42Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 最終回part2",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CPYR8dIXis4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CPYR8dIXis4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CPYR8dIXis4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CPYR8dIXis4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CPYR8dIXis4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 170,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CPYR8dIXis4"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "CPYR8dIXis4",
+        "videoPublishedAt": "2024-12-30T12:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r2D9z0CM4tyGbT9vHMwNE8rOK6w",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlh0cF9qbktjU0Ew",
+      "snippet": {
+        "publishedAt": "2024-12-30T11:41:32Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 最終回",
+        "description": "今年で終わらせるという意味を込めて、最終回とさせていただきました。\n\nどっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xtp_jnKcSA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xtp_jnKcSA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xtp_jnKcSA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xtp_jnKcSA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xtp_jnKcSA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 171,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xtp_jnKcSA0"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "Xtp_jnKcSA0",
+        "videoPublishedAt": "2024-12-30T11:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R7NRXYNNo2Zdfi15D-ctDANmog8",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZSeFlkcWVMbWVj",
+      "snippet": {
+        "publishedAt": "2024-12-29T09:18:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "1ターンでとんでもない火力を叩き出す『イーブイ』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。とりあえず、イーブイが強いんです。このワンチャンがワンチャンワンパンできるすごいワンチャンなんです。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRxYdqeLmec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRxYdqeLmec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRxYdqeLmec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VRxYdqeLmec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VRxYdqeLmec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 172,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VRxYdqeLmec"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "VRxYdqeLmec",
+        "videoPublishedAt": "2024-12-29T09:18:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0TVRBd7IHCpTAxNydBNn2OP4h8",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmpZOFlZOS1uNkJJ",
+      "snippet": {
+        "publishedAt": "2024-12-27T08:40:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】地面に着いたら即終了！『マリオオデッセイ』実況【総集編】",
+        "description": "今回は、マリオオデッセイの地面禁止の総集編であります。年末年始の休みで時間をあまらせている諸君にはぜひぜひ舐めるようにご覧いただきたい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jY8YY9-n6BI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jY8YY9-n6BI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jY8YY9-n6BI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jY8YY9-n6BI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jY8YY9-n6BI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 173,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jY8YY9-n6BI"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "jY8YY9-n6BI",
+        "videoPublishedAt": "2024-12-27T08:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lx6u8Z92ZMdUNMnSVBeAlRh77A0",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmxmQXVYbVcxWEZF",
+      "snippet": {
+        "publishedAt": "2024-12-24T10:15:04Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【神回】『負けたら勝ちマリオパーティ』で大事故が発生しました。",
+        "description": "今回は、マリオパーティジャンボリーを負けたら勝ちルールでやるという実況です。最初はややこしいかもしれませんが、次第に慣れていくのでご安心ください。結構な波乱がありましたね。最後のターンはだいぶ激アツっす。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lfAuXmW1XFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lfAuXmW1XFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lfAuXmW1XFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lfAuXmW1XFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lfAuXmW1XFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 174,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lfAuXmW1XFE"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "lfAuXmW1XFE",
+        "videoPublishedAt": "2024-12-24T10:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MWPUrYun2YtQpKwN5S8Osm7vgv4",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlNOX1BFTDRmeDJZ",
+      "snippet": {
+        "publishedAt": "2024-12-21T13:51:14Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "今年最後の『Wii Party』スペシャル生放送 in 2024",
+        "description": "今年はどっちが良い一年だったのか、wii partyで決めましょう。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SN_PEL4fx2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SN_PEL4fx2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SN_PEL4fx2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SN_PEL4fx2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SN_PEL4fx2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 175,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SN_PEL4fx2Y"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "SN_PEL4fx2Y",
+        "videoPublishedAt": "2024-12-21T13:51:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wSphldnGcEt7y8dRkEHDp6c7y6Q",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnZYTDhtY05JaGFN",
+      "snippet": {
+        "publishedAt": "2024-12-20T08:30:17Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "2ターンでありえない火力を叩き出す『セレビィ』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。セレビィです。とんでもないカードが登場しましたね。まさかのミュウではなくコイツが最強カードになるとは、、、、45勝イベントもセレビィでいこうかなぁ。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXL8mcNIhaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXL8mcNIhaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXL8mcNIhaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vXL8mcNIhaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vXL8mcNIhaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 176,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vXL8mcNIhaM"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "vXL8mcNIhaM",
+        "videoPublishedAt": "2024-12-20T08:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "36hO_n01zfKR-G395hFJmHuFZSQ",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk9mbnNzLW5leHJr",
+      "snippet": {
+        "publishedAt": "2024-12-17T13:45:04Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "2人で上限課金して新パック開封をしてみた結果…【ポケポケ】",
+        "description": "今回は、ポケポケです。新パックです。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ofnss-nexrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ofnss-nexrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ofnss-nexrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ofnss-nexrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ofnss-nexrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 177,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ofnss-nexrk"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "Ofnss-nexrk",
+        "videoPublishedAt": "2024-12-17T13:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dzy3CJ0ybPHSVq03Ye_nOhZzxug",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnMxSzVrYm5ySjNF",
+      "snippet": {
+        "publishedAt": "2024-12-15T07:30:30Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "最強の金ノコノコを全員ぶっ倒す天才がコイツです。【マリオオデッセイ】",
+        "description": "今回は、多分実況史上初となる、上田さんオンリープレイ動画です。ひよこを見るような目でご覧ください。\n\nマリオ：スウィント   ルイージ：上田さん\n\nTwitter : https://twitter.com/swintoooooo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1K5kbnrJ3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1K5kbnrJ3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1K5kbnrJ3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s1K5kbnrJ3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s1K5kbnrJ3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 178,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s1K5kbnrJ3E"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "s1K5kbnrJ3E",
+        "videoPublishedAt": "2024-12-15T07:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bCv6KQUdDctirVFprQ0tivRnzvE",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkZJTEo1ZHZFUW5Z",
+      "snippet": {
+        "publishedAt": "2024-12-14T13:07:55Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #13",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FILJ5dvEQnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FILJ5dvEQnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FILJ5dvEQnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FILJ5dvEQnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FILJ5dvEQnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 179,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FILJ5dvEQnY"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "FILJ5dvEQnY",
+        "videoPublishedAt": "2024-12-14T13:07:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "otc8HSfIIgc4agzwsHOzFtmNnTc",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLm9MTlhUTndUR2JJ",
+      "snippet": {
+        "publishedAt": "2024-12-13T10:05:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "高火力で勝率が9割越える『フーディン』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。強いと噂のフーディンを使ってみましたが、強かったです。僕は今、1＋1＝2みたいな当たり前のことを言いました。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oLNXTNwTGbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oLNXTNwTGbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oLNXTNwTGbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oLNXTNwTGbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oLNXTNwTGbI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 180,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oLNXTNwTGbI"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "oLNXTNwTGbI",
+        "videoPublishedAt": "2024-12-13T10:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7_ktlTisnjZ6Aj3JxzLtfYn9HTY",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkoyNDFMeFBVbXdz",
+      "snippet": {
+        "publishedAt": "2024-12-10T09:12:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "5連勝イベントを1発クリアした『ガラガラ』があまりにも強すぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。ガラガラはとても魅力的で利用者に楽しさを提供してくれる素晴らしいデッキです👍(Google翻訳風)\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J241LxPUmws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J241LxPUmws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J241LxPUmws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J241LxPUmws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J241LxPUmws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 181,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J241LxPUmws"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "J241LxPUmws",
+        "videoPublishedAt": "2024-12-10T09:12:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYb4b_e4-Um2UGuQqgIc3Ph50-s",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjRWb09jaG5IS19z",
+      "snippet": {
+        "publishedAt": "2024-12-07T10:21:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【爆笑】不可能なジャンプを可能にする天才がコイツです。【マリオオデッセイ】",
+        "description": "参考動画：https://www.youtube.com/watch?v=bcGnFo43Z1o\n\n今回はマリオオデッセイのチャレンジ系の企画再来です。前回よりも確実に難しいことをやってると思います。全部で何時間かかったかは、もう途中から考えるのはやめました。次やるとしたら、さらに難しいのやると思うから、1年くらい撮らないと投稿できなさそう。\n\nマリオ：スウィント   ルイージ：上田さん\n\nTwitter : https://twitter.com/swintoooooo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4VoOchnHK_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4VoOchnHK_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4VoOchnHK_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4VoOchnHK_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4VoOchnHK_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 182,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4VoOchnHK_s"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "4VoOchnHK_s",
+        "videoPublishedAt": "2024-12-07T10:21:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MCLeABxc83g9f185apYEvFD4uCw",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkFDV2p5VVJFTWVn",
+      "snippet": {
+        "publishedAt": "2024-12-04T09:00:14Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "全体攻撃で全てを吹き飛ばす『カイリュー』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。カイリューデッキです。進化まで時間かかるけど、進化したら最強ですね。登場は遅いけど、登場したら最強みたいな、ある意味、ドランゴンボールの孫悟空みたいな存在だと思います。ちょうどドランゴンタイプだしね（爆笑爆笑）\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ACWjyUREMeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ACWjyUREMeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ACWjyUREMeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ACWjyUREMeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ACWjyUREMeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 183,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ACWjyUREMeg"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "ACWjyUREMeg",
+        "videoPublishedAt": "2024-12-04T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xgFpzMOlFaCRAr5CD8cSRCRYWek",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjlNQ0pUc3ZJczQ0",
+      "snippet": {
+        "publishedAt": "2024-11-30T13:42:43Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #12",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MCJTsvIs44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MCJTsvIs44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MCJTsvIs44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9MCJTsvIs44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9MCJTsvIs44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 184,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9MCJTsvIs44"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "9MCJTsvIs44",
+        "videoPublishedAt": "2024-11-30T13:42:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NdoMVWAnKDyTN6Ao7ppp-O3ur6Y",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkFIMl9UOWtPcUEw",
+      "snippet": {
+        "publishedAt": "2024-11-28T09:25:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "すべての攻撃を無効化する『ダグトリオ』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。ダグトリオを使ってみました。「ダメージを無効化できる」という効果を読んだ瞬間に、この子を動画で使ってあげないといけないという使命感を感じていました。ベロリンガとダグトリオは最強のホコとタテっていう感じがして男のロマンをくすぐってくるなぁ。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AH2_T9kOqA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AH2_T9kOqA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AH2_T9kOqA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AH2_T9kOqA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AH2_T9kOqA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 185,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AH2_T9kOqA0"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "AH2_T9kOqA0",
+        "videoPublishedAt": "2024-11-28T09:25:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0YvUqwQBZsqFb5Jia1JkIN6oubg",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjVNSVk3UDRDZHRV",
+      "snippet": {
+        "publishedAt": "2024-11-26T10:30:02Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【爆笑】マリオオデッセイで「かくれんぼ」できる遊びが面白すぎる。",
+        "description": "今回は、オデッセイです。バルーンファインドを遊びつくしたので、かくれんぼっぽいゲームをやってみました。かくれんぼというよりジオゲッサ―みたいになってますが、やってることは「場所を見つける」ということで同じなのでいいでしょう。結構楽しかったからまたやりたい。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5MIY7P4CdtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5MIY7P4CdtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MIY7P4CdtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5MIY7P4CdtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5MIY7P4CdtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 186,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5MIY7P4CdtU"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "5MIY7P4CdtU",
+        "videoPublishedAt": "2024-11-26T10:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mF_PZvfqDhus_mD0hil6XXLzt00",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkxjNGVqd3ROVXl3",
+      "snippet": {
+        "publishedAt": "2024-11-23T18:11:16Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "すべてのコースを3周遅れで1位取るまで終われない『マリオカート8DX』生配信",
+        "description": "3周回遅れ縛りとは、コースを逆走して、1位と3回すれ違うまでスタートできない縛りです。\n\nこの配信は、逆走可能なコース(全15コース)でその縛りプレイを行い、そのすべてのコースで１位を取れるまで終われないという配信です。\n\nキノピオハーバー、エキサイトバイク、キノピオハイウェイの3コースは逆走可能ですが、物理的に1位を取ることがほぼ不可能なので禁止コースとします。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lc4ejwtNUyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lc4ejwtNUyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lc4ejwtNUyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lc4ejwtNUyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lc4ejwtNUyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 187,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lc4ejwtNUyw"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "Lc4ejwtNUyw",
+        "videoPublishedAt": "2024-11-23T18:11:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6IcxaF0J4MdGN5ZR2zqqZPQxhok",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZVSjBHMjdjQnVn",
+      "snippet": {
+        "publishedAt": "2024-11-21T10:30:10Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "200ccで3周遅れの状態からありえない逆転を見せるマリオカートの天才がコイツですwwww",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VUJ0G27cBug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VUJ0G27cBug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VUJ0G27cBug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VUJ0G27cBug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VUJ0G27cBug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 188,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VUJ0G27cBug"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "VUJ0G27cBug",
+        "videoPublishedAt": "2024-11-21T10:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NtcIzZ9moTCxmwuaYnc_ZK_R_xo",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnd5MTFCR2JTb3pJ",
+      "snippet": {
+        "publishedAt": "2024-11-20T10:07:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "史上最高ダメージを叩き出せる『ベロリンガ』がヤバすぎる。【ポケポケ】",
+        "description": "今回は、ポケポケです。開封動画以降普通にハマり散らかしているポケポケを実況します。実は裏でもちょっと課金しちゃってるポケポケを実況します。アップデートで年内に追加パックがくるらしいから、その時も課金しそうで怖いポケポケを実況します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wy11BGbSozI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wy11BGbSozI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wy11BGbSozI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wy11BGbSozI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wy11BGbSozI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 189,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wy11BGbSozI"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "wy11BGbSozI",
+        "videoPublishedAt": "2024-11-20T10:07:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PxF-DbebrU9cMlAqPM9RyS8u8Jo",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmRrZ0dRRUUxYV9v",
+      "snippet": {
+        "publishedAt": "2024-11-19T12:59:07Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #11",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dkgGQEE1a_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dkgGQEE1a_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dkgGQEE1a_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dkgGQEE1a_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dkgGQEE1a_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 190,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dkgGQEE1a_o"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "dkgGQEE1a_o",
+        "videoPublishedAt": "2024-11-19T12:59:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7hCKizFbIWhmuXkNkZkkDjtHv64",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLktkVEMwSnRLbFRr",
+      "snippet": {
+        "publishedAt": "2024-11-19T11:46:34Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #10",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KdTC0JtKlTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KdTC0JtKlTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KdTC0JtKlTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KdTC0JtKlTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KdTC0JtKlTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 191,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KdTC0JtKlTk"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "KdTC0JtKlTk",
+        "videoPublishedAt": "2024-11-19T11:46:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w7ftTeZt747sSFPyOycgBN-5aAo",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmtyNS1GbGpHOFNZ",
+      "snippet": {
+        "publishedAt": "2024-11-16T14:00:55Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #9",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kr5-FljG8SY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kr5-FljG8SY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kr5-FljG8SY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kr5-FljG8SY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kr5-FljG8SY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 192,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kr5-FljG8SY"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "kr5-FljG8SY",
+        "videoPublishedAt": "2024-11-16T14:00:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G0rU_lYdsc7xIJKXKtFyU0PV8y0",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk9kV3RVd3YtNnJj",
+      "snippet": {
+        "publishedAt": "2024-11-16T11:46:30Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #8",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdWtUwv-6rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdWtUwv-6rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdWtUwv-6rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OdWtUwv-6rc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OdWtUwv-6rc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 193,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OdWtUwv-6rc"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "OdWtUwv-6rc",
+        "videoPublishedAt": "2024-11-16T11:46:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5JfmfnxsWTaRbaiSroy3QEo8YRE",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkU4NXotS2RaMXpV",
+      "snippet": {
+        "publishedAt": "2024-11-15T10:30:05Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【実写】オセロガチ勢が本気を出した結果…",
+        "description": "今回は、実写でオセロをやってみました。アソビ大全ではなく、ガチのボードでやってます。かなり見応えのある勝負になっているはずなので、最後までご覧ください。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E85z-KdZ1zU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E85z-KdZ1zU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E85z-KdZ1zU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E85z-KdZ1zU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E85z-KdZ1zU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 194,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E85z-KdZ1zU"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "E85z-KdZ1zU",
+        "videoPublishedAt": "2024-11-15T10:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y4GXReAFjMvXLXtpJLJ12-mjtow",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnNHQ18yTUNza3JJ",
+      "snippet": {
+        "publishedAt": "2024-11-13T10:35:01Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "成人男性２人がレアカードを引いた瞬間がこちらになりますwwww【ポケポケ】",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sGC_2MCskrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sGC_2MCskrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sGC_2MCskrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sGC_2MCskrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sGC_2MCskrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 195,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sGC_2MCskrI"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "sGC_2MCskrI",
+        "videoPublishedAt": "2024-11-13T10:35:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cN4QE5xpwZwdvtrw5tdBnsL1_ak",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkIwdFFIZW5haERR",
+      "snippet": {
+        "publishedAt": "2024-11-12T10:45:00Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【神回】2人で上限まで課金してパック開封バトルしてみた結果…【ポケポケ】",
+        "description": "今回は、ポケポケです。流行りに乗ってみました。パックを2人で限度額まで課金して引いてみました。神回になりました。ぜひ飛ばさずに最後まで見ることをお勧めします。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B0tQHenahDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B0tQHenahDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B0tQHenahDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B0tQHenahDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B0tQHenahDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 196,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B0tQHenahDQ"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "B0tQHenahDQ",
+        "videoPublishedAt": "2024-11-12T10:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vBuCxD_S29rLkdnY3FpGUS9AWOs",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLm5NZllNQ0VyT3Jn",
+      "snippet": {
+        "publishedAt": "2024-11-09T13:08:19Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #7",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMfYMCErOrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMfYMCErOrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMfYMCErOrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nMfYMCErOrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nMfYMCErOrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 197,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nMfYMCErOrg"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "nMfYMCErOrg",
+        "videoPublishedAt": "2024-11-09T13:08:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yupXZwsFbujc6oFLZEOORS6Q9R4",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZVTHZwa0ZjRE1N",
+      "snippet": {
+        "publishedAt": "2024-11-09T11:52:52Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【無理ゲー】死んだら即終了『マリオWii』生放送 #6",
+        "description": "どっちかが死んだら、その時点で終了します。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VULvpkFcDMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VULvpkFcDMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VULvpkFcDMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VULvpkFcDMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VULvpkFcDMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 198,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VULvpkFcDMM"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "VULvpkFcDMM",
+        "videoPublishedAt": "2024-11-09T11:52:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vriJrVifHyddxZgfkV6Yk4viPqs",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLks2Rk9uajBMSlBv",
+      "snippet": {
+        "publishedAt": "2024-11-08T10:30:11Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【爆笑】マリオオデッセイで「かくれんぼ」できるモードが面白すぎる。",
+        "description": "今回は、マリオオデッセイかくれんぼパート２です。前回よりはなかなかいい勝負になっているかと思います。最後まで見たほうがいいやつです。この動画は特にね。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 199,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K6FOnj0LJPo"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "K6FOnj0LJPo",
+        "videoPublishedAt": "2024-11-08T10:30:11Z"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 726,
     "resultsPerPage": 50
   }
 }
