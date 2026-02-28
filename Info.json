@@ -1,12 +1,63 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "IKvZNZSyl4cFmskTth0N7XlS-Ps",
-  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJCUmtFek1ESXpNVEkyTURoRFFURTM",
-  "prevPageToken": "EAEaH1BUOkNKWUJJaEEyTUVWQk1FVXdOVUUzUWtWRFF6VTQ",
+  "etag": "AoQcOXtFdso-b0kgzTSedTTFyhE",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEEwTURkRlJVSTROa0k1TTBJMk1rWkc",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEJHUkRKQk5qazJRakU0UXpFNU1EZ3k",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JOYDIhgGaCM9TERKqwT7s94kRdM",
+      "etag": "uKfxKmQfPqfV9SbRJkq8ZECb3t0",
+      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlB1WFNaN3FZOVVn",
+      "snippet": {
+        "publishedAt": "2025-02-13T09:00:24Z",
+        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
+        "title": "【爆笑】マリオカートにHPを導入してみた結果…【マリオカート8DX】",
+        "description": "マリカーにHPを導入してみました。「HPを導入した」というとHP製のパソコンを会社に導入したみたいになりますね。なりませんか。そうですか。すみません。\n\nコインが0枚になったら終了です。トゲは一発アウトです。あと流れで2連続1位を取らなきゃいけなくなりました。\n\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PuXSZ7qY9Ug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PuXSZ7qY9Ug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PuXSZ7qY9Ug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PuXSZ7qY9Ug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PuXSZ7qY9Ug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スウィントと上田さん",
+        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
+        "position": 150,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PuXSZ7qY9Ug"
+        },
+        "videoOwnerChannelTitle": "スウィントと上田さん",
+        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
+      },
+      "contentDetails": {
+        "videoId": "PuXSZ7qY9Ug",
+        "videoPublishedAt": "2025-02-13T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tU8yJqVfPomBFkMKqMyNcuTdUsA",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnh1XzUxcWhPMU53",
       "snippet": {
         "publishedAt": "2025-02-10T09:44:00Z",
@@ -42,7 +93,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 150,
+        "position": 151,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xu_51qhO1Nw"
@@ -57,7 +108,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MhUhCFTa5YnFzylPt5njd8N6aSM",
+      "etag": "Ws_zvI_yIr2D2A3XdNVI8o13ixY",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlVoaFJpWDFYRFRj",
       "snippet": {
         "publishedAt": "2025-02-08T14:23:46Z",
@@ -93,7 +144,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 151,
+        "position": 152,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UhhRiX1XDTc"
@@ -108,7 +159,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "khjppG9XZ6otqff9Zh3TLyWGKbQ",
+      "etag": "8d2EfYY5WbBCxgR9RjbaliSq8UE",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlpZWjRPZy1XUXpz",
       "snippet": {
         "publishedAt": "2025-02-08T11:59:39Z",
@@ -144,7 +195,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 152,
+        "position": 153,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZYZ4Og-WQzs"
@@ -159,7 +210,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lCTIPohGER4Fv3b1ULjBq043wlE",
+      "etag": "9ErxFuMbEsYC-9z58SRQI89eVaw",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjdTd2R5WEN3VG8w",
       "snippet": {
         "publishedAt": "2025-02-07T09:00:07Z",
@@ -195,7 +246,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 153,
+        "position": 154,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7SwdyXCwTo0"
@@ -210,7 +261,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b9Rk2q920yVOlXunWVq69S2iWgQ",
+      "etag": "tUa2pB_Y3op5chhPlJsfhAh7IRA",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjBUUDJiQXZIenpN",
       "snippet": {
         "publishedAt": "2025-02-01T14:46:50Z",
@@ -246,7 +297,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 154,
+        "position": 155,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0TP2bAvHzzM"
@@ -261,7 +312,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8Z_tf-qRSBtE85JwbxzgmAikvv4",
+      "etag": "UKx6JgZp1KA9I1-mpxfN7xer1S0",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk5DYS1RdjRWMzNF",
       "snippet": {
         "publishedAt": "2025-01-31T11:12:00Z",
@@ -297,7 +348,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 155,
+        "position": 156,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NCa-Qv4V33E"
@@ -312,7 +363,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_j_YUVCFvPsYaFm7c-8vDe2hDb0",
+      "etag": "RZxsCRfI1QYyPrHqwR124duKyuk",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnpaaW1WalhSNWZZ",
       "snippet": {
         "publishedAt": "2025-01-29T09:01:09Z",
@@ -348,7 +399,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 156,
+        "position": 157,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zZimVjXR5fY"
@@ -363,7 +414,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BC-hII-09jjNokRQLi6fyp5vSjc",
+      "etag": "OnUF1qOadUVUoAMk5H9JIZJ7xUE",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmU2aHJHaGlKN3FV",
       "snippet": {
         "publishedAt": "2025-01-27T09:45:02Z",
@@ -399,7 +450,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 157,
+        "position": 158,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "e6hrGhiJ7qU"
@@ -414,7 +465,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UjNz_9C28AuRU0w_eUsWD1bqFTU",
+      "etag": "YGDGl4gCA-gGI_SQpOHZ-XKtGpg",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkJrcllGaE5UZDdz",
       "snippet": {
         "publishedAt": "2025-01-25T14:35:28Z",
@@ -450,7 +501,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 158,
+        "position": 159,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BkrYFhNTd7s"
@@ -465,7 +516,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zeOpVVprH7_1Y8dHDpKp5s5Q5WM",
+      "etag": "VZ8tBQqKfxYYvNYy5WD0TDJwmDI",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkF1YjNlcGdvc2lV",
       "snippet": {
         "publishedAt": "2025-01-24T10:00:10Z",
@@ -501,7 +552,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 159,
+        "position": 160,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Aub3epgosiU"
@@ -516,7 +567,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h5thqi9EWikSara4dny9SnX8MRY",
+      "etag": "AX68KUQMySgBtnC0ce_p1oI4Pu8",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmgyb3JCdVFRV0tr",
       "snippet": {
         "publishedAt": "2025-01-21T09:00:47Z",
@@ -552,7 +603,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 160,
+        "position": 161,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "h2orBuQQWKk"
@@ -567,7 +618,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sdSXKOscemNfzMk-oB6nhOvw2fg",
+      "etag": "uANSjwJkw9cP7n84qFX9tLA3z18",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlpxMFR4QTc5ajQw",
       "snippet": {
         "publishedAt": "2025-01-18T16:57:11Z",
@@ -603,7 +654,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 161,
+        "position": 162,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Zq0TxA79j40"
@@ -618,7 +669,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "16p7agd203Thby2C_ZbMUnouOD8",
+      "etag": "lXF-nYYndyEwd7g_YK7LvvDifyk",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjVNQU1YYmlNRXlz",
       "snippet": {
         "publishedAt": "2025-01-17T08:28:00Z",
@@ -654,7 +705,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 162,
+        "position": 163,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5MAMXbiMEys"
@@ -669,7 +720,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Y_USuVbXwcyfggHzNaLzPUzhj-U",
+      "etag": "FxvQfaB75NJ56diP612C6QCz-vA",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjBDSTZHdE96ajZB",
       "snippet": {
         "publishedAt": "2025-01-14T08:30:00Z",
@@ -705,7 +756,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 163,
+        "position": 164,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0CI6GtOzj6A"
@@ -720,7 +771,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pcOSYlhTmc-c6lF4ApkvUzqteY4",
+      "etag": "361afZj327JuFipbcN8oaadOU1Y",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlRPdjA1S2xPTFNF",
       "snippet": {
         "publishedAt": "2025-01-11T13:31:27Z",
@@ -756,7 +807,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 164,
+        "position": 165,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TOv05KlOLSE"
@@ -771,7 +822,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4-C-QcM8sYi-1FaNfNcuSEdUw2o",
+      "etag": "12zCowW6CYRn91prGU-5pR8x1yw",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmxzVk9PX2xjQTRV",
       "snippet": {
         "publishedAt": "2025-01-10T11:09:00Z",
@@ -807,7 +858,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 165,
+        "position": 166,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lsVOO_lcA4U"
@@ -822,7 +873,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ORMzEmEizevEhI9ksX5zNKhyOGI",
+      "etag": "xNhclO4UYfyoBWTR7r5D-dmU32Q",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjYyZy1XNDVINnNr",
       "snippet": {
         "publishedAt": "2025-01-07T13:40:23Z",
@@ -858,7 +909,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 166,
+        "position": 167,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "62g-W45H6sk"
@@ -873,7 +924,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CUFwXBK2BwZMmUU4XTyAkyMze9k",
+      "etag": "z-sNBmtNiJhQK5KyQCd8iuJeoYU",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlB4dU5JbHM5OEZZ",
       "snippet": {
         "publishedAt": "2025-01-04T08:00:20Z",
@@ -909,7 +960,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 167,
+        "position": 168,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PxuNIls98FY"
@@ -924,7 +975,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "psTPEsNjURiKVHr8ETWETDsvjLo",
+      "etag": "WiXdpo_MWUC2pRT3nHVLQXcCR30",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmY1dzFzOVVLalVR",
       "snippet": {
         "publishedAt": "2025-01-02T09:14:00Z",
@@ -960,7 +1011,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 168,
+        "position": 169,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "f5w1s9UKjUQ"
@@ -975,7 +1026,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "O3ojsr2BlzTE7_AWQAoZwIUuvTk",
+      "etag": "htEEYi07mSnh7DBfA99MX8ENcuk",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlBBbU1hYjNqRVJj",
       "snippet": {
         "publishedAt": "2024-12-30T14:06:33Z",
@@ -1011,7 +1062,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 169,
+        "position": 170,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PAmMab3jERc"
@@ -1026,7 +1077,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "--S9PlSacCGO6B5y9B6sQD9KkIM",
+      "etag": "wp6hV4SfLrzBD00JFUFnmVwdtjk",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkNQWVI4ZElYaXM0",
       "snippet": {
         "publishedAt": "2024-12-30T12:18:42Z",
@@ -1062,7 +1113,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 170,
+        "position": 171,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CPYR8dIXis4"
@@ -1077,7 +1128,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "r2D9z0CM4tyGbT9vHMwNE8rOK6w",
+      "etag": "Ne5gopUkuZI2M5QorFpgYtjk1AA",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlh0cF9qbktjU0Ew",
       "snippet": {
         "publishedAt": "2024-12-30T11:41:32Z",
@@ -1113,7 +1164,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 171,
+        "position": 172,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Xtp_jnKcSA0"
@@ -1128,7 +1179,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R7NRXYNNo2Zdfi15D-ctDANmog8",
+      "etag": "KAYKUOYdCMyCG7fKNsIz5b7htzM",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZSeFlkcWVMbWVj",
       "snippet": {
         "publishedAt": "2024-12-29T09:18:00Z",
@@ -1164,7 +1215,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 172,
+        "position": 173,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VRxYdqeLmec"
@@ -1179,7 +1230,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o0TVRBd7IHCpTAxNydBNn2OP4h8",
+      "etag": "FnzndUXYnCL_zxn1OogyGXcPCNI",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmpZOFlZOS1uNkJJ",
       "snippet": {
         "publishedAt": "2024-12-27T08:40:00Z",
@@ -1215,7 +1266,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 173,
+        "position": 174,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jY8YY9-n6BI"
@@ -1230,7 +1281,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Lx6u8Z92ZMdUNMnSVBeAlRh77A0",
+      "etag": "9qLBKddnBrHdUGPOm9YQAyjimbA",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmxmQXVYbVcxWEZF",
       "snippet": {
         "publishedAt": "2024-12-24T10:15:04Z",
@@ -1266,7 +1317,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 174,
+        "position": 175,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lfAuXmW1XFE"
@@ -1281,7 +1332,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MWPUrYun2YtQpKwN5S8Osm7vgv4",
+      "etag": "O617svZpOq1CiZk_pz-PM0Izx4w",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlNOX1BFTDRmeDJZ",
       "snippet": {
         "publishedAt": "2024-12-21T13:51:14Z",
@@ -1317,7 +1368,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 175,
+        "position": 176,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SN_PEL4fx2Y"
@@ -1332,7 +1383,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wSphldnGcEt7y8dRkEHDp6c7y6Q",
+      "etag": "G2L15bjXDkBl9DZcY37dRzKBTa8",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnZYTDhtY05JaGFN",
       "snippet": {
         "publishedAt": "2024-12-20T08:30:17Z",
@@ -1368,7 +1419,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 176,
+        "position": 177,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "vXL8mcNIhaM"
@@ -1383,7 +1434,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "36hO_n01zfKR-G395hFJmHuFZSQ",
+      "etag": "1k2-mCcZg7pBE8y5YUmbb_fWD9I",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk9mbnNzLW5leHJr",
       "snippet": {
         "publishedAt": "2024-12-17T13:45:04Z",
@@ -1419,7 +1470,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 177,
+        "position": 178,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ofnss-nexrk"
@@ -1434,7 +1485,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dzy3CJ0ybPHSVq03Ye_nOhZzxug",
+      "etag": "_Ee9jCcYuEpkjCDQXdXBs_BDf6M",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnMxSzVrYm5ySjNF",
       "snippet": {
         "publishedAt": "2024-12-15T07:30:30Z",
@@ -1470,7 +1521,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 178,
+        "position": 179,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "s1K5kbnrJ3E"
@@ -1485,7 +1536,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bCv6KQUdDctirVFprQ0tivRnzvE",
+      "etag": "kZWFZ-S5R8ta0mPc_zXnhmbSj4k",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkZJTEo1ZHZFUW5Z",
       "snippet": {
         "publishedAt": "2024-12-14T13:07:55Z",
@@ -1521,7 +1572,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 179,
+        "position": 180,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FILJ5dvEQnY"
@@ -1536,7 +1587,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "otc8HSfIIgc4agzwsHOzFtmNnTc",
+      "etag": "U4fZHrbxt683WFYudP9NTJj1hjg",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLm9MTlhUTndUR2JJ",
       "snippet": {
         "publishedAt": "2024-12-13T10:05:00Z",
@@ -1572,7 +1623,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 180,
+        "position": 181,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oLNXTNwTGbI"
@@ -1587,7 +1638,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7_ktlTisnjZ6Aj3JxzLtfYn9HTY",
+      "etag": "8Fc8ndl7bw12pYh2TB6S20whxXQ",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkoyNDFMeFBVbXdz",
       "snippet": {
         "publishedAt": "2024-12-10T09:12:00Z",
@@ -1623,7 +1674,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 181,
+        "position": 182,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "J241LxPUmws"
@@ -1638,7 +1689,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oYb4b_e4-Um2UGuQqgIc3Ph50-s",
+      "etag": "CtHzMEd46GGrY1IISIvOWiFG9aE",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjRWb09jaG5IS19z",
       "snippet": {
         "publishedAt": "2024-12-07T10:21:00Z",
@@ -1674,7 +1725,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 182,
+        "position": 183,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4VoOchnHK_s"
@@ -1689,7 +1740,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MCLeABxc83g9f185apYEvFD4uCw",
+      "etag": "DdBV791SJX5-P2W7D4D7MojEsb0",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkFDV2p5VVJFTWVn",
       "snippet": {
         "publishedAt": "2024-12-04T09:00:14Z",
@@ -1725,7 +1776,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 183,
+        "position": 184,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ACWjyUREMeg"
@@ -1740,7 +1791,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xgFpzMOlFaCRAr5CD8cSRCRYWek",
+      "etag": "f3VL7OnUXHNrGFt5xq8JoGQN9BE",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjlNQ0pUc3ZJczQ0",
       "snippet": {
         "publishedAt": "2024-11-30T13:42:43Z",
@@ -1776,7 +1827,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 184,
+        "position": 185,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9MCJTsvIs44"
@@ -1791,7 +1842,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NdoMVWAnKDyTN6Ao7ppp-O3ur6Y",
+      "etag": "zl2bsx3i1UejYG705WOHu4dpbrU",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkFIMl9UOWtPcUEw",
       "snippet": {
         "publishedAt": "2024-11-28T09:25:00Z",
@@ -1827,7 +1878,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 185,
+        "position": 186,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "AH2_T9kOqA0"
@@ -1842,7 +1893,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0YvUqwQBZsqFb5Jia1JkIN6oubg",
+      "etag": "H5dz_uusWk4j09ojq9RbtRspCno",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLjVNSVk3UDRDZHRV",
       "snippet": {
         "publishedAt": "2024-11-26T10:30:02Z",
@@ -1878,7 +1929,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 186,
+        "position": 187,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5MIY7P4CdtU"
@@ -1893,7 +1944,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mF_PZvfqDhus_mD0hil6XXLzt00",
+      "etag": "MRFxl97CnAWR0B15JI6boJaquBE",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkxjNGVqd3ROVXl3",
       "snippet": {
         "publishedAt": "2024-11-23T18:11:16Z",
@@ -1929,7 +1980,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 187,
+        "position": 188,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Lc4ejwtNUyw"
@@ -1944,7 +1995,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6IcxaF0J4MdGN5ZR2zqqZPQxhok",
+      "etag": "o0qG1wR8tRFNjlAUCN20kuA61lw",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZVSjBHMjdjQnVn",
       "snippet": {
         "publishedAt": "2024-11-21T10:30:10Z",
@@ -1980,7 +2031,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 188,
+        "position": 189,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VUJ0G27cBug"
@@ -1995,7 +2046,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NtcIzZ9moTCxmwuaYnc_ZK_R_xo",
+      "etag": "GhPySaR2_xkL6VNHP4hToUWkM34",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnd5MTFCR2JTb3pJ",
       "snippet": {
         "publishedAt": "2024-11-20T10:07:00Z",
@@ -2031,7 +2082,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 189,
+        "position": 190,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "wy11BGbSozI"
@@ -2046,7 +2097,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PxF-DbebrU9cMlAqPM9RyS8u8Jo",
+      "etag": "8d-P-wPXkkf1mk6yMiu62fnk08g",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmRrZ0dRRUUxYV9v",
       "snippet": {
         "publishedAt": "2024-11-19T12:59:07Z",
@@ -2082,7 +2133,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 190,
+        "position": 191,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dkgGQEE1a_o"
@@ -2097,7 +2148,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7hCKizFbIWhmuXkNkZkkDjtHv64",
+      "etag": "0HyiNxSvto7dnZ79xIv_3hO-v7w",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLktkVEMwSnRLbFRr",
       "snippet": {
         "publishedAt": "2024-11-19T11:46:34Z",
@@ -2133,7 +2184,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 191,
+        "position": 192,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KdTC0JtKlTk"
@@ -2148,7 +2199,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "w7ftTeZt747sSFPyOycgBN-5aAo",
+      "etag": "HAln_FTqf6tXpXCM858Ln5ldXRI",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLmtyNS1GbGpHOFNZ",
       "snippet": {
         "publishedAt": "2024-11-16T14:00:55Z",
@@ -2184,7 +2235,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 192,
+        "position": 193,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kr5-FljG8SY"
@@ -2199,7 +2250,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G0rU_lYdsc7xIJKXKtFyU0PV8y0",
+      "etag": "VYnRrdbdmLiUyeZ2_gwywgTZIZ8",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLk9kV3RVd3YtNnJj",
       "snippet": {
         "publishedAt": "2024-11-16T11:46:30Z",
@@ -2235,7 +2286,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 193,
+        "position": 194,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OdWtUwv-6rc"
@@ -2250,7 +2301,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5JfmfnxsWTaRbaiSroy3QEo8YRE",
+      "etag": "FKucxc0sBkwyjRot86F6_iKdejQ",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkU4NXotS2RaMXpV",
       "snippet": {
         "publishedAt": "2024-11-15T10:30:05Z",
@@ -2286,7 +2337,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 194,
+        "position": 195,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "E85z-KdZ1zU"
@@ -2301,7 +2352,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Y4GXReAFjMvXLXtpJLJ12-mjtow",
+      "etag": "xSFijn-ehwIR4E_w3BNG9Nk7Kf4",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLnNHQ18yTUNza3JJ",
       "snippet": {
         "publishedAt": "2024-11-13T10:35:01Z",
@@ -2337,7 +2388,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 195,
+        "position": 196,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sGC_2MCskrI"
@@ -2352,7 +2403,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cN4QE5xpwZwdvtrw5tdBnsL1_ak",
+      "etag": "yjrq6EBp7RIc6lRwlmp2nO0RyWc",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLkIwdFFIZW5haERR",
       "snippet": {
         "publishedAt": "2024-11-12T10:45:00Z",
@@ -2388,7 +2439,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 196,
+        "position": 197,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "B0tQHenahDQ"
@@ -2403,7 +2454,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vBuCxD_S29rLkdnY3FpGUS9AWOs",
+      "etag": "HkAbxibKIMqxCPadTUELTbAHFX8",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLm5NZllNQ0VyT3Jn",
       "snippet": {
         "publishedAt": "2024-11-09T13:08:19Z",
@@ -2439,7 +2490,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 197,
+        "position": 198,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nMfYMCErOrg"
@@ -2454,7 +2505,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yupXZwsFbujc6oFLZEOORS6Q9R4",
+      "etag": "mMbTawvpAXnqNe-0tE-YruuzMD0",
       "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLlZVTHZwa0ZjRE1N",
       "snippet": {
         "publishedAt": "2024-11-09T11:52:52Z",
@@ -2490,7 +2541,7 @@
         },
         "channelTitle": "スウィントと上田さん",
         "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 198,
+        "position": 199,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VULvpkFcDMM"
@@ -2502,61 +2553,10 @@
         "videoId": "VULvpkFcDMM",
         "videoPublishedAt": "2024-11-09T11:52:52Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "vriJrVifHyddxZgfkV6Yk4viPqs",
-      "id": "VVVMMFIxWGVFcVhXMjhGbFl6bnpZVnhnLks2Rk9uajBMSlBv",
-      "snippet": {
-        "publishedAt": "2024-11-08T10:30:11Z",
-        "channelId": "UCL0R1XeEqXW28FlYznzYVxg",
-        "title": "【爆笑】マリオオデッセイで「かくれんぼ」できるモードが面白すぎる。",
-        "description": "今回は、マリオオデッセイかくれんぼパート２です。前回よりはなかなかいい勝負になっているかと思います。最後まで見たほうがいいやつです。この動画は特にね。\n\nチャンネル登録とか高評価とかしてくれたら、単純に僕が喜びます。いつもコメント本当にありがとうございます！お友達とかにＳＮＳで拡散してくれたらうれしい。\n\nTwitter : スウィント→ https://twitter.com/swintoooooo\n　　　   上田さん→https://mobile.twitter.com/uedasan__",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K6FOnj0LJPo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スウィントと上田さん",
-        "playlistId": "UUL0R1XeEqXW28FlYznzYVxg",
-        "position": 199,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "K6FOnj0LJPo"
-        },
-        "videoOwnerChannelTitle": "スウィントと上田さん",
-        "videoOwnerChannelId": "UCL0R1XeEqXW28FlYznzYVxg"
-      },
-      "contentDetails": {
-        "videoId": "K6FOnj0LJPo",
-        "videoPublishedAt": "2024-11-08T10:30:11Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 726,
+    "totalResults": 727,
     "resultsPerPage": 50
   }
 }
