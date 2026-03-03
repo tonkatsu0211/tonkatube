@@ -1,470 +1,2562 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hIwIoTQ3hiAUD24z5GjVpvJqYTQ",
-  "prevPageToken": "EAEaH1BUOkNKWUJJaEE0TkRKRU1UQTVSVGhDUkRVeVF6YzU",
+  "etag": "C5gZw5ngZEANBcfEyM7otSSTRmc",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJCTlVWQk9UQkdNVUZCTnpJd1JqUTA",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEF4TmpJM01FVTJNamhFTVRJMlFqUTQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "OJWqT2wYB6Gi-fecmwKlh85C_XU",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLjJMclJJdXFFWkJj",
+      "etag": "hBOlOZWqqTr0ixmuPwe3iyrrvag",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmJwa2lfWHBJNzF3",
       "snippet": {
-        "publishedAt": "2023-04-07T10:36:34Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "理論値レベルのプレイ #ぷよぷよテトリス2 #テトリス99 #パフェ #shortvideo #shorts #short",
-        "description": "",
+        "publishedAt": "2025-05-05T17:29:13Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴第50回 深夜の何屋ラジオ 2025/04 #NANIYArt",
+        "description": "【FA投稿の際のルール】\n・1人1か月3作品まで\n・「#NANIYArt」のタグで投稿！\n・クソコラとFAタグの併用・乱用はNG\n・FAは原則画像にてお願いします。\n・AIに描かせてみた、コラ画像等は紹介の対象外(紹介対象はあくまでもファンアートです)。\n\n【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・配信を統制したり愚直等雰囲気を乱すコメント(説明欄の参照を促す・初見さんいらっしゃい もNG！)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n※身バレや個人情報の特定につながるコメント\n・その他連投等目に余るコメント\n★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n1か月の疲れを癒す何屋未来のラジオ配信！\n作業用BGM、睡眠用BGM、寝ながら。なんでもどうぞ。\n\n※いただいたスーパーチャットは配信の最後に読ませていただきます！\n※メンバー継続メッセージは基本対応できませんのでご了承ください！\n\n第50のトークテーマはこちら！\n・4月の振り返り\n・FA発表\n・リスナーさんからの質問相談\n・近況報告＆5月の告知\n\n配信時間\n1:40頃まで\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ラジオ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2LrRIuqEZBc/default.jpg",
+            "url": "https://i.ytimg.com/vi/bpki_XpI71w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2LrRIuqEZBc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bpki_XpI71w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2LrRIuqEZBc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bpki_XpI71w/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2LrRIuqEZBc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/bpki_XpI71w/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2LrRIuqEZBc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bpki_XpI71w/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 150,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "2LrRIuqEZBc"
+          "videoId": "bpki_XpI71w"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "2LrRIuqEZBc",
-        "videoPublishedAt": "2023-04-07T10:36:34Z"
+        "videoId": "bpki_XpI71w",
+        "videoPublishedAt": "2025-05-05T17:29:13Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yLiL9-JcYSBjHitBhVMP8R7mG3s",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLk1YZ21DRW9nd21j",
+      "etag": "xHwc8xJv2_-gsjzR2sJWcx9_TWE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlhnZjExa0hqcmRV",
       "snippet": {
-        "publishedAt": "2023-04-06T13:45:53Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "テトリスアートで一位#アート#テトリス99 #ぷよぷよテトリス2 #shorts #short #shortvideo",
-        "description": "",
+        "publishedAt": "2025-05-02T15:37:58Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【未知】GW初っ端から踊るらしいです【おどるメイドインワリオ 定例V】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信 #メイドインワリオ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MXgmCEogwmc/default.jpg",
+            "url": "https://i.ytimg.com/vi/Xgf11kHjrdU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MXgmCEogwmc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xgf11kHjrdU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MXgmCEogwmc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xgf11kHjrdU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/MXgmCEogwmc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xgf11kHjrdU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/MXgmCEogwmc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xgf11kHjrdU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 151,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "MXgmCEogwmc"
+          "videoId": "Xgf11kHjrdU"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "MXgmCEogwmc",
-        "videoPublishedAt": "2023-04-06T13:45:53Z"
+        "videoId": "Xgf11kHjrdU",
+        "videoPublishedAt": "2025-05-02T15:37:58Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c1TBxj5AmxyPIrUb671DJ_c536w",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLnFfUzh1dWxmS09r",
+      "etag": "gfRkyepZxeEidaXS69eyJZOmc_8",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlBGWngtZDlqRUhN",
       "snippet": {
-        "publishedAt": "2023-04-05T13:12:47Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "Tスピン中毒者 [ぷよてと2 ぷよぷよテトリス　ぷよぷよテトリス2]#ぷよぷよテトリス2 #テトリス99 #スーパープレイ #テトリス99 #shorts #short #shortvideo",
-        "description": "",
+        "publishedAt": "2025-05-01T06:11:04Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】...おや？ ソファーの様子が...！！！ 913/2800 Season2 30日目",
+        "description": "🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n本日(4/28)まで語録アパレルのスタンダード半Tと長Tが700円OFF！ この機会をお見逃しなく！ \n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/q_S8uulfKOk/default.jpg",
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/q_S8uulfKOk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/q_S8uulfKOk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/q_S8uulfKOk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/q_S8uulfKOk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFZx-d9jEHM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 152,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "q_S8uulfKOk"
+          "videoId": "PFZx-d9jEHM"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "q_S8uulfKOk",
-        "videoPublishedAt": "2023-04-05T13:12:47Z"
+        "videoId": "PFZx-d9jEHM",
+        "videoPublishedAt": "2025-05-01T06:11:04Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yx2m_jKGponkc4v2Nrcrse0Aqz8",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLkp2Rm9HLTJOMXhJ",
+      "etag": "hcBYse7XyzJcZCv2pUSfwNqeCRk",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlVKSDRFTy1DWVlz",
       "snippet": {
-        "publishedAt": "2023-04-04T10:38:09Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "対テト9連鎖！！ #ぷよぷよテトリス2 #shorts #shortvideo #short",
-        "description": "",
+        "publishedAt": "2025-04-30T15:23:04Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴再【Road to Rt18】そろそろ復調しませんかね？？？【DARTSLIVE】102日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加希望者以外のスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方は「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」の3点を合わせてコメントをお願いします。\n漏れがある場合は対象外となります。また参加希望は途中で締め切る場合があります。\n(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。)\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 8962\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信スケジュール(大体)】\nソフト 21:00～0:00\nハード なし\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JvFoG-2N1xI/default.jpg",
+            "url": "https://i.ytimg.com/vi/UJH4EO-CYYs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JvFoG-2N1xI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UJH4EO-CYYs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JvFoG-2N1xI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UJH4EO-CYYs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JvFoG-2N1xI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/UJH4EO-CYYs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JvFoG-2N1xI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UJH4EO-CYYs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 153,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "JvFoG-2N1xI"
+          "videoId": "UJH4EO-CYYs"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "JvFoG-2N1xI",
-        "videoPublishedAt": "2023-04-04T10:38:09Z"
+        "videoId": "UJH4EO-CYYs",
+        "videoPublishedAt": "2025-04-30T15:23:04Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9R8Rs19bA78rBFdq9LRj-iIoTr4",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLmRiVFpoWWluNWhr",
+      "etag": "UhgiqdgFDdJZKEKdi2Anuq6upKA",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmJOTnpiYWFUVndj",
       "snippet": {
-        "publishedAt": "2023-04-03T10:57:27Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "先読みの先読み#ぷよぷよテトリス2 #テトリス99 #テトリス#shorts #short #shortvideo #Tspin#閃光のハサウェイ #閃光",
-        "description": "",
+        "publishedAt": "2025-04-30T12:25:27Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to Rt18】そろそろ復調しませんかね？？？【DARTSLIVE】102日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加希望者以外のスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方は「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」の3点を合わせてコメントをお願いします。\n漏れがある場合は対象外となります。また参加希望は途中で締め切る場合があります。\n(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。)\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 8962\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信スケジュール(大体)】\nソフト 21:00～0:00\nハード なし\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dbTZhYin5hk/default.jpg",
+            "url": "https://i.ytimg.com/vi/bNNzbaaTVwc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dbTZhYin5hk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNNzbaaTVwc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dbTZhYin5hk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNNzbaaTVwc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/dbTZhYin5hk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNNzbaaTVwc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/dbTZhYin5hk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNNzbaaTVwc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 154,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "dbTZhYin5hk"
+          "videoId": "bNNzbaaTVwc"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "dbTZhYin5hk",
-        "videoPublishedAt": "2023-04-03T10:57:27Z"
+        "videoId": "bNNzbaaTVwc",
+        "videoPublishedAt": "2025-04-30T12:25:27Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b5dX6trwrIsMTkJlcWoGp2NiRI0",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLkdfY3lsTkV3VmVN",
+      "etag": "54GbC_pU1qtXa97Mq6wk5vw0UDU",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLklWdDBLY0h5SlBN",
       "snippet": {
-        "publishedAt": "2023-04-02T00:55:50Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "史上最短の完全試合#完全試合#パフェ #ぷよぷよテトリス2 #テトリス99 #テトリス#shorts #short #shortvideo",
-        "description": "",
+        "publishedAt": "2025-04-30T09:50:20Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "9位以下で即終了配信で視聴者にボコされ本当に即終了してしまう何屋未来【マリオカート8DX 配信切り抜き】",
+        "description": "続き\nhttps://youtu.be/O0o_DGhSo_Y\n\n配信本編\nhttps://youtube.com/live/AO8GkN2I2Ck\nhttps://youtube.com/live/xBSGma31ubk\nhttps://youtube.com/live/cCkcpLtcNts\n\n何屋未来のマリオカート8デラックス配信切り抜きです。\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #マリオカート #マリオカート8dx #マリオカート8デラックス #mk8dx #切り抜き #funny #funny #麻雀",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G_cylNEwVeM/default.jpg",
+            "url": "https://i.ytimg.com/vi/IVt0KcHyJPM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G_cylNEwVeM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IVt0KcHyJPM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G_cylNEwVeM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IVt0KcHyJPM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/G_cylNEwVeM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/IVt0KcHyJPM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/G_cylNEwVeM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IVt0KcHyJPM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 155,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "G_cylNEwVeM"
+          "videoId": "IVt0KcHyJPM"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "G_cylNEwVeM",
-        "videoPublishedAt": "2023-04-02T00:55:50Z"
+        "videoId": "IVt0KcHyJPM",
+        "videoPublishedAt": "2025-04-30T09:50:20Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uZeb-hmq4jaHD1ZYD3MXMWcDKvg",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLjU3WDAzOXZMQVZJ",
+      "etag": "lPCX1fEEGGyjFrrAKjpUwJuDz_4",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmNDa2NwTHRjTnRz",
       "snippet": {
-        "publishedAt": "2023-03-25T01:13:28Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "倍満当ててから役満で完全勝利UC",
-        "description": "",
+        "publishedAt": "2025-04-29T16:19:52Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【なんだ夢か】9位以下で即終了！！！！【マリオカート8DX】",
+        "description": "【ルール】\n・9位以下で即終了。1時間耐えたらビール飲む。\n・同部屋いただいても結構ですが明らかな害悪プレイをする輩がいた場合は部屋替えして即時ブロックして呪いをかけます。\n・1レース交代\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 ？？？\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信#マリオカート #マリオカート8dx #mk8dx",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/57X039vLAVI/default.jpg",
+            "url": "https://i.ytimg.com/vi/cCkcpLtcNts/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/57X039vLAVI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cCkcpLtcNts/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/57X039vLAVI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cCkcpLtcNts/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/57X039vLAVI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cCkcpLtcNts/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/57X039vLAVI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cCkcpLtcNts/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 156,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "57X039vLAVI"
+          "videoId": "cCkcpLtcNts"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "57X039vLAVI",
-        "videoPublishedAt": "2023-03-25T01:13:28Z"
+        "videoId": "cCkcpLtcNts",
+        "videoPublishedAt": "2025-04-29T16:19:52Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AmzSKsvQacXuzJFNE3SYYTNRs3w",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLjBlWGo2bnJ5ZlhV",
+      "etag": "CscG891SCfVtlX8ULi4okCiWb10",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnhCU0dtYTMxdWJr",
       "snippet": {
-        "publishedAt": "2023-03-05T22:00:00Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "2連パフェ　#ぷよてと2  #パフェ　#スッキリ",
-        "description": "一部自分の師匠の音声が入っていますがご了承下さい",
+        "publishedAt": "2025-04-29T14:09:54Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴本番【配信終了RTA？】9位以下で即終了！！！！【マリオカート8DX】",
+        "description": "【ルール】\n・9位以下で即終了。1時間耐えたらビール飲む。\n・同部屋いただいても結構ですが明らかな害悪プレイをする輩がいた場合は部屋替えして即時ブロックして呪いをかけます。\n・1レース交代\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 ？？？\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信#マリオカート #マリオカート8dx #mk8dx",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0eXj6nryfXU/default.jpg",
+            "url": "https://i.ytimg.com/vi/xBSGma31ubk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0eXj6nryfXU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xBSGma31ubk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0eXj6nryfXU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xBSGma31ubk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0eXj6nryfXU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xBSGma31ubk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0eXj6nryfXU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xBSGma31ubk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 157,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0eXj6nryfXU"
+          "videoId": "xBSGma31ubk"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "0eXj6nryfXU",
-        "videoPublishedAt": "2023-03-05T22:00:00Z"
+        "videoId": "xBSGma31ubk",
+        "videoPublishedAt": "2025-04-29T14:09:54Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_SqUhnx4h1fYdDa3eEXvWryKkrI",
-      "id": "VVUtMVdTWWVYUXBqTnM2OU1qcEN5ZjNBLmVGUlR4X2xtLWlR",
+      "etag": "EZ2Km_mfPRHVgi76R-xTeM5h9w4",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFPOEdrTjJJMkNr",
       "snippet": {
-        "publishedAt": "2023-03-04T05:12:17Z",
-        "channelId": "UC-1WSYeXQpjNs69MjpCyf3A",
-        "title": "ぷよてと2友人戦　パフェ美味しい　#ぷよぷよテトリス　#ぷよぷよテトリス2 #パフェ",
-        "description": "初投稿です\n実況kazumarl総長です",
+        "publishedAt": "2025-04-29T13:50:33Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【配信終了RTA？】9位以下で即終了！！！！【マリオカート8DX】",
+        "description": "【ルール】9位以下で即終了。1時間耐えたらビール飲む。\n同部屋いただいても結構ですが明らかな害悪プレイをする輩がいた場合は部屋替えして即時ブロックして呪いをかけます。\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 ？？？\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信#マリオカート #マリオカート8dx #mk8dx",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eFRTx_lm-iQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/AO8GkN2I2Ck/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eFRTx_lm-iQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AO8GkN2I2Ck/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eFRTx_lm-iQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AO8GkN2I2Ck/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eFRTx_lm-iQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/AO8GkN2I2Ck/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/eFRTx_lm-iQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AO8GkN2I2Ck/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "レート",
-        "playlistId": "UU-1WSYeXQpjNs69MjpCyf3A",
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
         "position": 158,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eFRTx_lm-iQ"
+          "videoId": "AO8GkN2I2Ck"
         },
-        "videoOwnerChannelTitle": "レート",
-        "videoOwnerChannelId": "UC-1WSYeXQpjNs69MjpCyf3A"
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
       },
       "contentDetails": {
-        "videoId": "eFRTx_lm-iQ",
-        "videoPublishedAt": "2023-03-04T05:12:17Z"
+        "videoId": "AO8GkN2I2Ck",
+        "videoPublishedAt": "2025-04-29T13:50:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5XFKr7TWHZLC0vT8TzBOpR2fwYY",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnRXUnNtRzVPSXlJ",
+      "snippet": {
+        "publishedAt": "2025-04-29T10:38:01Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【全PERFECT】初見56し過ぎるラスボス「リミックス10」に完全勝利する何屋未来【リズム天国 配信切り抜き】",
+        "description": "前回：https://youtu.be/QhajA2dgiIs\n配信本編\nhttps://youtube.com/live/Ajnhn-sZUco\nhttps://youtube.com/live/t0TN6ge34uI\n\n何屋未来の配信切り抜きです。\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #wii #リズム天国 #みんなのリズム天国  #懐ゲー #レトロゲーム #切り抜き #音ゲー #funny #funnyvideo #麻雀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tWRsmG5OIyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tWRsmG5OIyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tWRsmG5OIyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tWRsmG5OIyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tWRsmG5OIyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 159,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tWRsmG5OIyI"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "tWRsmG5OIyI",
+        "videoPublishedAt": "2025-04-29T10:38:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "37gPnvbxmPcJGoiCkX2kOvNJbSE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmZCZmpVZGlQQjhN",
+      "snippet": {
+        "publishedAt": "2025-04-28T10:54:13Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【雀魂】涙が出るほど爆笑が止まらない配信が上手すぎる何屋未来【配信切り抜き】",
+        "description": "配信本編：https://youtube.com/live/dGjrNCy8Mio\n何屋未来の麻雀配信切り抜きです\n\n※万が一同卓してしまった方へ\n何屋がいろいろほざきますが皆様への愛情ですので真に受けないでください\n撮れ高ありがとうございます。\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nSong: Spektrem - Shine [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/shine\nWatch: http://youtu.be/n4tK7LYFxI0\n\nSong: Morley & Speo - Hope [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/hope\nWatch: http://youtu.be/AUEdtwct0ac\n\nSong: Elektronomia x Stahl x RUD - Caramel [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://NCS.io/Caramel\nWatch: http://youtu.be/\n\n#何屋未来 #麻雀  #雀魂 #配信切り抜き #切り抜き  #funny #ゲーム実況 #ゲーム配信 #ゲーム #じゃんたま ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBfjUdiPB8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBfjUdiPB8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBfjUdiPB8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fBfjUdiPB8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fBfjUdiPB8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 160,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fBfjUdiPB8M"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "fBfjUdiPB8M",
+        "videoPublishedAt": "2025-04-28T10:54:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CerWh5c4ERq9o0Ex-BIbk0HhQvM",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnB2R0doUWZJclJZ",
+      "snippet": {
+        "publishedAt": "2025-04-24T15:14:42Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to Rt18】Switch2の落選祝い【DARTSLIVE】101日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方は「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」の3点を合わせてコメントをお願いします。\n漏れがある場合は対象外となります。また参加希望は途中で締め切る場合があります。\n(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。)\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 8962\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信スケジュール(大体)】\nソフト 21:15～23:15\nハード 23:15～0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvGGhQfIrRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvGGhQfIrRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvGGhQfIrRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvGGhQfIrRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvGGhQfIrRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 161,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pvGGhQfIrRY"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "pvGGhQfIrRY",
+        "videoPublishedAt": "2025-04-24T15:14:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WG8YE4SUSlCIGLH9fgeJeIQ9e5U",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkVJNkt5VHhxUnNj",
+      "snippet": {
+        "publishedAt": "2025-04-23T15:25:25Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】勝ちたいのでラスったら即終了 1049/2800 Season2 29日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EI6KyTxqRsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EI6KyTxqRsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EI6KyTxqRsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EI6KyTxqRsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EI6KyTxqRsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 162,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EI6KyTxqRsc"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "EI6KyTxqRsc",
+        "videoPublishedAt": "2025-04-23T15:25:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "muLQpJiQZaraVnUqnn2-0lsey1g",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRKNFliTGxFRnJZ",
+      "snippet": {
+        "publishedAt": "2025-04-23T10:47:18Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "何屋のマリオ64があまりにもおじいちゃんすぎる件【配信切り抜き】",
+        "description": "配信本編\nhttps://youtube.com/live/0KCtpeIC-Xc\nhttps://youtube.com/live/RvwhbYZGfLE\n\n何屋未来の配信切り抜きです\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #マリオ #マリオ64  #配信切り抜き #切り抜き  #funny #funnyvideo #レトロゲーム #麻雀 #切り抜き動画 #ゲーム #ゲーム実況",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJ4YbLlEFrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJ4YbLlEFrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJ4YbLlEFrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dJ4YbLlEFrY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dJ4YbLlEFrY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 163,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dJ4YbLlEFrY"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "dJ4YbLlEFrY",
+        "videoPublishedAt": "2025-04-23T10:47:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Prrqg7QL_tPe17vH8oFFf_TN3os",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk84dS1Icl82VWRF",
+      "snippet": {
+        "publishedAt": "2025-04-21T16:01:42Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【マリオ64】★50から80を目指してラスボスぶっ倒す！！【定例V】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #マリオ64 #配信",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O8u-Hr_6UdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O8u-Hr_6UdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O8u-Hr_6UdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O8u-Hr_6UdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O8u-Hr_6UdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 164,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O8u-Hr_6UdE"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "O8u-Hr_6UdE",
+        "videoPublishedAt": "2025-04-21T16:01:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oy68CD2sO_ol0E45zljxhJqcHwI",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnlVU3hJYlpkQzR3",
+      "snippet": {
+        "publishedAt": "2025-04-21T08:01:08Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】緊迫した場面で大センシティブ発言をしてしまう何屋未来【雀魂配信切り抜き】",
+        "description": "配信本編：https://youtube.com/live/n8QTVR2IMLA\n何屋未来の麻雀配信切り抜きです\n\n※万が一同卓してしまった方へ\n何屋がいろいろほざきますが皆様への愛情ですので真に受けないでください\n撮れ高ありがとうございます。\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\n#何屋未来 #麻雀  #雀魂 #配信切り抜き #切り抜き  #funny ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities. ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUSxIbZdC4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUSxIbZdC4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUSxIbZdC4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yUSxIbZdC4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yUSxIbZdC4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 165,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yUSxIbZdC4w"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "yUSxIbZdC4w",
+        "videoPublishedAt": "2025-04-21T08:01:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a5v94HWlt6dtI8qYz0tvY80ldeU",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFOZzhYYzFCM0Vj",
+      "snippet": {
+        "publishedAt": "2025-04-18T16:16:53Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【トラウマの青春】もうクソ雑魚とは言わせない―。【定例V スマブラX】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00頃\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信 #スマブラ #レトロゲーム #wii #funny #大乱闘スマッシュブラザーズ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ANg8Xc1B3Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ANg8Xc1B3Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ANg8Xc1B3Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ANg8Xc1B3Ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ANg8Xc1B3Ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 166,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ANg8Xc1B3Ec"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "ANg8Xc1B3Ec",
+        "videoPublishedAt": "2025-04-18T16:16:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7TSRoRcuPLMgG44-OEVXdgkdnks",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlFoYWpBMmRnaUlz",
+      "snippet": {
+        "publishedAt": "2025-04-18T10:08:23Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【リズム天国】独特すぎるノリと力でハイレベルを連発する何屋未来",
+        "description": "続き：https://youtu.be/tWRsmG5OIyI\n前回：https://youtu.be/7zpWtKLuwvU\n配信本編：https://youtube.com/live/Cy-GdUMw9UY\n何屋未来の配信切り抜きです。\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #wii #リズム天国 #みんなのリズム天国  #懐ゲー #レトロゲーム #切り抜き #音ゲー #funny #funnyvideo #麻雀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QhajA2dgiIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QhajA2dgiIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QhajA2dgiIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QhajA2dgiIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QhajA2dgiIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 167,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QhajA2dgiIs"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "QhajA2dgiIs",
+        "videoPublishedAt": "2025-04-18T10:08:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0xAGEKlZEHg2v6jKWDn4cH58O1A",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnR0S0JJT2k1b0NF",
+      "snippet": {
+        "publishedAt": "2025-04-17T16:24:09Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【無理】少食による至福の寿司40貫大食い！！【晩酌雑談】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n\n配信時間\n喰い終わるまで\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#雑談 #大食い #寿司 #funny #飯テロ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttKBIOi5oCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttKBIOi5oCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttKBIOi5oCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ttKBIOi5oCE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ttKBIOi5oCE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 168,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ttKBIOi5oCE"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "ttKBIOi5oCE",
+        "videoPublishedAt": "2025-04-17T16:24:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o9fdtBUfJuLJPjhSkr_mQ-0jErs",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkNrcUtRYllvbzlV",
+      "snippet": {
+        "publishedAt": "2025-04-16T16:05:02Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【DXは甘え】アイテムは1個！サンドリ！モートン最強！！！【定例V マリオカート8】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00頃\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信 #マリオカート #マリオカート8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkqKQbYoo9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkqKQbYoo9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkqKQbYoo9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CkqKQbYoo9U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CkqKQbYoo9U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 169,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CkqKQbYoo9U"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "CkqKQbYoo9U",
+        "videoPublishedAt": "2025-04-16T16:05:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fKTzcZWlFXupTCydxFZnV2qDudE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnZMcEFQZFVHNXNj",
+      "snippet": {
+        "publishedAt": "2025-04-16T11:00:06Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "視聴者が作った何屋のクソコラが2025年3月もカオスすぎた【#何屋未来クソコラグランプリ発表】",
+        "description": "【クソコラ作成ルール】★は新ルールor再掲\n・1人1か月3作品まで\n・動画は1分20秒まで、1ツイートに1つまで。\n・発表対象期間は各月1日～ラジオ配信前日or月末\n・発表を希望されるクソコラには「#何屋未来クソコラグランプリ発表」のタグで投稿！\n・以下の作成ルールをお守りください！\n\n【禁止事項・内容】\n・ヌードやグロ、モラル上不適切またはグレーな作品(センシティブ判定される可能性があるものTKB等もモザイク等の加工をする)\n・楽曲を使用する場合、元となる楽曲に関する情報が制作者によって展開されている場合は二次創作が許可されていることと、クレジットの表記を該当ツイートに記載(リプライ欄や引用はNG)してください。\n　(二次創作が許可されていないまたは、他人が作成したMAD音源等は原則NG。ただ、ゲーム音源など二次創作が正式に許可されていなくても一般的にMADに使用されている楽曲とかは皆様の判断にお任せします。)\n　以下記載テンプレート\n-------------------------------------------------------------------\n・二次創作が許可されているか：〇or不明(不明は原則発表対象外)\n・クレジット表記 要or不要(不要でも参照元URL等の記載を。)\n・本家タイトル\n・本家URL(本家以外のURLは記載しないでください)\n・歌声生成ソフト等と使用する場合はそのライセンスの有無と引用元URLの記載\n-------------------------------------------------------------------\n・作品のミラーリングにMCN連携等事前に承認が必要な作品(例：Mリーグの映像・音声を使用しているもの)\n・二次創作等の使用許可がされていない既存動画の長時間使用(他Youtuberの動画は×)部分部分にカットや挿入だったり、音声を被せる等の工夫をお願いします。\n　→動画や音源の使用是非は世に出回っているMAD等を基準に作成者自身で判断をお願いします\n・動画はYoutubeリンクではなくTwitterに直接貼り付け\n★タグの乱用はNG\n・何屋以外の配信者(例ココドラやコラボ相手)の映像・画像使用\n★重度な音割れや明らかに大きい音がある作品\n・既存映像や音源の無加工での長時間使用はNG。\n・Youtubeに投稿した際に著作権の問題で非公開になる映像・音声の使用\n　替え歌など黒寄りのグレーだと判断した、もしくは作成者自身で是非を判断できない場合は投稿をご遠慮いただくか、自身のYoutubeチャンネルにて投稿し事前に警告が来ないか等の確認をお願いします。\n・使用許可がない企業ロゴや企業名はモザイクや全文映らないための工夫を。(例：o「オー」→ ○「マル」)\n・MADを除くコラの定義に則っていない作品(単純な紹介・解説・切り抜き等)\n・出来るだけ他人の作品を使用しないこと、使用する際は悪意のある使い方をしないこと\n★過激な単語(ﾀﾋ・56す等)を使用する場合は画面上・ツイート本文から伏せてください。\n・PSMRのアーカイブを素材とする場合は囁き部分以外のみOK\n\n※これらのルールがお守りいただけない方の作品紹介は行いません。\n※※※ルール違反の作品によってチャンネルとして損害が発生した場合は作成者に責任を負っていただく可能性がありますので、これらを承知で投稿をお願いします。\nコーナー存続のためにご協力をお願いします！\n\n本動画の収益化は行っておりません\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n\n【作品内で登場したMADのご本家様】\nLEMON MELON COOKIE／TAK様\nhttps://www.youtube.com/watch?si=Entuqa9hPSMEKNtC&v=5l8VZEyNRH8&feature=youtu.be\n\nDaisycutter\n\nナイト・オブ・ナイツ\nhttps://www.youtube.com/watch?v=djeM-0EHv9I\n\nカメレオン / すりぃ feat.鏡音レン\nhttps://www.youtube.com/watch?v=6U-5xAh3cKg\n\nIrregular Clock /Siromaru as INNOCENT NOIZE\nhttps://www.youtube.com/watch?v=oXBX2hC7nQk\n\nナユタン星人様/ダンスロボットダンス\nhttps://www.youtube.com/watch?v=g7dvpD_zlIM\n\n#何屋未来 #配信 #何屋未来クソコラグランプリ発表 #雀魂 #麻雀 #MAD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vLpAPdUG5sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vLpAPdUG5sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLpAPdUG5sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vLpAPdUG5sc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vLpAPdUG5sc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 170,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vLpAPdUG5sc"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "vLpAPdUG5sc",
+        "videoPublishedAt": "2025-04-16T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P-E1ybO_uk-20aJlB0Vck2FkGnQ",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkpmSzRhNV9WdGVr",
+      "snippet": {
+        "publishedAt": "2025-04-15T11:01:51Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "話題の農業シミュレーションゲームがGTAになってしまう何屋未来【配信切り抜き Farming Simulator】",
+        "description": "Farming Simulator 25\nhttps://www.farming-simulator.com/index.php?lang=en&country=jp\n\n配信本編：https://youtube.com/live/dp6cuqMQnEU\n何屋未来の配信切り抜きです\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n🔽何屋未来のグッズ販売は以下のリンクから！🔽\nhttps://suzuri.jp/naniya_mirai\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nSong: Spektrem - Shine [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/shine\nWatch: http://youtu.be/n4tK7LYFxI0\n\nSong: 3rd Prototype & Lex Dave - Time (feat. Yohamna Solange) [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/time\nWatch: http://youtu.be/7TsLBmXNKeo\n\n#何屋未来 #麻雀 #配信切り抜き #切り抜き #農業 #農業機械 #farmingsimulator #farmingsimulator25 #gta #grandtheftauto #funny",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JfK4a5_Vtek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JfK4a5_Vtek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JfK4a5_Vtek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JfK4a5_Vtek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JfK4a5_Vtek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 171,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JfK4a5_Vtek"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "JfK4a5_Vtek",
+        "videoPublishedAt": "2025-04-15T11:01:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bDhyEUGYV7h_8_6s0d2Chkc5scE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlFyNXBPX3B1OWZN",
+      "snippet": {
+        "publishedAt": "2025-04-14T16:24:55Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】負けた分だけ寿司大食い Day2 1259/2800 Season2 29日目",
+        "description": "【ルール】\n平着×15貫、後日食う。三麻のラスは4着扱い。\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せること\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qr5pO_pu9fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qr5pO_pu9fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qr5pO_pu9fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qr5pO_pu9fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qr5pO_pu9fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 172,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qr5pO_pu9fM"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "Qr5pO_pu9fM",
+        "videoPublishedAt": "2025-04-14T16:24:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ia7AE6ZmzZWMgbhAzZD6U0sqz14",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnE5N25WdWlyOVZj",
+      "snippet": {
+        "publishedAt": "2025-04-14T10:10:18Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】極限の土壇場で四暗刻をダブルアップする漢達【第7回漢気三麻コラボ Round Final #麻雀一番街 歌衣メイカ ざき 何屋未来】",
+        "description": "前回(Round 4)：https://youtu.be/FGCf8vQSgnU\n配信本編：https://youtube.com/live/vKfHYCLPqUc\n\n【コラボ相手】\n@zakiV @UTAIMEIKA \n\n🔥🎉何屋語録グッズ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nSong: Spektrem - Shine [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/shine\nWatch: http://youtu.be/n4tK7LYFxI0\n\n#何屋未来 #麻雀 #麻雀一番街 #切り抜き #funny ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q97nVuir9Vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q97nVuir9Vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q97nVuir9Vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q97nVuir9Vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q97nVuir9Vc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 173,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q97nVuir9Vc"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "q97nVuir9Vc",
+        "videoPublishedAt": "2025-04-14T10:10:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w9W2D4CqMW1f7lCk7VXele07T4s",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmtWdkNaT0drT19N",
+      "snippet": {
+        "publishedAt": "2025-04-11T16:35:38Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】負けた分だけ寿司大食いする世紀末雀魂 1206/2800 Season2 28日目",
+        "description": "【ルール】\n平着×15貫、後日食う。三麻のラスは4着扱い。\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥🎉4/13まで何屋語録グッズ全57アイテム最大1000円OFF＆5つの新語録が登場の激熱セール中！ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities. ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kVvCZOGkO_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kVvCZOGkO_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kVvCZOGkO_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kVvCZOGkO_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kVvCZOGkO_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 174,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kVvCZOGkO_M"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "kVvCZOGkO_M",
+        "videoPublishedAt": "2025-04-11T16:35:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q2DVB95aKnIqCXcYidTKMuDQrCw",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkZHQ2Y4dlFTZ25V",
+      "snippet": {
+        "publishedAt": "2025-04-11T11:43:41Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】一生咆哮してるカオス麻雀がうるさすぎるww【第7回漢気三麻コラボ Round 4 #麻雀一番街 歌衣メイカ ざき 何屋未来】",
+        "description": "続き：https://youtu.be/q97nVuir9Vc\n前回(Round 3)：https://youtu.be/TaIGzi481Y8\n配信本編：https://youtube.com/live/vKfHYCLPqUc\n\n【コラボ相手】\n@zakiV @UTAIMEIKA \n\n🔥🎉4/13まで何屋語録グッズ全57アイテム最大1000円OFF＆5つの新語録が登場の激熱セール中！ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\n#何屋未来 #麻雀 #麻雀一番街 #切り抜き#funny ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGCf8vQSgnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGCf8vQSgnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGCf8vQSgnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGCf8vQSgnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGCf8vQSgnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 175,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FGCf8vQSgnU"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "FGCf8vQSgnU",
+        "videoPublishedAt": "2025-04-11T11:43:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4DxVNk9DlI-QFsrR_kZEkjULAjQ",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjRyVXlwRFh4UExv",
+      "snippet": {
+        "publishedAt": "2025-04-10T16:46:40Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【100日目記念】視聴者100人と対戦！ 7割勝てなかったらRFA！Day 2【DARTSLIVE】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方はLIVE MATCHにいる私に対戦を申し込んでください。(今回順番待ちや予約はありません)\n・対戦は1日に1人1回までです。(終盤等、場合によって2回目もOKにする可能性あり)\n・PASSCORDは「6158」です\n・ストリーマーモードはONで行います\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです\n・明らかに不自然または不正・遅延行為と思われる行為は他の方のご迷惑となるためBAN+10勝分とします\n\n【🎯対戦スケジュール🎯】\n46～55戦 701ハンデあり\n56～65戦 Criハンデあり\n66～70戦 701ハンデ無し\n71～75戦 Criハンデ無し\n76～85戦 701ハンデあり\n86～95戦 Criハンデあり\n96～100戦 抽選で決定\n\n🔥🎉4/13まで何屋語録グッズ全57アイテム最大1000円OFF＆5つの新語録が登場の激熱セール中！ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n【配信スケジュール(大体)】\nソフト 21:15～40or50戦するまで\nハード なし\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4rUypDXxPLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4rUypDXxPLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4rUypDXxPLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4rUypDXxPLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4rUypDXxPLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 176,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4rUypDXxPLo"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "4rUypDXxPLo",
+        "videoPublishedAt": "2025-04-10T16:46:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gmEyU813QnaYUjQpOt7m6GflXRk",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLktUalNhYjZnQVk0",
+      "snippet": {
+        "publishedAt": "2025-04-09T16:02:48Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【100日目記念】視聴者100人と対戦！ 7割勝てなかったらRFA！Day 1【DARTSLIVE】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方はLIVE MATCHにいる私に対戦を申し込んでください。(今回順番待ちや予約はありません)\n・対戦は1日に1人1回までです。(終盤等、場合によって2回目もOKにする可能性あり)\n・PASSCORDは「6158」です\n・ストリーマーモードはONで行います\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです\n・明らかに不自然または不正・遅延行為と思われる行為は他の方のご迷惑となるためBAN+10勝分とします\n\n【🎯対戦スケジュール🎯】\n1～10戦 701ハンデあり\n11～20戦 Criハンデあり\n21～25戦 701ハンデ無し\n26～30戦 Criハンデ無し\n31～35戦 701ハンデあり\n36～40戦 Criハンデあり\n41～50戦 抽選で決定(場合によっては後日)\n\n🔥🎉4/13まで何屋語録グッズ全57アイテム最大1000円OFF＆5つの新語録が登場の激熱セール中！ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n【配信スケジュール(大体)】\nソフト 21:15～40or50戦するまで\nハード なし\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KTjSab6gAY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KTjSab6gAY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KTjSab6gAY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KTjSab6gAY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KTjSab6gAY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 177,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KTjSab6gAY4"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "KTjSab6gAY4",
+        "videoPublishedAt": "2025-04-09T16:02:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AmKUJi5p1YzP2fCrBALCWov4VTw",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlRhSUd6aTQ4MVk4",
+      "snippet": {
+        "publishedAt": "2025-04-09T09:22:17Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】東場で13万点のブッ壊れ記録を達成する歌衣メイカ【第7回漢気三麻コラボ Round 3 #麻雀一番街 歌衣メイカ ざき 何屋未来】",
+        "description": "続き：https://youtu.be/FGCf8vQSgnU\n前回(Round 2)：https://youtu.be/pVtrmKONVNU\n配信本編：https://youtube.com/live/vKfHYCLPqUc\n\n【コラボ相手】\n@zakiV @UTAIMEIKA \n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\n#何屋未来 #麻雀 #麻雀一番街 #切り抜き ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TaIGzi481Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TaIGzi481Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TaIGzi481Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TaIGzi481Y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TaIGzi481Y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 178,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TaIGzi481Y8"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "TaIGzi481Y8",
+        "videoPublishedAt": "2025-04-09T09:22:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B4Hto008agrTdyUZsoUhC3o1zFk",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmYxaVljRjExNkpR",
+      "snippet": {
+        "publishedAt": "2025-04-04T18:05:02Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【雑談晩酌】手羽先大根と新発売のジョニーウォーカー ブラックルビー",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・配信を統制したり愚直等雰囲気を乱すコメント(説明欄の参照を促す・初見さんいらっしゃい もNG！)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n※身バレや個人情報の特定につながるコメント\n・その他連投等目に余るコメント\n★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n\n配信時間\n1:30頃\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#雑談",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1iYcF116JQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1iYcF116JQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1iYcF116JQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1iYcF116JQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1iYcF116JQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 179,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f1iYcF116JQ"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "f1iYcF116JQ",
+        "videoPublishedAt": "2025-04-04T18:05:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "omI5H__35Kqp2DfYkTGIkeDb2IQ",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLjdVNEV6ZEVscXd3",
+      "snippet": {
+        "publishedAt": "2025-04-04T15:24:47Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【罰ゲーム】○魂で負けた地獄の330分【220分～】【リングフィットアドベンチャー】",
+        "description": "🔥🎉4/13まで何屋語録グッズ全57アイテム最大1000円OFF＆5つの新語録が登場の激熱セール中！ 🎉🔥\nhttps://suzuri.jp/naniya_mirai\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは次枠の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 23:00頃\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #配信 #リングフィットアドベンチャー",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7U4EzdElqww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7U4EzdElqww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7U4EzdElqww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7U4EzdElqww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7U4EzdElqww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 180,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7U4EzdElqww"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "7U4EzdElqww",
+        "videoPublishedAt": "2025-04-04T15:24:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9STYG_swHXtzdBlFQMh28SDyGEI",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnBWdHJtS09OVk5V",
+      "snippet": {
+        "publishedAt": "2025-04-03T03:53:38Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】マイナス13万点の偉業を成し遂げる役満ハリネズミ【第7回漢気三麻コラボ Round 2 #麻雀一番街 歌衣メイカ ざき 何屋未来】",
+        "description": "Round 3：https://youtu.be/TaIGzi481Y8\n前回(Round 1)：https://youtu.be/ftURXZZh7Z4\n配信本編：https://youtube.com/live/vKfHYCLPqUc\n\n【コラボ相手】\n@zakiV @UTAIMEIKA \n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nSong: Morley & Speo - Hope [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/hope\nWatch: http://youtu.be/AUEdtwct0ac\n\nSong: Spektrem - Shine [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/shine\nWatch: http://youtu.be/n4tK7LYFxI0\n\n\n#何屋未来 #麻雀 #麻雀一番街 #切り抜き ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVtrmKONVNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVtrmKONVNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVtrmKONVNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pVtrmKONVNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pVtrmKONVNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 181,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pVtrmKONVNU"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "pVtrmKONVNU",
+        "videoPublishedAt": "2025-04-03T03:53:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NtieOP6SE-6d7Wi7MlIPV0HZulE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlRTXzFrTGlsZUVZ",
+      "snippet": {
+        "publishedAt": "2025-04-02T15:47:13Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to Rt18】週1ダーツァーになってから早99日【DARTSLIVE】99日目",
+        "description": "🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・自分語り、統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方は「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」の3点を合わせてコメントをお願いします。\n漏れがある場合は対象外となります。また参加希望は途中で締め切る場合があります。\n(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。)\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 6158\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n【配信スケジュール(大体)】\nソフト 21:15～0:15\nハード なし\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TS_1kLileEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TS_1kLileEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TS_1kLileEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TS_1kLileEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TS_1kLileEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 182,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TS_1kLileEY"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "TS_1kLileEY",
+        "videoPublishedAt": "2025-04-02T15:47:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UkhU7UyQjkbIATrCy81vPoMV83A",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlNWTmxPSG9TRXkw",
+      "snippet": {
+        "publishedAt": "2025-04-01T15:58:19Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【エイプリルフール】第49回 嘘だらけの何屋ラジオ 2025/03 #NANIYArt",
+        "description": "【FA投稿の際のルール】\n・1人1か月3作品まで\n・「#NANIYArt」のタグで投稿！\n・クソコラとFAタグの併用・乱用はNG\n・FAは原則画像にてお願いします。\n・AIに描かせてみた、コラ画像等は紹介の対象外(紹介対象はあくまでもファンアートです)。\n\n【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・配信を統制したり愚直等雰囲気を乱すコメント(説明欄の参照を促す・初見さんいらっしゃい もNG！)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n※身バレや個人情報の特定につながるコメント\n・その他連投等目に余るコメント\n★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n1か月の疲れを癒す何屋未来のラジオ配信！\n作業用BGM、睡眠用BGM、寝ながら。なんでもどうぞ。\n\n※いただいたスーパーチャットは配信の最後に読ませていただきます！\n※メンバー継続メッセージは基本対応できませんのでご了承ください！\n\n第49のトークテーマはこちら！\n・3月の振り返り\n・グッズ情報\n・FA発表\n・リスナーさんからの質問相談\n・4月の告知\n\n配信時間\n0:00頃まで\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ラジオ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SVNlOHoSEy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SVNlOHoSEy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SVNlOHoSEy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SVNlOHoSEy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SVNlOHoSEy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 183,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SVNlOHoSEy0"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "SVNlOHoSEy0",
+        "videoPublishedAt": "2025-04-01T15:58:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q0MyUldWZIgXvH15zc71Cu4MdWA",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmtXZFNJNDRrZ0Uw",
+      "snippet": {
+        "publishedAt": "2025-03-31T16:47:09Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】そろそろ勝ってる撮れ高が欲しいです 1264/2800 Season2 27日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kWdSI44kgE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kWdSI44kgE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kWdSI44kgE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kWdSI44kgE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kWdSI44kgE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 184,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kWdSI44kgE0"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "kWdSI44kgE0",
+        "videoPublishedAt": "2025-03-31T16:47:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3fJiRbKtukQmZ_bCmE7BjmS_R1c",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRwNmN1cU1RbkVV",
+      "snippet": {
+        "publishedAt": "2025-03-29T12:31:58Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Farming Simulator】突然ですが農業します【ゲリラ定例V】",
+        "description": "Farming Simulator 25\nhttps://www.farming-simulator.com/index.php?lang=en&country=jp\n\n【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは原則配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【コメントの禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n沢山の方にご要望頂いたチャンネルアイコンのグッズの販売を開始しました！\nクリアケース、ステッカー、アクリルキーホルダーなどアイコン限定のデザイン盛り沢山！\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 21:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信 #farmingsimulator #farmingsimulator25",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dp6cuqMQnEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dp6cuqMQnEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dp6cuqMQnEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dp6cuqMQnEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dp6cuqMQnEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 185,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dp6cuqMQnEU"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "dp6cuqMQnEU",
+        "videoPublishedAt": "2025-03-29T12:31:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1BATrEr3HIm7h4Z07qzGNV1buhA",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkJPTTQ2TEVYX29R",
+      "snippet": {
+        "publishedAt": "2025-03-29T08:00:02Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【ダーツ】わずか12本で1試合が終わる神クリケ #shorts #ダーツ #darts #切り抜き",
+        "description": "何屋未来の配信切り抜きです。\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n🔽何屋未来のグッズ販売は以下のリンクから！🔽\nhttps://suzuri.jp/naniya_mirai\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n#何屋未来 #ダーツ    #shorts   #short  #darts  #dartslive   #神業  #ショート  #配信 #奇跡  #配信切り抜き #切り抜き",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOM46LEX_oQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOM46LEX_oQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOM46LEX_oQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOM46LEX_oQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOM46LEX_oQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 186,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOM46LEX_oQ"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "BOM46LEX_oQ",
+        "videoPublishedAt": "2025-03-29T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xgzv1fUA2McAcP0d8CAbHi6TL9I",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlQ4LTVObGtTMUxz",
+      "snippet": {
+        "publishedAt": "2025-03-28T16:17:25Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】久々に麻雀界に戻ってきたので設定6です 1312/2800 Season2 26日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities. ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8-5NlkS1Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8-5NlkS1Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8-5NlkS1Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8-5NlkS1Ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8-5NlkS1Ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 187,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T8-5NlkS1Ls"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "T8-5NlkS1Ls",
+        "videoPublishedAt": "2025-03-28T16:17:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z9D6I9-LQVBOGWuwZbKkZM5olWM",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmZ0VVJYWlpoN1o0",
+      "snippet": {
+        "publishedAt": "2025-03-28T09:30:33Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【麻雀】「焼き鳥」という謎ルールに0和了でノーカンを叫ぶ何屋未来【第7回漢気三麻コラボ Round 1 #麻雀一番街 歌衣メイカ ざき 何屋未来】",
+        "description": "配信本編：https://youtube.com/live/vKfHYCLPqUc\n続き(Round 2)：https://youtu.be/pVtrmKONVNU\n\n【コラボ相手】\n@zakiV @UTAIMEIKA \n\n🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp)\n魔王魂\n\nSong: Morley & Speo - Hope [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/hope\nWatch: http://youtu.be/AUEdtwct0ac\n\nSong: Spektrem - Shine [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/shine\nWatch: http://youtu.be/n4tK7LYFxI0\n\n\n#何屋未来 #麻雀 #麻雀一番街 #切り抜き ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftURXZZh7Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftURXZZh7Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftURXZZh7Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ftURXZZh7Z4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ftURXZZh7Z4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 188,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ftURXZZh7Z4"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "ftURXZZh7Z4",
+        "videoPublishedAt": "2025-03-28T09:30:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8IOHvDAGGfP7tsl3T6S7G8zbc94",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLnQwVE42Z2UzNHVJ",
+      "snippet": {
+        "publishedAt": "2025-03-27T15:57:36Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【みんなのリズム天国】全PERFECTまであと24種目！！【定例V】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは原則配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【コメントの禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n沢山の方にご要望頂いたチャンネルアイコンのグッズの販売を開始しました！\nクリアケース、ステッカー、アクリルキーホルダーなどアイコン限定のデザイン盛り沢山！\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #wii #リズム天国 #音ゲー   #懐ゲー #レトロゲーム",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0TN6ge34uI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0TN6ge34uI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0TN6ge34uI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0TN6ge34uI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0TN6ge34uI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 189,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t0TN6ge34uI"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "t0TN6ge34uI",
+        "videoPublishedAt": "2025-03-27T15:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u_WdIxSWFRS7Xm4KLlk_w1lVHKg",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLm9Ic2c0UEw3b3Rr",
+      "snippet": {
+        "publishedAt": "2025-03-26T15:34:11Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to Rt18】ダーツってどうやったら上手くなるんですかね。【DARTSLIVE】98日目",
+        "description": "🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方はその旨「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」を合わせてコメントをお願いします。(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 7869\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n【配信スケジュール(大体)】\nソフト 21:15～23:30\nハード 23:30～0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oHsg4PL7otk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oHsg4PL7otk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHsg4PL7otk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oHsg4PL7otk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oHsg4PL7otk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 190,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oHsg4PL7otk"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "oHsg4PL7otk",
+        "videoPublishedAt": "2025-03-26T15:34:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Phu_deIIQGtaa46Mz4GLemoAUWc",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlBlUjB4ZkZoY1hj",
+      "snippet": {
+        "publishedAt": "2025-03-25T17:17:06Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【慰労晩酌】JAPAN解説とか色々雑談するもつ鍋風お疲れ晩酌",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・配信を統制したり愚直等雰囲気を乱すコメント(説明欄の参照を促す・初見さんいらっしゃい もNG！)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n※身バレや個人情報の特定につながるコメント\n・その他連投等目に余るコメント\n★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n\n配信時間\n2:00まで\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#雑談",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PeR0xfFhcXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PeR0xfFhcXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PeR0xfFhcXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PeR0xfFhcXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PeR0xfFhcXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 191,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PeR0xfFhcXc"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "PeR0xfFhcXc",
+        "videoPublishedAt": "2025-03-25T17:17:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zt0Tf0n7zOoblYa6lwPOioF6FZE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk4wWGJKTGYyNkZ3",
+      "snippet": {
+        "publishedAt": "2025-03-22T10:57:03Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【ダーツ】勝負所だけ決めればマジで勝てるゲーム #shorts #short #darts #ダーツ",
+        "description": "何屋未来の配信切り抜きです。\n#shorts #short #darts #ダーツ #何屋未来 #麻雀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N0XbJLf26Fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N0XbJLf26Fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N0XbJLf26Fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N0XbJLf26Fw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N0XbJLf26Fw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 192,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N0XbJLf26Fw"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "N0XbJLf26Fw",
+        "videoPublishedAt": "2025-03-22T10:57:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qcTAKn2e6bdX8DjZmq05RGWs_-A",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmt2OUF6UzBKd0NR",
+      "snippet": {
+        "publishedAt": "2025-03-22T08:00:44Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【ダーツ】遂に「ダーツライブ社」から声が掛かってしまう何屋未来",
+        "description": "#PR #株式会社ダーツライブ\n【🎯ダーツライブホーム商品URL🎯】\nhttps://www.dartslive.com/jp/dartslivehome/board/\n\n【🔥ダーツライブホーム関連15%オフクーポン🔥】\nダーツハイブオンライン：https://www.dartshive.jp/html/page601.html?utm_source=youtube&utm_medium=cpc&utm_campaign=naniya_mirai\n※クーポン利用期限は終了しました。\n\n【DARTSLIVE Home 設置動画】\nhttps://www.youtube.com/watch?v=JzQLQg0g4Lg\n\n【各種会員ごとの機能はこちら】\nhttps://www.dartslive.com/jp/guide/plan/\n\n\n🎉🔥何屋語録グッズ 🔥🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nチャンネルの動画で使用させていただいている音源\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\nOtoLogic(https://otologic.jp/)\n魔王魂\n\n#何屋未来 #ダーツ #DARTSLIVE #ダーツライブホーム #Darts #麻雀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kv9AzS0JwCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kv9AzS0JwCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kv9AzS0JwCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kv9AzS0JwCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kv9AzS0JwCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 193,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kv9AzS0JwCQ"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "kv9AzS0JwCQ",
+        "videoPublishedAt": "2025-03-22T08:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vVzTxWdkRFDdY0UJnw6PCXSIFDg",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkpLRjlQUHV0VzZN",
+      "snippet": {
+        "publishedAt": "2025-03-21T17:24:12Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【雑談晩酌】日曜の実況解説に向けて一杯引っ掛ける。",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・配信を統制したり愚直等雰囲気を乱すコメント(説明欄の参照を促す・初見さんいらっしゃい もNG！)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n※身バレや個人情報の特定につながるコメント\n・その他連投等目に余るコメント\n★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n個人情報の特定につながるコメントはいかなる場合も開示請求をはじめ賠償請求や刑事告訴の対象となります。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ 🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n\n配信時間\n2:00まで\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#雑談",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKF9PPutW6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKF9PPutW6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKF9PPutW6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JKF9PPutW6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JKF9PPutW6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 194,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JKF9PPutW6M"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "JKF9PPutW6M",
+        "videoPublishedAt": "2025-03-21T17:24:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TSmlpNpv0hTfPjIAorzht4ZXqqE",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLlI5Z0hTV1VtakVn",
+      "snippet": {
+        "publishedAt": "2025-03-21T14:07:58Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【WOWSL】視聴者参加型 9vs9の熱き海戦アクション！【World of Warships: Legends】",
+        "description": "World of Warships: Legendsを今すぐ無料でダウンロード！\nコンソール版のDLリンク：https://wowsl.co/4b9NaZ4\n\n▼コンソール版の特典\n• アメリカ ティア III プレミアム戦艦アーカンソー\n• 日本 ティアIII 巡洋艦球磨\n• 7日間プレミアムアカウント\n• 標準クレート x5\n• 赤、白、青迷彩 x10\n• IJN迷彩 x10\n\n提供：Wargaming Japan\n#wows \n\n【配信を楽しんでいただく上でのお願い】\n★他人の動画で何屋語録をコメントしないようお願いします。\n・他の対戦者の批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは配信の最後に読ませて頂きます！\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 22:30\n\n#PR #何屋未来 #配信 #wowslegends #wowsl #worldofwarships",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R9gHSWUmjEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R9gHSWUmjEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R9gHSWUmjEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R9gHSWUmjEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R9gHSWUmjEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 195,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R9gHSWUmjEg"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "R9gHSWUmjEg",
+        "videoPublishedAt": "2025-03-21T14:07:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bjZy24x-REUCJSRgfXP9jxo8-64",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLk9FOGFBZkhGblJj",
+      "snippet": {
+        "publishedAt": "2025-03-21T08:41:45Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "【奇跡】ピンズ4枚から九蓮宝燈をアガる漢達 #shorts #short #麻雀 #funny",
+        "description": "何屋未来の配信切り抜きです\n#ゲーム #配信 #切り抜き #vtuber #奇跡 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OE8aAfHFnRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OE8aAfHFnRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OE8aAfHFnRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OE8aAfHFnRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OE8aAfHFnRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 196,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OE8aAfHFnRc"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "OE8aAfHFnRc",
+        "videoPublishedAt": "2025-03-21T08:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tL1N8ZQDQANeC1s1hzbTzPuXKxg",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLkFqbmhuLXNaVWNv",
+      "snippet": {
+        "publishedAt": "2025-03-20T16:08:17Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【みんなのリズム天国】リミックス7～10 ハイレベル耐久？余裕だろ。【定例V】",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは原則配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【コメントの禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他連投等目に余るコメント\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n🎉何屋語録グッズ 🎉\nhttps://suzuri.jp/naniya_mirai\n沢山の方にご要望頂いたチャンネルアイコンのグッズの販売を開始しました！\nクリアケース、ステッカー、アクリルキーホルダーなどアイコン限定のデザイン盛り沢山！\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:00\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\nこの動画及びライブは、任天堂著作物の利用許諾を受けて配信しております。\n\n#何屋未来 #wii #リズム天国 #音ゲー   #懐ゲー #レトロゲーム",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ajnhn-sZUco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ajnhn-sZUco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ajnhn-sZUco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ajnhn-sZUco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ajnhn-sZUco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 197,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ajnhn-sZUco"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "Ajnhn-sZUco",
+        "videoPublishedAt": "2025-03-20T16:08:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wMVFeXwu3pUGna5JChs78gpHD44",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmJWZFdrVkpfMlFv",
+      "snippet": {
+        "publishedAt": "2025-03-19T15:37:10Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to Rt18】JAPANの実況解説をすることになりました(震え)【DARTSLIVE】97日目",
+        "description": "🎉何屋語録グッズ🎉\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\n🔥月1でメン限メドレーを実施中！🔥\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\nまた配信の妨害行為は業務妨害を中心に法的に対処します。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n------------------------------------------------------------------------------------------------------------------\n【🎯🎯🎯対戦者の方へ🎯🎯🎯】\n・対戦ご希望の方はその旨「カードネーム」「ゲーム種類(01orCri)」「ハンデ有無」を合わせてコメントをお願いします。(🎯の記号を添えていただけると気づきやすくなります。セパブルやアウトのルール等ご希望あれば合わせてお願いします。\n・順番が来ましたら対戦申請をお願いします。\n・PASSCORD 7869\n・01はオープンアウトです。\n・ストリーマーモードはOFFになっていますのでご了承ください。\n・配信を円滑に行うためアワードが出た際もプレイヤーチェンジボタンを押していただけると幸いです。\n\n★スティールの場合はソフトと同様に参加希望をいただき、順番待ちを取りますので自身の番が回ってきたら何屋未来に対戦を申し込んでください★\n・ソフトボードしか持ってない方でもn01オンラインが出来れば対戦可能です。\n・ソフトボードの場合でもスティールのルールで行いますが、ハンデを希望される場合は参加希望コメントと一緒にお願いします。\n・明らかに不自然または不正と思われる行為は他の方のご迷惑となるためBANさせていただきます。\n\n【よくある質問】\nQ.ダーツ歴は？\nA.8年くらいじゃね？\n\nQ.プロにならないの？\nA.ならない。なっても勝てない。そもそもツアー回れない。\n\nQ.なんで20のトリプルじゃなくてブル(真ん中)を狙うの？\nA.効率がいいから。(20トリプルは60点、ブルが50点だけどブルの方が約3倍でかい)\n\nQ.上手くなるにはどうしたらいい？\nA.1日5時間投げろ。\n\nQ.上達のコツを教えてほしい。\nA.体のつくりが個人個人で違うので「これをやれば、意識すればいい」みたいな全員に共通するコツはないです。\n私自身完全感覚ダーツァーなのでリリースを早くするとか、筋肉の使い方みたいなのはわかりません。\n強いて言えば、自分に合った「これをやれば、意識すればいい」を色々と試行錯誤して探してください。\nそれを反復して筋肉に記憶させてください。\n\nQ.おすすめのバレル(ダーツ)を教えてほしい。\nA.ない。靴みたいなもので人によって合う合わないがあるから。一番いいのはダーツショップに行って予算と相談して試投して決める。\n\nQ.このボードいくら？\nA.4～5万くらい。設置には専用ポールが必要(だと思う)。\n\nQ.これからダーツを始めるにはどうしたらいい？\nA.やるだけならラウ○ド1とかマン喫とかゲーセンでもできるからお気軽に。\n趣味としてマイダーツ買うならピン(タングステン)からキリ(ブラス)まで色々あるけど自分の熱量に合ったものを買えばいいと思う。\n\nQ.グリップイップスは治ったの？\nA.症状は出てるけど投げれてる。完治はしてない。\n\nQ.ルールを教えてほしい\nA.ggった方が絶対早い。\nもう少し細かく知りたい人向けに以下、何屋の解説配信のリンクです。\nhttps://youtube.com/live/Sbwk0zTpd1A\n\nQ.使ってるセッティングは？\nA.\nバレル：JUJAK2 19g\nフライト：L-STYLE  スタンダード\nシャフト：L-STYLE 370\nチップ：LipPoint\n\n【配信スケジュール(大体)】\nソフト 21:00～0:00\nハード 今日は無し\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来#配信#ダーツ#darts #dartslive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bVdWkVJ_2Qo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bVdWkVJ_2Qo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bVdWkVJ_2Qo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bVdWkVJ_2Qo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bVdWkVJ_2Qo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 198,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bVdWkVJ_2Qo"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "bVdWkVJ_2Qo",
+        "videoPublishedAt": "2025-03-19T15:37:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aVyOxHwgvu2GB6TzYL9ZqVw5Wi8",
+      "id": "VVVqS0hmemMxSVdiNF9NNUl2Ul85amhRLmRHanJOQ3k4TWlv",
+      "snippet": {
+        "publishedAt": "2025-03-17T16:48:50Z",
+        "channelId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "title": "🔴【Road to 雀聖】8日中5日も打てば流石に勝てる説 1180/2800 Season2 25日目",
+        "description": "【配信を楽しんでいただく上でのお願い】\n・他の対戦者の過度な批判はご遠慮いただき、不憫な何屋をお楽しみください。\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・頂いたスーパーチャットは基本的に即時で読ませていただき、読めなかったものは配信の最後または後日に読ませて頂きます！メンバーメッセージに関しては履歴が残らないため可能な限りで目を通させていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項】\n・他配信者を含めた本配信と無関係なコメント\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・参加型以外でのスナイプ行為\n・その他連投等目に余るコメント\n\n【万が一、同部屋してしまった方へ】\n・何屋がタラタラほざく思いますが、皆様への愛情ですので真に受けないでください。\n　撮れ高ありがとうございます。\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n🔥何屋語録グッズ🔥\nhttps://suzuri.jp/naniya_mirai\n\n🔽メンバーシップへのご加入はコチラ！🔽\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join\n\n【麻雀short】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7\n\n【初心者に見てはいけない麻雀入門講座】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY\n\n【何屋の配信切り抜き】\nhttps://www.youtube.com/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa\n\n【その他いろんな動画】\nhttps://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ\n\n定時 0:15\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n#何屋未来 #配信#雀魂#麻雀 ※本動画・配信は無料麻雀アプリを用いたゲーム動画・配信であり、オンラインギャンブルやカジノ等とは一切関係なく、金銭のやり取りや賭け事等も一切ありません。\nまた、これらを誘導・誘発するものでは一切ございません。 ※This video and stream are game content using a free mahjong app and are in no way related to online gambling, casinos, or similar activities. There is absolutely no exchange of money or gambling involved.\nFurthermore, this content does not in any way encourage or induce such activities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dGjrNCy8Mio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dGjrNCy8Mio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dGjrNCy8Mio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dGjrNCy8Mio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dGjrNCy8Mio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "何屋未来 / なにやみらい",
+        "playlistId": "UUjKHfzc1IWb4_M5IvR_9jhQ",
+        "position": 199,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dGjrNCy8Mio"
+        },
+        "videoOwnerChannelTitle": "何屋未来 / なにやみらい",
+        "videoOwnerChannelId": "UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "contentDetails": {
+        "videoId": "dGjrNCy8Mio",
+        "videoPublishedAt": "2025-03-17T16:48:50Z"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 159,
+    "totalResults": 2233,
     "resultsPerPage": 50
   }
 }
