@@ -74,7 +74,7 @@ router.get("/:id", async (req, res) => {
     console.time("getChannel");
     const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
     console.timeEnd("getChannel");
-    fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
+    //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const videoInfo = {
       title: Info.primary_info.title.text || "",
       channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "error",
@@ -91,7 +91,7 @@ router.get("/:id", async (req, res) => {
         Info.primary_info.menu.top_level_buttons.like_count ||
         Info.basic_info.like_count ||
         "",
-      description: videoData.description || "",
+      description: videoData.videoDes || "",
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
