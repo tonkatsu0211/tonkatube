@@ -106,7 +106,7 @@
         }
         .tab-content.active {
             display: block;
-　　     }
+        }
         .loading-indicator {
             position: absolute;
             top: 50%;
@@ -200,30 +200,46 @@
 <% if (videoInfo.watch_next_feed && videoInfo.watch_next_feed.length > 0) { %>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             <% videoInfo.watch_next_feed.forEach(video => { %>
-              <% if (video.type.endsWith("Video")) { %>
+              <% if (video.content_type == "VIDEO" || video.type.endsWith("Video")) { %>
                 <div class="result-item w-auto h-auto bg-gray-700 p-5 rounded">
-                    <a href="/tkt/watch/<%= video.id %>" class="thumbnail">
-                        <img loading="lazy" src="/tkt/back/vi/<%= video.id %>/mqdefault.jpg" alt="<%= video.title.text %>" class="w-full h-auto rounded">
-                        <span class="video-duration"><%= video.duration.text %></span>
+                    <a href="/tkt/watch/<%= video.content_id || video.id || 'error' %>" class="thumbnail">
+                        <img loading="lazy" src="/tkt/back/vi/<%= video.content_id || video.id || 'error' %>/mqdefault.jpg" alt="<%= video.metadata?.title?.text || video.title?.text || 'error' %>" class="w-full h-auto rounded">
+                        <span class="video-duration"><%
+                          const duration =
+                            video.content_image?.overlays
+                              ?.find(o => o.badges?.[0]?.text)
+                              ?.badges?.[0]?.text;
+                          %>
+                          
+                          <%= duration || "error" %>
+                        </span>
                     </a>
+                    <% const thumbUrl = video.metadata?.image?.avatar?.image?.[0]?.url || video.author?.thumbnails?.[0]?.url || "error" %>
                     <div class="mt-2 flex items-center">
-                        <a href="/tkt/c/<%= video.author.id %>" class="flex items-center">
-                            <img src="/tkt/back/yt3<%- (new URL(video.author.thumbnails[0].url)).pathname %>" alt="アイコン" class="w-8 h-8 rounded-full mr-2">
-                            <p class="text-sm text-gray-400"><%= video.author.name %></p>
+                        <a href="/tkt/c/<%= video.metadata?.image?.renderer_context?.command_context?.on_tap?.payload?.browseId || video.author?.id || 'error' %>" class="flex items-center">
+                            <img src="/tkt/back/yt3<%- thumbUrl == 'error' ? thumbUrl : (new URL(thumbUrl)).pathname %>" alt="<%= video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || video.author.name || 'error' %> のアイコン" class="w-8 h-8 rounded-full mr-2">
+                            <p class="text-sm text-gray-400"><%= video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || video.author?.name || "error" %></p>
                         </a>
                     </div>
-                    <p class="text-lg font-bold"><%= video.title.text %></p>
-                    <p class="text-xs text-gray-500"><%= video.view_count?.text || video.short_view_count?.text || "" %> - <%= video.published?.text || "" %></p>
+                    <p class="text-lg font-bold"><%= video.metadata?.title?.text || video.title?.text || 'error' %></p>
+                    <p class="text-xs text-gray-500"><%= video.metadata?.metadata?.metadata_rows[1].metadata_parts[0].text?.text || video.view_count?.text || video.short_view_count?.text || "error" %> - <%= video.metadata?.metadata?.metadata_rows?.[1]?.metadata_parts?.[1]?.text?.text || video.published || "error" %></p>
                 </div>
-              <% } else if (video.type.endsWith("Playlist")) { %>
+              <% } else if (video.type.endsWith("Playlist") || video.content_type == "PLAYLIST") { %>
                 <div class="result-item bg-gray-600 p-4 rounded">
-                  <a href="/tkt/p/<%= video.id %>">
-                    <img src="/vi/<%= video?.endpoint?.payload?.videoId || video.first_videos[0]?.id %>/mqdefault.jpg" alt="<%= video.title.text %>" class="w-full h-auto rounded">
+                  <a href="/tkt/p/<%= video.id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
+                    <img src="<%= video.content_image?.primary_thumbnail?.image?.[0]?.url || `/tkt/back/vi/${video?.endpoint?.payload?.videoId || video.first_videos[0]?.id}/mqdefault.jpg` || 'error' %>" alt="<%= video.title || video.metadata?.title?.text || '不明なプレイリスト' %>" class="w-full h-auto rounded">
                   </a>
-                    <div class="mt-2">
-                        <p class="text-sm text-gray-400"><a href="/tkt/u/<%= video.author.id %>"><%= video.author.name %></a></p>
-                        <p class="text-lg font-bold">プレイリスト(<%= video.video_count?.text %>本以上の動画)</p>
-                    </div>
+                  <div class="mt-2">
+                    <p class="text-sm text-gray-400">
+                      <a href="/tkt/c/<%= video.author?.id || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
+                        <%= video.author?.name || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || 'チャンネル' %>
+                      </a>
+                    </p>
+                    <p class="text-lg font-bold"><%= video.title || video.metadata?.title?.text || "不明なプレイリスト" %></p>
+                    <p class="text-xs text-gray-500">
+                      <%= video.content_image?.primary_thumbnail?.overlays[0]?.badges[0].text || video.video_count?.text || "error" %>
+                    </p>
+                  </div>
                 </div>
               <% } else if (video.type.endsWith("Channel")) { %>
                 <div class="result-item bg-gray-600 p-4 rounded">

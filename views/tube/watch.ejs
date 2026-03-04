@@ -476,13 +476,13 @@
                 <% if (video._source == "playlist") { %>
                   <img
                     src="/tkt/back/c/<%= video.metadata?.image?.renderer_context?.command_context?.on_tap?.payload?.browseId || video.author?.id || 'error' %>"
-                    alt="<%= video.metadata?.metadata?.metadata_rows[0].metadata_parts[0].text?.text || video.author.name || 'error' %> のアイコン"
+                    alt="<%= video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || video.author.name || 'error' %> のアイコン"
                     class="w-8 h-8 rounded-full mr-2"
                   />
                 <% } else { %>
                   <img
                   src="/tkt/back/yt3<%- thumbUrl == 'error' ? thumbUrl : (new URL(thumbUrl)).pathname %>"
-                  alt="<%= video.metadata?.metadata?.metadata_rows[0].metadata_parts[0].text?.text || video.author.name || 'error' %> のアイコン"
+                  alt="<%= video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || video.author.name || 'error' %> のアイコン"
                   class="w-8 h-8 rounded-full mr-2"
                 />
                 <% } %>
