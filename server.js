@@ -129,6 +129,10 @@ app.get("/channel/:id", (req, res) => {
   const id = req.params.id;
   res.redirect(`/tkt/c/${id}`);
 });
+app.get("/live/:id", (req, res) => {
+  const id = req.params.id;
+  res.redirect(`/tkt/watch/${id}`);
+});
 app.get("/channel/:id/join", (req, res) => {
   const id = req.params.id;
   res.redirect(`/tkt/c/${id}`);
