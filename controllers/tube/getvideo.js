@@ -74,7 +74,7 @@ router.get("/:id", async (req, res) => {
     console.time("getChannel");
     const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
     console.timeEnd("getChannel");
-    fs.promises.write(JPath, JSON.stringify(videoData, null, 2));
+    fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const videoInfo = {
       title: Info.primary_info.title.text || "",
       channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "error",
@@ -95,7 +95,7 @@ router.get("/:id", async (req, res) => {
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
-    //fs.promises.write(JPath, JSON.stringify(Info, null, 2));
+    //fs.writeFileSync(JPath, JSON.stringify(Info, null, 2));
     const pl = playlistId != null ? true: false;
     console.time("render");
     res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
