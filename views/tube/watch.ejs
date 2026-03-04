@@ -350,7 +350,7 @@
               折りたたむ
             </button>
           </div>
-          <%
+          <!--%
           function normalizeYouTubeUrl(url) {
             try {
                 const u = new URL(url);
@@ -391,11 +391,12 @@
                     .replace(/>/g, "&gt;")
                     .replace(/\n/g, "<br>");
             }).join("");
-          } %>
+          } %-->
           <div class="description mt-2">
             <% if (videoInfo.description) { %>
               <p class="text-base text-gray-300 mt-1">
-                <%- renderDescription(videoInfo.description) %>
+                <!--%- renderDescription(videoInfo.description) %-->
+                <%= videoInfo.description %>
               </p>
             <% } else { %>
               <p class="text-base text-gray-300 mt-1" style="color: #aaa; font-style: italic;">

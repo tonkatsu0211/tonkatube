@@ -91,7 +91,7 @@ router.get("/:id", async (req, res) => {
         Info.primary_info.menu.top_level_buttons.like_count ||
         Info.basic_info.like_count ||
         "",
-      description: Info.secondary_info.description.runs || "",
+      description: videoData.description || "",
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
