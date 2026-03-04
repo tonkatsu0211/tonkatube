@@ -396,7 +396,7 @@
             <% if (videoInfo.description) { %>
               <p class="text-base text-gray-300 mt-1">
                 <!--%- renderDescription(videoInfo.description) %-->
-                <%- videoInfo.description %>
+                <%- videoInfo.description.replace(/\n/g, '<br>') %>
               </p>
             <% } else { %>
               <p class="text-base text-gray-300 mt-1" style="color: #aaa; font-style: italic;">

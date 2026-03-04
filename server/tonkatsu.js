@@ -1,6 +1,9 @@
 import axios from "axios";
 import bodyParser from "body-parser";
+import fs from "fs";
+import path from "path";
 const inv = ["https://k22gwc-3000.csb.app", "https://8xxzdw-3000.csb.app"]
+const JPath = path.join(process.cwd(), "Info.json");
 
 const user_agent =
   process.env.USER_AGENT ||
@@ -139,8 +142,8 @@ async function getYouTube(videoId) {
 
     if (videoInfo.liveNow) {
       streamUrl = fixedHlsUrl;
-    }    
-
+    }
+    fs.writeFileSync(JPath, JSON.stringify(videoInfo, null, 2));
     const templateData = {
       stream_url: streamUrl,
       highstreamUrl: highstreamUrl,
