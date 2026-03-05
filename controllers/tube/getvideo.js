@@ -21,6 +21,56 @@ const user_agent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";
 const serverUrls = ["direct"];
 
+function formatDescription(text) {
+  if (!text) return ""
+
+  text = text
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+
+  text = text.replace(
+    /https?:\/\/[^\s]+/g,
+    url => {
+      let m
+
+      m = url.match(/youtube\.com\/watch\?v=([a-zA-Z0-9_-]+)/)
+      if (m) return `<a href="/watch/${m[1]}">${url}</a>`
+
+      m = url.match(/youtube\.com\/live\/([a-zA-Z0-9_-]+)/)
+      if (m) return `<a href="/live/${m[1]}">${url}</a>`
+
+      m = url.match(/youtube\.com\/channel\/([a-zA-Z0-9_-]+)/)
+      if (m) return `<a href="/channel/${m[1]}">${url}</a>`
+
+      m = url.match(/youtube\.com\/playlist\?list=([a-zA-Z0-9_-]+)/)
+      if (m) return `<a href="/playlist?list=${m[1]}">${url}</a>`
+
+      return `<a href="${url}" target="_blank">${url}</a>`
+    }
+  )
+
+  text = text.replace(
+    /#([^\s#]+)/g,
+    (m,tag) => `<a href="/hashtag/${encodeURIComponent(tag)}">#${tag}</a>`
+  )
+
+  text = text.replace(
+    /\b(\d{1,2}:\d{2}(?::\d{2})?)\b/g,
+    (m,time) => {
+      const parts = time.split(":").map(Number)
+      let sec = 0
+      if (parts.length === 3) sec = parts[0]*3600 + parts[1]*60 + parts[2]
+      else sec = parts[0]*60 + parts[1]
+      return `<a href="?t=${sec}">${time}</a>`
+    }
+  )
+
+  text = text.replace(/\n/g,"<br>")
+
+  return text
+}
+
 router.get("/streams/:id", async (req, res) => {
   const videoId = req.params.id;
   try {
@@ -74,7 +124,7 @@ router.get("/:id", async (req, res) => {
     console.time("getChannel");
     const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
     console.timeEnd("getChannel");
-    //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
+    fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
     const videoInfo = {
       title: Info.primary_info.title.text || "",
       channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "error",
@@ -91,7 +141,7 @@ router.get("/:id", async (req, res) => {
         Info.primary_info.menu.top_level_buttons.like_count ||
         Info.basic_info.like_count ||
         "",
-      description: videoData.videoDes || "",
+      description: formatDescription(Info.secondary_info.description) || "",
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
