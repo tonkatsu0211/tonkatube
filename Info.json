@@ -1,2562 +1,2562 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "cqDkX6-8fh1HJMeEF2-CDk9OXCs",
-  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJETmpZMk5Ea3lPRUl4UVVVeVF6TXg",
-  "prevPageToken": "EAEaH1BUOkNKWUJJaEF5T1RneFFVTTNNekExUWtSRk4wTTE",
+  "etag": "6NWRqIqO2eLd1weNe0E-AiwLCwg",
+  "nextPageToken": "EAAaH1BUOkNNZ0JJaEJCUmpSRk16VkJOREpEUlVJMVJUWTM",
+  "prevPageToken": "EAEaH1BUOkNKWUJJaEF6T1VJMU16TkJNamMwUWpjMU1UTXk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JiiojsDztoPTK_e9Emmg6gFxhk0",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlI2NS1wQkR3aVU0",
+      "etag": "0ym8oZ6gmp0uhcu8BZ5J3MUZKrE",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjBJNkJERmNmN1pv",
       "snippet": {
-        "publishedAt": "2025-05-20T13:17:12Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【リンクラ】ラブライブの新音ゲーが暴れているらしい【Link！Like！ラブライブ！】【僕らのLIVE 君とのLIFE [MASTER 33]】",
-        "description": "スクショウ\n蓮ノ空女学院スクールアイドルクラブ\nLink！Like！ラブライブ！の新モードに音ゲーが追加されたもよう\nEXPERT以下は2本指可能、MASTERのみ多本指必須\n\nタップ音ちょっとでかすぎたかも\n#lovelive #ラブライブ",
+        "publishedAt": "2025-07-12T14:32:31Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】最速到達は誰だ！？ストリーマー対抗 \"\"マスター帯到達レース\"\"！！(ほわいとさん視点)",
+        "description": "途中で体調悪くなる可能性が微レ存なのでその場合はリタイアします\n\n参加者\n・Mido(主催) https://youtube.com/live/UABOwtoaDSU?feature=share\n・ほわいとさん https://www.youtube.com/live/0I6BDFcf7Zo?feature=share\n・いーるけん https://www.youtube.com/watch?v=zZdOchEuwwU\n・えすと ここに配信URLを入力\n・かん ここに配信URLを入力\n\n1.企画内容\n5人(Mido,ほわいとさん,いーるけん,えすと,かん)が\n同時刻にランクマッチを始め、\n認定戦初戦のマッチング開始を押す瞬間→マスター到達までの所要時間を競います！\n\n2.スナイプについて\nスナイプの際は名前に「sp」を付けてスナイプして下さい！\n気に入らない奴はスナイプしてボコそう！\n\n3.諸注意\n勝たせたい人をスナイプしてわざと負ける行為はするな！\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC(たまに出る) : https://twitter.com/yabaicookie\nたこ(休止中) : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/R65-pBDwiU4/default.jpg",
+            "url": "https://i.ytimg.com/vi/0I6BDFcf7Zo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/R65-pBDwiU4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0I6BDFcf7Zo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/R65-pBDwiU4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0I6BDFcf7Zo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/R65-pBDwiU4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0I6BDFcf7Zo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/R65-pBDwiU4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0I6BDFcf7Zo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 150,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "R65-pBDwiU4"
+          "videoId": "0I6BDFcf7Zo"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "R65-pBDwiU4",
-        "videoPublishedAt": "2025-05-20T13:17:12Z"
+        "videoId": "0I6BDFcf7Zo",
+        "videoPublishedAt": "2025-07-12T14:32:31Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NymWmfKNDfnKK0_CsZMHnhbyRxk",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLk1CZUtfc3pZOHFn",
+      "etag": "8-5LGmVUcrc-ho9BgpndQDsp18Q",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLloxaTdzaGN5WjBZ",
       "snippet": {
-        "publishedAt": "2025-05-19T07:26:49Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】フィッシュアンドTips [MASTER 30]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "どーぱみんさんでしか得られない栄養素がある\n\n楽曲 フィッシュアンドTips/ど～ぱみん/プロセカNEXT\nhttps://youtu.be/DQO6lMhL6XQ?si=dx34gICFQb4UQqyO\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\n(Project SEKAI)\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\n#プロセカ",
+        "publishedAt": "2025-07-12T08:00:42Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "リリース初期から存在する楽曲、5つ答えろ！ #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MBeK_szY8qg/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z1i7shcyZ0Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MBeK_szY8qg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z1i7shcyZ0Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MBeK_szY8qg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z1i7shcyZ0Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/MBeK_szY8qg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z1i7shcyZ0Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/MBeK_szY8qg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z1i7shcyZ0Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 151,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "MBeK_szY8qg"
+          "videoId": "Z1i7shcyZ0Y"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "MBeK_szY8qg",
-        "videoPublishedAt": "2025-05-19T07:26:49Z"
+        "videoId": "Z1i7shcyZ0Y",
+        "videoPublishedAt": "2025-07-12T08:00:42Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8absqifT0noOsbMDCDQ74G5R7KA",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjdRZ0c2eTNqSmQ4",
+      "etag": "fFgFxJKhiq1nzoan1MiL2JaOx-I",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnlIWUtyeFdSYV9v",
       "snippet": {
-        "publishedAt": "2025-05-18T11:30:15Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "ゲーセンのボス曲がアプリ音ゲーに来たら【蜘蛛の糸 [OLIVIER VIII]【ALL PERFECT】【ユメステ×CHUNITHM】",
-        "description": "配置の再現具合絶妙で好き\n\n楽曲 蜘蛛の糸 (from CHUNITHM) - きくお×cosMo＠暴走P feat.影縫英\nhttps://youtu.be/j0aBmzO70HY?si=0ZCAlRYyfhgUnJ92\n\nユメステ プレイ動画\nhttps://youtube.com/playlist?list=PLEr7osxNy-wIq6dvTjkxc5Xer46Um78dS\n\nゲームは『ワールドダイスター　夢のステラリウム』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#ユメステ",
+        "publishedAt": "2025-07-11T11:01:54Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】久々のネタ極振り譜面！？ プロセカ60sec採用楽曲「笑えたらえーやん！」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：笑えたらえーやん！\nhttps://www.youtube.com/watch?v=B9WibHePVR4\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7QgG6y3jJd8/default.jpg",
+            "url": "https://i.ytimg.com/vi/yHYKrxWRa_o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7QgG6y3jJd8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yHYKrxWRa_o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7QgG6y3jJd8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yHYKrxWRa_o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7QgG6y3jJd8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/yHYKrxWRa_o/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7QgG6y3jJd8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yHYKrxWRa_o/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 152,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "7QgG6y3jJd8"
+          "videoId": "yHYKrxWRa_o"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "7QgG6y3jJd8",
-        "videoPublishedAt": "2025-05-18T11:30:15Z"
+        "videoId": "yHYKrxWRa_o",
+        "videoPublishedAt": "2025-07-11T11:01:54Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uDVi27kVg7qUHSjmR2t6CE7kIpo",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlJGa2IwSGNsdmVN",
+      "etag": "bvAYByW2fm6-8BOvRKSuUvC3acM",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlJ1aXVEbjhENDRj",
       "snippet": {
-        "publishedAt": "2025-05-16T13:06:35Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【ユメステ】きゅうくらりん [OLIVIER VII]【ALL PERFECT】",
-        "description": "きゅうくらりん / いよわ feat.可不\nhttps://youtu.be/2b1IexhKPz4?si=oF1dfZFRu55g41DF\n\nユメステ プレイ動画\nhttps://youtube.com/playlist?list=PLEr7osxNy-wIq6dvTjkxc5Xer46Um78dS\n\nゲームは『ワールドダイスター　夢のステラリウム』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#ユメステ",
+        "publishedAt": "2025-07-10T08:00:36Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "EXPERT Lv.28の楽曲、5つ答えろ！ #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RFkb0HclveM/default.jpg",
+            "url": "https://i.ytimg.com/vi/RuiuDn8D44c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RFkb0HclveM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RuiuDn8D44c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RFkb0HclveM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RuiuDn8D44c/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RFkb0HclveM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/RuiuDn8D44c/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RFkb0HclveM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RuiuDn8D44c/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 153,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "RFkb0HclveM"
+          "videoId": "RuiuDn8D44c"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "RFkb0HclveM",
-        "videoPublishedAt": "2025-05-16T13:06:35Z"
+        "videoId": "RuiuDn8D44c",
+        "videoPublishedAt": "2025-07-10T08:00:36Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KDvagv_mOTyFA62lcHUsS2hPlQQ",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjZDT2dOSnQzU2k4",
+      "etag": "rgRhxsi5qw9zok-RRcHBi8_afmc",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmxteVB3cUV2Vm9Z",
       "snippet": {
-        "publishedAt": "2025-05-12T13:34:51Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカに最強ナイトオブナイツが来た",
-        "description": "『超ナイト・オブ・ナイツ APPEND 36』より\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー",
+        "publishedAt": "2025-07-04T09:01:26Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】ミクミクビームが日本版に登場！海外版追加キャンペーン「M@GICAL★CURE! LOVE♥SHOT!」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：M@GICAL★CURE! LOVE♥SHOT!\nhttps://www.youtube.com/watch?v=LaEgpNBt-bQ\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6COgNJt3Si8/default.jpg",
+            "url": "https://i.ytimg.com/vi/lmyPwqEvVoY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6COgNJt3Si8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lmyPwqEvVoY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6COgNJt3Si8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lmyPwqEvVoY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/6COgNJt3Si8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lmyPwqEvVoY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/6COgNJt3Si8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lmyPwqEvVoY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 154,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "6COgNJt3Si8"
+          "videoId": "lmyPwqEvVoY"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "6COgNJt3Si8",
-        "videoPublishedAt": "2025-05-12T13:34:51Z"
+        "videoId": "lmyPwqEvVoY",
+        "videoPublishedAt": "2025-07-04T09:01:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k8T8YNPIbmRm3xRsNysc9dCtkQg",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlp2NGxDQVVIa3Bv",
+      "etag": "3_dv-ECbRpxczecs7YXhvbZvS34",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlJEb1dwNnU0NUJv",
       "snippet": {
-        "publishedAt": "2025-05-12T07:21:10Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】失敗作少女 [MASTER 29]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "失敗作少女/かいりきベア\n25時、ナイトコードで。\nhttps://youtu.be/6mCmR2gGgho?si=Q-z68BBwwTnJMhh8\nhttps://youtu.be/TXfJVNqaHiM?si=Oas29r5edfR8GzDf\n3DMV\nhttps://youtu.be/NdosvICAR5s?si=izbgWsoq2OJpUqLl\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\n#プロセカ",
+        "publishedAt": "2025-07-02T09:00:45Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】ピアノの音で超強化！？ まさかのAPPEND\"32\"「RAD DOGS[APD]」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：RAD DOGS\nhttps://www.youtube.com/watch?v=ZMbWDpC1N7s\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #projectsekai #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Zv4lCAUHkpo/default.jpg",
+            "url": "https://i.ytimg.com/vi/RDoWp6u45Bo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Zv4lCAUHkpo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDoWp6u45Bo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Zv4lCAUHkpo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDoWp6u45Bo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Zv4lCAUHkpo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDoWp6u45Bo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Zv4lCAUHkpo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDoWp6u45Bo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 155,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Zv4lCAUHkpo"
+          "videoId": "RDoWp6u45Bo"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "Zv4lCAUHkpo",
-        "videoPublishedAt": "2025-05-12T07:21:10Z"
+        "videoId": "RDoWp6u45Bo",
+        "videoPublishedAt": "2025-07-02T09:00:45Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7zfryyhnJvQEkOkUT1MqL0ZD754",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjFYZFpkaDlpaGlR",
+      "etag": "JoLrZTHOT-abCqOSeiBC7ZbRpIk",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlZGYTh6SkdVdkZN",
       "snippet": {
-        "publishedAt": "2025-05-10T12:31:15Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】世界を照らすテトラッド [APPEND 30]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "低速とはいえ真ん中に同時押し絡むド直球4kが平然と来てビビっている\nけっこうスルメ譜面かも\n\n楽曲 世界を照らすテトラッド/OSTER project\nワンダーランズ×ショウタイム\nhttps://youtu.be/RmHiTOqfJP8?si=g5HeO6taZX6jFCrS\n3DMV\nhttps://youtu.be/648kLUO79i4?si=7Lbef5wkK1fCNQkv\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\n(Project SEKAI)\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ",
+        "publishedAt": "2025-06-25T09:00:43Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】曲も譜面も過去一尖ったLv.31が登場！ プロセカNEXT新曲「庭師のおはなしによると」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：庭師のおはなしによると\nhttps://www.youtube.com/watch?v=xl6b644XzKM\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1XdZdh9ihiQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/VFa8zJGUvFM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1XdZdh9ihiQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VFa8zJGUvFM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1XdZdh9ihiQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VFa8zJGUvFM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/1XdZdh9ihiQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/VFa8zJGUvFM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/1XdZdh9ihiQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VFa8zJGUvFM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 156,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "1XdZdh9ihiQ"
+          "videoId": "VFa8zJGUvFM"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "1XdZdh9ihiQ",
-        "videoPublishedAt": "2025-05-10T12:31:15Z"
+        "videoId": "VFa8zJGUvFM",
+        "videoPublishedAt": "2025-06-25T09:00:43Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lJYBHTBPpGlAvPvOfJ8xMYqrnJ4",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLnpyT1BtNGhpa2pz",
+      "etag": "-R6Ijs-RlB4YTIQi8OF-LARquM8",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLl92OG1YSFBDVVJV",
       "snippet": {
-        "publishedAt": "2025-05-09T13:05:04Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカ動画を友達が見たときの反応",
-        "description": "『超ナイト・オブ・ナイツ MASTER 33』より\n音ゲー猫ミーム\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー",
+        "publishedAt": "2025-06-22T08:33:52Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】視聴者がカウンターを操作できる!? カウント0までPERFECTを取り続けろ！ 無限耐久ランクマッチ！！",
+        "description": "【企画ルール】\n◆ 基本ルール\n・勝ち/引き分けの場合 → PERFECTの数カウントが減ります \n・負けの場合 → PERFECTの数×0.5 カウントが減ります\n\n★ Lv.33以上を引いた場合\n・勝ち/引き分けの場合 → PERFECTの数×2 カウントが減ります \n・負けの場合 → PERFECTの数×2カウントが増えます\n\n★ スーパーチャット等の金額に応じてカウントが動きます\n・ALL PERFECTマラソン 第2回大会で飛んだスーパーチャット分加算(済)\n\n・1円 = 1カウント増加\n・メンバーシップ加入orギフト ... 常連 +500 / 常連 +1500 \n・赤スパ ... サイコロで1～6割上乗せ\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ: https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zrOPm4hikjs/default.jpg",
+            "url": "https://i.ytimg.com/vi/_v8mXHPCURU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zrOPm4hikjs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_v8mXHPCURU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zrOPm4hikjs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_v8mXHPCURU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/zrOPm4hikjs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/_v8mXHPCURU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/zrOPm4hikjs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_v8mXHPCURU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 157,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "zrOPm4hikjs"
+          "videoId": "_v8mXHPCURU"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "zrOPm4hikjs",
-        "videoPublishedAt": "2025-05-09T13:05:04Z"
+        "videoId": "_v8mXHPCURU",
+        "videoPublishedAt": "2025-06-22T08:33:52Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NWV85LNppz_LFjFYW55N5tDV_wU",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlpXc244MkFrc09Z",
+      "etag": "oSwcUUwbaeTcKJJom3Z4h9tHQU4",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlRMMUhKZUUxdHVV",
       "snippet": {
-        "publishedAt": "2025-05-09T07:16:06Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】紗痲(しゃま) [MASTER 30]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "楽曲 紗痲-Shama- /煮ル果実\nVivid BAD SQUAD\nhttps://youtu.be/tQWMArNo9F0?si=IjgvjIa5ab-3zdzx\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\n(Project SEKAI)\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ",
+        "publishedAt": "2025-06-21T09:05:43Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【CHUNITHM】VERSE最終章の楽曲達が堂々降臨！ 激ヤバ最高難易度「Meggid∅」＆「Crossmythos Rhapsodia」の初見スコアを当てて(勝手に)ハワイへ行け～～",
+        "description": "15.8とかが出ない限り15+全SSSは維持できそう\n\nプレイ楽曲：\nMeggid∅ → https://www.youtube.com/watch?v=ylGDcIPfLy8\nCrossmythos Rhapsodia → https://www.youtube.com/watch?v=jXv6R6tLW4A\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#CHUNITHM #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZWsn82AksOY/default.jpg",
+            "url": "https://i.ytimg.com/vi/TL1HJeE1tuU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZWsn82AksOY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL1HJeE1tuU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZWsn82AksOY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL1HJeE1tuU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ZWsn82AksOY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL1HJeE1tuU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ZWsn82AksOY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL1HJeE1tuU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 158,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ZWsn82AksOY"
+          "videoId": "TL1HJeE1tuU"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ZWsn82AksOY",
-        "videoPublishedAt": "2025-05-09T07:16:06Z"
+        "videoId": "TL1HJeE1tuU",
+        "videoPublishedAt": "2025-06-21T09:05:43Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "D2e4Q8cTgkyk-fMpC5Q0pEHylvk",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlhZZWc5aGE1enRr",
+      "etag": "OUQyrVjJH7g7bq_l54l7uZHef00",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLi16emlDXzJJSnVn",
       "snippet": {
-        "publishedAt": "2025-05-07T12:47:05Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカでも痛いのはNG",
-        "description": "『虚無さん MASTER 29』より\n25時ナイトコードで。\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー",
+        "publishedAt": "2025-06-18T09:00:01Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】大人気楽曲が爆速で登場！ Lv.29にしては少し難しい新曲「モニタリング」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：モニタリング\nhttps://www.youtube.com/watch?v=kbNdx0yqbZE\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XYeg9ha5ztk/default.jpg",
+            "url": "https://i.ytimg.com/vi/-zziC_2IJug/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XYeg9ha5ztk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-zziC_2IJug/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XYeg9ha5ztk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-zziC_2IJug/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/XYeg9ha5ztk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-zziC_2IJug/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/XYeg9ha5ztk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-zziC_2IJug/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 159,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "XYeg9ha5ztk"
+          "videoId": "-zziC_2IJug"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "XYeg9ha5ztk",
-        "videoPublishedAt": "2025-05-07T12:47:05Z"
+        "videoId": "-zziC_2IJug",
+        "videoPublishedAt": "2025-06-18T09:00:01Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "D7mkGMWcSmqPqqvpLkvW1dWt-Gs",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLllNOGVwV2RPX3JN",
+      "etag": "BSwUeT2ChR1dni5IHO6689p5Cbc",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkhESmQzbFZLYVFn",
       "snippet": {
-        "publishedAt": "2025-05-07T07:52:48Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】超ナイト・オブ・ナイツ [MASTER33＆初見APPEND36]【ALL PERFECT】【東方コラボ】",
-        "description": "初見APPENDの音声部分が撮れてなかったので仮音声で代用してます\n\n超ナイト・オブ・ナイツ(東方Project)\nhttps://youtu.be/yA_h7zM0bcU?si=8Bx8oOKHy-1OgY-3\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\n(Project SEKAI)\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n0:00 MASTER33\n2:24 Take1 APPEND36\n\n#プロセカ",
+        "publishedAt": "2025-06-12T13:59:44Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】2失点するたびにアルフォート1個買ってセカシン横浜で配る。 お買い物ランクマッチ2025年6月号！！",
+        "description": "【企画ルール】\n・最初の2曲はノーカウント(タイマー外)\n・Lv.33↑を引いた場合\n　勝ち：ポイント +1 / 負け：ポイント -1\n\n・1時間のプレイ終了時にポイントがポイント×30を減算\n-1だった場合 ... +30\n+1だった場合 ... -30\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YM8epWdO_rM/default.jpg",
+            "url": "https://i.ytimg.com/vi/HDJd3lVKaQg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YM8epWdO_rM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDJd3lVKaQg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YM8epWdO_rM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDJd3lVKaQg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YM8epWdO_rM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDJd3lVKaQg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YM8epWdO_rM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDJd3lVKaQg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 160,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "YM8epWdO_rM"
+          "videoId": "HDJd3lVKaQg"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "YM8epWdO_rM",
-        "videoPublishedAt": "2025-05-07T07:52:48Z"
+        "videoId": "HDJd3lVKaQg",
+        "videoPublishedAt": "2025-06-12T13:59:44Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WSd0Q1SSjg5wofJbxvDN11zUIcY",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlluYURzWE9TMktv",
+      "etag": "G8taags1tkJynHVUnSZ1PCNG2OM",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmFYYnFNNkFuc01R",
       "snippet": {
-        "publishedAt": "2025-05-06T13:25:35Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】虚無さん [MASTER 29]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "虚無さん MASTER 29\n25時、ナイトコードで。\nhttps://youtu.be/7bsJDMmWbrk?si=V5Uit5OA_cd97JNJ\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\n#プロセカ",
+        "publishedAt": "2025-06-11T10:00:04Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ × Gartic Phone】絵心皆無の人間たちによる混沌の伝言ゲーム――!!  プロセカのジャケット絵でお絵描き伝言ゲーム！！ 最終回",
+        "description": "第1回 → https://www.youtube.com/watch?v=CrmhdDwSU1o\n第2回 → https://www.youtube.com/watch?v=_H7xiRHpcTo\n第3回 → https://www.youtube.com/watch?v=r20MXiqA40M\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #GarticPhone",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YnaDsXOS2Ko/default.jpg",
+            "url": "https://i.ytimg.com/vi/aXbqM6AnsMQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YnaDsXOS2Ko/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aXbqM6AnsMQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YnaDsXOS2Ko/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aXbqM6AnsMQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YnaDsXOS2Ko/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aXbqM6AnsMQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YnaDsXOS2Ko/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aXbqM6AnsMQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 161,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "YnaDsXOS2Ko"
+          "videoId": "aXbqM6AnsMQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "YnaDsXOS2Ko",
-        "videoPublishedAt": "2025-05-06T13:25:35Z"
+        "videoId": "aXbqM6AnsMQ",
+        "videoPublishedAt": "2025-06-11T10:00:04Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "esFA64OLGOqpqlGCHveS-xJ5tfk",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLndzM0wwazMwZGdZ",
+      "etag": "jhfI1-S_DzwMttL9mkxSkuh-Osc",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjhTX1JwU215UzU4",
       "snippet": {
-        "publishedAt": "2025-05-05T12:26:23Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカのナイトオブナイツが何かおかしい",
-        "description": "『超ナイト・オブ・ナイツ APPEND 36』より\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー",
+        "publishedAt": "2025-06-06T08:00:10Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "マイセカイ３番目の採取エリア名、5人で答えろ！ #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ws3L0k30dgY/default.jpg",
+            "url": "https://i.ytimg.com/vi/8S_RpSmyS58/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ws3L0k30dgY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8S_RpSmyS58/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ws3L0k30dgY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8S_RpSmyS58/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ws3L0k30dgY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8S_RpSmyS58/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ws3L0k30dgY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8S_RpSmyS58/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 162,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ws3L0k30dgY"
+          "videoId": "8S_RpSmyS58"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ws3L0k30dgY",
-        "videoPublishedAt": "2025-05-05T12:26:23Z"
+        "videoId": "8S_RpSmyS58",
+        "videoPublishedAt": "2025-06-06T08:00:10Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IjW3ICkca5XAC5WV4sWL12RzXuw",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLnlvNm10STJfM09v",
+      "etag": "oTUxvRM-p76a28_D-qeswltgzLE",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLm44eEowSmNhbHRj",
       "snippet": {
-        "publishedAt": "2025-05-05T07:14:33Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】超ナイト・オブ・ナイツ [APPEND 36]【ALL PERFECT】【東方コラボ】",
-        "description": "むっず！！かわいい！！！\nAP推定1時間丁度\n\n超ナイト・オブ・ナイツ\nhttps://youtu.be/yA_h7zM0bcU?si=8Bx8oOKHy-1OgY-3\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク  音ゲー プレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nスピード10\n判定-1.8\n\n#プロセカ",
+        "publishedAt": "2025-06-04T10:01:27Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】人気楽曲が凄い譜面×2で登場！「テトリス」をみんなで初見プレイ！！",
+        "description": "6月ちょっとだけ更新頻度下がります！\n過去動画を楽しんでいただければとても嬉しいです\n\nプレイ楽曲：テトリス\nhttps://www.youtube.com/watch?v=Soy4jGPHr3g\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #projectsekai #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yo6mtI2_3Oo/default.jpg",
+            "url": "https://i.ytimg.com/vi/n8xJ0Jcaltc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yo6mtI2_3Oo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n8xJ0Jcaltc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yo6mtI2_3Oo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n8xJ0Jcaltc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/yo6mtI2_3Oo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/n8xJ0Jcaltc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/yo6mtI2_3Oo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n8xJ0Jcaltc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 163,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "yo6mtI2_3Oo"
+          "videoId": "n8xJ0Jcaltc"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "yo6mtI2_3Oo",
-        "videoPublishedAt": "2025-05-05T07:14:33Z"
+        "videoId": "n8xJ0Jcaltc",
+        "videoPublishedAt": "2025-06-04T10:01:27Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fmupAi7jA_obWYmlkVSvgNlsUCo",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmI1Skt0Y2htTUlj",
+      "etag": "2P5c1v2mHgeobCxonBuzBJXdM48",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjhvTFNvRGVlRVNN",
       "snippet": {
-        "publishedAt": "2025-05-04T07:31:58Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】とうほう☆ワンダーランド [MASTER 31]【ALL PERFECT】【東方コラボ】",
-        "description": "やっぱ筋肉でしょ\n\nとうほう☆ワンダーランド\nワンダーランズ×ショウタイム\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー #東方project",
+        "publishedAt": "2025-06-01T11:10:59Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【公式支援大会】プロジェクトセカイ ALL PERFECTマラソン 第3回大会 (EXTRA)",
+        "description": "「プロジェクトセカイ ALL PERFECTマラソン (EXTRA)」は、約50人の挑戦者が連続APに挑む企画です。\n\nAPを逃した時点で挑戦失敗となる状態で、コース上の10曲を全てAPで通すと完全走破となります。\nまた、最優秀プレイヤー・準最優秀プレイヤーにはコミュニティカップ称号が付与されます。\n\n★ 今大会はプロセカ公式のリズムゲーム大会支援プログラム支援対象大会です\n(https://pjsekai.sega.jp/news/archive/index.html?hash=9d44b2b656a6d39b8ca66109658e75511658bbcd)\n\n【キャスト】\n・主催・司会進行：ほわいとさん\n・実況：やばいクッキー\n・解説：キタキツネ\n\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/b5JKtchmMIc/default.jpg",
+            "url": "https://i.ytimg.com/vi/8oLSoDeeESM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/b5JKtchmMIc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oLSoDeeESM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/b5JKtchmMIc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oLSoDeeESM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/b5JKtchmMIc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oLSoDeeESM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/b5JKtchmMIc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oLSoDeeESM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 164,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "b5JKtchmMIc"
+          "videoId": "8oLSoDeeESM"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "b5JKtchmMIc",
-        "videoPublishedAt": "2025-05-04T07:31:58Z"
+        "videoId": "8oLSoDeeESM",
+        "videoPublishedAt": "2025-06-01T11:10:59Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GTSQbcaZTdjBtJmW1kXRWhUTD34",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLnRXRm5ncGtHWUI0",
+      "etag": "EnDJaboGdrGuJNhA03vMsNB--RQ",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnhNOF9FR0VnLWsw",
       "snippet": {
-        "publishedAt": "2025-05-04T06:31:15Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】とうほう☆ワンダーランド [APPEND 32]【ALL PERFECT】【東方コラボ】",
-        "description": "このまま全ユニットカバーするまでコラボするしか\n\nとうほう☆ワンダーランド\nワンダーランズ×ショウタイム\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー #東方project",
+        "publishedAt": "2025-05-29T14:00:24Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】100失点せずに1時間走り切れ！ \"\"デス\"\"ランクマッチ配信#172",
+        "description": "【企画ルール】\n・100失点したら配信終了\n・APで-5カウント\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tWFngpkGYB4/default.jpg",
+            "url": "https://i.ytimg.com/vi/xM8_EGEg-k0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tWFngpkGYB4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xM8_EGEg-k0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tWFngpkGYB4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xM8_EGEg-k0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/tWFngpkGYB4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xM8_EGEg-k0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/tWFngpkGYB4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xM8_EGEg-k0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 165,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "tWFngpkGYB4"
+          "videoId": "xM8_EGEg-k0"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "tWFngpkGYB4",
-        "videoPublishedAt": "2025-05-04T06:31:15Z"
+        "videoId": "xM8_EGEg-k0",
+        "videoPublishedAt": "2025-05-29T14:00:24Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vf-0g2s4Bi53kvxccIdrcOsq8tA",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjk5SjAtMUJ5dGtj",
+      "etag": "KPkrR_9dMUb-D3Hss3kYF5fsS1U",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmpQVTRwc0NVdDdV",
       "snippet": {
-        "publishedAt": "2025-05-03T09:08:13Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカとアレがまたコラボ！？",
-        "description": "『チルノのパーフェクトさんすう学園 APPEND 33』より\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー #東方project",
+        "publishedAt": "2025-05-28T09:01:09Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】人が居なかったのでゆっくり実況で好き勝手喋らせてみた。 遂に来たトーマ楽曲「エンヴィキャットウォーク」をみんなで?初見プレイ！！",
+        "description": "もし好評だったら人居なかった時に定期的にやるかも\n\nプレイ楽曲：エンヴィキャットウォーク\nhttps://www.nicovideo.jp/watch/sm15956806\n\nメンバーシップはこちらから\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #projectsekai  #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/99J0-1Bytkc/default.jpg",
+            "url": "https://i.ytimg.com/vi/jPU4psCUt7U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/99J0-1Bytkc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jPU4psCUt7U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/99J0-1Bytkc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jPU4psCUt7U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/99J0-1Bytkc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/jPU4psCUt7U/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/99J0-1Bytkc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jPU4psCUt7U/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 166,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "99J0-1Bytkc"
+          "videoId": "jPU4psCUt7U"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "99J0-1Bytkc",
-        "videoPublishedAt": "2025-05-03T09:08:13Z"
+        "videoId": "jPU4psCUt7U",
+        "videoPublishedAt": "2025-05-28T09:01:09Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j0PO2UK5jxiRXi7ymdOggdH07To",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmVtOUxyU2FIcnNn",
+      "etag": "FalZGngM4_IpEbGlH3zoop72KAQ",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnQxdDEyR2VQNmNz",
       "snippet": {
-        "publishedAt": "2025-05-03T08:07:09Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ×東方】チルノのパーフェクトさんすう学園 [MASTER 31]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "こっちももちろんえーりん\n\nチルノのパーフェクトさんすう学園[ゲームサイズ ver.] / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO\nhttps://youtu.be/PE0rxHzyxNs?si=VD0ITCxAoNpC_iOk\n\nチルノのパーフェクトさんすう教室/ARM\nhttps://youtu.be/V_bQNPG2OyE?si=1SdW_Y80L0t_5n_l\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー #東方project",
+        "publishedAt": "2025-05-23T08:01:06Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "これ、なんのジャケット絵？ #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/em9LrSaHrsg/default.jpg",
+            "url": "https://i.ytimg.com/vi/t1t12GeP6cs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/em9LrSaHrsg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1t12GeP6cs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/em9LrSaHrsg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1t12GeP6cs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/em9LrSaHrsg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1t12GeP6cs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/em9LrSaHrsg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1t12GeP6cs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 167,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "em9LrSaHrsg"
+          "videoId": "t1t12GeP6cs"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "em9LrSaHrsg",
-        "videoPublishedAt": "2025-05-03T08:07:09Z"
+        "videoId": "t1t12GeP6cs",
+        "videoPublishedAt": "2025-05-23T08:01:06Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q0zhoisNEtPj0Ije8HxIHTOtCRM",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmxSQlZYbl8ySlJJ",
+      "etag": "qO_QtF-D7fSTvakV6xPGcH5RmOQ",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLm9YUWZ1Nk5DTXZR",
       "snippet": {
-        "publishedAt": "2025-05-03T06:40:51Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ×東方】チルノのパーフェクトさんすう学園 [APPEND 33]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "えーりん！えーりん！\n\nチルノのパーフェクトさんすう学園[ゲームサイズ ver.] / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO\nhttps://youtu.be/PE0rxHzyxNs?si=VD0ITCxAoNpC_iOk\n\nチルノのパーフェクトさんすう教室/ARM\nhttps://youtu.be/V_bQNPG2OyE?si=1SdW_Y80L0t_5n_l\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー #東方project",
+        "publishedAt": "2025-05-21T10:01:22Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】なかなかの癖つよ譜面？ プロセカNEXT採用楽曲「フィッシュアンドTips」をみんなで初見プレイ！！",
+        "description": "チャンネル乗っ取られちゃった \nSheは恐らくそのうちアップされるGartic Phoneにも出現します\n\nプレイ楽曲：フィッシュアンドTips\nhttps://www.youtube.com/watch?v=DQO6lMhL6XQ\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lRBVXn_2JRI/default.jpg",
+            "url": "https://i.ytimg.com/vi/oXQfu6NCMvQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lRBVXn_2JRI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oXQfu6NCMvQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lRBVXn_2JRI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oXQfu6NCMvQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lRBVXn_2JRI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oXQfu6NCMvQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lRBVXn_2JRI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oXQfu6NCMvQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 168,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lRBVXn_2JRI"
+          "videoId": "oXQfu6NCMvQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "lRBVXn_2JRI",
-        "videoPublishedAt": "2025-05-03T06:40:51Z"
+        "videoId": "oXQfu6NCMvQ",
+        "videoPublishedAt": "2025-05-21T10:01:22Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AmfZ1nMSpFeGcbX6PNhycyose5s",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkdxYUtOWFMwYW1V",
+      "etag": "bEiqvEu8S3gP1gOXwmZK1QeboPI",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlhjbEtyWUthb1ZR",
       "snippet": {
-        "publishedAt": "2025-05-02T13:11:32Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカ音ゲーマーの情けない動画",
-        "description": "『嬢王 APPEND 36』より\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #プロセカ  #音ゲー",
+        "publishedAt": "2025-05-19T08:00:29Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "失点するたびにじゃがりこを買うランクマッチで起きた悲劇の瞬間 #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GqaKNXS0amU/default.jpg",
+            "url": "https://i.ytimg.com/vi/XclKrYKaoVQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GqaKNXS0amU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XclKrYKaoVQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GqaKNXS0amU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XclKrYKaoVQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/GqaKNXS0amU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/XclKrYKaoVQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/GqaKNXS0amU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XclKrYKaoVQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 169,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "GqaKNXS0amU"
+          "videoId": "XclKrYKaoVQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "GqaKNXS0amU",
-        "videoPublishedAt": "2025-05-02T13:11:32Z"
+        "videoId": "XclKrYKaoVQ",
+        "videoPublishedAt": "2025-05-19T08:00:29Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zgyku3OgySHpfDq06wHYLjxDGUM",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlNscHZ6UlRleVQw",
+      "etag": "Y4GFt37vE9CEHDWVQ0h4pj6-NM4",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmZNbi1yVGNYb1RJ",
       "snippet": {
-        "publishedAt": "2025-04-29T08:34:51Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】スーサイドパレヱド [MASTER 31]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "APPENDとレベル1差はだいたいヤバい\n\n曲はユリイ・カノンさんによる『スーサイドパレヱド』\n25時、ナイトコードで。\n宵崎 奏,朝比奈 まふゆ,東雲 絵名,暁山 瑞希\nhttps://youtu.be/7awIdGqyr40?si=JLCV_Ra17fWnoC8H\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-05-18T09:28:13Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】失点するたびにじゃがりこお買い上げ！？ 恐怖のお買い物ランクマッチ2025年5月号！！",
+        "description": "何故この企画はこんなに37が出てくるんでしょうか。\n\nAPマラソンのリマインド登録はこちらから\nhttps://www.youtube.com/watch?v=8oLSoDeeESM\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #ランクマッチ #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SlpvzRTeyT0/default.jpg",
+            "url": "https://i.ytimg.com/vi/fMn-rTcXoTI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SlpvzRTeyT0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fMn-rTcXoTI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SlpvzRTeyT0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fMn-rTcXoTI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/SlpvzRTeyT0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/fMn-rTcXoTI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/SlpvzRTeyT0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fMn-rTcXoTI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 170,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "SlpvzRTeyT0"
+          "videoId": "fMn-rTcXoTI"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "SlpvzRTeyT0",
-        "videoPublishedAt": "2025-04-29T08:34:51Z"
+        "videoId": "fMn-rTcXoTI",
+        "videoPublishedAt": "2025-05-18T09:28:13Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dgNkuObnxVnEWHRYq3xhMQEWrEg",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkFxVURLaDFELVZv",
+      "etag": "BGKsd5sF826kFhUH_6VVSyuDCi8",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmZuMlhnQldMem80",
       "snippet": {
-        "publishedAt": "2025-04-28T13:27:43Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】オールセーブチャレンジ [MASTER 30]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "オールセーブチャレンジ/ 香椎モイミ\nhttps://youtu.be/cafeiRu4XGI?si=EeRoA-HMMv1j5SdF\nワンダーランズ×ショウタイム\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-05-17T07:33:36Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【CHUNITHM】お久しぶりのゲーセン配信！「最下位×2回」で即帰宅、ガチ全国対戦！！ #04",
+        "description": "配信協力：コミ丸四日市店\n※配信レイアウトの変更は特別な許可を得ています\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Twitter】\nhttps://twitter.com/Whitestar_ch\n【メンバー登録よければ！】\nhttps://www.youtube.com/channel/UCZFHPeF9g1R5E_CzE1KpfUg/join\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n#CHUNITHM #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AqUDKh1D-Vo/default.jpg",
+            "url": "https://i.ytimg.com/vi/fn2XgBWLzo4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AqUDKh1D-Vo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fn2XgBWLzo4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AqUDKh1D-Vo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fn2XgBWLzo4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AqUDKh1D-Vo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/fn2XgBWLzo4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/AqUDKh1D-Vo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fn2XgBWLzo4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 171,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "AqUDKh1D-Vo"
+          "videoId": "fn2XgBWLzo4"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "AqUDKh1D-Vo",
-        "videoPublishedAt": "2025-04-28T13:27:43Z"
+        "videoId": "fn2XgBWLzo4",
+        "videoPublishedAt": "2025-05-17T07:33:36Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RNz2fuEqvH6eI4mXLe_-SxtLH8Q",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmlHNDBtR2pveGdN",
+      "etag": "3vImE2Z7Iy7PdtgpKEPzabTl9g8",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlh1MUhpaXBaNmo0",
       "snippet": {
-        "publishedAt": "2025-04-24T07:16:42Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】回る空うさぎ [PIANO 26]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "挑戦を感じる譜面だ…プロセカで裏音全振りしてくるの新鮮すぎる\nAuditionで確認したらどうやらWindows側の設定で入力マイクが7kHz以上が拾えておらず高音が小さくなったのが原因で音質が悪かったような気がします、設定を変え20kHzぐらいまで拾えるようにしイコライザやマスタリングでそれっぽくなるようにとりあえず何とか突貫工事\n以前使っていたイヤホン型のバイノーラルマイクが見つかれば...\n\n曲はOrangestarさんによる『回る空うさぎ』\nMORE MORE JUMP!\nhttps://youtu.be/CLywtSOj4NA?si=7hfzvH6WR8co8DQt\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-05-14T13:59:05Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】1失点するたびにじゃがりこ5g(1個57g)買う。 お買い物ランクマッチ2025年5月号！！",
+        "description": "【企画ルール】\n・最初の2曲はノーカウント(タイマー外)\n・Lv.33↑を引いた場合\n　勝ち：ポイント +1 / 負け：ポイント -1\n\n・1時間のプレイ終了時にポイントがポイント×30を減算\n-1だった場合 ... +30\n+1だった場合 ... -30\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iG40mGjoxgM/default.jpg",
+            "url": "https://i.ytimg.com/vi/Xu1HiipZ6j4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iG40mGjoxgM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xu1HiipZ6j4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iG40mGjoxgM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xu1HiipZ6j4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/iG40mGjoxgM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xu1HiipZ6j4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/iG40mGjoxgM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xu1HiipZ6j4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 172,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "iG40mGjoxgM"
+          "videoId": "Xu1HiipZ6j4"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "iG40mGjoxgM",
-        "videoPublishedAt": "2025-04-24T07:16:42Z"
+        "videoId": "Xu1HiipZ6j4",
+        "videoPublishedAt": "2025-05-14T13:59:05Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZLPi80AshH_1wt322zlz2UlaNLg",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLklpWDJQX1hrcUxN",
+      "etag": "2jPh5XovSttMhqsNR-yaQqeB46w",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlM1ODFXYUJUcDIw",
       "snippet": {
-        "publishedAt": "2025-04-22T09:19:41Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】ショウタイム・ルーラー [APPEND 31]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "オモシロ譜面来た\n上↑が多すぎる\n\n曲は烏屋茶房さんによる『ショウタイム・ルーラー』\nワンダーランズ×ショウタイム/ワンダショイベント楽曲\nhttps://youtu.be/PFQQhZQp5vo?si=j9SFVC87izPNzzWw\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-05-12T10:00:50Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】ラストで急に凶悪な初見殺しが？ 新曲「紗痲」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：紗痲\nhttps://www.youtube.com/watch?v=tQWMArNo9F0\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IiX2P_XkqLM/default.jpg",
+            "url": "https://i.ytimg.com/vi/S581WaBTp20/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IiX2P_XkqLM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S581WaBTp20/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IiX2P_XkqLM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S581WaBTp20/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IiX2P_XkqLM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/S581WaBTp20/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IiX2P_XkqLM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S581WaBTp20/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 173,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "IiX2P_XkqLM"
+          "videoId": "S581WaBTp20"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "IiX2P_XkqLM",
-        "videoPublishedAt": "2025-04-22T09:19:41Z"
+        "videoId": "S581WaBTp20",
+        "videoPublishedAt": "2025-05-12T10:00:50Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R60IOfsu5_flpDmzZfkH4Tf5mc8",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlYtcjFORldUTlFR",
+      "etag": "TfeYTOAh1i7rumlVQSjsjTuw8jo",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlp3Rk1vRmlFeE13",
       "snippet": {
-        "publishedAt": "2025-04-21T13:05:18Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "5回以内にiPadに触れろ #プロセカ",
-        "description": "音ゲーあるある、エイムが合わない時これ\n曲は『トキヲファンカ』より\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-05-11T07:00:35Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】MASTERの階段が大幅強化？ 新APPEND「世界を照らすテトラッド[APPEND]」をみんなで初見プレイ！！",
+        "description": "ダイスケは本当に出禁になったのだろうか...？(🚩)\n\nプレイ楽曲：世界を照らすテトラッド\nhttps://www.youtube.com/watch?v=RmHiTOqfJP8\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/V-r1NFWTNQQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZwFMoFiExMw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/V-r1NFWTNQQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZwFMoFiExMw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/V-r1NFWTNQQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZwFMoFiExMw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/V-r1NFWTNQQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZwFMoFiExMw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/V-r1NFWTNQQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZwFMoFiExMw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 174,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "V-r1NFWTNQQ"
+          "videoId": "ZwFMoFiExMw"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "V-r1NFWTNQQ",
-        "videoPublishedAt": "2025-04-21T13:05:18Z"
+        "videoId": "ZwFMoFiExMw",
+        "videoPublishedAt": "2025-05-11T07:00:35Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zyA0b2zQ5jbAcvKe32VPihMnqmg",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmxmdXg2YUNoYm0w",
+      "etag": "hen__MVG4QcmTZ4BnuZndpMPpgc",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlU0YndVaDN2UWRB",
       "snippet": {
-        "publishedAt": "2025-04-18T08:12:49Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "プロセカ1番のストレス解消法 #メズマライザー",
-        "description": "曲はサツキさんによる『メズマライザー / 初音ミク・重音テトSV』\n譜面はメズマライザー MASTER31\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n#音ゲー #プロセカ",
+        "publishedAt": "2025-05-09T09:00:50Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "プロセカ収録曲のうち「APPEND Lv.33」の楽曲、5つ答えろ！ #プロセカ #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lfux6aChbm0/default.jpg",
+            "url": "https://i.ytimg.com/vi/U4bwUh3vQdA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lfux6aChbm0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U4bwUh3vQdA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lfux6aChbm0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U4bwUh3vQdA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lfux6aChbm0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/U4bwUh3vQdA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lfux6aChbm0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U4bwUh3vQdA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 175,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lfux6aChbm0"
+          "videoId": "U4bwUh3vQdA"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "lfux6aChbm0",
-        "videoPublishedAt": "2025-04-18T08:12:49Z"
+        "videoId": "U4bwUh3vQdA",
+        "videoPublishedAt": "2025-05-09T09:00:50Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b8qbuvEEpnoRvU67sFR33DvUZso",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLnhJUUdZdDMzbUhn",
+      "etag": "CoAs-Rc9kUClaBawctugYJrA0uA",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnhkT3pkX2NkZllr",
       "snippet": {
-        "publishedAt": "2025-04-18T07:07:12Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】星宙メランコリア [MASTER 30]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "神曲神譜面だ...\n\n星宙メランコリア/ 初音ミク by yuichi NAGAO\nhttps://youtu.be/2ENCQQMFdqA?si=EeqwqhS9G5IBeneI\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-05-06T10:30:41Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ×東方Project】前回を上回るまさかのLv.36でラスボス登場！ 「超ナイト・オブ・ナイツ」をみんなで初見プレイ！！",
+        "description": "プレイ楽曲：超ナイト・オブ・ナイツ\nhttps://www.youtube.com/watch?v=yA_h7zM0bcU\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #東方project #projectsekai #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xIQGYt33mHg/default.jpg",
+            "url": "https://i.ytimg.com/vi/xdOzd_cdfYk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xIQGYt33mHg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xdOzd_cdfYk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xIQGYt33mHg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xdOzd_cdfYk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xIQGYt33mHg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xdOzd_cdfYk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/xIQGYt33mHg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xdOzd_cdfYk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 176,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "xIQGYt33mHg"
+          "videoId": "xdOzd_cdfYk"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "xIQGYt33mHg",
-        "videoPublishedAt": "2025-04-18T07:07:12Z"
+        "videoId": "xdOzd_cdfYk",
+        "videoPublishedAt": "2025-05-06T10:30:41Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sJ7naGMndIAjPIpDm0Olcbmi9E4",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLklTa2JneDBBVjYw",
+      "etag": "saRixRZJYohH6eb1AiQmEaEi_pQ",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkhGRkFXdEc0WXVB",
       "snippet": {
-        "publishedAt": "2025-04-17T12:39:03Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "ズルをした末路 #プロセカ",
-        "description": "ゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-05-05T12:00:26Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ×東方Project】東方コラボ楽曲最大BPM！ ワンダショ歌唱で譜面も大変なことになっている「とうほう★ワンダーランド」をみんなで初見プレイ！！",
+        "description": "慣れたらチルパの最後の方がダルい(道中はこっちの方が難しい)\n\nプレイ楽曲：とうほう★ワンダーランド\nhttps://www.youtube.com/watch?v=iIuZk3Ms1So\nhttps://www.youtube.com/watch?v=BZzlb6jnEDE\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #東方project #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ISkbgx0AV60/default.jpg",
+            "url": "https://i.ytimg.com/vi/HFFAWtG4YuA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ISkbgx0AV60/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HFFAWtG4YuA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ISkbgx0AV60/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HFFAWtG4YuA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ISkbgx0AV60/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HFFAWtG4YuA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ISkbgx0AV60/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HFFAWtG4YuA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 177,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ISkbgx0AV60"
+          "videoId": "HFFAWtG4YuA"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ISkbgx0AV60",
-        "videoPublishedAt": "2025-04-17T12:39:03Z"
+        "videoId": "HFFAWtG4YuA",
+        "videoPublishedAt": "2025-05-05T12:00:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "M_HILuxEuRJn8y89WSq5ZOn5E1Y",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLklJUGF1TUo2eGhB",
+      "etag": "YH6zFT-tdEp9Ehy61v5SsOHyiwM",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmgyRmRSQ0RyaXFF",
       "snippet": {
-        "publishedAt": "2025-04-16T13:24:59Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "ゲーマーなら3回以内に成功させろ✋チャレンジ",
-        "description": "普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\nTiktok\nhttps://www.tiktok.com/@enamel_energy\n\n #音ゲー",
+        "publishedAt": "2025-05-04T10:46:39Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ×東方Project】第2弾もしっかりハチャメチャコラボ！ コラボ楽曲「チルノのパーフェクトさんすう学園」をみんなで初見プレイ！！",
+        "description": "いきなり33はもう不安しかないぞ\n\nプレイ楽曲：チルノのパーフェクトさんすう学園\nhttps://www.youtube.com/watch?v=PE0rxHzyxNs\nhttps://www.youtube.com/watch?v=JDpkvycpqaQ\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #東方project #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IIPauMJ6xhA/default.jpg",
+            "url": "https://i.ytimg.com/vi/h2FdRCDriqE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IIPauMJ6xhA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2FdRCDriqE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IIPauMJ6xhA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2FdRCDriqE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IIPauMJ6xhA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2FdRCDriqE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IIPauMJ6xhA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h2FdRCDriqE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 178,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "IIPauMJ6xhA"
+          "videoId": "h2FdRCDriqE"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "IIPauMJ6xhA",
-        "videoPublishedAt": "2025-04-16T13:24:59Z"
+        "videoId": "h2FdRCDriqE",
+        "videoPublishedAt": "2025-05-04T10:46:39Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9lkppvraf75qoeHuRgyIWCilV4U",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlBYU1lLTk9EanVJ",
+      "etag": "nBgqEHSesj-nOps-oAbnNTMfK_Q",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkw0MndQSDV2aU5j",
       "snippet": {
-        "publishedAt": "2025-04-14T12:57:17Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "EASYで調子にのってしまいました #プロセカ #音ゲー",
-        "description": "曲はDECO*27による『ヒバナ』 \n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカやあんスタなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\nTiktok\nhttps://www.tiktok.com/@enamel_energy\n\n #pjsk",
+        "publishedAt": "2025-05-02T12:52:46Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】視聴者がカウンターを操作できる!? カウント0までPERFECTを取り続けろ！ 無限耐久ランクマッチ！！",
+        "description": "【企画ルール】\n◆ 基本ルール\n・勝ち/引き分けの場合 → PERFECTの数カウントが減ります \n・負けの場合 → PERFECTの数×0.5 カウントが減ります\n\n★ Lv.33以上を引いた場合\n・勝ち/引き分けの場合 → PERFECTの数×2 カウントが減ります \n・負けの場合 → PERFECTの数×2カウントが増えます\n\n★ スーパーチャット等の金額に応じてカウントが動きます\n・ALL PERFECTマラソン 第2回大会で飛んだスーパーチャット分加算(済)\n\n・1円 = 1カウント増加\n・メンバーシップ加入orギフト ... 常連 +500 / 常連 +1500 \n・赤スパ ... サイコロで1～6割上乗せ\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ: https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PXSYKNODjuI/default.jpg",
+            "url": "https://i.ytimg.com/vi/L42wPH5viNc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PXSYKNODjuI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/L42wPH5viNc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PXSYKNODjuI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/L42wPH5viNc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/PXSYKNODjuI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/L42wPH5viNc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/PXSYKNODjuI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/L42wPH5viNc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 179,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "PXSYKNODjuI"
+          "videoId": "L42wPH5viNc"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "PXSYKNODjuI",
-        "videoPublishedAt": "2025-04-14T12:57:17Z"
+        "videoId": "L42wPH5viNc",
+        "videoPublishedAt": "2025-05-02T12:52:46Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_77fs2LfApGezyw8YEShsXlFDM8",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLm9qeTJtQ1pGS25F",
+      "etag": "lbQvRoaAbFraYjznlj19xjtIXhI",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnNGWnFMcWVBbENV",
       "snippet": {
-        "publishedAt": "2025-04-14T06:26:56Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】スーサイドパレヱド [APPEND 32]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "曲はユリイ・カノン\nさんによる『スーサイドパレヱド』\n25時、ナイトコードで。\n宵崎 奏,朝比奈 まふゆ,東雲 絵名,暁山 瑞希\nhttps://youtu.be/7awIdGqyr40?si=JLCV_Ra17fWnoC8H\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-30T13:44:51Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】なんか最近指の動きが良くなった気がするので、色々高難易度をやってみようの配信",
+        "description": "【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ojy2mCZFKnE/default.jpg",
+            "url": "https://i.ytimg.com/vi/sFZqLqeAlCU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ojy2mCZFKnE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sFZqLqeAlCU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ojy2mCZFKnE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sFZqLqeAlCU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ojy2mCZFKnE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/sFZqLqeAlCU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ojy2mCZFKnE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sFZqLqeAlCU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 180,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ojy2mCZFKnE"
+          "videoId": "sFZqLqeAlCU"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ojy2mCZFKnE",
-        "videoPublishedAt": "2025-04-14T06:26:56Z"
+        "videoId": "sFZqLqeAlCU",
+        "videoPublishedAt": "2025-04-30T13:44:51Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7CLFrANUzfgJEKm9vu62sMb0nFw",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkJtOTUwV1JUZEhV",
+      "etag": "__36ffg3tcxoPjm4W6AS_G4E6bY",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkVYLW50T1F3WEZr",
       "snippet": {
-        "publishedAt": "2025-04-11T13:14:21Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "ポケモンと音ゲーしたい時",
-        "description": "ゲームは『Phigros』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー #ポケモン",
+        "publishedAt": "2025-04-30T10:38:05Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【Project DIVA】ゲーセンにあるものとほぼ同じサイズ!? 専用コントローラーを使ったら最難関にも手が届く説。",
+        "description": "提供：株式会社ホリ\n\n◆『初音ミク Project DIVA MEGA39’s』専用コントローラー for Nintendo Switch 製品ページ\nhttps://horistore.com/shop/g/gNSW-230/\n\n◆ 前回の動画\nhttps://www.youtube.com/watch?v=Hve5JL38uIE\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#projectdiva #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Bm950WRTdHU/default.jpg",
+            "url": "https://i.ytimg.com/vi/EX-ntOQwXFk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Bm950WRTdHU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EX-ntOQwXFk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Bm950WRTdHU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EX-ntOQwXFk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Bm950WRTdHU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/EX-ntOQwXFk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Bm950WRTdHU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EX-ntOQwXFk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 181,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Bm950WRTdHU"
+          "videoId": "EX-ntOQwXFk"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "Bm950WRTdHU",
-        "videoPublishedAt": "2025-04-11T13:14:21Z"
+        "videoId": "EX-ntOQwXFk",
+        "videoPublishedAt": "2025-04-30T10:38:05Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wrykNWbIF2LtiGYKyFRYw19hW3A",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkJZVnRPZDEwZzFJ",
+      "etag": "5-8HDVFkzhRgG_Uvb3BDRNXD7Dk",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLi1YaXRqUFFaYWhN",
       "snippet": {
-        "publishedAt": "2025-04-09T13:10:57Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "アイスを食べさせたい🍦 #プロセカ",
-        "description": "ゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\nバズってる雪見だいふくのミームで思いつきました\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-04-29T12:05:43Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【公式支援大会】プロジェクトセカイ ALL PERFECTマラソン 第2回大会",
+        "description": "「プロジェクトセカイ ALL PERFECTマラソン」は、約100人の挑戦者が連続APに挑む企画です。\n\nAPを逃した時点で挑戦失敗となる状態で、コース上の15曲を全てAPで通すと完全走破となります。\nまた、最優秀プレイヤー・準最優秀プレイヤーにはコミュニティカップ称号が付与されます。\n\n★ 今大会はプロセカ公式のリズムゲーム大会支援プログラム支援対象大会です\n(https://pjsekai.sega.jp/news/archive/index.html?hash=9d44b2b656a6d39b8ca66109658e75511658bbcd)\n\n【キャスト】\n・主催・司会進行：ほわいとさん\n・実況：やばいクッキー\n・解説：キタキツネ\n\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BYVtOd10g1I/default.jpg",
+            "url": "https://i.ytimg.com/vi/-XitjPQZahM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BYVtOd10g1I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-XitjPQZahM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BYVtOd10g1I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-XitjPQZahM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BYVtOd10g1I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-XitjPQZahM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/BYVtOd10g1I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-XitjPQZahM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 182,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BYVtOd10g1I"
+          "videoId": "-XitjPQZahM"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "BYVtOd10g1I",
-        "videoPublishedAt": "2025-04-09T13:10:57Z"
+        "videoId": "-XitjPQZahM",
+        "videoPublishedAt": "2025-04-29T12:05:43Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UMS_SoFEFeqan7HYrIwqQoKHQMY",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlNoQXJRLVRtRHNZ",
+      "etag": "bR0jObC-6jQ05yQ20-TpFQ89VeE",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkVnQ3FHRXBPLUZz",
       "snippet": {
-        "publishedAt": "2025-04-08T13:47:11Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "音ゲーエッホエッホランニングマシン #プロセカ",
-        "description": "ゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\nバズってるエッホエッホのミームで思いつきました\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-04-29T08:30:16Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】収録中にまさかの事件発生!? ワンダショ書き下ろし楽曲「オールセーブチャレンジ」をみんなで初見プレイ！！",
+        "description": "ディスク容量は、確保しよう\n\nプレイ楽曲：オールセーブチャレンジ\nhttps://www.youtube.com/watch?v=cafeiRu4XGI\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ShArQ-TmDsY/default.jpg",
+            "url": "https://i.ytimg.com/vi/EgCqGEpO-Fs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ShArQ-TmDsY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EgCqGEpO-Fs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ShArQ-TmDsY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EgCqGEpO-Fs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ShArQ-TmDsY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/EgCqGEpO-Fs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ShArQ-TmDsY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EgCqGEpO-Fs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 183,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ShArQ-TmDsY"
+          "videoId": "EgCqGEpO-Fs"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ShArQ-TmDsY",
-        "videoPublishedAt": "2025-04-08T13:47:11Z"
+        "videoId": "EgCqGEpO-Fs",
+        "videoPublishedAt": "2025-04-29T08:30:16Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xIG1BXrcstLFUIVt2zcI5b1icTc",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLktwZ3RINzhRaWR3",
+      "etag": "jJEQOq1IBloUMa-7iPvrXytmqRs",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmowZDZoR0xXb0tV",
       "snippet": {
-        "publishedAt": "2025-04-08T03:15:15Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】Beyond the Way [APPEND 29]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "良い譜面！\n\n曲はGigaさんによる『Beyond the Way』\nVivid BAD SQUAD/ビビバスイベント楽曲\nhttps://youtu.be/UAzw5B-35kI?si=NNfUH-pX6gcAYBJW\nhttps://youtu.be/SJcgOWsDwi4?si=4IA9QHetkJPXFwDx\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-25T13:34:58Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【同時視聴】プロセカNEXTの結果や新情報をみんなで見よう！ プロセカ放送局 同時視聴配信！！※リアクションのみ",
+        "description": "==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KpgtH78Qidw/default.jpg",
+            "url": "https://i.ytimg.com/vi/j0d6hGLWoKU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KpgtH78Qidw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j0d6hGLWoKU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KpgtH78Qidw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j0d6hGLWoKU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/KpgtH78Qidw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/j0d6hGLWoKU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/KpgtH78Qidw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j0d6hGLWoKU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 184,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "KpgtH78Qidw"
+          "videoId": "j0d6hGLWoKU"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "KpgtH78Qidw",
-        "videoPublishedAt": "2025-04-08T03:15:15Z"
+        "videoId": "j0d6hGLWoKU",
+        "videoPublishedAt": "2025-04-25T13:34:58Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KyUjFw9qAXuqUqfWQI-RHYDQeaE",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmNMSnhXUEJZX3NR",
+      "etag": "PVtSO2axmwWS7M4EKxCSILGssDw",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnBLTGQ5UUR3dURR",
       "snippet": {
-        "publishedAt": "2025-04-07T13:27:43Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "5回以内に『PERFECT×1』を出せ #プロセカ",
-        "description": "ゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-04-24T10:01:22Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】迷ったらまずはこれ！「超」高難易度初見プレイ総集編 Part5",
+        "description": "0:00 キラー\n5:20 カゲロウデイズ[APPEND]\n9:49 生命性シンドロウム\n17:45 メモリア\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲ― #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cLJxWPBY_sQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/pKLd9QDwuDQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cLJxWPBY_sQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pKLd9QDwuDQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cLJxWPBY_sQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pKLd9QDwuDQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cLJxWPBY_sQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pKLd9QDwuDQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cLJxWPBY_sQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pKLd9QDwuDQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 185,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cLJxWPBY_sQ"
+          "videoId": "pKLd9QDwuDQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "cLJxWPBY_sQ",
-        "videoPublishedAt": "2025-04-07T13:27:43Z"
+        "videoId": "pKLd9QDwuDQ",
+        "videoPublishedAt": "2025-04-24T10:01:22Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PNwxNw5vqG4zuq7WfbkfYbkFbwU",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkJDTllzNG1CMThF",
+      "etag": "C29qlgn38z6u93ttjl1ijJJt7qA",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlpMM21mbmV2ODdn",
       "snippet": {
-        "publishedAt": "2025-04-04T12:25:17Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "本当の最強になる方法📱 #プロセカ #shorts",
-        "description": "ゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカやあんスタなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-04-23T10:01:05Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】Lv.31にあってはならないスピードの3鍵が！？ 「ショウタイム・ルーラー[APPEND]」をみんなで初見プレイ！",
+        "description": "プレイ楽曲：ショウタイム・ルーラー\nhttps://www.youtube.com/watch?v=PFQQhZQp5vo\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nお部屋：https://discord.gg/nqcYBQ2\n凸待ち：https://discord.gg/peXbedGQaZ\nマイクラ鯖：https://discord.gg/dPab5UpptG\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #projectsekai #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BCNYs4mB18E/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZL3mfnev87g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BCNYs4mB18E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL3mfnev87g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BCNYs4mB18E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL3mfnev87g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BCNYs4mB18E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL3mfnev87g/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/BCNYs4mB18E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL3mfnev87g/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 186,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BCNYs4mB18E"
+          "videoId": "ZL3mfnev87g"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "BCNYs4mB18E",
-        "videoPublishedAt": "2025-04-04T12:25:17Z"
+        "videoId": "ZL3mfnev87g",
+        "videoPublishedAt": "2025-04-23T10:01:05Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7ZI1aJ4t9AEPScuJQJWr3ctyQJA",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjUxaW44ajBEYU1N",
+      "etag": "yyANSSjHeGJ2x-f8Hdn-Cr9OPDE",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlFGMVhJVUxKUndz",
       "snippet": {
-        "publishedAt": "2025-04-04T06:35:54Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】クイーンオブハート [MASTER 31]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "脳トレ高難易度が続く\n楽しい譜面だ\n\n曲はクイーンオブハート / 奏音69(KANON69)\nhttps://youtu.be/jbVVlJU3Nqg?si=a1QHL7KyOeZSTVea\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-22T10:48:48Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】 新★4のえむ様を100連で当てるガチャ配信 (ガチャ引くだけかも)",
+        "description": "【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/51in8j0DaMM/default.jpg",
+            "url": "https://i.ytimg.com/vi/QF1XIULJRws/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/51in8j0DaMM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QF1XIULJRws/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/51in8j0DaMM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QF1XIULJRws/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/51in8j0DaMM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QF1XIULJRws/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/51in8j0DaMM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QF1XIULJRws/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 187,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "51in8j0DaMM"
+          "videoId": "QF1XIULJRws"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "51in8j0DaMM",
-        "videoPublishedAt": "2025-04-04T06:35:54Z"
+        "videoId": "QF1XIULJRws",
+        "videoPublishedAt": "2025-04-22T10:48:48Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NanNKwUZOVKSeURBCY0Wry3pf6o",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlVpSVVaenViRno0",
+      "etag": "zfOI26cslhr8Ti0FshkAz8mG2pY",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnpFXzRibl9RZFVR",
       "snippet": {
-        "publishedAt": "2025-04-03T12:41:14Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "最強の方法が分かりました、これができるか？ #プロセカ",
-        "description": "曲はwotaku feat. MEIKO(ボカロ)による『マンハッタン』 \nhttps://youtu.be/D4OzAM7DjUM?si=DtH7HzkU3Gc3Qktx\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n#音ゲー #pjsk",
+        "publishedAt": "2025-04-20T07:04:35Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】 Lv.33↑を負け越すとデスソース...ではなくわさび！ \"ガチ\"ランクマッチ配信#171",
+        "description": "【企画ルール】\n・最初の2曲の負けはノーカウント(タイマー外)\n・Lv.33↑を引いた場合\n　勝ち：ポイント +1 / 負け：ポイント -1\n・1時間のプレイ終了時にポイントが「-1以下」だった場合はデスソース\n\n【NEW!! クリティカルルール】\n・ラスト1曲でLv.33↑を引いた場合、そこまでのポイントに関わらずその試合の勝敗でデスソースの有無を決める \n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UiIUZzubFz4/default.jpg",
+            "url": "https://i.ytimg.com/vi/zE_4bn_QdUQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UiIUZzubFz4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zE_4bn_QdUQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UiIUZzubFz4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zE_4bn_QdUQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UiIUZzubFz4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zE_4bn_QdUQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UiIUZzubFz4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zE_4bn_QdUQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 188,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "UiIUZzubFz4"
+          "videoId": "zE_4bn_QdUQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "UiIUZzubFz4",
-        "videoPublishedAt": "2025-04-03T12:41:14Z"
+        "videoId": "zE_4bn_QdUQ",
+        "videoPublishedAt": "2025-04-20T07:04:35Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "A0FhCH1v3xLYcKDkUb-h78ewoVA",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLklVT09BbWIxb3lJ",
+      "etag": "FpvIvn75nuPq88lfn5iccxm7lP4",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnFwWXNkZmY1NFdV",
       "snippet": {
-        "publishedAt": "2025-04-03T07:32:24Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】マンハッタン [MASTER 32]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "33ではなくて？\n\nマンハッタン / wotaku feat. MEIKO\nhttps://youtu.be/D4OzAM7DjUM?si=DtH7HzkU3Gc3Qktx\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-19T11:01:18Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】プロセカNEXTのEDM回は難しい楽曲が多いが...!? 新曲「星宙メランコリア」をみんなで初見プレイ！",
+        "description": "プレイ楽曲：星宙メランコリア\nhttps://www.youtube.com/watch?v=2ENCQQMFdqA\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IUOOAmb1oyI/default.jpg",
+            "url": "https://i.ytimg.com/vi/qpYsdff54WU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IUOOAmb1oyI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qpYsdff54WU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IUOOAmb1oyI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qpYsdff54WU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IUOOAmb1oyI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/qpYsdff54WU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IUOOAmb1oyI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qpYsdff54WU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 189,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "IUOOAmb1oyI"
+          "videoId": "qpYsdff54WU"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "IUOOAmb1oyI",
-        "videoPublishedAt": "2025-04-03T07:32:24Z"
+        "videoId": "qpYsdff54WU",
+        "videoPublishedAt": "2025-04-19T11:01:18Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kYCbilo17ZtqP2lfRNVbjMUOwi4",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLndRREY2QlpJQUlr",
+      "etag": "U9qF-IBFlE0FGj3Ouu1hFpYao_g",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLnh1dEN4SzVNT000",
       "snippet": {
-        "publishedAt": "2025-04-02T13:04:22Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】吉原ラメント [MASTER 29]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "音声トラブルで6時間くらい遅れました\nニンダイ中で申し訳ない\n\n吉原ラメント-再来盤-【重音テト】 Synthesizer V TETO KASANE ASA YOSHIWARA LAMENT　/亜沙\n重音テトSV\nhttps://youtu.be/NKYqJ3UvjIk?si=8FTuax_RO2KyBlTF\nhttps://youtu.be/Gm2Tc0-2Q34?si=5CDnB0ErVDks6Ulz\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-18T14:27:50Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】 Lv.33↑を負け越すとデスソース...ではなくわさび！  \"ガチ\"ランクマッチ配信#170",
+        "description": "【企画ルール】\n・最初の2曲の負けはノーカウント(タイマー外)\n・Lv.33↑を引いた場合\n　勝ち：ポイント +1 / 負け：ポイント -1\n・1時間のプレイ終了時にポイントが「-1以下」だった場合はデスソース\n\n【NEW!! クリティカルルール】\n・ラスト1曲でLv.33↑を引いた場合、そこまでのポイントに関わらずその試合の勝敗でデスソースの有無を決める \n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.9とサドプラ 判定+1.1 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #ランクマッチ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wQDF6BZIAIk/default.jpg",
+            "url": "https://i.ytimg.com/vi/xutCxK5MOM4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wQDF6BZIAIk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xutCxK5MOM4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wQDF6BZIAIk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xutCxK5MOM4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/wQDF6BZIAIk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xutCxK5MOM4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/wQDF6BZIAIk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xutCxK5MOM4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 190,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "wQDF6BZIAIk"
+          "videoId": "xutCxK5MOM4"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "wQDF6BZIAIk",
-        "videoPublishedAt": "2025-04-02T13:04:22Z"
+        "videoId": "xutCxK5MOM4",
+        "videoPublishedAt": "2025-04-18T14:27:50Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sogOZSFuY0lw3lzhQooWzUiDs_I",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmJzUm9jUWhQd29r",
+      "etag": "_5bCoVoo8rlqJouiCDELgESZico",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkh2ZTVKTDM4dUlF",
       "snippet": {
-        "publishedAt": "2025-04-02T09:53:53Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【Phigros】狂ってる音ゲーの最高難易度【AbsoluTe disoRdeR [AT \"17\"]】【ALL PERFECT】",
-        "description": "神譜面だ...!\nだいぶエイプリルフールな気がするけど通常譜面である\n難易度変更されてからの初の17\n\nPhigrosプレイ動画\nhttps://youtube.com/playlist?list=PLEr7osxNy-wIBCd3M7UuHYST6cvFe6NWO\n\nゲームは『Phigros』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\n#phigros #音ゲー",
+        "publishedAt": "2025-04-18T10:00:34Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "家に超デカい荷物が届いたので開封していく。",
+        "description": "提供：株式会社ホリ\n\n◆初音ミク Project DIVA MEGA39’s』専用コントローラー for Nintendo Switch 製品ページ\nhttps://horistore.com/shop/g/gNSW-230/\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#初音ミク #projectdiva #音ゲー",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bsRocQhPwok/default.jpg",
+            "url": "https://i.ytimg.com/vi/Hve5JL38uIE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bsRocQhPwok/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hve5JL38uIE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bsRocQhPwok/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hve5JL38uIE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bsRocQhPwok/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hve5JL38uIE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/bsRocQhPwok/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hve5JL38uIE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 191,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "bsRocQhPwok"
+          "videoId": "Hve5JL38uIE"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "bsRocQhPwok",
-        "videoPublishedAt": "2025-04-02T09:53:53Z"
+        "videoId": "Hve5JL38uIE",
+        "videoPublishedAt": "2025-04-18T10:00:34Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zVGHYLqm0aknx42hrtrtaU0xTr4",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmJiOTVZYUFwVGJF",
+      "etag": "z-jmNBbhCjByQJJT9cfS8LZPL4A",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkg2NmhSdW5RbnVR",
       "snippet": {
-        "publishedAt": "2025-04-01T09:57:54Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "ガルパ、ついにやってしまう【エイプリルフール】【ガルパ☆ピコ [SPECIAL+ 41] ALL PERFECT】",
-        "description": "多本指終点ありの地獄をまた味わうことになるとは...\n\nゲームは『バンドリ！ガールズバンドパーティー』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#バンドリ #音ゲー",
+        "publishedAt": "2025-04-16T08:05:40Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "1人だけ難易度がバグっているプロセカファイブリーグ #Shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bb95YaApTbE/default.jpg",
+            "url": "https://i.ytimg.com/vi/H66hRunQnuQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bb95YaApTbE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66hRunQnuQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bb95YaApTbE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66hRunQnuQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bb95YaApTbE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66hRunQnuQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/bb95YaApTbE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66hRunQnuQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 192,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "bb95YaApTbE"
+          "videoId": "H66hRunQnuQ"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "bb95YaApTbE",
-        "videoPublishedAt": "2025-04-01T09:57:54Z"
+        "videoId": "H66hRunQnuQ",
+        "videoPublishedAt": "2025-04-16T08:05:40Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FFF89aQBP0G4FTW3h9BEDiSprbY",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmNRWGpvYXUwcFhF",
+      "etag": "RGwybVoMOEnuZdaKFGg-NlC8NbM",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjRrcHI4RC1tY0Rj",
       "snippet": {
-        "publishedAt": "2025-04-01T07:07:43Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【Phigros】ヤバすぎて笑ってしまう最強の音ゲーエイプリルフール【発狂Dlyrotz [SP ??]】【FULL COMBO】",
-        "description": "Phigrosプレイ動画\nhttps://youtube.com/playlist?list=PLEr7osxNy-wIBCd3M7UuHYST6cvFe6NWO\n\nゲームは『Phigros』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\n#phigros #音ゲー",
+        "publishedAt": "2025-04-15T09:57:28Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】久々のAPPEND付き！絶対に初見でフルコンボさせないという気概を感じる新曲「スーサイドパレヱド」をみんなで初見プレイ！！",
+        "description": "(心の声：な、なんとか8分なった...)\n\nプレイ楽曲：スーサイドパレヱド\nhttps://www.youtube.com/watch?v=7awIdGqyr40\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cQXjoau0pXE/default.jpg",
+            "url": "https://i.ytimg.com/vi/4kpr8D-mcDc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cQXjoau0pXE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kpr8D-mcDc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cQXjoau0pXE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kpr8D-mcDc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cQXjoau0pXE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kpr8D-mcDc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cQXjoau0pXE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kpr8D-mcDc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 193,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cQXjoau0pXE"
+          "videoId": "4kpr8D-mcDc"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "cQXjoau0pXE",
-        "videoPublishedAt": "2025-04-01T07:07:43Z"
+        "videoId": "4kpr8D-mcDc",
+        "videoPublishedAt": "2025-04-15T09:57:28Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "X-PPxPGUB5NRM4p8U7bdsGAV39I",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLlBUU003TDloT2Nz",
+      "etag": "qUS3JhgG-f-7pGnOLsp5Ni9RKd8",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlVkUlZyMWdwVEM4",
       "snippet": {
-        "publishedAt": "2025-03-31T13:08:49Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "音ゲーは2倍ドキドキさせるゲーム #プロセカ",
-        "description": "曲はAzariさんによる『D/N/A(DNA)』\n25時、ナイトコードで。/ 25-ji, Nightcord de.\n宵崎 奏,鏡音 リン,朝比奈 まふゆ,東雲 絵名,暁山 瑞希\nhttps://youtu.be/RyRfLSOewbU?si=7ph4MldH5VSYtShs\nhttps://youtu.be/j9RGt9Z_UeE?si=zMj5QSgkDp8oocUH\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#pjsk #音ゲー",
+        "publishedAt": "2025-04-14T10:00:45Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】非公式大会史上初のオフライン開催、大盛況となったほわいと杯会場の１日に密着！",
+        "description": "◆ ほわいと杯2025 - OFFLINE - オフライン決勝ステージ\nhttps://www.youtube.com/watch?v=46t2YbCYepM\n\n◆ THE STANDARD 初音ミクEditionはこちらから\nhttps://store.grapht.tokyo/products/tgr089\n\n◆ Mido*の動画はこちらから\nhttps://www.youtube.com/watch?v=iYiDyWhttYM\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\nwhitestarch.works@gmail.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PTSM7L9hOcs/default.jpg",
+            "url": "https://i.ytimg.com/vi/UdRVr1gpTC8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PTSM7L9hOcs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UdRVr1gpTC8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PTSM7L9hOcs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UdRVr1gpTC8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/PTSM7L9hOcs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/UdRVr1gpTC8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/PTSM7L9hOcs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UdRVr1gpTC8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 194,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "PTSM7L9hOcs"
+          "videoId": "UdRVr1gpTC8"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "PTSM7L9hOcs",
-        "videoPublishedAt": "2025-03-31T13:08:49Z"
+        "videoId": "UdRVr1gpTC8",
+        "videoPublishedAt": "2025-04-14T10:00:45Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8b6oUzUqC7tLJrBm_nURe0ZmoqY",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLmVqaTRwS1d4ZGdJ",
+      "etag": "TgTWhOug_x2VjECh4kxiwjkGt6I",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLmtzQ0pYSFBZMEtZ",
       "snippet": {
-        "publishedAt": "2025-03-31T09:49:35Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】D/N/A [KANADE ??]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "曲はAzariさんによる『D/N/A』(DNA)\n25時、ナイトコードで。/ニーゴ\n宵崎 奏,鏡音 リン,朝比奈 まふゆ,東雲 絵名,暁山 瑞希\nhttps://youtu.be/RyRfLSOewbU?si=7ph4MldH5VSYtShs\nhttps://youtu.be/j9RGt9Z_UeE?si=zMj5QSgkDp8oocUH\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 1.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-10T14:31:14Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】視聴者が1位になったらライフが減る！ ライフ0で即終了、おまかせ限定\"\"ガチ\"\"参加型！！",
+        "description": "【ルール】\n・先頭は判定強化以外でお願いします\n・難易度は【MASTER】、APPENDがある場合は【APPEND】固定\n・引き分けの場合はライフ減少なし\n・3人全員APでライフ＋１\n・得点はランクマ計算で出します。引き分けの際のPERFECT数のルールとかはなし。\n==============================================\n【ほわいとのMASTER AP埋めサボリリスト(~32)】\nPackeged\nレイヤーノート\nShadow Shadow\nカルチャ\nきみとぼくのレゾナンス\n夏に透明\nキャットフード\nWAVE\nCH4NGE\nマインドブランド\nサイハテ\nLEADER\nCall!!\n三日月ステップ\n花に風\nUnpoison\n結ンデ開イテ羅刹ト骸\nmerry-go-round\nHenceforth\n吉原ラメント\nバレリーコ\nコールボーイ\nパンダヒーロー\nクイーンオブハート\nマンハッタン\nプロトディスコ\n厨病激発ボーイ\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・Player(ほわいと)にプレッシャーを掛けるようなコメントは控えてください\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC(たまに出る) : https://twitter.com/yabaicookie\nたこ(休止中) : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.85 サドプラ15 判定+0.5 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eji4pKWxdgI/default.jpg",
+            "url": "https://i.ytimg.com/vi/ksCJXHPY0KY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eji4pKWxdgI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ksCJXHPY0KY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eji4pKWxdgI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ksCJXHPY0KY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eji4pKWxdgI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ksCJXHPY0KY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/eji4pKWxdgI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ksCJXHPY0KY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 195,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eji4pKWxdgI"
+          "videoId": "ksCJXHPY0KY"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "eji4pKWxdgI",
-        "videoPublishedAt": "2025-03-31T09:49:35Z"
+        "videoId": "ksCJXHPY0KY",
+        "videoPublishedAt": "2025-04-10T14:31:14Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9tU98k4UHhY-nDWG3_IzsvGGHrI",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkVRSmJ1a3E0azBn",
+      "etag": "g6wQXLd9xAjk6gyO1NZoKtyxspc",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLlg0bEFVT0VpZzJR",
       "snippet": {
-        "publishedAt": "2025-03-30T13:18:24Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "D/N/Aを1速にしたら美しすぎた #プロセカ",
-        "description": "曲はAzariさんによる『D/N/A(DNA)』\n25時、ナイトコードで。/ 25-ji, Nightcord de.\n宵崎 奏,鏡音 リン,朝比奈 まふゆ,東雲 絵名,暁山 瑞希\nhttps://youtu.be/RyRfLSOewbU?si=7ph4MldH5VSYtShs\nhttps://youtu.be/j9RGt9Z_UeE?si=zMj5QSgkDp8oocUH\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#pjsk #音ゲー",
+        "publishedAt": "2025-04-08T14:06:30Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】視聴者が1位になったらライフが減る！ ライフ0で即終了、おまかせ限定\"\"ガチ\"\"参加型！！",
+        "description": "【ルール】\n・先頭は判定強化以外でお願いします\n・難易度は【MASTER】、APPENDがある場合は【APPEND】固定\n・引き分けの場合はライフ減少なし\n・3人全員APでライフ＋１\n・得点はランクマ計算で出します。引き分けの際のPERFECT数のルールとかはなし。\n==============================================\n【ほわいとのMASTER AP埋めサボリリスト(~32)】\nPackeged\nレイヤーノート\nShadow Shadow\nカルチャ\nきみとぼくのレゾナンス\n夏に透明\nキャットフード\nWAVE\nCH4NGE\nマインドブランド\nサイハテ\nLEADER\n夏夜ノ唄\nCall!!\n三日月ステップ\n花に風\nSympathy\nUnpoison\n結ンデ開イテ羅刹ト骸\nmerry-go-round\nHenceforth\n吉原ラメント\nバレリーコ\nコールボーイ\nパンダヒーロー\nクイーンオブハート\nマンハッタン\nプロトディスコ\n厨病激発ボーイ\n==============================================\n【よくある質問＆視聴者さんへのおねがい】\n・画面を上部分を隠してるのはスピードを下げて視認性を上げるためです\n・ランクマ配信は固定で60分間です、アンコールはしないでください(心苦しいので)\n・Player(ほわいと)にプレッシャーを掛けるようなコメントは控えてください\n・荒らしとか変なコメントはスルーでお願いします\n==============================================\n【投げ銭について】\n頂いたスパチャ等は大会とかゲーセン動画撮るときの資金に充てます。\n責任をもって全部読ませて頂きますので気が向いたらお願いします🙏\n==============================================\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://x.com/kitakitsune___\nYC(たまに出る) : https://twitter.com/yabaicookie\nたこ(休止中) : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n==============================================\n【プレイ設定とか】\n速度9.85 サドプラ15 判定+0.5 SEあり\n背景の明るさ50% 不透明度100%\nAP演出と判定以外全部OFF\n使用端末 → iPad Pro\n==============================================\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EQJbukq4k0g/default.jpg",
+            "url": "https://i.ytimg.com/vi/X4lAUOEig2Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EQJbukq4k0g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X4lAUOEig2Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EQJbukq4k0g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X4lAUOEig2Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/EQJbukq4k0g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/X4lAUOEig2Q/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/EQJbukq4k0g/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X4lAUOEig2Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 196,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "EQJbukq4k0g"
+          "videoId": "X4lAUOEig2Q"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "EQJbukq4k0g",
-        "videoPublishedAt": "2025-03-30T13:18:24Z"
+        "videoId": "X4lAUOEig2Q",
+        "videoPublishedAt": "2025-04-08T14:06:30Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Uc_mDZrITW4XstxOfHxZKhMrZzs",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLjg3X1ZOQjZtbktZ",
+      "etag": "4P4r8iBUBhBuuZ7QN18n7aCYY7s",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjZqazhaMFg3WHRr",
       "snippet": {
-        "publishedAt": "2025-03-30T08:50:25Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【プロセカ】Sympathy [APPEND 29]【ALL PERFECT】【プロジェクトセカイ カラフルステージ feat. 初音ミク】",
-        "description": "リリースから4年半が経ったらしいです\nそんなわけない\n\n曲はEveさんによる『Sympathy』\nLeo/need\n\nプロジェクトセカイ カラフルステージ！ feat. 初音ミクのプレイ動画\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wK7V3l5xYvx1CWpBTYVnpaP\n\noptions\nspeed 10.0\njudge 1.8\niPad Pro 11(3rd Generation)\n\nゲームは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#プロセカ #音ゲー",
+        "publishedAt": "2025-04-07T12:00:15Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "プロセカに登場する「身長が160cm以上のキャラ」、5人答えろ！ #shorts #プロセカ",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/87_VNB6mnKY/default.jpg",
+            "url": "https://i.ytimg.com/vi/6jk8Z0X7Xtk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/87_VNB6mnKY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6jk8Z0X7Xtk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/87_VNB6mnKY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6jk8Z0X7Xtk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/87_VNB6mnKY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6jk8Z0X7Xtk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/87_VNB6mnKY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6jk8Z0X7Xtk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 197,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "87_VNB6mnKY"
+          "videoId": "6jk8Z0X7Xtk"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "87_VNB6mnKY",
-        "videoPublishedAt": "2025-03-30T08:50:25Z"
+        "videoId": "6jk8Z0X7Xtk",
+        "videoPublishedAt": "2025-04-07T12:00:15Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2_E30GU3GPUfmu5yMOw9rl2sK7c",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLi0zc0plbGdjTmhj",
+      "etag": "TQVfNvoztHAB3ST66BZR1xqMDlM",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLkJwM0hReEJFUWlF",
       "snippet": {
-        "publishedAt": "2025-03-29T13:04:43Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "100%正解できるのか？ #プロセカ",
-        "description": "曲 メズマライザー / 初音ミク・重音テトSV サツキ\nhttps://youtu.be/19y8YTbvri8?si=EUw2NJ4p6mcj40ME\n\nゲームは『プロジェクトセカイ  カラフルステージ！ feat. 初音ミク』より\n普段はこのYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしているエナメル巻きで食べるサラダです。使用端末はiPad Pro\n\nshortvideo playlist\nhttps://www.youtube.com/playlist?list=PLEr7osxNy-wJ-hjQyWzYHK22J0Zvo5uPN\n\n #pjsk #音ゲー",
+        "publishedAt": "2025-04-05T11:02:28Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】跳ねてるフリックは犯罪定期  新旧融合の譜面「クイーンオブハート」をみんなで初見プレイ！ ※変な声が含まれます",
+        "description": "プレイ楽曲：クイーンオブハート\nhttps://www.youtube.com/watch?v=jbVVlJU3Nqg\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\ninfo@ly-collection.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-3sJelgcNhc/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bp3HQxBEQiE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-3sJelgcNhc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bp3HQxBEQiE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-3sJelgcNhc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bp3HQxBEQiE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-3sJelgcNhc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bp3HQxBEQiE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-3sJelgcNhc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bp3HQxBEQiE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 198,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-3sJelgcNhc"
+          "videoId": "Bp3HQxBEQiE"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "-3sJelgcNhc",
-        "videoPublishedAt": "2025-03-29T13:04:43Z"
+        "videoId": "Bp3HQxBEQiE",
+        "videoPublishedAt": "2025-04-05T11:02:28Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LMh4mM3tB6JqGyrFzmIPCdJJeHE",
-      "id": "VVVvMVJIN3BSX3dkZ1lfOUxLT054WHZBLkVUWUZZTFRhU2M0",
+      "etag": "ihDUIwckp4WjxCuOjaWBe8EzMqg",
+      "id": "VVVaRkhQZUY5ZzFSNUVfQ3pFMUtwZlVnLjFZSlVGaDFBdF9Z",
       "snippet": {
-        "publishedAt": "2025-03-28T07:54:09Z",
-        "channelId": "UCo1RH7pR_wdgY_9LKONxXvA",
-        "title": "【バンドリ】脳漿炸裂ガール [SPECIAL 29]【ALL PERFECT】【ガルパ】",
-        "description": "久々のSPECIAL譜面！\n譜面が良すぎる\n\n曲\n脳漿炸裂ガール - れるりりfeat.初音ミク&GUMI\n(Brain Fluid Explosion Girl - rerulili feat.miku&gumi)\nhttps://youtu.be/Ey_NHZNYTeE?si=sVzthulNwGgiHZHr\n\niPad Pro 11(3rd Generation)\n\nゲームは『バンドリ！ガールズバンドパーティー』より\nYouTubeチャンネルでプロセカなどの音ゲーのプレイ動画をアップしている\nエナメル巻きで食べるサラダです。\n\n#バンドリ #音ゲー #ガルパ",
+        "publishedAt": "2025-04-04T12:00:06Z",
+        "channelId": "UCZFHPeF9g1R5E_CzE1KpfUg",
+        "title": "【プロセカ】譜面が○回止まる!?  ハイパー初見殺しなヤバいLv.32「マンハッタン」をみんなで初見プレイ！",
+        "description": "初見難易度Lv.33ある\n\nプレイ楽曲：マンハッタン\nhttps://www.youtube.com/watch?v=D4OzAM7DjUM\n==============================================\n動画のご視聴ありがとうございます！！\nこのチャンネルではプロセカメインで、\nワイワイと色々な音ゲーをやっている様子をお届けします！\n宜しければチャンネル登録・高評価よろしくお願いします！！\n\n【Youtubeチャンネル】\nほわいとさんの音ゲー部屋：ここ\nほわいと動物園(別ゲー実況) : https://www.youtube.com/@zoo_white\n\n【メンバーのTwitter】\nほわいと : https://twitter.com/WhiteStar_ch\nみらっと : https://twitter.com/milatto310\nコンビニ : https://twitter.com/Convenippoina\nMURA : https://twitter.com/MURAPvP\nかあち : https://twitter.com/M0ku6\nひびび : https://twitter.com/hibibi_111\nぽんぬ : https://twitter.com/ponn_fujima\nいーるけん : https://twitter.com/Eel_Ken\nキタキツネ：https://twitter.com/kitakitsune___\nYC : https://twitter.com/yabaicookie\nたこ : https://twitter.com/Tako_Gudon\n\n【Discordサーバー】\nhttps://discord.gg/nqcYBQ2\n\n【ご連絡はこちらから】\ninfo@ly-collection.com\n#プロセカ #音ゲー #projectsekai",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ETYFYLTaSc4/default.jpg",
+            "url": "https://i.ytimg.com/vi/1YJUFh1At_Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ETYFYLTaSc4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1YJUFh1At_Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ETYFYLTaSc4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1YJUFh1At_Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ETYFYLTaSc4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/1YJUFh1At_Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ETYFYLTaSc4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1YJUFh1At_Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "エナメル巻きで食べるサラダ",
-        "playlistId": "UUo1RH7pR_wdgY_9LKONxXvA",
+        "channelTitle": "ほわいとさんの音ゲー部屋",
+        "playlistId": "UUZFHPeF9g1R5E_CzE1KpfUg",
         "position": 199,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ETYFYLTaSc4"
+          "videoId": "1YJUFh1At_Y"
         },
-        "videoOwnerChannelTitle": "エナメル巻きで食べるサラダ",
-        "videoOwnerChannelId": "UCo1RH7pR_wdgY_9LKONxXvA"
+        "videoOwnerChannelTitle": "ほわいとさんの音ゲー部屋",
+        "videoOwnerChannelId": "UCZFHPeF9g1R5E_CzE1KpfUg"
       },
       "contentDetails": {
-        "videoId": "ETYFYLTaSc4",
-        "videoPublishedAt": "2025-03-28T07:54:09Z"
+        "videoId": "1YJUFh1At_Y",
+        "videoPublishedAt": "2025-04-04T12:00:06Z"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 1320,
+    "totalResults": 739,
     "resultsPerPage": 50
   }
 }
