@@ -58,7 +58,10 @@ function buildEndpoint(endpoint) {
   const payload = endpoint.payload || {}
 
   if (endpoint.name === "urlEndpoint") {
-    return normalizeYoutubeUrl(payload.url)
+    const isYoutubeUrl = payload.url.includes("/channel") || payload.url.includes("/playlist") || payload.url.includes("/watch");
+    if (!isYoutubeUrl) return normalizeYoutubeUrl(payload.url);
+    const url = new URL(payload.url);
+    return url.pathname;
   }
 
   if (endpoint.name === "browseEndpoint") {
