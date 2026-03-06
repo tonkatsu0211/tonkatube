@@ -21,54 +21,81 @@ const user_agent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";
 const serverUrls = ["direct"];
 
-function formatDescription(text) {
-  if (!text) return ""
-
-  text = text
+function escapeHtml(str) {
+  return str
     .replace(/&/g,"&amp;")
     .replace(/</g,"&lt;")
     .replace(/>/g,"&gt;")
+}
 
-  text = text.replace(
-    /https?:\/\/[^\s]+/g,
-    url => {
-      let m
+function buildEndpoint(endpoint) {
+  if (!endpoint) return null
 
-      m = url.match(/youtube\.com\/watch\?v=([a-zA-Z0-9_-]+)/)
-      if (m) return `<a href="/watch/${m[1]}">${url}</a>`
+  if (endpoint.watchEndpoint)
+    return `/watch/${endpoint.watchEndpoint.videoId}`
 
-      m = url.match(/youtube\.com\/live\/([a-zA-Z0-9_-]+)/)
-      if (m) return `<a href="/live/${m[1]}">${url}</a>`
+  if (endpoint.watchEndpoint?.playlistId)
+    return `/playlist?list=${endpoint.watchEndpoint.playlistId}`
 
-      m = url.match(/youtube\.com\/channel\/([a-zA-Z0-9_-]+)/)
-      if (m) return `<a href="/channel/${m[1]}">${url}</a>`
+  if (endpoint.browseEndpoint) {
+    const id = endpoint.browseEndpoint.browseId
 
-      m = url.match(/youtube\.com\/playlist\?list=([a-zA-Z0-9_-]+)/)
-      if (m) return `<a href="/playlist?list=${m[1]}">${url}</a>`
+    if (id.startsWith("UC"))
+      return `/channel/${id}`
 
-      return `<a href="${url}" target="_blank">${url}</a>`
+    if (id.startsWith("VL"))
+      return `/playlist?list=${id.slice(2)}`
+  }
+
+  if (endpoint.commandMetadata?.webCommandMetadata?.url)
+    return endpoint.commandMetadata.webCommandMetadata.url
+
+  return null
+}
+
+function formatDescriptionRuns(runs) {
+  let html = ""
+
+  for (const run of runs) {
+    let text = escapeHtml(run.text)
+
+    if (run.navigationEndpoint) {
+      const url = buildEndpoint(run.navigationEndpoint)
+
+      if (url) {
+        html += `<a href="${url}">${text}</a>`
+        continue
+      }
     }
-  )
 
-  text = text.replace(
-    /#([^\s#]+)/g,
-    (m,tag) => `<a href="/hashtag/${encodeURIComponent(tag)}">#${tag}</a>`
-  )
+    html += text
+  }
 
-  text = text.replace(
-    /\b(\d{1,2}:\d{2}(?::\d{2})?)\b/g,
-    (m,time) => {
-      const parts = time.split(":").map(Number)
-      let sec = 0
-      if (parts.length === 3) sec = parts[0]*3600 + parts[1]*60 + parts[2]
-      else sec = parts[0]*60 + parts[1]
-      return `<a href="?t=${sec}">${time}</a>`
-    }
-  )
+  return html.replace(/\n/g,"<br>")
+}
 
-  text = text.replace(/\n/g,"<br>")
+function formatDescription(videoInfo) {
 
-  return text
+  if (
+    videoInfo.primaryInfo?.description?.runs
+  ) {
+    return formatDescriptionRuns(
+      videoInfo.primaryInfo.description.runs
+    )
+  }
+
+  if (
+    videoInfo.secondaryInfo?.description?.runs
+  ) {
+    return formatDescriptionRuns(
+      videoInfo.secondaryInfo.description.runs
+    )
+  }
+
+  if (videoInfo.description)
+    return escapeHtml(videoInfo.description).replace(/\n/g,"<br>")
+
+  return ""
 }
 
 router.get("/streams/:id", async (req, res) => {
@@ -141,7 +168,7 @@ router.get("/:id", async (req, res) => {
         Info.primary_info.menu.top_level_buttons.like_count ||
         Info.basic_info.like_count ||
         "",
-      description: formatDescription(Info.secondary_info.description.text) || "",
+      description: formatDescription(Info.secondary_info.description.runs) || "",
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
