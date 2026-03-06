@@ -28,27 +28,48 @@ function escapeHtml(str) {
     .replace(/>/g,"&gt;")
 }
 
+function normalizeYoutubeUrl(url) {
+  try {
+      const u = new URL(url);
+
+      if (u.hostname === "www.youtube.com" && u.pathname === "/redirect" && u.searchParams.has("q")) {
+        return decodeURIComponent(u.searchParams.get("q"));
+      }/* else if (u.hostname === "www.youtube.com" && u.pathname !== "/redirect"){
+        const uu = "/tkt" + url.slice(23, url.length).trim();
+        if (u.pathname.includes("/c") && !u.pathname.includes("@")) {
+          const u2 = uu.slice(0, 7).trim();
+          const u3 = uu.slice(7, uu.length).trim();
+          const uuu = u2 + "@" + u3;
+          return uuu;
+        } else {
+          return uu;
+        }
+      }*/
+
+      return url;
+  } catch {
+      return url;
+  }
+}
+
 function buildEndpoint(endpoint) {
   if (!endpoint) return null
 
-  if (endpoint.watchEndpoint)
-    return `/watch/${endpoint.watchEndpoint.videoId}`
+  const payload = endpoint.payload || {}
 
-  if (endpoint.watchEndpoint?.playlistId)
-    return `/playlist?list=${endpoint.watchEndpoint.playlistId}`
-
-  if (endpoint.browseEndpoint) {
-    const id = endpoint.browseEndpoint.browseId
-
-    if (id.startsWith("UC"))
-      return `/channel/${id}`
-
-    if (id.startsWith("VL"))
-      return `/playlist?list=${id.slice(2)}`
+  if (endpoint.name === "urlEndpoint") {
+    return normalizeYoutubeUrl(payload.url)
   }
 
-  if (endpoint.commandMetadata?.webCommandMetadata?.url)
-    return endpoint.commandMetadata.webCommandMetadata.url
+  if (endpoint.name === "browseEndpoint") {
+    const id = payload.browseId
+
+    if (id?.startsWith("UC"))
+      return `/channel/${id}`
+
+    if (id?.startsWith("VL"))
+      return `/playlist?list=${id.slice(2)}`
+  }
 
   return null
 }
@@ -59,11 +80,11 @@ function formatDescription(runs) {
   for (const run of runs) {
     let text = escapeHtml(run.text)
 
-    if (run.navigationEndpoint) {
-      const url = buildEndpoint(run.navigationEndpoint)
+    if (run.endpoint) {
+      const url = buildEndpoint(run.endpoint)
 
-      if (url) {
-        html += `<a href="${url}">${text}</a>`
+      if (url && url[0]) {
+        html += `<a href="${url[0]}" target=${url[1] === 1 ? '"_blank"' : '"_self"'}>${text}</a>`
         continue
       }
     }

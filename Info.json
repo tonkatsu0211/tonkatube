@@ -1,1 +1,686 @@
-©Gibier Games All rights reserved. Licensed to and published by Active Gaming Media, Inc.<br>公式サイトおよびゲームストアリンク<br>https://playism.com/game/deeeer-simul...<br>https://store.steampowered.com/app/10...<br><br>【配信を楽しんでいただく上でのお願い】<br>・あたおかコメントはこちらで対応しますので無視でお願いします。<br>・配信の流れを優先すべく、頂いたスーパーチャットやメンバーメッセージは即時で読めない可能性もあります。スパチャは即時で読めなかったものは配信の最後に読ませていただきます！<br>・他人の動画で何屋語録をコメントしないようお願いします。<br><br>【禁止事項等】<br>・他配信者を含めた本配信と無関係なコメント<br>・過激なワードは「ﾀﾋ」「56」で伏せてください<br>・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)<br>・リスナー間の会話、スパチャへの返信<br>・スパチャやメンギフ等の合計額<br>・発声、台パン、使用キャラ等のリクエスト<br>・その他読まれるまで連投等目に余るコメント<br><br>※当チャンネルでは個人情報は誕生日以外公開しておりません。<br>身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。<br>(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)<br><br>★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★<br><br>【グッズ情報】<br>🔥何屋語録グッズ🔥<br>https://suzuri.jp/naniya_mirai<br><br>📚何屋未来初の著書「脱・理論！チカラでデジタルを破壊する POWER麻雀の極意」が発売中!!! 電子版もあります！📚<br>https://www.amazon.co.jp/gp/product/4...<br><br>🔽メンバーシップへのご加入はコチラ！🔽<br>   / @naniya_mirai  <br><br>【おすすめ動画】<br>麻雀short<br>   • 麻雀ショート  <br><br>初心者に見てはいけない麻雀入門講座<br>   • 初心者に見せてはいけない麻雀講座  <br><br>何屋の配信切り抜き<br>   • 配信切り抜き  <br><br>その他いろんな動画<br>   / @naniya_mirai  <br><br>【配信時間】<br>21:15～23:15頃<br><br>おもちゃルームス゛ (feat. Hirune) / Stardom Sound<br>(P) &amp; (C) Star Music Entertainment Inc.<br><br>#何屋未来 #配信  #deeeersimulator
+[
+  {
+    "text": "©Gibier Games All rights reserved. Licensed to and published by Active Gaming Media, Inc.\n公式サイトおよびゲームストアリンク\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://playism.com/game/deeeer-simul...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlQM25XanhzWFRsdXZ1SzZMbzV3cEtvbmRfZ3xBQ3Jtc0ttZXNPeG9WZFNZWDBaajExc2oyY0p5aGpzZ2M1YjNJZ0E4RnRFM1JoaWVNUS1yTjVzMUN4M19jX1V5aWxBTmxaZGJoNnVnWEVIZEstXzJ6dVVmaG42Ykt1U3JHOTNiYkZQNm5IWnNwVW5BdVpGR0R3Yw&q=https%3A%2F%2Fplayism.com%2Fgame%2Fdeeeer-simulator%2F&v=rMuiKjp_mCU",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlQM25XanhzWFRsdXZ1SzZMbzV3cEtvbmRfZ3xBQ3Jtc0ttZXNPeG9WZFNZWDBaajExc2oyY0p5aGpzZ2M1YjNJZ0E4RnRFM1JoaWVNUS1yTjVzMUN4M19jX1V5aWxBTmxaZGJoNnVnWEVIZEstXzJ6dVVmaG42Ykt1U3JHOTNiYkZQNm5IWnNwVW5BdVpGR0R3Yw&q=https%3A%2F%2Fplayism.com%2Fgame%2Fdeeeer-simulator%2F&v=rMuiKjp_mCU",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://store.steampowered.com/app/10...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FDZmlsQWFmaVkzNlQySEdLTGpTTXhJUDhOQXxBQ3Jtc0tuV0tHLU5NOXR2NHBvTnkxYV8xcHRSM0JMNDdGZ1dxcjN0VG5yeGtoU1lrMVYwYnBqcjdnMWF1NmVSZGdvZldGekk4MHREMHppX3kxTUdPU2dHRXZZd1hXTlhWT01QTm5sU21EYzlfc20zWTVGNm1vSQ&q=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1018800%2F_DEEEER_Simulator%2F&v=rMuiKjp_mCU",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FDZmlsQWFmaVkzNlQySEdLTGpTTXhJUDhOQXxBQ3Jtc0tuV0tHLU5NOXR2NHBvTnkxYV8xcHRSM0JMNDdGZ1dxcjN0VG5yeGtoU1lrMVYwYnBqcjdnMWF1NmVSZGdvZldGekk4MHREMHppX3kxTUdPU2dHRXZZd1hXTlhWT01QTm5sU21EYzlfc20zWTVGNm1vSQ&q=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1018800%2F_DEEEER_Simulator%2F&v=rMuiKjp_mCU",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n\n【配信を楽しんでいただく上でのお願い】\n・あたおかコメントはこちらで対応しますので無視でお願いします。\n・配信の流れを優先すべく、頂いたスーパーチャットやメンバーメッセージは即時で読めない可能性もあります。スパチャは即時で読めなかったものは配信の最後に読ませていただきます！\n・他人の動画で何屋語録をコメントしないようお願いします。\n\n【禁止事項等】\n・他配信者を含めた本配信と無関係なコメント\n・過激なワードは「ﾀﾋ」「56」で伏せてください\n・統制、自治コメント(「そのコメントはだめですよ」「初見さんいらっしゃい」 等もNG)\n・リスナー間の会話、スパチャへの返信\n・スパチャやメンギフ等の合計額\n・発声、台パン、使用キャラ等のリクエスト\n・その他読まれるまで連投等目に余るコメント\n\n※当チャンネルでは個人情報は誕生日以外公開しておりません。\n身バレや個人情報の特定につながるコメントはいかなる場合もプライバシー侵害とし、開示請求をはじめ賠償請求や刑事告訴の対象とします。\n(地震や悪天候発生時の発生元情報の発信や住まいが限定、特定出来る情報の発信 等も含む)\n\n★★★基本的に何屋がルールです。常識のあるコメントでお楽しみください！★★★\n\n【グッズ情報】\n🔥何屋語録グッズ🔥\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://suzuri.jp/naniya_mirai",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhkZ3NDSHBTVEZWTXlRSlpZMkpaN0E3WTVwQXxBQ3Jtc0trWktSLThkZlpSZ2RqUExCUXI1VlM0cDZtTkdYN0Z4TGdYQWFwY1FYclNvTElLNTd6dExtYkNQQXlZRTBzdnhKT3lGVXNYTmlPLWRvZ2gxRXhHVVdKdFliRXM2LW15YjZZMnZhS081N1lLVm9iMERzTQ&q=https%3A%2F%2Fsuzuri.jp%2Fnaniya_mirai&v=rMuiKjp_mCU",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhkZ3NDSHBTVEZWTXlRSlpZMkpaN0E3WTVwQXxBQ3Jtc0trWktSLThkZlpSZ2RqUExCUXI1VlM0cDZtTkdYN0Z4TGdYQWFwY1FYclNvTElLNTd6dExtYkNQQXlZRTBzdnhKT3lGVXNYTmlPLWRvZ2gxRXhHVVdKdFliRXM2LW15YjZZMnZhS081N1lLVm9iMERzTQ&q=https%3A%2F%2Fsuzuri.jp%2Fnaniya_mirai&v=rMuiKjp_mCU",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n\n📚何屋未来初の著書「脱・理論！チカラでデジタルを破壊する POWER麻雀の極意」が発売中!!! 電子版もあります！📚\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://www.amazon.co.jp/gp/product/4...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTMwRWd3NUZ4R095NkxGM0tPVnpwVTlFVTBRZ3xBQ3Jtc0tsZnpmeXF1T203ZzBLS1dQbUc5a1JTTVZGbW5xNmx2d3lyVHFOUldqak9qWlAtREN4UFRBYkR6TEV5Wm52Q29jM3NGeldxQ0ZOWEkxQTlpYnVUaGg3M0ZGRFlnUERmS1NmdXpoVWtIaGY5RVdHZkZqZw&q=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2F4401656350%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D247%26creative%3D1211%26creativeASIN%3D4401656350%26linkCode%3Das2%26tag%3Dshinkomusic-22&v=rMuiKjp_mCU",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTMwRWd3NUZ4R095NkxGM0tPVnpwVTlFVTBRZ3xBQ3Jtc0tsZnpmeXF1T203ZzBLS1dQbUc5a1JTTVZGbW5xNmx2d3lyVHFOUldqak9qWlAtREN4UFRBYkR6TEV5Wm52Q29jM3NGeldxQ0ZOWEkxQTlpYnVUaGg3M0ZGRFlnUERmS1NmdXpoVWtIaGY5RVdHZkZqZw&q=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2F4401656350%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D247%26creative%3D1211%26creativeASIN%3D4401656350%26linkCode%3Das2%26tag%3Dshinkomusic-22&v=rMuiKjp_mCU",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n\n🔽メンバーシップへのご加入はコチラ！🔽\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   / @naniya_mirai  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/channel/UCjKHfzc1IWb4_M5IvR_9jhQ/join",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 896,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\n【おすすめ動画】\n麻雀short\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   • 麻雀ショート  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "VLPLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7",
+        "canonicalBaseUrl": "/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7"
+      },
+      "metadata": {
+        "url": "/playlist?list=PLmQlZa5lchCMljkwdngbbyAJjl-TVcuQ7",
+        "page_type": "WEB_PAGE_TYPE_PLAYLIST",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 935,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\n初心者に見てはいけない麻雀入門講座\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   • 初心者に見せてはいけない麻雀講座  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "VLPLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY",
+        "canonicalBaseUrl": "/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY"
+      },
+      "metadata": {
+        "url": "/playlist?list=PLmQlZa5lchCN-s8nvqA7BoltXnjilRxfY",
+        "page_type": "WEB_PAGE_TYPE_PLAYLIST",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 968,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\n何屋の配信切り抜き\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   • 配信切り抜き  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "VLPLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa",
+        "canonicalBaseUrl": "/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa"
+      },
+      "metadata": {
+        "url": "/playlist?list=PLmQlZa5lchCNTv-mk3XnGNKZ15zH-opqa",
+        "page_type": "WEB_PAGE_TYPE_PLAYLIST",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 1003,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\nその他いろんな動画\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   / @naniya_mirai  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "canonicalBaseUrl": "/channel/UCjKHfzc1IWb4_M5IvR_9jhQ"
+      },
+      "metadata": {
+        "url": "/channel/UCjKHfzc1IWb4_M5IvR_9jhQ",
+        "page_type": "WEB_PAGE_TYPE_CHANNEL",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 1028,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\n【配信時間】\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "21:15",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "watchEndpoint",
+      "payload": {
+        "videoId": "rMuiKjp_mCU",
+        "continuePlayback": true,
+        "startTimeSeconds": 1275,
+        "watchEndpointSupportedOnesieConfig": {
+          "html5PlaybackOnesieConfig": {
+            "commonConfig": {
+              "url": "https://rr4---sn-ab5szn67.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=accba22a3a7f9825&ip=64.34.80.73&osts=1275&initcwndbps=1155000&mt=1772755283&oweuc=&pxtags=Cg4KAnR4Egg1MTc3MzM3Mg&rxtags=Cg4KAnR4Egg1MTc3MzM2OA%2CCg4KAnR4Egg1MTc3MzM2OQ%2CCg4KAnR4Egg1MTc3MzM3MA%2CCg4KAnR4Egg1MTc3MzM3MQ%2CCg4KAnR4Egg1MTc3MzM3Mg%2CCg4KAnR4Egg1MTc3MzM3Mw"
+            }
+          }
+        }
+      },
+      "metadata": {
+        "url": "/watch?v=rMuiKjp_mCU&t=1275s",
+        "page_type": "WEB_PAGE_TYPE_WATCH",
+        "api_url": "/player"
+      },
+      "command": {
+        "type": "WatchEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "～",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "23:15",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "watchEndpoint",
+      "payload": {
+        "videoId": "rMuiKjp_mCU",
+        "continuePlayback": true,
+        "startTimeSeconds": 1395,
+        "watchEndpointSupportedOnesieConfig": {
+          "html5PlaybackOnesieConfig": {
+            "commonConfig": {
+              "url": "https://rr4---sn-ab5szn67.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=accba22a3a7f9825&ip=64.34.80.73&osts=1395&initcwndbps=1155000&mt=1772755283&oweuc=&pxtags=Cg4KAnR4Egg1MTc3MzM3Mg&rxtags=Cg4KAnR4Egg1MTc3MzM2OA%2CCg4KAnR4Egg1MTc3MzM2OQ%2CCg4KAnR4Egg1MTc3MzM3MA%2CCg4KAnR4Egg1MTc3MzM3MQ%2CCg4KAnR4Egg1MTc3MzM3Mg%2CCg4KAnR4Egg1MTc3MzM3Mw"
+            }
+          }
+        }
+      },
+      "metadata": {
+        "url": "/watch?v=rMuiKjp_mCU&t=1395s",
+        "page_type": "WEB_PAGE_TYPE_WATCH",
+        "api_url": "/player"
+      },
+      "command": {
+        "type": "WatchEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "頃\n\nおもちゃルームス゛ (feat. Hirune) / Stardom Sound\n(P) & (C) Star Music Entertainment Inc.\n\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "#何屋未来",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "FEhashtag",
+        "params": "6gUQCgzkvZXlsYvmnKrmnaUYAQ%3D%3D"
+      },
+      "metadata": {
+        "url": "/hashtag/%E4%BD%95%E5%B1%8B%E6%9C%AA%E6%9D%A5",
+        "page_type": "WEB_PAGE_TYPE_BROWSE",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": " ",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "#配信",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "FEhashtag",
+        "params": "6gUKCgbphY3kv6EYAQ%3D%3D"
+      },
+      "metadata": {
+        "url": "/hashtag/%E9%85%8D%E4%BF%A1",
+        "page_type": "WEB_PAGE_TYPE_BROWSE",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "  ",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "#deeeersimulator",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "FEhashtag",
+        "params": "6gUTCg9kZWVlZXJzaW11bGF0b3IYAQ%3D%3D"
+      },
+      "metadata": {
+        "url": "/hashtag/deeeersimulator",
+        "page_type": "WEB_PAGE_TYPE_BROWSE",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  }
+]
