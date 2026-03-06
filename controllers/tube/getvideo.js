@@ -53,7 +53,7 @@ function buildEndpoint(endpoint) {
   return null
 }
 
-function formatDescriptionRuns(runs) {
+function formatDescription(runs) {
   let html = ""
 
   for (const run of runs) {
@@ -72,30 +72,6 @@ function formatDescriptionRuns(runs) {
   }
 
   return html.replace(/\n/g,"<br>")
-}
-
-function formatDescription(videoInfo) {
-
-  if (
-    videoInfo.primaryInfo?.description?.runs
-  ) {
-    return formatDescriptionRuns(
-      videoInfo.primaryInfo.description.runs
-    )
-  }
-
-  if (
-    videoInfo.secondaryInfo?.description?.runs
-  ) {
-    return formatDescriptionRuns(
-      videoInfo.secondaryInfo.description.runs
-    )
-  }
-
-  if (videoInfo.description)
-    return escapeHtml(videoInfo.description).replace(/\n/g,"<br>")
-
-  return ""
 }
 
 router.get("/streams/:id", async (req, res) => {
