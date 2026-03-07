@@ -190,7 +190,7 @@ router.get("/watch2/:id", async (req, res) => {
 });
 
 router.get("/s", async (req, res) => {
-  const query = req.query.q || "";
+  const query = decodeURIComponent(req.query.q) || "";
   const page = Number(req.query.p || 1);
 
   try {

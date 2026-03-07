@@ -138,8 +138,12 @@ app.get("/channel/:id/join", (req, res) => {
   res.redirect(`/tkt/c/${id}`);
 });
 app.get("/hashtag/:des", (req, res) => {
-  const des = req.params.des;
+  const des = encodeURIComponent(`#${req.params.des}`);
   res.redirect(`/tkt/s?q=${des}`);
+});
+app.get("/s", (req, res) => {
+  const q = encodeURIComponent(req.query.q);
+  res.redirect(`/tkt/s?q=${q}`);
 });
 
 app.use("/sandbox", sandboxSv);
