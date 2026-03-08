@@ -502,7 +502,7 @@
             </div>
             <% } else if (video.type.endsWith("Playlist") || video.content_type == "PLAYLIST") { %>
             <div class="result-item bg-gray-600 p-4 rounded">
-              <a href="/tkt/p/<%= video.id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
+              <a href="/tkt/p/<%= video.id || video.content_id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
                 <img
                   src="<%= video.content_image?.primary_thumbnail?.image?.[0]?.url || `/tkt/back/vi/${video?.endpoint?.payload?.videoId || video.first_videos[0]?.id}/mqdefault.jpg` || 'error' %>"
                   alt="<%= video.title || video.metadata?.title?.text || '不明なプレイリスト' %>"
@@ -823,7 +823,7 @@
               </div>
               <% } else if (video.type.endsWith("Playlist") || video.content_type == "PLAYLIST") { %>
               <div class="bg-gray-800 p-2 rounded">
-                <a href="/tkt/p/<%= video.id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || video.metadata?.metadata?.metadata_rows?.[2]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
+                <a href="/tkt/p/<%= video.id || video.content_id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || video.metadata?.metadata?.metadata_rows?.[2]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
                   <img
                     src="<%= video.content_image?.primary_thumbnail?.image?.[0]?.url || `/tkt/back/vi/${video?.endpoint?.payload?.videoId || video.first_videos[0]?.id}/mqdefault.jpg` || 'error' %>"
                     alt="<%= video.title || video.metadata?.title?.text || '不明なプレイリスト' %>"
@@ -940,7 +940,7 @@
             <% } else if (video.type.endsWith("Playlist") || video.content_type == "PLAYLIST") { %> <% hasValidVideo
             = true; %>
             <div class="bg-gray-800 p-2 rounded">
-              <a href="/tkt/p/<%= video.id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
+              <a href="/tkt/p/<%= video.id || video.content_id || video.metadata?.metadata?.metadata_rows?.[5]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || 'error' %>">
                 <img
                   src="<%= video.content_image?.primary_thumbnail?.image?.[0]?.url || `/tkt/back/vi/${video?.endpoint?.payload?.videoId || video.first_videos[0]?.id}/mqdefault.jpg` || 'error' %>"
                   alt="<%= video.title %>"
