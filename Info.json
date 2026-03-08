@@ -1,6 +1,6 @@
 [
   {
-    "text": "まったりまったり",
+    "text": "収録日：2022/4/6\n編集：みゆ\n\n前→",
     "bold": false,
     "bracket": false,
     "deemphasize": false,
@@ -8,5 +8,484 @@
     "strikethrough": false,
     "error_underline": false,
     "underline": false
+  },
+  {
+    "text": "   • 【マインクラフト】#4 億万長者クラフト【マイクラ】  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "watchEndpoint",
+      "payload": {
+        "videoId": "moiVQPO889E",
+        "startTimeSeconds": 0,
+        "watchEndpointSupportedOnesieConfig": {
+          "html5PlaybackOnesieConfig": {
+            "commonConfig": {
+              "url": "https://rr2---sn-ajab55-55.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=9a889540f3bcf3d1&ip=64.34.80.73&initcwndbps=9582500&mt=1772933584&oweuc=&pxtags=Cg4KAnR4Egg1MTc3MzMxOA&rxtags=Cg4KAnR4Egg1MTc3MzMxNw%2CCg4KAnR4Egg1MTc3MzMxOA"
+            }
+          }
+        }
+      },
+      "metadata": {
+        "url": "/watch?v=moiVQPO889E",
+        "page_type": "WEB_PAGE_TYPE_WATCH",
+        "api_url": "/player"
+      },
+      "command": {
+        "type": "WatchEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 24,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n次→8/20\n\n今回のサーバー（まんじゅうサーバー）\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://minecraft.jp/servers/dan5.red",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpTVURBNDVjR0l0YXpPRDEtNlI1Q3JNY1NhZ3xBQ3Jtc0tsZW5mdF9kSm41bk80OTJkbzlScGl2Q29CcDBNWU1jN0JNV0hFX2F0eW1ZeDlLNXk0NGRkWDBYSmJyVXJmRGdGaXFOWGpSdVVSaGZQMGY3TDlPcWVTUzY0dVp4cFR2RFRsR0RYYjBLQmRWdkIxQ0VVTQ&q=https%3A%2F%2Fminecraft.jp%2Fservers%2Fdan5.red&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpTVURBNDVjR0l0YXpPRDEtNlI1Q3JNY1NhZ3xBQ3Jtc0tsZW5mdF9kSm41bk80OTJkbzlScGl2Q29CcDBNWU1jN0JNV0hFX2F0eW1ZeDlLNXk0NGRkWDBYSmJyVXJmRGdGaXFOWGpSdVVSaGZQMGY3TDlPcWVTUzY0dVp4cFR2RFRsR0RYYjBLQmRWdkIxQ0VVTQ&q=https%3A%2F%2Fminecraft.jp%2Fservers%2Fdan5.red&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n\n公開サーバーシリーズ再生リスト\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   • ２８（ふたば）の公開サーバーシリーズ  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "browseEndpoint",
+      "payload": {
+        "browseId": "VLPL79_G-zViajbr1Ia0jvprqZJIcxBjsBJO",
+        "canonicalBaseUrl": "/playlist?list=PL79_G-zViajbr1Ia0jvprqZJIcxBjsBJO"
+      },
+      "metadata": {
+        "url": "/playlist?list=PL79_G-zViajbr1Ia0jvprqZJIcxBjsBJO",
+        "page_type": "WEB_PAGE_TYPE_PLAYLIST",
+        "api_url": "browse"
+      },
+      "command": {
+        "type": "BrowseEndpoint"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 140,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\nマルチ企画用メンバーシップ限定Discord\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "  / discord  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEVpQ19nelZYUHFOMWU1S09MbDdzUjJkbUFMQXxBQ3Jtc0tsUlZKdzRUTXhjN0h0Slh3bzFkVjJEdUFEdUNzVDh0d04zU2MweXJZU3NicGJidTlXdnNoTEFnMjdNNHJ4UzJRTDczc1dNQVk1YmExajgzR0VNbmlPWUkyUnZBenZsbXFVaXZDNDk4aDV4eG1BdTVhQQ&q=https%3A%2F%2Fdiscord.gg%2FWWa9A55&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEVpQ19nelZYUHFOMWU1S09MbDdzUjJkbUFMQXxBQ3Jtc0tsUlZKdzRUTXhjN0h0Slh3bzFkVjJEdUFEdUNzVDh0d04zU2MweXJZU3NicGJidTlXdnNoTEFnMjdNNHJ4UzJRTDczc1dNQVk1YmExajgzR0VNbmlPWUkyUnZBenZsbXFVaXZDNDk4aDV4eG1BdTVhQQ&q=https%3A%2F%2Fdiscord.gg%2FWWa9A55&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 189,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/social_media/discord_1x.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\nメンバーシップ入会はコチラ\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "   / @28ftb2525  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/channel/UC0xTE0Ofe4A65ru3aFZ1nyg/join",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/channel/UC0xTE0Ofe4A65ru3aFZ1nyg/join",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 218,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 10,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
+  },
+  {
+    "text": "\n\nふたばスタンプ\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://store.line.me/stickershop/pro...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazBSX3hKa0VEcGpvbEplZWpWU2hDeV9XUXV0Z3xBQ3Jtc0tscUFFWmd3cWtfVDd1RUlIcEt1WUQ0QTYwaHJEckVsWmdvbDEwZm5kdG9yQ0l5WXd6NWEzU2t4Q2JESDJYdVR5U3FyQnJSWmxQeEdJcmJpVW5jUHQxOTBLRE5PVVFZUzk2UXR0aHR5cEo3X3loeDg3NA&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F1207627%2Fja&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazBSX3hKa0VEcGpvbEplZWpWU2hDeV9XUXV0Z3xBQ3Jtc0tscUFFWmd3cWtfVDd1RUlIcEt1WUQ0QTYwaHJEckVsWmdvbDEwZm5kdG9yQ0l5WXd6NWEzU2t4Q2JESDJYdVR5U3FyQnJSWmxQeEdJcmJpVW5jUHQxOTBLRE5PVVFZUzk2UXR0aHR5cEo3X3loeDg3NA&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F1207627%2Fja&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\nふたばスタンプ２\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://store.line.me/stickershop/pro...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF93YlJnaTVtM010TURMR1pIdzdVVnMxZkNwQXxBQ3Jtc0tsSW4wUmdoeDNvZC1TbkRsaUxPREluSGFkZjRsRElZWGwxU25GdElCaktvMlZITGI2aldCUS1hUjhQYlpzOFZQWUVpemFJYmZlTXpWajE3bjA3eDRBQzVISG41VEdmbGFUaW1RczR0NmNwXzA0cFNGMA&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F1287420%2Fja&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF93YlJnaTVtM010TURMR1pIdzdVVnMxZkNwQXxBQ3Jtc0tsSW4wUmdoeDNvZC1TbkRsaUxPREluSGFkZjRsRElZWGwxU25GdElCaktvMlZITGI2aldCUS1hUjhQYlpzOFZQWUVpemFJYmZlTXpWajE3bjA3eDRBQzVISG41VEdmbGFUaW1RczR0NmNwXzA0cFNGMA&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F1287420%2Fja&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\nふたばスタンプ３\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "https://store.line.me/stickershop/pro...",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5pVjVxTnNjNGotaURsdWhRUmVwaTNHLWtzZ3xBQ3Jtc0tuaGhyMU44Y3BjQXZPclF5SC1INFFOc1hWWW1kU3RfR1YxV08xV0tYS1dkUDJ2dUI3WjFFamt1eklfTm9uOHRTNFdmd19rT3h1TkoxVlRwYmRDdjJsdWdFYklPa2FTR2hITTlYZzZhVEhNVURIaHNrVQ&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F7051409%2Fja&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5pVjVxTnNjNGotaURsdWhRUmVwaTNHLWtzZ3xBQ3Jtc0tuaGhyMU44Y3BjQXZPclF5SC1INFFOc1hWWW1kU3RfR1YxV08xV0tYS1dkUDJ2dUI3WjFFamt1eklfTm9uOHRTNFdmd19rT3h1TkoxVlRwYmRDdjJsdWdFYklPa2FTR2hITTlYZzZhVEhNVURIaHNrVQ&q=https%3A%2F%2Fstore.line.me%2Fstickershop%2Fproduct%2F7051409%2Fja&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "\n\n\nTwitter\n",
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false
+  },
+  {
+    "text": "  / 28ftb_sub  ",
+    "endpoint": {
+      "type": "NavigationEndpoint",
+      "name": "urlEndpoint",
+      "payload": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFlUWGlIYWNOTzRpeDVnZkFLa2h0MEZSSXBtUXxBQ3Jtc0tuNDdWVDZ1OE82OUJ5QXpaTURwa1UtNkdNQklCY3FTNVpLNnhUcldVZXhKcWRIUzZVZW51Y0trX0pQaU1zWnBmNkJfWmlUaDFzbUlyM09TNk1NeWpfZWp5di1qXy03cUdudFJWc1pKTWtKd09YTlVYOA&q=https%3A%2F%2Ftwitter.com%2F28ftb_sub&v=2CFVcCApMC4",
+        "target": "TARGET_NEW_WINDOW",
+        "nofollow": true
+      },
+      "metadata": {
+        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFlUWGlIYWNOTzRpeDVnZkFLa2h0MEZSSXBtUXxBQ3Jtc0tuNDdWVDZ1OE82OUJ5QXpaTURwa1UtNkdNQklCY3FTNVpLNnhUcldVZXhKcWRIUzZVZW51Y0trX0pQaU1zWnBmNkJfWmlUaDFzbUlyM09TNk1NeWpfZWp5di1qXy03cUdudFJWc1pKTWtKd09YTlVYOA&q=https%3A%2F%2Ftwitter.com%2F28ftb_sub&v=2CFVcCApMC4",
+        "page_type": "WEB_PAGE_TYPE_UNKNOWN"
+      }
+    },
+    "bold": false,
+    "bracket": false,
+    "deemphasize": false,
+    "italics": false,
+    "strikethrough": false,
+    "error_underline": false,
+    "underline": false,
+    "attachment": {
+      "startIndex": 395,
+      "length": 0,
+      "element": {
+        "type": {
+          "imageType": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/watch/social_media/twitter_1x_v2.png"
+                }
+              ]
+            }
+          }
+        },
+        "properties": {
+          "layoutProperties": {
+            "height": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "width": {
+              "value": 14,
+              "unit": "DIMENSION_UNIT_POINT"
+            },
+            "margin": {
+              "top": {
+                "value": 0.5,
+                "unit": "DIMENSION_UNIT_POINT"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "ALIGNMENT_VERTICAL_CENTER"
+    }
   }
 ]

@@ -172,7 +172,7 @@ router.get("/:id", async (req, res) => {
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
-    //fs.writeFileSync(JPath, videoInfo.description);
+    fs.writeFileSync(JPath, JSON.stringify(videoInfo.watch_next_feed, null, 2));
     const pl = playlistId != null ? true: false;
     console.time("render");
     res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
