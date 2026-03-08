@@ -167,7 +167,7 @@ router.get("/edu/:id", async (req, res) => {
     fs.writeFileSync(JPath, JSON.stringify(videoInfo.watch_next_feed, null, 2));
     const pl = playlistId != null ? true: false;
     console.time("render");
-    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://education.youtube.com/embed/${videoId}` });
+    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtubeeducation.com/embed/${videoId}` });
     console.timeEnd("render");
     console.timeEnd("total");
   } catch (error) {
@@ -241,7 +241,7 @@ router.get("/nocookie/:id", async (req, res) => {
     fs.writeFileSync(JPath, JSON.stringify(videoInfo.watch_next_feed, null, 2));
     const pl = playlistId != null ? true: false;
     console.time("render");
-    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://nocookie.youtube.com/embed/${videoId}` });
+    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtube-nocookie.com/embed/${videoId}` });
     console.timeEnd("render");
     console.timeEnd("total");
   } catch (error) {
