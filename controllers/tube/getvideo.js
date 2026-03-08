@@ -109,6 +109,154 @@ router.get("/streams/:id", async (req, res) => {
   }
 });
 
+router.get("/edu/:id", async (req, res) => {
+  console.time("total");
+  const videoId = req.params.id;
+  let baseUrl = "direct";
+  if (!/^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
+    return res.status(400).send("videoIDが正しくありません");
+  }
+  try {
+    //const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
+    console.time("getYoutube");
+    const videoData = await getYouTube(videoId);
+    console.timeEnd("getYoutube");
+    console.time("infoGet");
+    const Info = await infoGet(videoId);
+    console.timeEnd("infoGet");
+    //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
+    const playlistId = req.query.playlist || null;
+
+    let watchNext = [...(Info.watch_next_feed || [])];
+
+    if (playlistId) {
+      const nextVideo = await getPlayNext(playlistId, videoId);
+      if (nextVideo) {
+        nextVideo._source = "playlist";
+        nextVideo.playlistId = playlistId;
+        watchNext = watchNext.filter(v => v.id !== nextVideo.id && v.content_id !== nextVideo.id);
+        watchNext.unshift(nextVideo);
+      }
+    }
+
+    const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
+    console.time("getChannel");
+    const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
+    console.timeEnd("getChannel");
+    fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info.description.runs, null, 2));
+    const videoInfo = {
+      title: Info.primary_info.title.text || "",
+      channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "error",
+      channelIcon: (isCollaborating ? Info.secondary_info.owner.author.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.leadingAccessory?.avatarViewModel?.image?.sources?.[0]?.url || channelData?.channel?.header?.content?.image?.avatar?.image?.[0]?.url || "" : Info.secondary_info.owner.author.thumbnails?.[0]?.url) || "",
+      channelName: (isCollaborating ? Info.basic_info.channel?.name : Info.secondary_info.owner?.author?.name) || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.content || "N/A",
+      channelSubsc: (isCollaborating ? channelData.channel.header?.content?.metadata?.metadata_rows?.[1]?.metadata_parts?.[0]?.text || "" : Info.secondary_info?.owner?.subscriber_count?.text || "") || "",
+      published: Info.primary_info.published,
+      viewCount:
+        Info.primary_info.view_count.short_view_count?.text ||
+        Info.primary_info.view_count.view_count?.text ||
+        "",
+      likeCount:
+        Info.primary_info.menu.top_level_buttons.short_like_count ||
+        Info.primary_info.menu.top_level_buttons.like_count ||
+        Info.basic_info.like_count ||
+        "",
+      description: /*formatDescription(*/Info.secondary_info.description.runs/*)videoData.videoDes*/ || "",
+      watch_next_feed: watchNext || "",
+    };
+    //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
+    fs.writeFileSync(JPath, JSON.stringify(videoInfo.watch_next_feed, null, 2));
+    const pl = playlistId != null ? true: false;
+    console.time("render");
+    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://education.youtube.com/embed/${videoId}` });
+    console.timeEnd("render");
+    console.timeEnd("total");
+  } catch (error) {
+    console.log(error);
+    const shufServerUrls = shuffleArray([...serverUrls]);
+    res.status(500).render("tube/mattev.ejs", {
+      videoId,
+      baseUrl,
+      serverUrls: shufServerUrls,
+      error: "動画を取得できません",
+      details: error.message,
+    });
+  }
+});
+
+router.get("/nocookie/:id", async (req, res) => {
+  console.time("total");
+  const videoId = req.params.id;
+  let baseUrl = "direct";
+  if (!/^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
+    return res.status(400).send("videoIDが正しくありません");
+  }
+  try {
+    //const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
+    console.time("getYoutube");
+    const videoData = await getYouTube(videoId);
+    console.timeEnd("getYoutube");
+    console.time("infoGet");
+    const Info = await infoGet(videoId);
+    console.timeEnd("infoGet");
+    //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info, null, 2));
+    const playlistId = req.query.playlist || null;
+
+    let watchNext = [...(Info.watch_next_feed || [])];
+
+    if (playlistId) {
+      const nextVideo = await getPlayNext(playlistId, videoId);
+      if (nextVideo) {
+        nextVideo._source = "playlist";
+        nextVideo.playlistId = playlistId;
+        watchNext = watchNext.filter(v => v.id !== nextVideo.id && v.content_id !== nextVideo.id);
+        watchNext.unshift(nextVideo);
+      }
+    }
+
+    const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
+    console.time("getChannel");
+    const channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
+    console.timeEnd("getChannel");
+    fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info.description.runs, null, 2));
+    const videoInfo = {
+      title: Info.primary_info.title.text || "",
+      channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "error",
+      channelIcon: (isCollaborating ? Info.secondary_info.owner.author.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.leadingAccessory?.avatarViewModel?.image?.sources?.[0]?.url || channelData?.channel?.header?.content?.image?.avatar?.image?.[0]?.url || "" : Info.secondary_info.owner.author.thumbnails?.[0]?.url) || "",
+      channelName: (isCollaborating ? Info.basic_info.channel?.name : Info.secondary_info.owner?.author?.name) || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.content || "N/A",
+      channelSubsc: (isCollaborating ? channelData.channel.header?.content?.metadata?.metadata_rows?.[1]?.metadata_parts?.[0]?.text || "" : Info.secondary_info?.owner?.subscriber_count?.text || "") || "",
+      published: Info.primary_info.published,
+      viewCount:
+        Info.primary_info.view_count.short_view_count?.text ||
+        Info.primary_info.view_count.view_count?.text ||
+        "",
+      likeCount:
+        Info.primary_info.menu.top_level_buttons.short_like_count ||
+        Info.primary_info.menu.top_level_buttons.like_count ||
+        Info.basic_info.like_count ||
+        "",
+      description: /*formatDescription(*/Info.secondary_info.description.runs/*)videoData.videoDes*/ || "",
+      watch_next_feed: watchNext || "",
+    };
+    //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
+    fs.writeFileSync(JPath, JSON.stringify(videoInfo.watch_next_feed, null, 2));
+    const pl = playlistId != null ? true: false;
+    console.time("render");
+    res.render("tube/umekomi.ejs", { videoData, videoInfo, videoId, baseUrl, pl, videosrc: `https://nocookie.youtube.com/embed/${videoId}` });
+    console.timeEnd("render");
+    console.timeEnd("total");
+  } catch (error) {
+    console.log(error);
+    const shufServerUrls = shuffleArray([...serverUrls]);
+    res.status(500).render("tube/mattev.ejs", {
+      videoId,
+      baseUrl,
+      serverUrls: shufServerUrls,
+      error: "動画を取得できません",
+      details: error.message,
+    });
+  }
+});
+
 router.get("/:id", async (req, res) => {
   console.time("total");
   const videoId = req.params.id;

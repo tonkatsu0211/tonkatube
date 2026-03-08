@@ -10,12 +10,12 @@ const JPath = path.join(process.cwd(), "Info.json");
 
 import watch from "../controllers/tube/getvideo.js";
 import live from "../controllers/tube/live.js";
-import yt from "../controllers/tube/youtube.js";
+//import yt from "../controllers/tube/youtube.js";
 
-router.use("/watch", watch);
+router.use(["/watch", "/yt"], watch);
 router.use("/w", watch);
 router.use("/live", live);
-router.use("/yt", yt);
+//router.use("/yt", yt);
 
 router.get("/", (req, res) => {
   res.render("tube/home");
