@@ -183,6 +183,10 @@ function runGit(args) {
     return new Promise((resolve, reject) => {
         const git = spawn("git", args, { cwd: "/workspace" });
 
+        git.on("error", err => {
+          console.error("git起動エラー:", err);
+        });
+
         git.stdout.on("data", d => console.log(d.toString()));
         git.stderr.on("data", d => console.error(d.toString()));
 
