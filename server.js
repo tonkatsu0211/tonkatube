@@ -181,7 +181,7 @@ import { spawn } from "child_process";
 
 function runGit(args) {
     return new Promise((resolve, reject) => {
-        const git = spawn("git", args, { cwd: "/workspace" });
+        const git = spawn("/opt/git/bin/git", args, { cwd: "/workspace" });
 
         git.on("error", err => {
           console.error("git起動エラー:", err);
