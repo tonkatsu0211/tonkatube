@@ -175,3 +175,33 @@ async function initInnerTube() {
 
 process.on("unhandledRejection", console.error);
 await initInnerTube();
+
+
+const { spawn } = require("child_process");
+
+function runGit(args) {
+    return new Promise((resolve, reject) => {
+        const git = spawn("git", args, { cwd: "/workspace" });
+
+        git.stdout.on("data", d => console.log(d.toString()));
+        git.stderr.on("data", d => console.error(d.toString()));
+
+        git.on("close", code => {
+            if (code === 0) resolve();
+            else reject(new Error("git " + args.join(" ") + " failed"));
+        });
+    });
+}
+
+async function autoPush() {
+    try {
+        await runGit(["add", "."]);
+        await runGit(["commit", "-m", "auto backup"]);
+        await runGit(["push", "origin", "main"]);
+        console.log("backup complete");
+    } catch (e) {
+        console.error(e.message);
+    }
+}
+
+setInterval(autoPush, 900000);
