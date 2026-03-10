@@ -178,7 +178,7 @@ async function getRecentVideos(channelId, max) {
         maxResults: 50,
         pageToken
       });
-      fs.writeFileSync(JPath, JSON.stringify(playlistRes.data, null, 2));
+      //fs.writeFileSync(JPath, JSON.stringify(playlistRes.data, null, 2));
       const items = playlistRes.data.items || [];
 
       for (const item of items) {
@@ -313,7 +313,7 @@ async function getPlaylist(id, p = 1) {
         videoCount: strToInt(videoCount),
         videos: res.videos || []
       };
-      fs.writeFileSync(JPath, JSON.stringify(res, null, 2));
+      //fs.writeFileSync(JPath, JSON.stringify(res, null, 2));
       return rtn;
   } catch (err) {
       console.error("プレイリスト取得失敗:", err);

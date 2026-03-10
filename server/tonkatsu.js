@@ -149,7 +149,7 @@ async function getYouTube(videoId) {
     if (videoInfo.liveNow) {
       streamUrl = fixedHlsUrl;
     }*/
-    fs.writeFileSync(JPath, JSON.stringify(videoInfo, null, 2));
+    //fs.writeFileSync(JPath, JSON.stringify(videoInfo, null, 2));
     const templateData = {
       stream_url: streamUrl,
       highstreamUrl: highstreamUrl,
