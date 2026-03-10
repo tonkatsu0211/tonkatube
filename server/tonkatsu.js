@@ -52,7 +52,7 @@ async function ggvideo(videoId, num) {
   }
   for (const instance of apis) {*/
   if (!inv[num] || (num < 0 || num > 1)) throw new Error("numが不正です");
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 3; i++) {
     try {/*
       const response = await axios.get(`${instance}/api/v1/videos/${videoId}`, {
         timeout: MAX_API_WAIT_TIME,
@@ -66,14 +66,20 @@ async function ggvideo(videoId, num) {
         console.error(`formatStreamsとadaptiveFormatsが存在しない: ${instance}`);
       }*/
       console.log(i);
-      const response = await axios.get(`${inv[num]}/api/v1/videos/${videoId}`, {
-        timeout: MAX_API_WAIT_TIME,
-        user_agent
-      });
-      console.log(`使ってみたURL: ${inv[num]}/api/v1/videos/${videoId}`);
-      if (response.data && (response.data.formatStreams || response.data.adaptiveFormats)) {
-        return response.data;
+      let response = [null, null];
+      for (let i2 = 0; i2 < 2; i2++){
+        const res = await axios.get(`${inv[num]}/api/v1/videos/${videoId}`, {
+          timeout: MAX_API_WAIT_TIME,
+          user_agent
+        });
+        if (res.data && (res.data.formatStreams || res.data.adaptiveFormats)) {
+          response[i2] = res.data;
+        } else {
+          throw new Error("返答データが不正です");
+        }
       }
+      console.log(`使ってみたURL: ${inv[num]}/api/v1/videos/${videoId}`);
+      return response;
     } catch (error) {/*
       console.error(`エラーだよ: ${instance} - ${error.message}`);*/
       console.error(`エラーだよ: ${inv[num]} - ${error.message}`)
@@ -93,8 +99,8 @@ async function ggvideo(videoId, num) {
 async function getYouTube(videoId) {
   try {
     const videoInfo = await ggvideo(videoId, 0);
-    const formatStreams = videoInfo.formatStreams || videoInfo.adaptiveFormats || [];
-    const isFormatStreams = formatStreams == videoInfo.formatStreams;
+    const streamUrl = [videoInfo[0].formatStreams?.url, videoInfo[1].formatStreams?.url] || [];
+    /*const isFormatStreams = formatStreams == videoInfo.formatStreams;
     let streamUrl = formatStreams.find(stream => stream.itag === 18)?.url;
     if (!streamUrl) {
       streamUrl = formatStreams.map(stream => stream.url)[0];
@@ -112,8 +118,8 @@ async function getYouTube(videoId) {
       } else {
         fixedHlsUrl = `${inv}${videoInfo.hlsUrl}`;
       }
-    }
-    const audioStreams = videoInfo.adaptiveFormats || [];
+    }*/
+    const audioStreams = (videoInfo[0].adaptiveFormats) || [];
     let highstreamUrl = audioStreams
       .filter(
         (stream) => stream.container === "webm" && (stream.resolution === "1080p" || stream.resolution === "1920p")
@@ -137,12 +143,12 @@ async function getYouTube(videoId) {
     if (videoInfo.hlsUrl) {
       streamUrl = `/tkt/live/s/${videoId}`;
     }
-    */
+    
 
 
     if (videoInfo.liveNow) {
       streamUrl = fixedHlsUrl;
-    }
+    }*/
     fs.writeFileSync(JPath, JSON.stringify(videoInfo, null, 2));
     const templateData = {
       stream_url: streamUrl,
