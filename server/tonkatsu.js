@@ -99,7 +99,7 @@ async function ggvideo(videoId, num) {
 async function getYouTube(videoId) {
   try {
     const videoInfo = await ggvideo(videoId, 0);
-    const streamUrl = [videoInfo[0].formatStreams?.url, videoInfo[1].formatStreams?.url] || [];
+    const streamUrl = [videoInfo[0].formatStreams?.[0]?.url, videoInfo[1].formatStreams?.[0]?.url] || [];
     /*const isFormatStreams = formatStreams == videoInfo.formatStreams;
     let streamUrl = formatStreams.find(stream => stream.itag === 18)?.url;
     if (!streamUrl) {
