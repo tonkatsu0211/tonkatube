@@ -203,7 +203,7 @@ router.get("/:id", async (req, res) => {
     console.time("infoGet");
     const Info = await infoGet(videoId);
     console.timeEnd("infoGet");
-    console.log(`videoData: ${videoData}`);
+    console.log(`videoData: ${JSON.stringify(videoData, null, 2)}`);
     fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const playlistId = req.query.playlist || null;
 
