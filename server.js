@@ -177,7 +177,7 @@ process.on("unhandledRejection", console.error);
 await initInnerTube();
 
 
-const { spawn } = require("child_process");
+import { spawn } from "child_process";
 
 function runGit(args) {
     return new Promise((resolve, reject) => {
