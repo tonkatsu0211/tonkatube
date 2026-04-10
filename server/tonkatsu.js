@@ -171,7 +171,7 @@ async function getYouTube(videoId) {
     return templateData;
   } catch (error) {
     console.error(`エラーだよ: ${error.message}`)
-    return error;
+    throw new Error(error.message);
   }
 }
 
