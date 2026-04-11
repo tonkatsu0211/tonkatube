@@ -1366,7 +1366,7 @@
 
           video.addEventListener("pause", () => {
             audio.pause();
-            audio.currentTime = video.currentTime;
+            audio.currentTime = video.currentTime + 0.1;
           });
 
           video.addEventListener("ended", () => {
@@ -1377,14 +1377,14 @@
           video.addEventListener("seeked", () => {
             video.pause();
             audio.pause();
-            audio.currentTime = video.currentTime;
+            audio.currentTime = video.currentTime + 0.1;
             audio.play();
             video.play();
           });
 
           video.addEventListener("timeupdate", () => {
             if (Math.abs(video.currentTime - audio.currentTime) > 0.2 && video.paused) {
-              audio.currentTime = video.currentTime;
+              audio.currentTime = video.currentTime + 0.1;
             }
           });
         });
@@ -1447,7 +1447,7 @@
 
           video.addEventListener("pause", () => {
             audio.pause();
-            audio.currentTime = video.currentTime;
+            audio.currentTime = video.currentTime + 0.1;
           });
 
           video.addEventListener("ended", () => {
@@ -1458,14 +1458,14 @@
           video.addEventListener("seeked", () => {
             video.pause();
             audio.pause();
-            audio.currentTime = video.currentTime;
+            audio.currentTime = video.currentTime + 0.1;
             video.play();
             audio.play();
           });
 
           video.addEventListener("timeupdate", () => {
             if (Math.abs(video.currentTime - audio.currentTime) > 0.4 && video.paused) {
-              audio.currentTime = video.currentTime;
+              audio.currentTime = video.currentTime + 0.1;
             }
           });
         } else {
