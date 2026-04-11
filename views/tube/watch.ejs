@@ -1383,8 +1383,8 @@
           });
 
           video.addEventListener("timeupdate", () => {
-            if (Math.abs(video.currentTime - audio.currentTime) > 0.2) {
-              audio.currentTime = video.currentTime + 0.1;
+            if (Math.abs(video.currentTime - audio.currentTime) > 0.2 && video.paused) {
+              audio.currentTime = video.currentTime;
             }
           });
         });
@@ -1464,8 +1464,8 @@
           });
 
           video.addEventListener("timeupdate", () => {
-            if (Math.abs(video.currentTime - audio.currentTime) > 0.4) {
-              audio.currentTime = video.currentTime + 0.1;
+            if (Math.abs(video.currentTime - audio.currentTime) > 0.4 && video.paused) {
+              audio.currentTime = video.currentTime;
             }
           });
         } else {
