@@ -68,7 +68,7 @@ async function ggvideo(videoId, num) {
       console.log(i);
       let response = [null, null];
       const startTime = Date.now();
-      while (Date.now() - startTime > 5 || response[1] != null){
+      while (Date.now() - startTime >= 5 && response[1] == null){
         const res = await axios.get(`${inv[num]}/api/v1/videos/${videoId}`, {
           timeout: MAX_API_WAIT_TIME,
           user_agent
