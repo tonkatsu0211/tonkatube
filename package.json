@@ -15,7 +15,7 @@
     "googleapis": "^159.0.0",
     "miniget": "^4.2.3",
     "soundcloud-scraper": "latest",
-    "undici": "latest",
+    "undici": "^7.x",
     "youtubei.js": "16.0.1"
   },
   "description": "wakame",
