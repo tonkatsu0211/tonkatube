@@ -67,13 +67,14 @@ async function ggvideo(videoId, num) {
       }*/
       console.log(i);
       let response = [null, null];
-      for (let i2 = 0; i2 < 2; i2++){
+      const startTime = Date.now();
+      while (Date.now() - startTime > 5 || response[1] != null){
         const res = await axios.get(`${inv[num]}/api/v1/videos/${videoId}`, {
           timeout: MAX_API_WAIT_TIME,
           user_agent
         });
         if (res.data && (res.data.formatStreams || res.data.adaptiveFormats)) {
-          response[i2] = res.data;
+          response[response[0] == null ? 0 : 1] = res.data;
         } else {
           throw new Error("返答データが不正です");
         }
