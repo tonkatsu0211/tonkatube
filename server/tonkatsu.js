@@ -50,8 +50,8 @@ async function ggvideo(videoId, num) {
   if (!apis) {
     await getapisgit();
   }
-  for (const instance of apis) {*/
-  if (!inv[num] || (num < 0 || num > 1)) throw new Error("numが不正です");
+  for (const instance of apis) {
+  if (!inv[num] || (num < 0 || num > 1)) throw new Error("numが不正です");*/
   for (let i = 0; i < 3; i++) {
     try {/*
       const response = await axios.get(`${instance}/api/v1/videos/${videoId}`, {
@@ -80,14 +80,14 @@ async function ggvideo(videoId, num) {
         }
       }
       console.log(`使ってみたURL: ${inv[num]}/api/v1/videos/${videoId}`);
+      if (Date.now() - startTime >= MAX_TIME) {
+        throw new Error("接続がタイムアウトしました");
+      }
       return response;
     } catch (error) {/*
       console.error(`エラーだよ: ${instance} - ${error.message}`);*/
       console.error(`エラーだよ: ${inv[num]} - ${error.message}`)
       instanceErrors.add(inv[num]);
-    }
-    if (Date.now() - startTime >= MAX_TIME) {
-      throw new Error("接続がタイムアウトしました");
     }
   }
   if (num == 0) {
