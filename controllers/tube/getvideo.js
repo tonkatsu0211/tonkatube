@@ -182,7 +182,8 @@ router.get(["/nocookie/:id", "/edu/:id"], async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   console.time("total");
-  const videoId = req.params.id;
+  const type = req.originalUrl.includes("nocookie") ? "nocookie" : req.originalUrl.includes("edu") ? "edu" : "normal";
+  const videoId = type == "normal" ? req.params.id : type == "nocookie" ? req.params.id.slice(9) : req.params.id.slice(4);
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
   if (wakames == "edu") {
@@ -197,9 +198,12 @@ router.get("/:id", async (req, res) => {
   }
   try {
     //const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
-    console.time("getYoutube");
-    const videoData = await getYouTube(videoId);
-    console.timeEnd("getYoutube");
+    let videoData;
+    if (type == "normal") {
+      console.time("getYoutube");
+      videoData = await getYouTube(videoId);
+      console.timeEnd("getYoutube");
+    }
     console.time("infoGet");
     const Info = await infoGet(videoId);
     console.timeEnd("infoGet");
@@ -243,10 +247,14 @@ router.get("/:id", async (req, res) => {
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
-    fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
+    //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const pl = playlistId != null ? true: false;
     console.time("render");
-    res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
+    if (type == "normal") {
+      res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
+    } else {
+      res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: type == "nocookie" ? `https://www.youtube-nocookie.com/embed/${videoId}` : `https://www.youtubeeducation.com/embed/${videoId}` });
+    }
     console.timeEnd("render");
     console.timeEnd("total");
   } catch (error) {
