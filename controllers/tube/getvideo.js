@@ -187,12 +187,12 @@ router.get("/:id", async (req, res) => {
   const videoId = type == "normal" ? req.params.id : type == "nocookie" ? req.params.id.slice(9) : req.params.id.slice(4);
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
-  if (wakames == "edu") {
+  /*if (wakames == "edu") {
     return res.redirect(`/tkt/yt/edu/${videoId}`);
   }
   if (wakames == "nocookie") {
     return res.redirect(`/tkt/yt/nocookie/${videoId}`);
-  }
+  }*/
   let baseUrl = "direct";
   if (!/^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
     return res.status(400).send("videoIDが正しくありません");
