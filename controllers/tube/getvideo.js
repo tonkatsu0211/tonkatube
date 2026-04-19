@@ -183,10 +183,13 @@ router.get(["/nocookie/:id", "/edu/:id"], async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   console.time("total");
-  const type = req.originalUrl.includes("nocookie") ? "nocookie" : req.originalUrl.includes("edu") ? "edu" : "normal";
-  const videoId = type == "normal" ? req.params.id : type == "nocookie" ? req.params.id.slice(9) : req.params.id.slice(4);
+  //const type = req.originalUrl.includes("nocookie") ? "nocookie" : req.originalUrl.includes("edu") ? "edu" : "normal";
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
+  const videoId = req.aprams.id;
+  const type = (wakames != "edu" && wakames != "nocookie") ? "normal" : wakames;
+  console.log(`wakames: ${wakames}`);
+  console.log(`type: ${type}`);
   /*if (wakames == "edu") {
     return res.redirect(`/tkt/yt/edu/${videoId}`);
   }
