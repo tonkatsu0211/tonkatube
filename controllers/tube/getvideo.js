@@ -186,7 +186,7 @@ router.get("/:id", async (req, res) => {
   //const type = req.originalUrl.includes("nocookie") ? "nocookie" : req.originalUrl.includes("edu") ? "edu" : "normal";
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
-  const videoId = req.aprams.id;
+  const videoId = req.params.id;
   const type = (wakames != "edu" && wakames != "nocookie") ? "normal" : wakames;
   console.log(`wakames: ${wakames}`);
   console.log(`type: ${type}`);
