@@ -1,6 +1,6 @@
 {
   "name": "tonkatube",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "server.js",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
