@@ -63,6 +63,10 @@ app.use(
   })
 );
 
+app.get((req, res) => {
+  res.redirect(`https://tonkatube.vercel.app${req.url}`);
+});
+
 app.use((req, res, next) => {
   if (
     req.cookies.loginok !== "ok" &&

@@ -186,8 +186,6 @@ router.get("/comment/:id", async (req, res) => {
   const id = req.params.id;
   try {
     const cm = await getComments(id);
-    fs.writeFileSync(JPath, JSON.stringify(cm, null, 2));
-    console.log(JSON.stringify(cm, null, 2));
     res.render("tube/back/comment", { cm });
   } catch (error) {
     console.error("comment error:", error);
