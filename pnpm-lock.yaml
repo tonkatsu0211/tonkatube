@@ -26,6 +26,9 @@ dependencies:
   express-session:
     specifier: ^1.18.2
     version: 1.18.2
+  fs:
+    specifier: ^0.0.1-security
+    version: 0.0.1-security
   googleapis:
     specifier: ^159.0.0
     version: 159.0.0
@@ -36,11 +39,11 @@ dependencies:
     specifier: latest
     version: 5.0.3
   undici:
-    specifier: latest
+    specifier: ^7.x
     version: 7.16.0
   youtubei.js:
-    specifier: latest
-    version: 16.0.0
+    specifier: ^17.0.1
+    version: 17.0.1
 
 packages:
 
@@ -552,6 +555,10 @@ packages:
   /fresh@0.5.2:
     resolution: {integrity: sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==}
     engines: {node: '>= 0.6'}
+    dev: false
+
+  /fs@0.0.1-security:
+    resolution: {integrity: sha512-3XY9e1pP0CVEUCdj5BmfIZxRBTSDycnbqhIOGec9QYtmVH2fbLpj86CFWkrNOkt/Fvty4KZG5lTglL9j/gJ87w==}
     dev: false
 
   /function-bind@1.1.2:
@@ -1163,8 +1170,8 @@ packages:
       webidl-conversions: 3.0.1
     dev: false
 
-  /youtubei.js@16.0.0:
-    resolution: {integrity: sha512-aMx+ulnrxzsgVsxTr7gbBVnIjti2NQUlMwCoo1/MzICCJS3iMLOPUFdo7bSpwskL6ljzQ/LxmmB4WQC3FtkBlA==}
+  /youtubei.js@17.0.1:
+    resolution: {integrity: sha512-1lO4b8UqMDzE0oh2qEGzbBOd4UYRdxn/4PdpRM7BGTHxM6ddsEsKZTu90jp8V9FHVgC2h1UirQyqoqLiKwl+Zg==}
     dependencies:
       '@bufbuild/protobuf': 2.9.0
       meriyah: 6.1.4
