@@ -38,6 +38,9 @@ dependencies:
   miniget:
     specifier: ^4.2.3
     version: 4.2.3
+  node-fetch:
+    specifier: ^3.3.2
+    version: 3.3.2
   soundcloud-scraper:
     specifier: latest
     version: 5.0.3
