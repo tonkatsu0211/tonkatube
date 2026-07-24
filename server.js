@@ -63,9 +63,9 @@ app.use(
   })
 );
 
-app.use((req, res) => {
+/*app.use((req, res) => {
   res.redirect(`https://tonkatube.vercel.app${req.url}`);
-});
+});*/
 
 app.use((req, res, next) => {
   if (
