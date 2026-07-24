@@ -70,6 +70,7 @@ async function getComments(videoId) {
   await setClient();
   try {
     const comments = await client.getComments(videoId);
+    console.dir(comments, { depth: 2 });
     //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
     //console.log("comments:", comments);
     //console.log("comments.contents[0].comment:", comments.contents[0].comment);
