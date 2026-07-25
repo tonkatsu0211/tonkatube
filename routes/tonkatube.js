@@ -195,7 +195,7 @@ router.get("/s", async (req, res) => {
 
   try {
       const results = await search(query, page, 50);
-      fs.writeFileSync(JPath, JSON.stringify(results, null, 2));
+      //fs.writeFileSync(JPath, JSON.stringify(results, null, 2));
       res.render("tube/search.ejs", {
           res: results,
           query,
