@@ -31,7 +31,7 @@ function escapeHtml(str) {
 function normalizeYoutubeUrl(url) {
   try {
       const u = new URL(url);
-
+      
       if (u.hostname === "www.youtube.com" && u.pathname === "/redirect" && u.searchParams.has("q")) {
         return decodeURIComponent(u.searchParams.get("q"));
       }/* else if (u.hostname === "www.youtube.com" && u.pathname !== "/redirect"){
