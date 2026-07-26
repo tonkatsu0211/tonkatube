@@ -257,7 +257,35 @@ router.get("/:id", async (req, res) => {
     if (type == "normal") {
       res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
     } else {
-      res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: type });
+      if (type == "education") {
+        const EDUCATION_KEYS = [
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json',
+          'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
+          'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
+        ];
+          
+        async function getEducationParams() {
+          for (const url of EDUCATION_KEYS) {
+            try {
+              const controller = new AbortController();
+              const timer = setTimeout(() => controller.abort(), 3000);
+              const res = await fetch(url, { signal: controller.signal });
+              clearTimeout(timer);
+              if (!res.ok) continue;
+              const data = await res.json();
+              if (data.result) return data.result.replace(/&amp;/g, '&');
+            } catch {
+              continue;
+            }
+          }
+          return null;
+        }
+
+        const params = await getEducationParams();
+        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtubeeducation.com/embed/${videoId}${params}` });
+      } else {
+        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtube-nocookie.com/${videoId}`);
+      }
     }
     console.timeEnd("render");
     console.timeEnd("total");
