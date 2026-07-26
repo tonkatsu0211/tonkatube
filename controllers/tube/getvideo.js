@@ -111,7 +111,7 @@ router.get("/streams/:id", async (req, res) => {
 
 router.get(["/nocookie/:id", "/edu/:id"], async (req, res) => {
   return res.redirect(`/tkt/watch/${req.params.id}`);
-  console.time("total");
+  /*console.time("total");
   const type = req.originalUrl.includes("nocookie") ? "nocookie" : "edu";
   const videoId = req.params.id;
   let baseUrl = "direct";
@@ -178,7 +178,7 @@ router.get(["/nocookie/:id", "/edu/:id"], async (req, res) => {
       error: "動画を取得できません",
       details: error.message,
     });
-  }
+  }*/
 });
 
 router.get("/:id", async (req, res) => {
@@ -257,7 +257,7 @@ router.get("/:id", async (req, res) => {
     if (type == "normal") {
       res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
     } else {
-      res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: type == "nocookie" ? `https://www.youtube-nocookie.com/embed/${videoId}` : `https://www.youtubeeducation.com/embed/${videoId}` });
+      res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: type == "nocookie" ? `https://www.youtube-nocookie.com/embed/${videoId}` : `https://www.youtubeeducation.com/embed/${videoId}?autoplay=1&mute=0&controls=1&start=0&origin=https%3A%2F%2Fcreate.kahoot.it&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&fs=1&cc_load_policy=0&embed_config=%7B%22enc%22%3A%22AXH1ezleFnq-JzgZdwg5EmYEWRTCcKmr1tjxQIwig7McvppZOiu2WP-k1cjx95LWZ390OY_67OwAUP1sFarWl0DuPCbTzsPF5V-p1wE_rKDiadyAqmbBLqbZoet-FpUyFJZvcOT68n4NqTsvP5ei2bpR1eSv7ZT-Mg%3D%3D%22%2C%22hideTitle%22%3Atrue%7D&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcreate.kahoot.it%2Flearner%2Fcb8cb5ae-d835-4c4a-bc2d-9cc78519d646%2Fcourse%2F6fba06e3-1f76-47a8-9a4a-53c53eb86286%2F0&aoriginsup=1&vf=6` });
     }
     console.timeEnd("render");
     console.timeEnd("total");
