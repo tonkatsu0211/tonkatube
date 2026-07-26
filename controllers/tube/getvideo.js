@@ -282,9 +282,9 @@ router.get("/:id", async (req, res) => {
         }
 
         const params = await getEducationParams();
-        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtubeeducation.com/embed/${videoId}${params}` });
+        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, type, videosrc: `https://www.youtubeeducation.com/embed/${videoId}${params}` });
       } else {
-        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, videosrc: `https://www.youtube-nocookie.com/${videoId}` });
+        res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, type, videosrc: `https://www.youtube-nocookie.com/${videoId}` });
       }
     }
     console.timeEnd("render");
