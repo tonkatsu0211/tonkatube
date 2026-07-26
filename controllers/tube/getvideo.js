@@ -274,8 +274,8 @@ router.get("/:id", async (req, res) => {
               if (!res.ok) continue;
               const data = await res.json();
               if (data.result) return data.result.replace(/&amp;/g, '&');
-            } catch {
-              continue;
+            } catch(e) {
+              console.log(`${url}: ${e}`) continue;
             }
           }
           return null;
