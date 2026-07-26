@@ -213,7 +213,35 @@
       <div class="video-container" id="videoContainer">
         <div class="relative">
           <div class="iframe-container">
-            <iframe src="<%= videosrc %>" class="w-full max-h-screen" style="aspect-ratio: 16/9;" frameborder="0" allowfullscreen></iframe>
+            <% if (videosrc == "education") { %>
+              <% const EDUCATION_KEYS = [
+                   'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json',
+                   'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
+                   'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
+                 ];
+                  
+                 async function getEducationParams() {
+                   for (const url of EDUCATION_KEYS) {
+                     try {
+                       const controller = new AbortController();
+                       const timer = setTimeout(() => controller.abort(), 3000);
+                       const res = await fetch(url, { signal: controller.signal });
+                       clearTimeout(timer);
+                       if (!res.ok) continue;
+                       const data = await res.json();
+                       if (data.result) return data.result.replace(/&amp;/g, '&');
+                     } catch {
+                       continue;
+                     }
+                   }
+                   return null;
+
+                  const params = await(() => getEducationParams());
+                 } %>
+               <iframe src="https://www.youtubeeducation.com/embed/<%= videoId %><%= params %>" class="w-full max-h-screen" style="aspect-ratio: 16/9;" frameborder="0" allowfullscreen></iframe>
+            <% } else { %>
+              <iframe src="https://www.youtube-nocookie.com/embed/<%= videoId %>" class="w-full max-h-screen" style="aspect-ratio: 16/9;" frameborder="0" allowfullscreen></iframe>
+            <% } %>
           </div>
         </div>
         <div class="flex items-center mt-4 p-4 bg-gray-800 rounded">
