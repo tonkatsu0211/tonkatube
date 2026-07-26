@@ -64,8 +64,7 @@ app.use(
 );
 
 app.use((req, res) => {
-  console.log(`host: ${req.get("host")}`);
-  if (req.get("host") !== "tonkatube.vercel.app") return res.redirect(`https://tonkatube.vercel.app${req.url}`);
+  if (req.get("host").include("vercel")) return res.redirect(`https://tonkatube.vercel.app${req.url}`);
 });
 
 app.use((req, res, next) => {
