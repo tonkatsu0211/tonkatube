@@ -257,7 +257,7 @@ router.get("/:id", async (req, res) => {
     if (type == "normal") {
       res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl });
     } else {
-      if (type == "education") {
+      if (type == "edu") {
         const EDUCATION_KEYS = [
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json',
           'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
