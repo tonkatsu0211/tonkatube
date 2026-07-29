@@ -2,7 +2,7 @@ import axios from "axios";
 import bodyParser from "body-parser";
 import fs from "fs";
 import path from "path";
-const inv = ["https://qssx73-3000.csb.app", "https://invidious.f5.si"]
+const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app"]
 const JPath = path.join(process.cwd(), "Info.json");
 
 const user_agent =
