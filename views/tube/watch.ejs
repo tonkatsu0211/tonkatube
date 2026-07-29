@@ -1982,6 +1982,12 @@
 
       //情報更新
       function slideText(element, newText) {
+        const inners = element.querySelectorAll(".slide-inner");
+        if (inners.length > 1) {
+          inners.forEach((e, i) => {
+            if (i !== inners.length - 1) e.remove();
+          });
+        }
         const old = element.querySelector(".slide-inner");
       
         // 初回
@@ -1994,6 +2000,11 @@
         }
       
         if (old.textContent === newText) return;
+      
+        if (document.hidden) {
+          old.textContent = newText;
+          return;
+        }
       
         const next = document.createElement("span");
         next.className = "slide-inner";
@@ -2013,17 +2024,23 @@
           next.style.transform = "translateY(-100%)";
         });
       
-        next.addEventListener("transitionend", () => {
-          old.remove();
-      
+        let finished = false;
+        
+        const finish = () => {
+          if (finished) return;
+          finished = true;
+        
+          if (old.isConnected) old.remove();
+        
           next.style.position = "";
           next.style.top = "";
           next.style.left = "";
           next.style.transform = "";
           next.style.transition = "";
-      
-          next.className = "slide-inner";
-        }, { once: true });
+        };
+        
+        next.addEventListener("transitionend", finish, { once: true });
+        setTimeout(finish, 250);
       }
       
       setInterval(async () => {
