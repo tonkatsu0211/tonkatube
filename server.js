@@ -81,9 +81,9 @@ app.use((req, res, next) => {
 });
 
 app.use((req, res, next) => {
-  if (!req.query.type && !req.query.setType) next();
+  if (!req.query.type && !req.query.setType) return next();
   const type = req.query.setType;
-  if (type != "normal" && type != "edu" && type != "nocookie") next();
+  if (type != "normal" && type != "edu" && type != "nocookie") return next();
   res.cookie("playbackMode", type, { path : "/",  maxAge : 31536000 });
   next();
 });
