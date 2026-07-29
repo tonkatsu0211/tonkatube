@@ -106,14 +106,14 @@
             <span class="video-duration"><%= video.duration?.text || "" %></span>
           </a>
           <div class="mt-2 flex items-center">
-            <a href="/tkt/c/<%= video.author.id %>" class="flex items-center">
-              <% const uurl = video.author?.thumbnails?.[0]?.url ? `/tkt/back/yt3${(new URL(video.author.thumbnails[0].url)).pathname}` : `/tkt/back/c/${video.author.id}` %>
+            <a href="/tkt/c/<%= video.author?.id || '' %>" class="flex items-center">
+              <% const uurl = video.author?.thumbnails?.[0]?.url ? `/tkt/back/yt3${(new URL(video.author.thumbnails[0].url)).pathname}` : `/tkt/back/c/${video.author?.id || ""}` %>
               <img
                 src="<%= uurl %>"
                 alt="<%= video.author.name || 'チャンネル' %>"
                 class="w-8 h-8 rounded-full mr-2"
               />
-              <p class="text-sm text-gray-400"><%= video.author.name %></p>
+              <p class="text-sm text-gray-400"><%= video.author?.name || "" %></p>
             </a>
           </div>
           <p class="text-lg font-bold"><%= video.title %></p>
