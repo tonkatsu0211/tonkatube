@@ -1210,7 +1210,7 @@ setInterval(async () => {
     const r = await res.json();
     const view = r.viewCount;
     const like = `${r.likeCount}高評価`;
-    const pub = r.published;
+    const pub = r.published.text;
     console.log(r);
     console.log(typeof r.published, r.published);
     console.log(`view:${view}, like:${like}, pub:${pub}`)
