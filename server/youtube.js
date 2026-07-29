@@ -80,7 +80,7 @@ async function getComments(videoId) {
       lastError = err;
     }
     if (i < 4) {
-      await new Promise(resolve => setTimeout(resolve, 500));
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
   console.error("コメント取得失敗:", lastError);
