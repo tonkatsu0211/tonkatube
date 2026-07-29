@@ -243,7 +243,7 @@
             <p class="text-sm text-gray-400"><%= videoInfo.channelSubsc %></p>
           </div>
           <button id="favoriteBtn" class="ml-auto p-2 rounded-full bg-gray-500">
-            <imgmm
+            <img
               id="favoriteIcon"
               src="/assets/favorite.png"
               alt="お気に入り"
@@ -1211,6 +1211,8 @@ setInterval(async () => {
     const view = r.viewCount;
     const like = `${r.likeCount}高評価`;
     const pub = r.published;
+    console.log(r);
+    console.log(typeof r.published, r.published);
     console.log(`view:${view}, like:${like}, pub:${pub}`)
     const viewEl = document.getElementById("viewCount");
     const likeEl = document.getElementById("likeCount");
