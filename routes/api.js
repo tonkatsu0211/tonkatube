@@ -27,6 +27,7 @@ router.get("/updatevideoinfo/:id", async (req, res) => {
         "",
       videoId
     };
+    console.log(`published: ${videoInfo.published}`);
     console.time("send");
     res.json(videoInfo)
     console.timeEnd("send");
