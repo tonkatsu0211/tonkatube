@@ -187,7 +187,10 @@ router.get("/:id", async (req, res) => {
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
   const videoId = req.params.id;
-  const type = (wakames != "edu" && wakames != "nocookie") ? "normal" : wakames;
+  const qType = req.query.setType || req.query.type || false;
+  const set = req.query.setType ? true : false;
+  const type = qType && (qType == "normal" || qType == "edu" || qType == "nocookie") ? qType : ((wakames != "edu" && wakames != "nocookie") ? "normal" : wakames);
+  if (set) res.cookie("playbackMode", qType, { path : "/",  maxAge : 31536000 });
   console.log(`wakames: ${wakames}`);
   console.log(`type: ${type}`);
   /*if (wakames == "edu") {
