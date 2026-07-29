@@ -103,7 +103,7 @@
               alt="<%= video.title %>"
               class="w-full h-auto rounded"
             />
-            <span class="video-duration"><%= video.duration.text %></span>
+            <span class="video-duration"><%= video.duration.text || "" %></span>
           </a>
           <div class="mt-2 flex items-center">
             <a href="/tkt/c/<%= video.author.id %>" class="flex items-center">
