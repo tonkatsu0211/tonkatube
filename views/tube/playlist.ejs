@@ -110,7 +110,7 @@
               <% const uurl = video.author?.thumbnails?.[0]?.url ? `/tkt/back/yt3${(new URL(video.author.thumbnails[0].url)).pathname}` : `/tkt/back/c/${video.author?.id || ""}` %>
               <img
                 src="<%= uurl %>"
-                alt="<%= video.author.name || 'チャンネル' %>"
+                alt="<%= video.author?.name || 'チャンネル' %>"
                 class="w-8 h-8 rounded-full mr-2"
               />
               <p class="text-sm text-gray-400"><%= video.author?.name || "" %></p>
