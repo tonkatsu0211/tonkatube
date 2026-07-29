@@ -81,7 +81,7 @@ async function getComments(videoId) {
     }
   }
   console.error("コメント取得失敗:", lastError);
-  return { contents: [] };
+  throw new Error(`コメント取得失敗: ${lastError}`);
 }
 
 /*async function getRecentVideos(channelId, max) {
