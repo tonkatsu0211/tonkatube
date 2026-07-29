@@ -79,6 +79,9 @@ async function getComments(videoId) {
       console.error(`エラー(${i + 1}/5):`, err);
       lastError = err;
     }
+    if (i < 4) {
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
   }
   console.error("コメント取得失敗:", lastError);
   throw new Error(`コメント取得失敗: ${lastError}`);
