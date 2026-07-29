@@ -128,6 +128,16 @@
         width: 75px;
         height: 75px;
       }
+      .slide-text {
+        position: relative;
+        display: inline-flex;
+        overflow: hidden;
+        vertical-align: bottom;
+      }
+      .slide-inner {
+        display: inline-block;
+        white-space: nowrap;
+      }
     </style>
   </head>
   <body class="bg-gray-900 text-white">
@@ -336,11 +346,10 @@
         </div>
 
         <div class="mt-4 p-4 bg-gray-800 rounded">
-          <div class="mt-2 text-gray-400 text-sm">
-            <p>
-              <%= videoInfo.viewCount %> ・ <%= videoInfo.likeCount %>いいね ・
-              <%= videoInfo.published %>
-            </p>
+          <div class="mt-2 text-gray-400 text-sm video-info">
+            <span id="viewCount" class="slide-text"><span class="slide-inner"><%= videoInfo.viewCount %></span></span> ・ 
+            <span id="likeCount" class="slide-text"><span class="slide-inner"><%= videoInfo.likeCount %>いいね</span></span> ・
+            <span id="published" class="slide-text"><span class="slide-inner"><%= videoInfo.published %></span></span>
           </div>
           <div class="flex items-center justify-between">
             <h3 class="text-2xl font-bold">
@@ -1007,6 +1016,7 @@
       ◀ サイドバーを開く
     </button>
 
+    <script src="/js/eruda.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <script>
       const video = document.getElementById("video");
@@ -1969,6 +1979,93 @@
           moved = false;
         });
       }
+
+      //情報更新
+      function slideText(element, newText) {
+        const old = element.querySelector(".slide-inner");
+      
+        // 初回
+        if (!old) {
+          const span = document.createElement("span");
+          span.className = "slide-inner";
+          span.textContent = newText;
+          element.appendChild(span);
+          return;
+        }
+      
+        if (old.textContent === newText) return;
+      
+        const next = document.createElement("span");
+        next.className = "slide-inner";
+        next.textContent = newText;
+      
+        next.style.position = "absolute";
+        next.style.left = "0";
+        next.style.top = "100%";
+      
+        element.appendChild(next);
+      
+        requestAnimationFrame(() => {
+          old.style.transition = "transform .2s cubic-bezier(.4,0,.2,1)";
+          next.style.transition = "transform .2s cubic-bezier(.4,0,.2,1)";
+      
+          old.style.transform = "translateY(-100%)";
+          next.style.transform = "translateY(-100%)";
+        });
+      
+        next.addEventListener("transitionend", () => {
+          old.remove();
+      
+          next.style.position = "";
+          next.style.top = "";
+          next.style.left = "";
+          next.style.transform = "";
+          next.style.transition = "";
+      
+          next.className = "slide-inner";
+        }, { once: true });
+      }
+      
+      setInterval(async () => {
+        try{
+          const res = await fetch("/api/updatevideoinfo/<%= videoId %>");
+          const r = await res.json();
+          const view = r.viewCount;
+          const like = `${r.likeCount}高評価`;
+          const pub = r.published.text;
+          console.log(r);
+          console.log(typeof r.published, r.published);
+          console.log(`view:${view}, like:${like}, pub:${pub}`)
+          const viewEl = document.getElementById("viewCount");
+          const likeEl = document.getElementById("likeCount");
+          const pubEl = document.getElementById("published");
+          if (viewEl.textContent != view) slideText(viewEl, view);
+          if (likeEl.textContent != like) slideText(likeEl, like);
+          if (pubEl.textContent != pub) slideText(pubEl, pub);
+        } catch (e) {
+          console.log(e.message);
+        }
+      }, 30000);
+
+      //eruda
+      let useEruda = localStorage.getItem("eruda") || false;
+      if (useEruda == "true") eruda.init();
+      const isMac = /Mac|iPhone|iPad/.test(navigator.userAgent);
+      document.addEventListener("keydown", (e) => {
+        const mod = isMac ? e.metaKey : e.ctrlKey;
+        if (mod && e.shiftKey && e.key == "i") {
+          if (useEruda == "true") {
+            localStorage.setItem("eruda", false);
+            useEruda = "false";
+            alert("eruda disabled");
+          } else {
+            localStorage.setItem("eruda", true);
+            useEruda = "true";
+            alert("eruda enabled");
+            eruda.init();
+          }
+        }
+      });
     </script>
   </body>
 </html>
