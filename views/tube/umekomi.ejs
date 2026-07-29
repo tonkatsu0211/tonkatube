@@ -133,10 +133,15 @@
         display: inline-block;
         overflow: hidden;
         height: 1.2em;
-        vertical-align: bottom;
+        line-height: 1.2em;
+        vertical-align: middle;
       }
       .slide-inner {
-        display: block;
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
       }
     </style>
   </head>
