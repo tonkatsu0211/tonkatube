@@ -86,7 +86,7 @@ app.use((req, res, next) => {
   if (type != "normal" && type != "edu" && type != "nocookie") next();
   res.cookie("playbackMode", type, { path : "/",  maxAge : 31536000 });
   next();
-}
+});
 
 app.get("*", (req, res, next) => {
   if (!req.originalUrl.startsWith("/tkt/back/")) console.log("access:", decodeURIComponent(req.originalUrl));
