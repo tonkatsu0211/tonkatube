@@ -1226,7 +1226,24 @@ setInterval(async () => {
 }, 30000);
 
 //eruda
-eruda.init();
+let useEruda = localStorage.getItem("eruda") || false;
+if (useEruda == "true") eruda.init();
+const isMac = /Mac|iPhone|iPad/.test(navigator.userAgent);
+document.addEventListener("keydown", (e) => {
+  const mod = isMac ? e.metaKey : e.ctrlKey;
+  if (mod && e.shiftKey && e.key == "i") {
+    if (useEruda == "true") {
+      localStorage.setItem("eruda", false);
+      useEruda = "false";
+      alert("eruda disabled");
+    } else {
+      localStorage.setItem("eruda", true);
+      useEruda = "true";
+      alert("eruda enabled");
+      eruda.init();
+    }
+  }
+});
 </script>
 </body>
 </html>
