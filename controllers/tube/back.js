@@ -194,7 +194,7 @@ router.get("/comment/:id", async (req, res) => {
       content: "",
       id,
       error: "コメントを取得できません",
-      details: lastError.message,
+      details: error.message,
     });
   }
 });
