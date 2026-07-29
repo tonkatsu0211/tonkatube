@@ -68,17 +68,20 @@ async function search(q, p = 1, limit = 50) {
 async function getComments(videoId) {
   if (!videoId) return { contents: [] };
   await setClient();
-  try {
-    const comments = await client.getComments(videoId);
-    //console.dir(comments, { depth: 2 });
-    //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
-    console.log("comments:", comments);
-    //console.log("comments.contents[0].comment:", comments.contents[0].comment);
-    return { contents: comments };
-  } catch (err) {
-    console.error("コメント取得失敗:", err);
-    return { contents: [] };
+  let lastError;
+  for (let i = 0; i < 5; i++) {
+    try {
+      const comments = await client.getComments(videoId);
+      //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
+      //console.log("comments.contents[0].comment:", comments.contents[0].comment);
+      return { contents: comments };
+    } catch (err) {
+      console.error(`エラー(${i + 1}/5):`, err);
+      lastError = err;
+    }
   }
+  console.error("コメント取得失敗:", lastError);
+  return { contents: [] };
 }
 
 /*async function getRecentVideos(channelId, max) {
