@@ -184,23 +184,19 @@ router.get(["/yt3/*", "/ytc/*"], async (req, res) => {
 
 router.get("/comment/:id", async (req, res) => {
   const id = req.params.id;
-  let lastError;
-  for  (let i = 0; i < 5; i++) {
-    try {
-      const cm = await getComments(id);
-      if (cm.header) return res.render("tube/back/comment", { cm });
-    } catch (error) {
-      console.error(`comment error(${i + 1}/5):`, error);
-      lastError = error;
-    }
+  try {
+    const cm = await getComments(id);
+    res.render("tube/back/comment", { cm });
+  } catch (error) {
+    console.error("comment error:", error);
+    res.status(500).render("error", {
+      title: "",
+      content: "",
+      id,
+      error: "コメントを取得できません",
+      details: lastError.message,
+    });
   }
-  res.status(500).render("error", {
-    title: "",
-    content: "",
-    id,
-    error: "コメントを取得できません",
-    details: lastError.message,
-  });
 });
 
 router.get("/next/:id", async (req, res) => {
