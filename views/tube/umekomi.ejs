@@ -1213,9 +1213,9 @@ setInterval(async () => {
     const viewEl = document.getElementById("viewCount");
     const likeEl = document.getElementById("likeCount");
     const pubEl = document.getElementById("published");
-    if (viewEl.textContent != view) slideText("viewCount", view);
-    if (likeEl.textContent != like) slideText("likeCount", like);
-    if (pubEl.textContent != pub) slideText("published", pub);
+    if (viewEl.textContent != view) slideText(viewEl, view);
+    if (likeEl.textContent != like) slideText(likeEl, like);
+    if (pubEl.textContent != pub) slideText(pubEl, pub);
   } catch (e) {
     alert(e.message);
   }
