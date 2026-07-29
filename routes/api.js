@@ -6,7 +6,7 @@ router.get("/updatevideoinfo/:id", async (req, res) => {
   console.time("total");
   const videoId = req.params.id;
   if (!/^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
-    return res.status(400).send("videoID invailed");
+    return res.status(400).send("videoID invalid");
   }
   try {
     console.time("infoGet");
