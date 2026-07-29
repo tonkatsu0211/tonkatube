@@ -266,7 +266,7 @@ router.get(["/p/:id", "/playlist/:id", "/playlists/:id"], async (req, res) => {
     if (playlistId == "error") throw new Error("Playlist error");
     const data = await getPlaylist(playlistId, page);
     if (!data) throw new Error("Playlist not found");
-    console.dir(data, {depth: null}`);
+    console.dir(data, {depth: null});
     res.render("tube/playlist.ejs", { data, page });
   } catch (err) {
     console.error("Failed to fetch playlist", playlistId, err);
