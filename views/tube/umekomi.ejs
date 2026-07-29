@@ -1212,6 +1212,7 @@ setInterval(async () => {
     const view = r.viewCount;
     const like = `${r.likeCount}高評価`;
     const pub = r.published;
+    console.log(`view:${view}, like:${like}, pub:${pub}`)
     const viewEl = document.getElementById("viewCount");
     const likeEl = document.getElementById("likeCount");
     const pubEl = document.getElementById("published");
@@ -1219,7 +1220,7 @@ setInterval(async () => {
     if (likeEl.textContent != like) slideText(likeEl, like);
     if (pubEl.textContent != pub) slideText(pubEl, pub);
   } catch (e) {
-    alert(e.message);
+    console.log(e.message);
   }
 }, 30000);
 
