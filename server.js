@@ -104,6 +104,7 @@ import ppSv from "./routes/proxy.js";
 import wakamsSv from "./routes/music.js";
 import blogSv from "./routes/blog.js";
 import sandboxSv from "./routes/sandbox.js";
+import api from "./routes/api.js";
 
 app.use("/tkt", tktSv);
 app.use("/game", gameSv);
@@ -111,6 +112,7 @@ app.use("/tools", toolsSv);
 app.use("/pp", ppSv);
 app.use("/wakams", wakamsSv);
 app.use("/blog", blogSv);
+app.use("/api", api);
 
 app.use("/wkt", (req, res) => {
   console.log(`/tkt${req.originalUrl.slice(4)}`);
