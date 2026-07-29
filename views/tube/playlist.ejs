@@ -96,29 +96,29 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         <% data.videos.forEach(video => { %>
         <div class="result-item w-auto h-auto bg-gray-800 p-4 rounded">
-          <a href="/tkt/watch/<%= video.id %>?playlist=<%= data.id %>" class="thumbnail">
+          <a href="/tkt/watch/<%= video.id || video.content_id || '' %>?playlist=<%= data.id %>" class="thumbnail">
             <img
               loading="lazy"
-              src="/tkt/back/vi/<%= video.id %>/mqdefault.jpg"
-              alt="<%= video.title %>"
+              src="/tkt/back/vi/<%= video.id || video.content_id || '' %>/mqdefault.jpg"
+              alt="<%= video.title || video.metadata?.title?.text || '' %>"
               class="w-full h-auto rounded"
             />
-            <span class="video-duration"><%= video.duration?.text || "" %></span>
+            <!-- span class="video-duration"><%= video.duration?.text || "" %></span -->
           </a>
           <div class="mt-2 flex items-center">
-            <a href="/tkt/c/<%= video.author?.id || '' %>" class="flex items-center">
-              <% const uurl = video.author?.thumbnails?.[0]?.url ? `/tkt/back/yt3${(new URL(video.author.thumbnails[0].url)).pathname}` : `/tkt/back/c/${video.author?.id || ""}` %>
+            <a href="/tkt/c/<%= video.author?.id || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || '' %>" class="flex items-center">
+              <% const uurl = video.metadata?.image?.avatar?.image?.[0]?.url ? `/tkt/back/yt3${(new URL(video.metadata.image.avatar.image[0].url)).pathname}` : `/tkt/back/c/${video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.runs?.[0]?.endpoint?.payload?.browseId || ""}` %>
               <img
                 src="<%= uurl %>"
-                alt="<%= video.author?.name || 'チャンネル' %>"
+                alt="<%= video.author?.name || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || 'チャンネル' %>"
                 class="w-8 h-8 rounded-full mr-2"
               />
-              <p class="text-sm text-gray-400"><%= video.author?.name || "" %></p>
+              <p class="text-sm text-gray-400"><%= video.author?.name || video.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.[0]?.text?.text || "" %></p>
             </a>
           </div>
-          <p class="text-lg font-bold"><%= video.title %></p>
+          <p class="text-lg font-bold"><%= video.title || video.metadata?.title?.text || "" %></p>
           <p class="text-xs text-gray-500">
-            <%= video.view_count || video.video_info?.runs?.[0]?.text || "" %> - <%= video.published || video.video_info?.runs?.[2]?.text || "" %>
+            <%= video.view_count || video.video_info?.runs?.[0]?.text || video.metadata?.metadata?.metadata_rows?.[1]?.metadata_parts?.[0]?.text?.text || "" %> - <%= video.published || video.video_info?.runs?.[2]?.text || video.metadata?.metadata?.metadata_rows?.[1]?.metadata_parts?.[1]?.text?.text || "" %>
           </p>
         </div>
         <% }); %>
