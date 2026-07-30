@@ -82,6 +82,7 @@ async function getComments(videoId) {
     if (i < 9) {
       await new Promise(resolve => setTimeout(resolve, 2000));
     }
+    if ((i + 1) % 2 == 0) await setClient();
   }
   console.error("コメント取得失敗:", lastError);
   throw new Error(`コメント取得失敗: ${lastError}`);
