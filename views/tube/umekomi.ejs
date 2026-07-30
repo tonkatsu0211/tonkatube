@@ -274,14 +274,24 @@
             try {
                 const u = new URL(url);
         
-                if (u.hostname === "www.youtube.com" && u.pathname === "/redirect" && u.searchParams.has("q")) {
+                if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname === "/redirect" && u.searchParams.has("q")) {
                   return decodeURIComponent(u.searchParams.get("q"));
-                } else if (u.hostname === "www.youtube.com" && u.pathname !== "/redirect"){
-                  const uu = "/tkt" + url.slice(23, url.length).trim();
+                } else if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname !== "/redirect"){
+                  const uu = u.hostname === "www.youtube.com" ? "/tkt" + url.slice(23, url.length).trim() : "/tkt" + url.slice(19, url.length).trim();
                   if (u.pathname.includes("/c") && !u.pathname.includes("@")) {
                     const u2 = uu.slice(0, 7).trim();
                     const u3 = uu.slice(7, uu.length).trim();
                     const uuu = u2 + "@" + u3;
+                    return uuu;
+                  } else if (u.pathname.includes("/live")) {
+                    const u2 = uu.slice(0, 5).trim();
+                    const u3 = uu.slice(9, uu.length).trim();
+                    const uuu = u2 + "watch" + u3;
+                    return uuu;
+                  } else if (u.pathname.includes("/watch")) {
+                    const u2 = uu.slice(0, 5).trim();
+                    const u3 = uu.slice(10, uu.length).trim();
+                    const uuu = u2 + "watch" + u3;
                     return uuu;
                   } else {
                     return uu;
