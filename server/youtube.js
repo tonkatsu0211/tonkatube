@@ -80,6 +80,7 @@ async function getComments(videoId) {
       lastError = err;
     }
     if (i < 9) {
+      console.log("waiting 2 seconds");
       await new Promise(resolve => setTimeout(resolve, 2000));
     }
     if ((i + 1) % 2 == 0) {
