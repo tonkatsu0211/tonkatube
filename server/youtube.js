@@ -69,7 +69,7 @@ async function getComments(videoId) {
   if (!videoId) return { contents: [] };
   await setClient();
   let lastError;
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 10; i++) {
     try {
       const comments = await client.getComments(videoId);
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
@@ -79,8 +79,8 @@ async function getComments(videoId) {
       console.error(`エラー(${i + 1}/5):`, err);
       lastError = err;
     }
-    if (i < 4) {
-      await new Promise(resolve => setTimeout(resolve, 1000));
+    if (i < 9) {
+      await new Promise(resolve => setTimeout(resolve, 2000));
     }
   }
   console.error("コメント取得失敗:", lastError);
