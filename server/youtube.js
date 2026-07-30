@@ -83,7 +83,7 @@ async function getComments(videoId) {
       console.log("waiting 2 seconds");
       await new Promise(resolve => setTimeout(resolve, 2000));
     }
-    if ((i + 1) % 2 == 0) {
+    if ((i + 1) % 2 == 0 && i < 9) {
       console.log("recreate client");
       await setClient();
     }
