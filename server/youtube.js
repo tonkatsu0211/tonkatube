@@ -76,7 +76,7 @@ async function getComments(videoId) {
       //console.log("comments.contents[0].comment:", comments.contents[0].comment);
       return { contents: comments };
     } catch (err) {
-      console.error(`エラー(${i + 1}/5):`, err);
+      console.error(`エラー(${i + 1}/10):`, err);
       lastError = err;
     }
     if (i < 9) {
