@@ -176,7 +176,7 @@ async function initInnerTube() {
   try {
     client = await Innertube.create({ lang: "ja", country: "JP" });
     setClient(client);
-
+    console.log("Node.js:", process.version);
     const PORT = process.env.PORT || 3000;
     console.log("starting in PORT", PORT + "...")
     const listener = app.listen(PORT, () => {
