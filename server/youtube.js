@@ -92,7 +92,7 @@ async function getComments(videoId) {
   console.error("youtubei.jsコメント取得失敗:", lastError[0]);
   for (let i = 0; i < 2; i++) {
     try {
-      const r = await fetch(`${inv[i]}/api/v1/comments/${videoId}`);
+      const r = await fetch(`${inv[i]}/api/v1/comments/${videoId}?hl=ja&lang=ja`);
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
       const comments = await r.json();
       //const comments = re.body;
