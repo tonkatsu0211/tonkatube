@@ -69,7 +69,7 @@ async function search(q, p = 1, limit = 50) {
 async function getComments(videoId) {
   if (!videoId) return { contents: [] };
   await setClient();
-  let lastError;
+  let lastError = [];
   for (let i = 0; i < 4; i++) {
     try {
       const comments = await client.getComments(videoId);
