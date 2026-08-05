@@ -9,7 +9,7 @@
 <div class="flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
   <img  
     loading="lazy"
-    src="<%= comment.author.thumbnails?.[0]?.url || comment.authorThumbnails?.[0]?.url || ((comment.author?.id || comment.authorId) ? ('/back/c/' + (comment.author?.id || comment.authorId)) : '/default_avatar.png') %>"
+    src="<%= comment.author.thumbnails?.[0]?.url || comment.authorThumbnails?.[0]?.url || ((comment.author?.id || comment.authorId) ? ('/tkt/back/c/' + (comment.author?.id || comment.authorId)) : '/default_avatar.png') %>"
     class="w-10 h-10 rounded-full"
   />
   <div class="ml-3 w-full">
