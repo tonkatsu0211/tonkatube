@@ -1,4 +1,6 @@
-<% (Array.isArray(cm.contents.contents) ? cm.contents.contents : cm.contents).forEach(thread => { 
+<% console.log(`isArray(cm.contents.contents): ${Array.isArray(cm.contents.contents)}`)
+  console.log(`isArray(cm.contents): ${Array.isArray(cm.contents)}`)
+  (Array.isArray(cm.contents.contents) ? cm.contents.contents : cm.contents).forEach(thread => { 
   const comment = Array.isArray(thread.comment) 
     ? thread.comment[0] 
     : thread.comment;
