@@ -94,8 +94,8 @@ async function getComments(videoId) {
     try {
       const r = await fetch(`${inv[i]}/api/v1/comments/${videoId}`);
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
-      const re = await r.json();
-      const comments = re.body;
+      const comments = await r.json();
+      //const comments = re.body;
       console.dir(comments, { depth: null });
       return { contents: comments };
     } catch (err) {
