@@ -77,7 +77,7 @@ async function getComments(videoId) {
       //console.log("comments.contents[0].comment:", comments.contents[0].comment);
       return { contents: comments };
     } catch (err) {
-      console.error(`youtubeiエラー(${i + 1}/10):`, err);
+      console.error(`youtubeiエラー(${i + 1}/4):`, err);
       lastError[0] = err;
     }
     if (i < 3) {
@@ -96,8 +96,8 @@ async function getComments(videoId) {
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
       const comments = await r.json();
       //const comments = re.body;
-      console.dir(comments, { depth: null });
-      return { contents: comments };
+      console.dir(comments.contents, { depth: null });
+      return { contents: comments.contents };
     } catch (err) {
       console.error(`Invエラー(${i + 1}/2):`, err);
       lastError[1] = err;
