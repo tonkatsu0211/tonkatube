@@ -3,7 +3,7 @@
   (Array.isArray(cm.contents.contents) ? cm.contents.contents : cm.contents).forEach(thread => { 
   const comment = Array.isArray(thread.comment) 
     ? thread.comment[0] 
-    : thread.comment;
+    : (thread.comment || thread);
   if (!comment || !comment.author) return;
 %>
 <div class="flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
