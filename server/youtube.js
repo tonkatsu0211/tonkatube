@@ -2,6 +2,7 @@ import { Innertube } from "youtubei.js";
 import { google } from "googleapis";
 import fs from "fs";
 import path from "path";
+const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app"];
 const JPath = path.join(process.cwd(), "Info.json");
 
 const youtube = google.youtube({
@@ -69,23 +70,35 @@ async function getComments(videoId) {
   if (!videoId) return { contents: [] };
   await setClient();
   let lastError;
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 4; i++) {
     try {
       const comments = await client.getComments(videoId);
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
       //console.log("comments.contents[0].comment:", comments.contents[0].comment);
       return { contents: comments };
     } catch (err) {
-      console.error(`エラー(${i + 1}/10):`, err);
-      lastError = err;
+      console.error(`youtubeiエラー(${i + 1}/10):`, err);
+      lastError[0] = err;
     }
-    if (i < 9) {
+    if (i < 3) {
       console.log("waiting 2 seconds");
       await new Promise(resolve => setTimeout(resolve, 2000));
     }
-    if ((i + 1) % 2 == 0 && i < 9) {
+    if ((i + 1) % 2 == 0 && i < 3) {
       console.log("recreate client");
       await setClient();
+    }
+  }
+  console.error("youtubei.jsコメント取得失敗:", lastError[0]);
+  for (let i = 0; i < 2; i++) {
+    try {
+      const comments = await fetch(`${inv[i]}/api/v1/comments/${videoId}`);
+      //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
+      console.dir(comments);
+      return { contents: comments };
+    } catch (err) {
+      console.error(`Invエラー(${i + 1}/2):`, err);
+      lastError[1] = err;
     }
   }
   console.error("コメント取得失敗:", lastError);
