@@ -187,7 +187,7 @@ router.get("/comment/:id", async (req, res) => {
   try {
     const cm = await getComments(id);
     //console.log(cm.contents[0].authorThumbnails);
-    console.dir(cm.contents.header, { depth: null });
+    //console.dir(cm.contents.header, { depth: null });
     res.render("tube/back/comment", { cm });
   } catch (error) {
     console.error("comment error:", error);
