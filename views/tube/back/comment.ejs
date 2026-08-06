@@ -22,11 +22,11 @@
         <%= comment.author.name || comment.author %>
       </a>
       <% if (comment.isSponsor) { %>
-        <span><img
+        <img
           loading="lazy"
           src="<%= comment.sponsorIconUrl || 'null' %>"
-          class="w-5 h-5 rounded-full"
-        /></span>
+          class="inline-block align-middle w-5 h-5 rounded-full"
+        />
       <% } %>
       <span style="font-weight: normal;">
          <%= comment.published_time || comment.publishedText %>
