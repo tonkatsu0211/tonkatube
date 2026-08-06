@@ -17,10 +17,15 @@
       <a
         href="/tkt/c/<%= comment.author.id || comment.authorId %>"
         target="_blank"
-        class="<% comment.isSponsor ? text-green-400 hover:underline : text-blue-400 hover:underline"
+        class="<% comment.isSponsor ? 'text-green-400 hover:underline' : 'text-blue-400 hover:underline' %>"
       >
         <%= comment.author.name || comment.author %>
       </a>
+      <img
+        loading="lazy"
+        src="<%= comment.sponsorIconUrl || 'null' %>"
+        class="w-5 h-5 rounded-full"
+      />
       <span style="font-weight: normal;">
          <%= comment.published_time || comment.publishedText %>
       </span>
