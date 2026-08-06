@@ -1816,11 +1816,11 @@
           .addEventListener("click", async function () {
             if (mode == "nocookie") {
               settingsOverlay.remove();
-              showMessage("必要なデータを取得中です");
+              /*showMessage("必要なデータを取得中です");
               const ytinfo3 = await fetch("/tkt/yt/edurl", { method: "GET" });
-              const ytinfo = await ytinfo3.text();
+              const ytinfo = await ytinfo3.text();*/
               showPlaybackSettings(
-                `https://www.youtubeeducation.com/embed/<%= videoId %>${ytinfo}`,
+                `https://www.youtubeeducation.com/embed/<%= videoId %><%= ytinfo %>`,
                 "edu"
               );
             } else {
