@@ -96,7 +96,7 @@ async function getComments(videoId) {
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
       const cm = await r.json();
       const {comments, ...cmts} = cm;
-      console.dir(comments, { depth: null });
+      console.dir(cm.header, { depth: null });
       return { ...cmts, contents: comments };
     } catch (err) {
       console.error(`Invエラー(${i + 1}/2):`, err);
