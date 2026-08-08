@@ -68,7 +68,7 @@
             
             <div class="overflow-y-auto p-6 flex-1">
               <p class="whitespace-pre-wrap">
-                <%- about.metadata.description?.replace(/\n/g, "<br>") || "error" %>
+                <%- about.metadata.description?.replace(/\n/g, "<br>").trim() || "error" %>
               </p>
             </div>
             
