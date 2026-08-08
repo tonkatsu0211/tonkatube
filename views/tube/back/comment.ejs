@@ -7,6 +7,9 @@
   if (!comment || !comment.author) return;
 %>
 <div class="relative flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
+  <% if (comment.isPinned) { %>
+    <p class="text-sm">📌</p>
+  <% } %>
   <img  
     loading="lazy"
     src="<%= comment.author.thumbnails?.[0]?.url || comment.authorThumbnails?.[0]?.url || ((comment.author?.id || comment.authorId) ? ('/tkt/back/c/' + (comment.author?.id || comment.authorId)) : '/default_avatar.png') %>"
@@ -69,9 +72,6 @@
         </span>
       <% } %>
     </p>
-    <% if (comment.isPinned) { %>
-      <span class="absolute right-3 bottom-3">📌</span>
-    <% } %>
   </div>
 </div>
 <% }); %>
