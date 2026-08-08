@@ -94,7 +94,7 @@ body, html {
 }
 .creator-heart .heart {
   position: absolute;
-  right: -8px;
+  right: -2px;
   bottom: -4px;
   width: 12px;
   height: 12px;
