@@ -6,9 +6,9 @@
     : (thread.comment || thread);
   if (!comment || !comment.author) return;
 %>
-<div class="relative flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
+<div class="flex items-start bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
   <% if (comment.isPinned) { %>
-    <p class="text-sm">📌</p><br><br>
+    <p class="atext-sm">📌</p><br>
   <% } %>
   <img  
     loading="lazy"
