@@ -68,7 +68,7 @@
             
             <div class="overflow-y-auto p-6 flex-1">
               <p class="whitespace-pre-wrap">
-                <%- about.metadata.description?.replace(/\n/g, "<br>").trim() || "error" %>
+                <%- about.metadata.description?.replace(/\n/g, "<br>").slice(17).trim() || "error" %>
               </p>
             </div>
             
@@ -221,6 +221,26 @@
     desOverlay.style.display = "none";
     clrBtn.classList.add("hidden");
   }
+
+  //eruda
+  let useEruda = localStorage.getItem("eruda") || false;
+  if (useEruda == "true") eruda.init();
+  const isMac = /Mac|iPhone|iPad/.test(navigator.userAgent);
+  document.addEventListener("keydown", (e) => {
+    const mod = isMac ? e.metaKey : e.ctrlKey;
+    if (mod && e.shiftKey && e.key == "i") {
+      if (useEruda == "true") {
+        localStorage.setItem("eruda", false);
+        useEruda = "false";
+        alert("eruda disabled");
+      } else {
+        localStorage.setItem("eruda", true);
+        useEruda = "true";
+        alert("eruda enabled");
+        eruda.init();
+      }
+    }
+  });
 </script>           
 </body>
 </html>
