@@ -78,12 +78,15 @@ body, html {
 }
 .creator-heart {
   position: relative;
-  display: inline-block;
+  display: inline-flex;
   width: 20px;
   height: 20px;
+  align-items: center;
   vertical-align: middle;
+  line-height: 1;
 }
 .creator-heart img {
+  display: block;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -96,7 +99,7 @@ body, html {
   height: 12px;
   color: white;
   border-radius: 50%;
-  font-size: 8px;
-  line-height: 12px;
+  font-size: 10px;
+  line-height: 1;
   text-align: center;
 }
