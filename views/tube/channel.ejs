@@ -160,7 +160,7 @@
 
 <script src="/js/eruda.js"></script>
 <script>
-  const dropdownButton = document.getElementById("dropdownButton");
+  //const dropdownButton = document.getElementById("dropdownButton");
   const dropdownMenu = document.getElementById("dropdownMenu");
   const selectedTab = document.getElementById("selectedTab");
   const shelves = document.querySelectorAll(".shelf-content");
@@ -186,11 +186,11 @@
     recentVideosContainer.classList.remove("hidden");
   }
 
-  document.addEventListener("click", (event) => {
+  /*document.addEventListener("click", (event) => {
     if (!dropdownButton.contains(event.target) && !dropdownMenu.contains(event.target)) {
         dropdownMenu.classList.add("hidden");
     }
-  });
+  });*/
 
   const bannerSrc = "<%= TVData?.channel?.data?.contents?.tvBrowseRenderer?.content?.tvSurfaceContentRenderer?.header?.channelHeaderRenderer?.backgroundImage?.thumbnails?.[4]?.url || data?.channel?.header?.content?.banner?.image?.[0]?.url || '' %>";
   
