@@ -30,16 +30,6 @@
       <% } %>
       <span style="font-weight: normal;">
         <%= comment.published_time || comment.publishedText %>
-        <% if (comment.creatorHeart) { %>
-          <span class="creator-heart">
-            <img
-              loading="lazy"
-              src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
-              class="inline-block align-middle w-5 h-5 rounded-full"
-            />
-            <span class="heart">❤️</span
-          </span>
-        <% } %>
       </span>
     </p>
 
@@ -67,7 +57,17 @@
         <% } %>
     </p>
     <br>
-    <p><%= comment.like_count_a11y || comment.likeCount + "件の高評価" %></p>
+    <p><%= comment.like_count_a11y || comment.likeCount + "件の高評価" %>
+      <% if (comment.creatorHeart) { %>
+        <span class="creator-heart">
+          <img
+            loading="lazy"
+            src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
+            class="inline-block align-middle w-5 h-5 rounded-full"
+          />
+          <span class="heart">❤️</span
+        </span>
+      <% } %></p>
 
   </div>
 </div>
