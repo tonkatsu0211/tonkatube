@@ -29,18 +29,18 @@
         />
       <% } %>
       <span style="font-weight: normal;">
-         <%= comment.published_time || comment.publishedText %>
+        <%= comment.published_time || comment.publishedText %>
+        <% if (comment.creatorHeart) { %>
+          <span class="creator-heart">
+            <img
+              loading="lazy"
+              src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
+              class="inline-block align-middle w-5 h-5 rounded-full"
+            />
+            <span class="heart">❤️</span
+          </span>
+        <% } %>
       </span>
-      <% if (comment.creatorHeart) { %>
-        <span class="creator-heart">
-          <img
-            loading="lazy"
-            src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
-            class="inline-block align-middle w-5 h-5 rounded-full"
-          />
-          <span class="heart">❤️</span
-        </span>
-      <% } %>
     </p>
 
     <p class="text-gray-300 text-lg mt-1">
