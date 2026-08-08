@@ -17,7 +17,7 @@
       <a
         href="/tkt/c/<%= comment.author.id || comment.authorId %>"
         target="_blank"
-        class="<%= comment.isSponsor ? 'text-green-400 hover:underline' : 'text-blue-400 hover:underline' %>"
+        class="<%= comment.authorIsChannelOwner ? 'text-yellow-400 hover:underline' : comment.isSponsor ? 'text-green-400 hover:underline' : 'text-blue-400 hover:underline' %>"
       >
         <%= comment.author.name || comment.author %>
       </a>
@@ -31,6 +31,13 @@
       <span style="font-weight: normal;">
          <%= comment.published_time || comment.publishedText %>
       </span>
+      <% if (comment.creatorHeart) { %>
+        <img
+          loading="lazy"
+          src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
+          class="inline-block align-middle w-5 h-5"
+        />
+      <% } %>
     </p>
 
     <p class="text-gray-300 text-lg mt-1">
