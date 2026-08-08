@@ -76,3 +76,28 @@ body, html {
   z-index: 10000;
   background: none;
 }
+.creator-heart {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+.creator-heart img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.creator-heart .heart {
+  position: absolute;
+  right: -4px;
+  bottom: -4px;
+  width: 12px;
+  height: 12px;
+  background: #ff0000;
+  color: white;
+  border-radius: 50%;
+  font-size: 8px;
+  line-height: 12px;
+  text-align: center;
+}
