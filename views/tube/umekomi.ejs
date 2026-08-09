@@ -1239,7 +1239,9 @@ setInterval(async () => {
   try{
     const res = await fetch("/api/updatevideoinfo/<%= videoId %>");
     const r = await res.json();
-    const { view, pub, description } = r;
+    const description = r.description;
+    const view = r.viewCount;
+    const pub = r.published.text;
     const like = `${r.likeCount}高評価`;
     console.log(`updateVideoInfo view:${view}, like:${like}, pub:${pub}, description:${description}`);
     let rDesc = false;
