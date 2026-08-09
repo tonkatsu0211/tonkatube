@@ -136,7 +136,7 @@ async function getComments(videoId) {
           ]
         },
         contentHtml: comment.textDisplay,
-        published_time: comment.publishedAt,
+        published_time: formatRelativeTime(comment.publishedAt),
         updated_time: comment.updatedAt,
         likeCount: comment.likeCount,
         replyCount: item.snippet.totalReplyCount,
@@ -145,7 +145,7 @@ async function getComments(videoId) {
         authorIsChannelOwner: false
       };
     });
-  
+    console.dir(comment);
     return { contents };
   } catch (err) {
     console.error("YouTube Data APIコメント取得失敗:", err);
@@ -409,6 +409,37 @@ async function getPlayNext(playlistId, videoId, page = 1) {
   return null;
 }
 
+function formatRelativeTime(date) {
+  const diff = Date.now() - new Date(date).getTime();
+
+  const seconds = Math.floor(diff / 1000);
+  if (seconds < 60) {
+    return `${seconds}秒前`;
+  }
+
+  const minutes = Math.floor(seconds / 60);
+  if (minutes < 60) {
+    return `${minutes}分前`;
+  }
+
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) {
+    return `${hours}時間前`;
+  }
+
+  const days = Math.floor(hours / 24);
+  if (days < 30) {
+    return `${days}日前`;
+  }
+
+  const months = Math.floor(days / 30);
+  if (months < 12) {
+    return `${months}か月前`;
+  }
+  
+  const years = Math.floor(months / 12);
+  return `${years}年前`;
+}
 
 export { infoGet, search, setClient, getComments, getChannel, getPlaylist, getPlayNext };
 
