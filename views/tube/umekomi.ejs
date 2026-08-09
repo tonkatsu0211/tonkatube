@@ -269,70 +269,74 @@
               折りたたむ
             </button>
           </div>
-          <%
-          function normalizeYouTubeUrl(url) {
-            try {
-                const u = new URL(url);
-        
-                if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname === "/redirect" && u.searchParams.has("q")) {
-                  return decodeURIComponent(u.searchParams.get("q"));
-                } else if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname !== "/redirect"){
-                  const uu = u.hostname === "www.youtube.com" ? "/tkt" + url.slice(23, url.length).trim() : "/tkt" + url.slice(19, url.length).trim();
-                  if (u.pathname.includes("/c") && !u.pathname.includes("@")) {
-                    const u2 = uu.slice(0, 7).trim();
-                    const u3 = uu.slice(7, uu.length).trim();
-                    const uuu = u2 + "@" + u3;
-                    return uuu;
-                  } else if (u.pathname.includes("/live")) {
-                    const u2 = uu.slice(0, 5).trim();
-                    const u3 = uu.slice(9, uu.length).trim();
-                    const uuu = u2 + "watch" + u3;
-                    return uuu;
-                  } else if (u.pathname.includes("/watch")) {
-                    const u2 = uu.slice(0, 5).trim();
-                    const u3 = uu.slice(10, uu.length).trim();
-                    const uuu = u2 + "watch" + u3;
-                    return uuu;
-                  } else {
-                    return uu;
-                  }
-                }
-        
-                return url;
-            } catch {
-                return url;
-            }
-          }
-          function renderDescription(description) {
-            if (!description) return "";
-    
-            return description.map(run => {
-                if (run.endpoint?.metadata?.url) {
-                    let url = run.endpoint.metadata.url;
-                    url = normalizeYouTubeUrl(url);
-                    if (url.startsWith("/") || url.includes("www.youtube.com")) return `<a href="${url}" target="_self" rel="noopener noreferrer">${run.text}</a>`;
-                    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${run.text}</a>`;
-                }
-    
-                return run.text
-                    .replace(/&/g, "&amp;")
-                    .replace(/</g, "&lt;")
-                    .replace(/>/g, "&gt;")
-                    .replace(/\n/g, "<br>");
-            }).join("");
-          } %>
           <div class="description mt-2">
             <% if (videoInfo.description) { %>
-              <p class="text-base text-gray-300 mt-1">
-                <%- renderDescription(videoInfo.description) %>
+              <p class="text-base text-gray-300 mt-1" id="description">
                 <!--%- videoInfo.description.replace(/\n/g, '<br>') %-->
               </p>
             <% } else { %>
-              <p class="text-base text-gray-300 mt-1" style="color: #aaa; font-style: italic;">
+              <p class="text-base text-gray-300 mt-1" style="color: #aaaaaa; font-style: italic;" id="description">
                 この動画には説明がありません。
               </p>
             <% }; %>
           </div>
+          <script>
+            function normalizeYouTubeUrl(url) {
+              try {
+                  const u = new URL(url);
+          
+                  if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname === "/redirect" && u.searchParams.has("q")) {
+                    return decodeURIComponent(u.searchParams.get("q"));
+                  } else if ((u.hostname === "www.youtube.com" || u.hostname === "youtube.com") && u.pathname !== "/redirect"){
+                    const uu = u.hostname === "www.youtube.com" ? "/tkt" + url.slice(23, url.length).trim() : "/tkt" + url.slice(19, url.length).trim();
+                    if (u.pathname.includes("/c") && !u.pathname.includes("@")) {
+                      const u2 = uu.slice(0, 7).trim();
+                      const u3 = uu.slice(7, uu.length).trim();
+                      const uuu = u2 + "@" + u3;
+                      return uuu;
+                    } else if (u.pathname.includes("/live")) {
+                      const u2 = uu.slice(0, 5).trim();
+                      const u3 = uu.slice(9, uu.length).trim();
+                      const uuu = u2 + "watch" + u3;
+                      return uuu;
+                    } else if (u.pathname.includes("/watch")) {
+                      const u2 = uu.slice(0, 5).trim();
+                      const u3 = uu.slice(10, uu.length).trim();
+                      const uuu = u2 + "watch" + u3;
+                      return uuu;
+                    } else {
+                      return uu;
+                    }
+                  }
+          
+                  return url;
+              } catch {
+                  return url;
+              }
+            }
+            
+            function renderDescription(description) {
+              if (!description) return "";
+      
+              return description.map(run => {
+                  if (run.endpoint?.metadata?.url) {
+                      let url = run.endpoint.metadata.url;
+                      url = normalizeYouTubeUrl(url);
+                      if (url.startsWith("/") || url.includes("www.youtube.com")) return `<a href="${url}" target="_self" rel="noopener noreferrer">${run.text}</a>`;
+                      return `<a href="${url}" target="_blank" rel="noopener noreferrer">${run.text}</a>`;
+                  }
+      
+                  return run.text
+                      .replace(/&/g, "&amp;")
+                      .replace(/</g, "&lt;")
+                      .replace(/>/g, "&gt;")
+                      .replace(/\n/g, "<br>");
+              }).join("");
+            }
+            const desc = document.getElementById("description");
+            const firstDesc = <%- JSON.stringify(videoInfo.description || [] )%>;
+            if (firstDesc.length != 0) desc.innerHTML = renderDescription(firstDesc);
+          </script>
         </div>
 
         <div class="mt-4 p-4 bg-gray-800 rounded">
@@ -1235,18 +1239,29 @@ setInterval(async () => {
   try{
     const res = await fetch("/api/updatevideoinfo/<%= videoId %>");
     const r = await res.json();
-    const view = r.viewCount;
+    const { view, pub, description } = r;
     const like = `${r.likeCount}高評価`;
-    const pub = r.published.text;
-    console.log(r);
-    console.log(typeof r.published, r.published);
-    console.log(`view:${view}, like:${like}, pub:${pub}`)
+    console.log(`updateVideoInfo view:${view}, like:${like}, pub:${pub}, description:${description}`);
+    let rDesc = false;
+    if (description) rDesc = renderDescription(description);
     const viewEl = document.getElementById("viewCount");
     const likeEl = document.getElementById("likeCount");
     const pubEl = document.getElementById("published");
+    const descEl = document.getElementById("description") || false;
     if (viewEl.textContent != view) slideText(viewEl, view);
     if (likeEl.textContent != like) slideText(likeEl, like);
     if (pubEl.textContent != pub) slideText(pubEl, pub);
+    if (descEl.innerHTML != rDesc) {
+      if (rDesc) {
+        descEl.innerHTML = rDesc;
+        descEl.style.color = "";
+        descEl.style.fontStyle = "";
+      } else {
+        descEl.innerHTML = "この動画には説明がありません。";
+        descEl.style.color = "#aaaaaa";
+        descEl.style.fontStyle = "italic";
+      };
+    };
   } catch (e) {
     console.log(e.message);
   }
