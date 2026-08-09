@@ -145,7 +145,7 @@ async function getComments(videoId) {
         authorIsChannelOwner: false
       };
     });
-    console.dir(comment);
+    console.dir(contents);
     return { contents };
   } catch (err) {
     console.error("YouTube Data APIコメント取得失敗:", err);
