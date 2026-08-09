@@ -114,13 +114,13 @@ async function getComments(videoId) {
   console.error("Invidiousコメント取得失敗:", lastError[1]);
   try {
     const response = await youtube.commentThreads.list({
-      part: ["snippet", "replies"],
+      part: "snippet",
       videoId,
       maxResults: 50,
       textFormat: "plainText",
       order: "relevance"
     });
-  
+    
     const contents = response.data.items.map(item => {
       const comment = item.snippet.topLevelComment.snippet;
   
