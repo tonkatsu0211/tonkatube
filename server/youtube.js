@@ -70,22 +70,19 @@ async function getComments(videoId) {
   if (!videoId) return { contents: [] };
   await setClient();
   let lastError = [];
-  for (let i = 0; i < 4; i++) {
+  for (let i = 0; i < 2; i++) {
     try {
       const comments = await client.getComments(videoId);
       //fs.writeFileSync(JPath, JSON.stringify(comments, null, 2));
       //console.log("comments.contents[0].comment:", comments.contents[0].comment);
       return { contents: comments };
     } catch (err) {
-      console.error(`youtubeiエラー(${i + 1}/4):`, err);
+      console.error(`youtubeiエラー(${i + 1}/2):`, err);
       lastError[0] = err;
     }
-    if (i < 3) {
-      console.log("waiting 2 seconds");
+    if (i == 0) {
+      console.log("retry youtubei.js getComments");
       await new Promise(resolve => setTimeout(resolve, 2000));
-    }
-    if ((i + 1) % 2 == 0 && i < 3) {
-      console.log("recreate client");
       await setClient();
     }
   }
