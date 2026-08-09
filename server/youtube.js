@@ -103,6 +103,51 @@ async function getComments(videoId) {
       lastError[1] = err;
     }
   }
+  console.error("Invidiousコメント取得失敗:", lastError[1]);
+  try {
+    const response = await youtube.commentThreads.list({
+      part: ["snippet", "replies"],
+      videoId,
+      maxResults: 50,
+      textFormat: "plainText"
+    });
+  
+    const contents = response.data.items.map(item => {
+      const comment = item.snippet.topLevelComment.snippet;
+  
+      return {
+        commentId: item.snippet.topLevelComment.id,
+        author: {
+          id: comment.authorChannelId?.value || "",
+          name: comment.authorDisplayName,
+          thumbnails: comment.authorProfileImageUrl
+            ? [{ url: comment.authorProfileImageUrl }]
+            : []
+        },
+        content: {
+          runs: [
+            {
+              text: comment.textDisplay
+            }
+          ]
+        },
+        contentHtml: comment.textDisplay,
+        published_time: comment.publishedAt,
+        updated_time: comment.updatedAt,
+        likeCount: comment.likeCount,
+        replyCount: item.snippet.totalReplyCount,
+        creatorHeart: null,
+        isSponsor: false,
+        authorIsChannelOwner: false
+      };
+    });
+  
+    return { contents };
+  } catch (err) {
+    console.error("YouTube Data APIコメント取得失敗:", err);
+    lastError[2] = err;
+  }
+  
   console.error("コメント取得失敗:", lastError);
   throw new Error(`コメント取得失敗: ${lastError}`);
 }
