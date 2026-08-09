@@ -97,7 +97,11 @@ async function getComments(videoId) {
       const cm = await r.json();
       const {comments, ...cmts} = cm;
       console.dir(cm, { depth: null });
-      return { ...cmts, contents: comments };
+      if (comments) {
+        return { ...cmts, contents: comments };
+      } else {
+        throw new Error(cm.error);
+      }
     } catch (err) {
       console.error(`Invエラー(${i + 1}/2):`, err);
       lastError[1] = err;
