@@ -15,6 +15,7 @@ router.get("/updatevideoinfo/:id", async (req, res) => {
 
     const videoInfo = {
       title: Info.primary_info.title.text || "",
+      description: Info.secondary_info.description.runs || "",
       published: Info.primary_info.published,
       viewCount:
         Info.primary_info.view_count.short_view_count?.text ||
