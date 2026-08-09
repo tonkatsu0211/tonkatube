@@ -120,7 +120,8 @@ async function getComments(videoId) {
       part: ["snippet", "replies"],
       videoId,
       maxResults: 50,
-      textFormat: "plainText"
+      textFormat: "plainText",
+      order: "relevance"
     });
   
     const contents = response.data.items.map(item => {
