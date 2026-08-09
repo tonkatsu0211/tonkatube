@@ -96,10 +96,11 @@ async function getComments(videoId) {
       console.dir(cm, { depth: null });
       if (comments) {
         const response = await youtube.commentThreads.list({
-          part: ["snippet", "replies"],
+          part: "snippet",
           videoId,
           maxResults: 50,
-          textFormat: "plainText"
+          textFormat: "plainText",
+          order: "relevance"
         });
         console.dir(response, { depth: null });
         return { ...cmts, contents: comments };
