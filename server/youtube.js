@@ -98,6 +98,13 @@ async function getComments(videoId) {
       const {comments, ...cmts} = cm;
       console.dir(cm, { depth: null });
       if (comments) {
+        const response = await youtube.commentThreads.list({
+          part: ["snippet", "replies"],
+          videoId,
+          maxResults: 50,
+          textFormat: "plainText"
+        });
+        console.dir(response, { depth: null });
         return { ...cmts, contents: comments };
       } else {
         throw new Error(cm.error);
