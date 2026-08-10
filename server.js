@@ -45,7 +45,7 @@ app.use((req, res, next) => {
   res.removeHeader("X-Frame-Options");
   res.setHeader(
     "Content-Security-Policy",
-    "frame-ancestors 'self' https://wf8xw3-3000.csb.app"
+    "frame-ancestors 'self' https://dnw22h-3000.csb.app"
   );
 
   next();
