@@ -57,7 +57,7 @@
               <% } %>
             <% }) %>
           <% } else { %>
-            <%- comment.contentHtml %>
+            <%- comment.contentHtml.replace("\n", "<br>") %>
           <% } %>
       </p>
       <br>
