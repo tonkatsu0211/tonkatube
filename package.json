@@ -19,7 +19,7 @@
     "soundcloud-scraper": "latest",
     "undici": "^7.x",
     "youtubei.js": "^17.2.0"
-  }
+  },
   "description": "wakame",
   "engines": {
     "node": "22"
