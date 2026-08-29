@@ -18,8 +18,8 @@
     "node-fetch": "^3.3.2",
     "soundcloud-scraper": "latest",
     "undici": "^7.x",
-    "youtubei.js": "^18.0.0"
-  },
+    "youtubei.js": "^17.2.0"
+  }
   "description": "wakame",
   "engines": {
     "node": "22"
