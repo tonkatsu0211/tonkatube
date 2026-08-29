@@ -48,8 +48,8 @@ dependencies:
     specifier: ^7.x
     version: 7.16.0
   youtubei.js:
-    specifier: ^18.0.0
-    version: 18.0.0
+    specifier: ^12.2.0
+    version: 17.2.0
 
 packages:
 
