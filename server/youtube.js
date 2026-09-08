@@ -308,7 +308,7 @@ async function getRecentVideos(channelId, max) {
 async function resolveChannelId(input) 
   await setClient();
 
-  console.log("resolveChannelId input:", input);
+  console.log(`resolveChannelId input: ${input}`);
 
   if (/^UC[0-9A-Za-z_-]{22}$/.test(input)) {
     return input;
