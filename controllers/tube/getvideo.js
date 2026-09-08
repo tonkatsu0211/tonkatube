@@ -213,6 +213,7 @@ router.get("/:id", async (req, res) => {
     }
     console.time("infoGet");
     const Info = await infoGet(videoId);
+    console.dir(Info, { depth: null });
     console.timeEnd("infoGet");
     //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const playlistId = req.query.playlist || null;
