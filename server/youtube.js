@@ -305,7 +305,7 @@ async function getRecentVideos(channelId, max) {
   }
 }
 
-async function resolveChannelId(input) 
+async function resolveChannelId(input) {
   await setClient();
 
   console.log(`resolveChannelId input: ${input}`);
