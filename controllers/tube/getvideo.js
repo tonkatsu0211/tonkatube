@@ -234,6 +234,7 @@ router.get("/:id", async (req, res) => {
     let channelData;
     if (isCollaborating) {
       console.time("getChannel");
+      console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "f**kin' error!");
       channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || "");
       console.timeEnd("getChannel");
     };
