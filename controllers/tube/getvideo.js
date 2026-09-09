@@ -329,6 +329,7 @@ router.get("/:id", async (req, res) => {
     console.timeEnd("total");
   } catch (error) {
     console.log(error);
+    console.timeEnd("total");
     const shufServerUrls = shuffleArray([...serverUrls]);
     res.status(500).render("tube/mattev.ejs", {
       videoId,
