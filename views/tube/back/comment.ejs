@@ -28,7 +28,7 @@
         <% if (comment.isSponsor || comment.is_member) { %>
           <img
             loading="lazy"
-            src="<%= comment.sponsorIconUrl || 'null' %>"
+            src="<%= comment.sponsorIconUrl || comment.member_badge?.url || 'null' %>"
             class="inline-block align-middle w-5 h-5"
           />
         <% } %>
