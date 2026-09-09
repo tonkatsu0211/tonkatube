@@ -182,7 +182,6 @@ router.get(["/nocookie/:id", "/edu/:id"], async (req, res) => {
 });
 
 router.get("/:id", async (req, res) => {
-  console.time("total");
   //const type = req.originalUrl.includes("nocookie") ? "nocookie" : req.originalUrl.includes("edu") ? "edu" : "normal";
   const cookies = parseCookies(req);
   const wakames = cookies.playbackMode;
@@ -207,14 +206,10 @@ router.get("/:id", async (req, res) => {
     //const [videoData, Info] = await Promise.all([getYouTube(videoId), infoGet(videoId)]);
     let videoData;
     if (type == "normal") {
-      console.time("getYoutube");
       videoData = await getYouTube(videoId);
-      console.timeEnd("getYoutube");
     }
-    console.time("infoGet");
     const Info = await infoGet(videoId);
     console.dir(Info, { depth: null });
-    console.timeEnd("infoGet");
     //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const playlistId = req.query.playlist || null;
 
@@ -233,10 +228,8 @@ router.get("/:id", async (req, res) => {
     const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
     let channelData;
     if (isCollaborating) {
-      console.time("getChannel");
       console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "f**kin' error!");
       channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "");
-      console.timeEnd("getChannel");
     };
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info.description.runs, null, 2));
     const videoInfo = {
@@ -261,7 +254,6 @@ router.get("/:id", async (req, res) => {
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
     //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const pl = playlistId != null ? true: false;
-    console.time("render");
     if (type == "normal") {
       let ytinfo;
       if (!wakames && !qType) {
@@ -325,11 +317,8 @@ router.get("/:id", async (req, res) => {
         res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, type, videosrc: `https://www.youtube-nocookie.com/embed/${videoId}` });
       }
     }
-    console.timeEnd("render");
-    console.timeEnd("total");
   } catch (error) {
     console.log(error);
-    console.timeEnd("total");
     const shufServerUrls = shuffleArray([...serverUrls]);
     res.status(500).render("tube/mattev.ejs", {
       videoId,
