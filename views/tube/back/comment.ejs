@@ -7,7 +7,7 @@
   if (!comment || !comment.author) return;
 %>
 <div class="bg-gray-700 p-4 rounded-lg transition-transform transform hover:scale-101">
-  <% if (comment.isPinned) { %>
+  <% if (comment.isPinned || comment.is_pinned) { %>
     <p class="text-sm" style="margin-bottom: 5px;">📌ピン留めされたコメント</p>
   <% } %>
   <div class="flex items-start">
@@ -21,11 +21,11 @@
         <a
           href="/tkt/c/<%= comment.author.id || comment.authorId %>"
           target="_blank"
-          class="<%= comment.authorIsChannelOwner ? 'text-yellow-400 hover:underline' : comment.isSponsor ? 'text-green-400 hover:underline' : 'text-blue-400 hover:underline' %>"
+          class="<%= (comment.authorIsChannelOwner || comment.author_is_channel_owner) ? 'text-yellow-400 hover:underline' : ((comment.isSponsor || comment.is_member) ? 'text-green-400 hover:underline' : 'text-blue-400 hover:underline') %>"
         >
           <%= comment.author.name || comment.author %>
         </a>
-        <% if (comment.isSponsor) { %>
+        <% if (comment.isSponsor || comment.is_member) { %>
           <img
             loading="lazy"
             src="<%= comment.sponsorIconUrl || 'null' %>"
