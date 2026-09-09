@@ -62,11 +62,11 @@
       </p>
       <br>
       <p><%= comment.like_count_a11y || comment.likeCount + "件の高評価" %>
-        <% if (comment.creatorHeart) { %>
+        <% if (comment.creatorHeart || comment.is_hearted) { %>
           <span class="creator-heart">
             <img
               loading="lazy"
-              src="<%= comment.creatorHeart.creatorThumbnail || 'null' %>"
+              src="<%= comment.creatorHeart.creatorThumbnail || comment.creator_thumbnail_url || 'null' %>"
               class="inline-block align-middle w-5 h-5 rounded-full"
             />
             <span class="heart">❤️</span
