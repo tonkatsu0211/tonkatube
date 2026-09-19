@@ -1035,6 +1035,7 @@
           const Data = await res.json();
           videoSrc.src = Data.stream_url[0];
           videoSrc2.src = Data.stream_url[1];
+          console.log(`ストリームURL再取得: ${Data}`);
         } catch (e) {
           showerrorMessage(`ストリームURLの再取得に失敗しました: ${e.message}`);
         }
