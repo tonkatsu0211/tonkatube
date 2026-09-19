@@ -302,12 +302,12 @@
           <% } %>
             <source
               id="videoSrc"
-              src="<%- videoData.stream_url[0] %>"
+              src="<%- videoData.stream_url[0] || videoData.streamUrls[0].url %>"
               type="video/mp4"
             />
             <source
                 id="videoSrc2"
-                src="<%- videoData.stream_url[1] %>"
+                src="<%- videoData.stream_url[1] || videoData.streamUrls[1].url %>"
                 type="video/mp4"
               />
           </video>
