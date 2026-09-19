@@ -207,6 +207,7 @@ router.get("/:id", async (req, res) => {
     let videoData;
     if (type == "normal") {
       videoData = await getYouTube(videoId);
+      console.dir(videoData, { depth: null });
     }
     const Info = await infoGet(videoId);
     console.dir(Info, { depth: null });
