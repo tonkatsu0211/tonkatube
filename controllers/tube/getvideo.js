@@ -258,6 +258,7 @@ router.get("/:id", async (req, res) => {
       let ytinfo;
       if (!wakames && !qType) {
         const EDUCATION_KEYS = [
+          'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
@@ -290,6 +291,7 @@ router.get("/:id", async (req, res) => {
     } else {
       if (type == "edu") {
         const EDUCATION_KEYS = [
+          'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
           'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
