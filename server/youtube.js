@@ -2,7 +2,7 @@ import { Innertube } from "youtubei.js";
 import { google } from "googleapis";
 import fs from "fs";
 import path from "path";
-const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app"];
+const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si/"];
 const JPath = path.join(process.cwd(), "Info.json");
 
 const youtube = google.youtube({
