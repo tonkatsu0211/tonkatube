@@ -52,7 +52,7 @@ async function ggvideo(videoId, num) {
   }
   for (const instance of apis) {
   if (!inv[num] || (num < 0 || num > 1)) throw new Error("numが不正です");*/
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < inv.length + 1; i++) {
     try {/*
       const response = await axios.get(`${instance}/api/v1/videos/${videoId}`, {
         timeout: MAX_API_WAIT_TIME,
