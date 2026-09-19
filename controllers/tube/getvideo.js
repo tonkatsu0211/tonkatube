@@ -228,7 +228,7 @@ router.get("/:id", async (req, res) => {
     const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
     let channelData;
     if (isCollaborating) {
-      console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "f**kin' error!");
+      //console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "f**kin' error!");
       channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "");
     };
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info.description.runs, null, 2));
@@ -258,7 +258,9 @@ router.get("/:id", async (req, res) => {
       let ytinfo;
       if (!wakames && !qType) {
         const EDUCATION_KEYS = [
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
           'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
           'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
         ];
@@ -288,7 +290,9 @@ router.get("/:id", async (req, res) => {
     } else {
       if (type == "edu") {
         const EDUCATION_KEYS = [
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
+          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
           'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
           'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
         ];
