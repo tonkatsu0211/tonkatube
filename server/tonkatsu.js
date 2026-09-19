@@ -91,7 +91,7 @@ async function ggvideo(videoId, num) {
     }
   }
   if (num < inv.length - 1) {
-    return await ggvideo(videoId, 1);
+    return await ggvideo(videoId, num + 1);
   } else {
     throw new Error("動画を取得する方法が見つかりません");
   }
