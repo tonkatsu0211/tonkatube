@@ -28,6 +28,31 @@ function escapeHtml(str) {
     .replace(/>/g,"&gt;")
 }
 
+const EDUCATION_KEYS = [
+  'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
+  'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
+  'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
+  'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json'
+];
+
+async function getEducationParams() {
+  for (const url of EDUCATION_KEYS) {
+    try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), 3000);
+      const res = await fetch(url, { signal: controller.signal });
+      clearTimeout(timer);
+      if (!res.ok) continue;
+      const data = await res.json();
+      if (data.result) return data.result.replace(/&amp;/g, '&');
+    } catch(e) {
+      console.log(`${url}: ${e}`);
+      continue;
+    }
+  }
+  return null;
+}
+
 function normalizeYoutubeUrl(url) {
   try {
       const u = new URL(url);
@@ -258,66 +283,12 @@ router.get("/:id", async (req, res) => {
     if (type == "normal") {
       let ytinfo;
       if (!wakames && !qType) {
-        const EDUCATION_KEYS = [
-          'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
-          'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
-          'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
-        ];
-          
-        async function getEducationParams() {
-          for (const url of EDUCATION_KEYS) {
-            try {
-              const controller = new AbortController();
-              const timer = setTimeout(() => controller.abort(), 3000);
-              const res = await fetch(url, { signal: controller.signal });
-              clearTimeout(timer);
-              if (!res.ok) continue;
-              const data = await res.json();
-              if (data.result) return data.result.replace(/&amp;/g, '&');
-            } catch(e) {
-              console.log(`${url}: ${e}`);
-              continue;
-            }
-          }
-          return null;
-        }
-
         const params = await getEducationParams();
         ytinfo = params.replace("autoplay=1", "autoplay=0");
       }
       res.render("tube/watch.ejs", { videoData, videoInfo, videoId, baseUrl, pl, ytinfo });
     } else {
       if (type == "edu") {
-        const EDUCATION_KEYS = [
-          'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key2.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key3.json',
-          'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key4.json',
-          'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
-          'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
-        ];
-          
-        async function getEducationParams() {
-          for (const url of EDUCATION_KEYS) {
-            try {
-              const controller = new AbortController();
-              const timer = setTimeout(() => controller.abort(), 3000);
-              const res = await fetch(url, { signal: controller.signal });
-              clearTimeout(timer);
-              if (!res.ok) continue;
-              const data = await res.json();
-              if (data.result) return data.result.replace(/&amp;/g, '&');
-            } catch(e) {
-              console.log(`${url}: ${e}`);
-              continue;
-            }
-          }
-          return null;
-        }
-
         const params = await getEducationParams();
         res.render("tube/umekomi.ejs", { videoInfo, videoId, baseUrl, pl, type, videosrc: `https://www.youtubeeducation.com/embed/${videoId}${params.replace("autoplay=1", "autoplay=0")}` });
       } else {
