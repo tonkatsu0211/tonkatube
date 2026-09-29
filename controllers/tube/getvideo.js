@@ -29,7 +29,7 @@ function escapeHtml(str) {
 }
 
 const EDUCATION_KEYS = [
-  'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key2.json',
+  'https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/keys/key1.json',
   'https://raw.githubusercontent.com/woolisbest-4520/about-youtube/refs/heads/main/edu/parameter.txt',
   'https://raw.githubusercontent.com/siawaseok3/wakame/master/video_config.json',
   'https://raw.githubusercontent.com/yuto1106110/Plus-education-parameter/refs/heads/main/keys/key1.json'
