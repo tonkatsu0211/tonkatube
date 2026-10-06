@@ -1,10 +1,10 @@
 [build]
   command = "npm install && npm run build && npm i serverless-http @netlify/functions @types/express"
-  publish = "/"
+  publish = "/public"
 
 [functions]
-  external_node_modules = ["express"]
   node_bundler = "esbuild"
+  external_node_modules = ["express", "express-session", "compression", "body-parser", "cors", "cookie-parser", "youtubei.js"]
 
 [[redirects]]
   force = true
