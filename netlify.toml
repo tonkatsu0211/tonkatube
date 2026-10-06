@@ -1,3 +1,13 @@
 [build]
-  command = "npm install && npm run build && echo Building Functions"
+  command = "npm install && npm run build && npm i serverless-http @netlify/functions @types/express"
   publish = "/"
+
+[functions]
+  external_node_modules = ["express"]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  force = true
+  from = "/api/*"
+  status = 200
+  to = "/.netlify/functions/api/:splat"
