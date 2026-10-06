@@ -3,7 +3,6 @@
   publish = "/public"
 
 [functions]
-  node_bundler = "esbuild"
   external_node_modules = ["express", "express-session", "compression", "body-parser", "cors", "cookie-parser", "youtubei.js"]
 
 [[redirects]]
