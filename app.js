@@ -186,6 +186,8 @@ async function initInnerTube() {
 process.on("unhandledRejection", console.error);
 await initInnerTube();
 
+export default app;
+
 
 import { spawn } from "child_process";
 
