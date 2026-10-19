@@ -13,7 +13,7 @@ async function getInv() {
   /*const invs1 = await axios("https://raw.githubusercontent.com/Minotaur-ZAOU/test/refs/heads/main/min.json",{ headers: { "User-Agent": user_agent } });
   const invs2 = await axios("https://raw.githubusercontent.com/wakame02/wktopu/refs/heads/main/inv.json",{ headers: { "User-Agent": user_agent } });
   return [...invs1.data, ...invs2.data];*/
-  const invs2 = await axios("https://raw.githubusercontent.com/wakame02/wktopu/refs/heads/main/inv.json",{ headers: { "User-Agent": user_agent } });
+  const invs2 = await axios("https://raw.githubusercontent.com/toka-kun/Education/refs/heads/main/apis/Invidious/yes.json",{ headers: { "User-Agent": user_agent } });
   return invs2.data;
 }
 
