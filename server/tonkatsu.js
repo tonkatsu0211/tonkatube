@@ -83,6 +83,7 @@ async function ggvideo(videoId, num) {
         if (res.data && (res.data.formatStreams || res.data.adaptiveFormats)) {
           response[response[0] == null ? 0 : 1] = res.data;
         } else {
+          console.dir(res.data { depth: null });
           throw new Error("返答データが不正です");
         }
       }
