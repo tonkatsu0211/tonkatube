@@ -43,9 +43,7 @@ async function getapisgit() {
   }
 }
 
-const inv = async(() => {
-  await getInv();
-});
+const inv = await getInv();
 
 async function ggvideo(videoId, num) {
   const startTime = Date.now();
