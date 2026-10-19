@@ -10,8 +10,11 @@ const user_agent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";
 
 async function getInv() {
-  const invs = await axios("https://raw.githubusercontent.com/Minotaur-ZAOU/test/refs/heads/main/min.json",{ headers: { "User-Agent": user_agent } });
-  return invs.data;
+  /*const invs1 = await axios("https://raw.githubusercontent.com/Minotaur-ZAOU/test/refs/heads/main/min.json",{ headers: { "User-Agent": user_agent } });
+  const invs2 = await axios("https://raw.githubusercontent.com/wakame02/wktopu/refs/heads/main/inv.json",{ headers: { "User-Agent": user_agent } });
+  return [...invs1.data, ...invs2.data];*/
+  const invs2 = await axios("https://raw.githubusercontent.com/wakame02/wktopu/refs/heads/main/inv.json",{ headers: { "User-Agent": user_agent } });
+  return invs2.data;
 }
 
 let apis = null;
