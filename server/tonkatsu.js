@@ -79,7 +79,7 @@ async function ggvideo(videoId, num) {
       while (Date.now() - startTime <= 5000 && response[1] == null){
         const res = await axios.get(`${inv[num]}/api/v1/videos/${videoId}`, {
           timeout: MAX_API_WAIT_TIME,
-          user_agent
+          headers: { "User-Agent": user_agent }
         });
         if (res.data && (res.data.formatStreams || res.data.adaptiveFormats)) {
           response[response[0] == null ? 0 : 1] = res.data;
