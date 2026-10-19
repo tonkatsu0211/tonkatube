@@ -5,15 +5,15 @@ import path from "path";
 //const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si"]
 const JPath = path.join(process.cwd(), "Info.json");
 
-async function getInv() {
-  const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
-  console.dir(invs, {depth: null});
-  return invs.data.video;
-}
-
 const user_agent =
   process.env.USER_AGENT ||
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";
+
+async function getInv() {
+  const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
+  console.dir(invs.data, {depth: null});
+  return invs.data.video;
+}
 
 let apis = null;
 const MAX_API_WAIT_TIME = 3000;
