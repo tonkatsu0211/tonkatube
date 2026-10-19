@@ -2,8 +2,13 @@ import { Innertube } from "youtubei.js";
 import { google } from "googleapis";
 import fs from "fs";
 import path from "path";
-const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si/"];
+//const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si/"];
 const JPath = path.join(process.cwd(), "Info.json");
+
+async function getInv() {
+  const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
+  return invs.data.video;
+}
 
 const youtube = google.youtube({
   version: "v3",
@@ -87,6 +92,7 @@ async function getComments(videoId) {
     }
   }
   console.error("youtubei.jsコメント取得失敗:", lastError[0]);
+  const inv = await getInv();
   for (let i = 0; i < 2; i++) {
     try {
       const r = await fetch(`${inv[i]}/api/v1/comments/${videoId}?hl=ja&lang=ja`);
