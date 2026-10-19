@@ -10,9 +10,10 @@ const user_agent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";
 
 async function getInv() {
-  const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
-  console.dir(invs.data, {depth: null});
-  return invs.data.video;
+  const invs = await fetch("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
+  const i = await invs.json();
+  console.dir(i, {depth: null});
+  return i.video;
 }
 
 let apis = null;
