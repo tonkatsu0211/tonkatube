@@ -2,8 +2,13 @@ import axios from "axios";
 import bodyParser from "body-parser";
 import fs from "fs";
 import path from "path";
-const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si"]
+//const inv = ["https://qssx73-3000.csb.app", "https://qwn8gt-3000.csb.app", "https://invidious.f5.si"]
 const JPath = path.join(process.cwd(), "Info.json");
+
+async function getInv() {
+  const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
+  return invs.data.video;
+}
 
 const user_agent =
   process.env.USER_AGENT ||
@@ -41,6 +46,7 @@ async function getapisgit() {
 async function ggvideo(videoId, num) {
   const startTime = Date.now();
   const instanceErrors = new Set();
+  const inv = await getInv();
   /*
   for (let i = 0; i < 20; i++) {
     if (Math.floor(Math.random() * 20) === 0) {
