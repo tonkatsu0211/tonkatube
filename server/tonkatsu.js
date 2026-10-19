@@ -47,6 +47,7 @@ async function ggvideo(videoId, num) {
   const startTime = Date.now();
   const instanceErrors = new Set();
   const inv = await getInv();
+  console.log(inv);
   /*
   for (let i = 0; i < 20; i++) {
     if (Math.floor(Math.random() * 20) === 0) {
