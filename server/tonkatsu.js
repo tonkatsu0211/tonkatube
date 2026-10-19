@@ -7,6 +7,7 @@ const JPath = path.join(process.cwd(), "Info.json");
 
 async function getInv() {
   const invs = await axios.get("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
+  console.dir(invs, {depth: null});
   return invs.data.video;
 }
 
