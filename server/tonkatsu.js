@@ -11,8 +11,8 @@ const user_agent =
 
 async function getInv() {
   const invs = await fetch("https://raw.githubusercontent.com/yuto1106110/invidious-instance-dieu-eviter/refs/heads/main/data/valid.json",{ headers: { "User-Agent": user_agent } });
-  if (!response.ok) throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-  const text = await response.text();
+  if (!invs.ok) throw new Error(`HTTP ${invs.status}: ${invs.statusText}`);
+  const text = await invs.text();
   return JSON.parse(text.replace(/'/g, '"')).video;
 }
 
