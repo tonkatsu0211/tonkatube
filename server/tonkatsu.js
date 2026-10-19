@@ -11,7 +11,6 @@ const user_agent =
 
 async function getInv() {
   const invs = await axios("https://raw.githubusercontent.com/Minotaur-ZAOU/test/refs/heads/main/min.json",{ headers: { "User-Agent": user_agent } });
-  console.log(invs.data);
   return invs.data;
 }
 
@@ -44,11 +43,13 @@ async function getapisgit() {
   }
 }
 
+const inv = async(() => {
+  await getInv();
+});
+
 async function ggvideo(videoId, num) {
   const startTime = Date.now();
   const instanceErrors = new Set();
-  const inv = await getInv();
-  console.log(inv);
   /*
   for (let i = 0; i < 20; i++) {
     if (Math.floor(Math.random() * 20) === 0) {
