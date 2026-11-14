@@ -74,7 +74,12 @@ app.use((req, res, next) => {
     !req.path.includes("login") &&
     !req.path.includes("back")
   ) {
-    return res.redirect("/login");
+    if (req.query.activate) {
+      res.cookie("loginok", "ok", { path : "/", maxAge: 31536000});
+      next();
+    } else {
+      return res.redirect("/login");
+    }
   } else {
     next();
   }
