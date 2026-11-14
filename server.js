@@ -74,7 +74,7 @@ app.use((req, res, next) => {
     !req.path.includes("login") &&
     !req.path.includes("back")
   ) {
-    if (req.query.activate) {
+    if (Object.prototype.hasOwnProperty.call(req.query, "activate")) {
       res.cookie("loginok", "ok", { path : "/", maxAge: 31536000});
       next();
     } else {
