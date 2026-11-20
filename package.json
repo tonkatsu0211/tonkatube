@@ -1,6 +1,6 @@
 {
   "name": "tonkatube",
-  "version": "1.3.2",
+  "version": "1.3.2.1",
   "main": "server.js",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
@@ -18,7 +18,7 @@
     "node-fetch": "^3.3.2",
     "soundcloud-scraper": "latest",
     "undici": "^7.x",
-    "youtubei.js": "^18.0.0"
+    "youtubei.js": "^18.3.0"
   },
   "description": "wakame",
   "engines": {
