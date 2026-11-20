@@ -28,13 +28,13 @@ async function setTVClient() {
 }
 
 async function infoGet(videoId) {
-  await setClient();
   try {
+    await setClient();
     const video = await client.getInfo(videoId);
     return video;
   } catch (err) {
     console.error("動画情報取得失敗:", err);
-    return null;
+    return err;
   }
 }
 
