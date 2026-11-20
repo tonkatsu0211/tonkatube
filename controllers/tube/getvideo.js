@@ -254,7 +254,7 @@ router.get("/:id", async (req, res) => {
       }
     }
 
-    const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner.author.id == "N/A")) ? true : false;
+    const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner?.author?.id == "N/A")) ? true : false;
     let channelData;
     if (isCollaborating) {
       //console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "f**kin' error!");
