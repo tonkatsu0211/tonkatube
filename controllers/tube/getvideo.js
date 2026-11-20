@@ -254,30 +254,30 @@ router.get("/:id", async (req, res) => {
       }
     }
 
-    const isCollaborating = (!Info.secondary_info.owner?.author?.id || (Info.secondary_info.owner?.author?.id == "N/A")) ? true : false;
+    const isCollaborating = (!Info.secondary_info?.owner?.author?.id || (Info.secondary_info?.owner?.author?.id == "N/A")) ? true : false;
     let channelData;
     if (isCollaborating) {
       //console.log(Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "f**kin' error!");
-      channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "");
+      channelData = await getChannel((isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info?.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "");
     };
     //fs.writeFileSync(JPath, JSON.stringify(Info.secondary_info.description.runs, null, 2));
     const videoInfo = {
-      title: Info.primary_info.title.text || "",
+      title: Info.primary_info?.title?.text || "",
       channelId: (isCollaborating ? Info.basic_info?.channel?.id : Info.secondary_info.owner?.author?.id) || Info.basic_info?.channel?.id || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.commandRuns?.[0]?.onTap?.innertubeCommand?.browseEndpoint?.browseId || Info.secondary_info?.owner?.endpoint?.command?.inline_content?.custom_content?.items?.[0]?.title?.runs?.[0]?.endpoint?.payload?.browseId || "error",
-      channelIcon: (isCollaborating ? Info.secondary_info.owner.author.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.leadingAccessory?.avatarViewModel?.image?.sources?.[0]?.url || channelData?.channel?.header?.content?.image?.avatar?.image?.[0]?.url || "" : Info.secondary_info.owner.author.thumbnails?.[0]?.url) || "",
-      channelName: (isCollaborating ? Info.basic_info.channel?.name || channelData.channel?.metadata?.title || 'N/A' : Info.secondary_info.owner?.author?.name) || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.content || "N/A",
-      channelSubsc: (isCollaborating ? channelData.channel.header?.content?.metadata?.metadata_rows?.[1]?.metadata_parts?.[0]?.text || "" : Info.secondary_info?.owner?.subscriber_count?.text || "") || "",
-      published: Info.primary_info.published,
+      channelIcon: (isCollaborating ? Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.leadingAccessory?.avatarViewModel?.image?.sources?.[0]?.url || channelData?.channel?.header?.content?.image?.avatar?.image?.[0]?.url || "" : Info.secondary_info?.owner?.author?.thumbnails?.[0]?.url) || "",
+      channelName: (isCollaborating ? Info.basic_info?.channel?.name || channelData.channel?.metadata?.title || 'N/A' : Info.secondary_info?.owner?.author?.name) || Info.secondary_info?.owner?.author?.endpoint?.payload?.panelLoadingStrategy?.inlineContent?.dialogViewModel?.customContent?.listViewModel?.listItems?.[0]?.listItemViewModel?.title?.content || "N/A",
+      channelSubsc: (isCollaborating ? channelData.channel?.header?.content?.metadata?.metadata_rows?.[1]?.metadata_parts?.[0]?.text || "" : Info.secondary_info?.owner?.subscriber_count?.text || "") || "",
+      published: Info.primary_info?.published || "",
       viewCount:
-        Info.primary_info.view_count.short_view_count?.text ||
-        Info.primary_info.view_count.view_count?.text ||
+        Info.primary_info?.view_count?.short_view_count?.text ||
+        Info.primary_info?.view_count?.view_count?.text ||
         "",
       likeCount:
-        Info.primary_info.menu.top_level_buttons.short_like_count ||
-        Info.primary_info.menu.top_level_buttons.like_count ||
-        Info.basic_info.like_count ||
+        Info.primary_info?.menu?.top_level_buttons?.short_like_count ||
+        Info.primary_info?.menu?.top_level_buttons?.like_count ||
+        Info.basic_info?.like_count ||
         "",
-      description: /*formatDescription(*/Info.secondary_info.description.runs/*)videoData.videoDes*/ || "",
+      description: /*formatDescription(*/Info.secondary_info?.description?.runs/*)videoData.videoDes*/ || "",
       watch_next_feed: watchNext || "",
     };
     //console.log(`Info.watch_next_feed: ${Info.watch_next_feed}`)
