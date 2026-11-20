@@ -235,6 +235,9 @@ router.get("/:id", async (req, res) => {
       console.dir(videoData, { depth: null });
     }
     const Info = await infoGet(videoId);
+    if (!Info) {
+      throw new Error("YouTubeの動画情報を取得できませんでした");
+    }
     console.dir(Info, { depth: null });
     //fs.writeFileSync(JPath, JSON.stringify(videoData, null, 2));
     const playlistId = req.query.playlist || null;
